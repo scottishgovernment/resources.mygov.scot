@@ -1,7 +1,9 @@
 ---
-layout: page
+layout: default
 title: About
 permalink: /about/
+parent: home
+thispage: about
 ---
 
 Mygov.scot is a place currently under development where people in Scotland will be able to go to access online public services no matter which organisation or public sector website provides them. Our approach is to work closely and in partnership with public sector organisations to put user needs at the forefront of service delivery and design.
