@@ -14,7 +14,9 @@ markdown: kramdown
 collections:
   standard:
     output: true
+  standard_items:
+    output: true
   guidelines:
     output: true
-  glossary:
-    output: true        
+  additional:
+    output: true
