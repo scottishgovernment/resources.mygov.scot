@@ -9,8 +9,6 @@ github_username:  scottishgovernment
 
 # Build settings
 markdown: kramdown
-sass:
-    sass_dir: assets/scss
 
 # Collections
 collections:
