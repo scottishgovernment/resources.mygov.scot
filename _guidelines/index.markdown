@@ -1,13 +1,13 @@
 ---
 layout: category
-title:  "Guidelines"
-summary: These are the set of supporting materials or resources that will help you build great digital services. They ensure that service standards are met by the digital team.
+title:  "Service Manual"
+summary: The service manual is supporting material that will help you build great digital services. This material can help where you lack capability in a relevant area to meet the standard.
 tags: 
 - guidelines
 type: guidelines
 thispage: guidelines
 parent: home
-permalink: 'guidelines/'
+permalink: 'manual/'
 ---
 
-These are the set of supporting materials or resources that will help you build great digital services. They ensure that service standards are met by the digital team.
+The service manual is supporting material that will help you build great digital services. This material can help where you lack capability in a relevant area to meet the standard.

@@ -1,9 +1,9 @@
 ---
 layout: home
-title:  "Digital Handbook - an aid in building digital services"
+title:  "Resources from mygov.scot"
 tags:
 - standard
 thispage: home
 ---
 
-This digital handbook has been created to provide access to our service standard and associated guidelines. The digital handbook is positioned to help support people create clear content and build user friendly transactional services on / or available through mygov.scot.
+These resources have been made available to help deliver clear content and to guide you in building digital services that will appear on mygov.scot. Some resources will also help you in building your own digital services. All resources are in draft and are highly likely to change.
