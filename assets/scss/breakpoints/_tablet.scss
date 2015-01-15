@@ -1,11 +1,11 @@
 body {
   font-size: $tablet-base-size;
-  line-height: rhythm(4);
+  line-height: $base-line-height * 4;
 }
 
 h1 {
   font-size: $tablet-h1-size;
-  line-height: rhythm(8);
+  line-height: $base-line-height * 8;
 }
 
 h2 {
@@ -40,7 +40,7 @@ h4 {
       a {
         color: $navy;
         display: inline;
-        line-height: rhythm(7);
+        line-height: $base-line-height * 7;
 
         span.glyphicon {
           display: none;
@@ -52,7 +52,7 @@ h4 {
 
         &:before {
           background-color: transparent;
-          height: rhythm(1);
+          height: $base-line-height;
           width: 100%;
           position: absolute;
           top: 0;
@@ -75,29 +75,29 @@ ol.breadcrumb {
 }
 
 .jumbo {
-  margin-bottom: rhythm(4) + 3;
-  line-height: rhythm(4);
-  padding-top: rhythm(2);
+  margin-bottom: $base-line-height * 4 + 3;
+  line-height: $base-line-height * 4;
+  padding-top: $base-line-height * 2;
 
 
   h1 {
     $nudge: 1px;
-    line-height: rhythm(8);
-    margin: $nudge 0 (rhythm(3) - $nudge);
+    line-height: $base-line-height * 8;
+    margin: $nudge 0 ($base-line-height * 3 - $nudge);
   }
 
   p {
     $nudge: 3px;
-    margin: -$nudge 0 (rhythm(3) + $nudge);
+    margin: -$nudge 0 ($base-line-height * 3 + $nudge);
   }
 }
 
 .summary-block {
-  margin-bottom: rhythm(6);
+  margin-bottom: $base-line-height * 6;
 
   &.fancy {
-    padding-top: rhythm(6);
-    margin-bottom: rhythm(5);
+    padding-top: $base-line-height * 6;
+    margin-bottom: $base-line-height * 5;
   }
 
   h1.summary-title {
@@ -125,7 +125,7 @@ ol.breadcrumb {
 .guidelines {
   .summary-block .inner {
     background-position: -42px 0;
-    min-height: baseline-nearest(183px) + rhythm(4);
+    min-height: baseline-nearest(183px) + $base-line-height * 4;
     padding: 0 0 0 33%;
   }
 }
@@ -156,26 +156,26 @@ ol.breadcrumb {
 
 .article {
   .introduction {
-    line-height: rhythm(5);
+    line-height: $base-line-height * 5;
   }
 }
 
 #article-list {
   .article {
     h2 {
-      padding-top: rhythm(1);
+      padding-top: $base-line-height;
     }
   }
 }
 
 footer {
   font-size: 18px;
-  line-height: rhythm(4);
-  padding-top: rhythm(6);
+  line-height: $base-line-height * 4;
+  padding-top: $base-line-height * 6;
 
   h3 {
     font-size: 22px;
-    margin: -1px 0 (rhythm(3) + 2);
+    margin: -1px 0 ($base-line-height * 3 + 2);
   }
 
   .footer-links {

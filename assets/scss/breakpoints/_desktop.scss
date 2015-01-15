@@ -1,11 +1,11 @@
 body {
   font-size: $desktop-base-size;
-  line-height: rhythm(4);
+  line-height: $base-line-height * 4;
 }
 
 h1 {
   font-size: $desktop-h1-size;
-  line-height: rhythm(8);
+  line-height: $base-line-height * 8;
 }
 
 h2 {
@@ -43,7 +43,7 @@ ol.breadcrumb {
   font-size: $desktop-base-size;
 
   li a {
-    line-height: rhythm(11);
+    line-height: $base-line-height * 11;
   }
 }
 
@@ -52,7 +52,7 @@ ol.breadcrumb {
   .summary-block .inner {
     background-image: url(../images/standard_icon_medium.png);
     background-position: -84px 0;
-    min-height: baseline-nearest(366px) + rhythm(4);
+    min-height: baseline-nearest(366px) + $base-line-height * 4;
   }
 }
 

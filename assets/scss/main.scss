@@ -4,10 +4,6 @@
  * Global SASS libraries/helpers from Compass's built in mixins to aid
  * compatibility and progressive enhancement methods.
  */
-@import "compass";
-@import "compass/typography";
-@import "compass/utilities";
-@import "compass/css3";
 
 @import "utilities/responsive-values";
 @import "utilities/mixins";

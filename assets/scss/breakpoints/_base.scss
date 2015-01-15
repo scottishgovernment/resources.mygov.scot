@@ -3,7 +3,7 @@ body {
   color: #black;
   font-family: Roboto, Arial, Helvetica, sans-serif;
   font-size: $mobile-base-size;
-  line-height: rhythm(3);
+  line-height: $base-line-height * 3;
 }
 
 a {
@@ -26,20 +26,20 @@ h1, h2, h3, h4 {
 
 h1 {
   font-size: $mobile-h1-size;
-  line-height: rhythm(5);
-  margin: (rhythm(2) - 2) 0 (rhythm(5) + 2);
+  line-height: $base-line-height * 5;
+  margin: ($base-line-height * 2 - 2) 0 ($base-line-height * 5 + 2);
 }
 
 h2 {
   font-size: $mobile-h2-size;
-  line-height: rhythm(4);
-  margin: (rhythm(0) - 2) 0 (rhythm(2) + 2);
+  line-height: $base-line-height * 4;
+  margin: -2px 0 ($base-line-height * 2 + 2);
 }
 
 h3 {
   font-size: $mobile-h3-size;
-  line-height: rhythm(4);
-  margin-bottom: rhythm(1);
+  line-height: $base-line-height * 4;
+  margin-bottom: $base-line-height;
 }
 
 h4 {
@@ -47,12 +47,12 @@ h4 {
 }
 
 p {
-  margin: (rhythm(0) - 3) 0 (rhythm(3) + 3);
+  margin: -3px 0 ($base-line-height * 3 + 3);
 }
 
 ol,
 ul {
-  margin: (rhythm(0) - 3) 0 (rhythm(3) + 3) 21px;
+  margin: -3px 0 ($base-line-height * 3 + 3) 21px;
 }
 
 #header {
@@ -60,7 +60,7 @@ ul {
   font-size: $mobile-h2-size;
   font-weight: 300;
   height: baseline-nearest(50px);
-  margin-bottom: rhythm(4);
+  margin-bottom: $base-line-height * 4;
 
   #logo {
     float: left;
@@ -103,7 +103,7 @@ ul {
   ul {
     background: $navy;
     height: 0;
-    line-height: rhythm(6);
+    line-height: $base-line-height * 6;
     left: 0;
     list-style-type: none;
     margin: 0;
@@ -128,7 +128,7 @@ ul {
         border-top: 1px solid rgba(255,255,255,0.15);
         color: white;
         display: block;
-        line-height: rhythm(8);
+        line-height: $base-line-height * 8;
 
         span.glyphicon {
           background: $navy;
@@ -159,22 +159,22 @@ ul {
 
   &.active {
     ul {
-      height: rhythm(8) * 3 + rhythm(5) * 2;
+      height: $base-line-height * 8 * 3 + $base-line-height * 5 * 2;
       //height: auto;
-      padding: rhythm(5) 0 rhythm(5) 1em;
+      padding: $base-line-height * 5 0 $base-line-height * 5 1em;
     }
   }
 }
 
 .jumbo {
   font-weight: 300;
-  line-height: rhythm(3);
-  margin: rhythm(-2) 0 (rhythm(6) - 3);
+  line-height: $base-line-height * 3;
+  margin: $base-line-height * -2 0 ($base-line-height * 6 - 3);
 
   h1 {
     font-weight: 300;
-    line-height: rhythm(5);
-    margin-bottom: rhythm(2);
+    line-height: $base-line-height * 5;
+    margin-bottom: $base-line-height * 2;
   }
 
   p {
@@ -185,7 +185,7 @@ ul {
 ol.breadcrumb {
   background: transparent;
   font-size: $mobile-list-size;
-  margin: -3px 0 (rhythm(4) + 3) 0;
+  margin: -3px 0 ($base-line-height * 4 + 3) 0;
   padding: 0;
 
   > li + li:before {
@@ -196,11 +196,11 @@ ol.breadcrumb {
 ol.nav {
   counter-reset: li;
   font-size: 19px;
-  line-height: rhythm(4);
-  margin: 0 0 rhythm(6) 0;
+  line-height: $base-line-height * 4;
+  margin: 0 0 $base-line-height * 6 0;
 
   li {
-    margin-bottom: rhythm(2);
+    margin-bottom: $base-line-height * 2;
 
     a {
       color: $rollover;
@@ -221,12 +221,12 @@ ol.nav {
         color: #ffffff;
         content: counter(li);
         counter-increment: li;
-        height: rhythm(4);
+        height: $base-line-height * 4;
         left: 0;
-        line-height: rhythm(4);
+        line-height: $base-line-height * 4;
         position: absolute;
         text-align: center;
-        width: rhythm(4);
+        width: $base-line-height * 4;
       }
 
       &:hover:before {
@@ -235,14 +235,14 @@ ol.nav {
     }
 
     &:last-child {
-      margin-bottom: rhythm(4);
+      margin-bottom: $base-line-height * 4;
     }
   }
 
   &:after {
     background: $grey-dark;
     content: '';
-    height: rhythm(1);
+    height: $base-line-height;
     width: 67%;
   }
 }
@@ -275,21 +275,21 @@ ol.nav {
   $indent: 10%;
 
   list-style-type: none;
-  margin: 0 0 (rhythm(8) + 3);
-  padding-top: (rhythm(4) - 3);
+  margin: 0 0 ($base-line-height * 8 + 3);
+  padding-top: ($base-line-height * 4 - 3);
 
   &:before {
     background: $grey-dark;
     content: '';
     display: block;
-    height: rhythm(1);
+    height: $base-line-height;
     position: absolute;
     top: 0;
     width: 33%;
   }
 
   li {
-    padding: rhythm(2) 0 rhythm(1);
+    padding: $base-line-height * 2 0 $base-line-height;
     position: relative;
 
     &:after {
@@ -361,14 +361,14 @@ ol.nav {
   &.fancy {
     background: url(../images/grid_repeat.png) repeat 0 1px $grey-lightest;
 
-    margin-bottom: rhythm(2);
+    margin-bottom: $base-line-height * 2;
   }
 
   .summary-title {
     border: 0;
-    line-height: rhythm(4);
-    margin: 0 0 rhythm(4);
-    padding-top: rhythm(1);
+    line-height: $base-line-height * 4;
+    margin: 0 0 $base-line-height * 4;
+    padding-top: $base-line-height;
   }
 
   a.button {
@@ -377,7 +377,7 @@ ol.nav {
     color: #fff;
     display: table;
     line-height: $height;
-    margin: 0 baseline-nearest(56px) rhythm(3) 0;
+    margin: 0 baseline-nearest(56px) $base-line-height * 3 0;
     width: 100%;
 
     &:hover {
@@ -427,24 +427,24 @@ ol.nav {
   }
 
   &.article-header {
-    margin-bottom: rhythm(6);
+    margin-bottom: $base-line-height * 6;
 
     .summary-title {
-      border-top: rhythm(1) solid $grey-dark;
+      border-top: $base-line-height solid $grey-dark;
       display: inline-block;
     }
   }
 
   p:last-child {
-    margin-bottom: (rhythm(6) - 4);
+    margin-bottom: ($base-line-height * 6 - 4);
   }
 }
 
 .standard,
 .guidelines {
   .summary-block .inner {
-    background: url(../images/standard_icon_small.png) no-repeat center rhythm(4);
-    padding-top: baseline-nearest(183px) + rhythm(8);
+    background: url(../images/standard_icon_small.png) no-repeat center $base-line-height * 4;
+    padding-top: baseline-nearest(183px) + $base-line-height * 8;
   }
 
   &.home .summary-block .inner {
@@ -465,8 +465,8 @@ ol.nav {
 
       border-bottom: 7px solid $grey-dark;
       display: inline-block;
-      margin-bottom: (rhythm(3) - $nudge);
-      padding-top: (rhythm(1) + $nudge);
+      margin-bottom: ($base-line-height * 3 - $nudge);
+      padding-top: ($base-line-height + $nudge);
     }
 
     .inner {
@@ -534,20 +534,20 @@ ol.nav {
   article {
     color: $grey-dark;
     font-weight: 300;
-    margin-bottom: rhythm(6);
+    margin-bottom: $base-line-height * 6;
 
     h2 {
-      margin: 0 0 rhythm(2);
+      margin: 0 0 $base-line-height * 2;
     }
 
     p {
-      margin: 0 0 rhythm(3);
+      margin: 0 0 $base-line-height * 3;
       position: relative;
       top: 3px;
     }
 
     a.fancy-link {
-      $dimension: rhythm(6);
+      $dimension: $base-line-height * 6;
 
       display: block;
       line-height: $dimension - 1;
@@ -591,7 +591,7 @@ ol.nav {
     }
 
     a.button {
-      $dimension: rhythm(6);
+      $dimension: $base-line-height * 6;
 
       @extend a.fancy-link;
 
@@ -613,7 +613,7 @@ ol.nav {
     @extend article;
 
     font-weight: 700;
-    margin-bottom: rhythm(1);
+    margin-bottom: $base-line-height;
 
     .link-text {
       padding-left: 10px;
@@ -651,27 +651,26 @@ ol.nav {
 }
 
 #additional {
-  margin-bottom: rhythm(4);
+  margin-bottom: $base-line-height * 4;
 
   article {
-    @include leading-border(1px);
     border-top: 1px solid $grey-light;
-    padding-top: (rhythm(3) - 1);
+    padding-top: ($base-line-height * 3 - 1);
   }
 
   h2 {
     $nudge: 1px;
 
-    line-height: rhythm(5);
-    margin: $nudge 0 (rhythm(1) - $nudge);
+    line-height: $base-line-height * 5;
+    margin: $nudge 0 ($base-line-height - $nudge);
   }
 }
 
 .article {
   h2 {
-    border-top: rhythm(1) solid $grey-dark;
+    border-top: $base-line-height solid $grey-dark;
     display: inline-block;
-    margin-top: (rhythm(5) - 2);
+    margin-top: ($base-line-height * 5 - 2);
 
     &:first-child {
       margin-top: -2px;
@@ -681,7 +680,7 @@ ol.nav {
   .introduction {
     font-size: 1.4em;
     font-weight: 300;
-    line-height: rhythm(4);
+    line-height: $base-line-height * 4;
   }
 }
 
@@ -700,10 +699,9 @@ ol.nav {
 footer {
   background: $grey-lightest;
   border-top: 2px solid $grey-light;
-  @include leading-border(2px);
   font-size: 12px;
-  line-height: rhythm(2);
-  padding: (rhythm(3) - 2) 0 rhythm(5);
+  line-height: $base-line-height * 2;
+  padding: ($base-line-height * 3) 0 $base-line-height * 5;
 
   a {
     text-decoration: underline;
@@ -711,8 +709,8 @@ footer {
 
   h3 {
     font-size: 12px;
-    line-height: rhythm(3);
-    margin: -4px 0 (rhythm(1) + 1);
+    line-height: $base-line-height * 3;
+    margin: -4px 0 ($base-line-height + 1);
   }
 
   .footer-links {
@@ -720,7 +718,7 @@ footer {
     margin-left: 0;
 
     li {
-      margin-bottom: rhythm(1);
+      margin-bottom: $base-line-height;
 
       a {
         background: transparent url() no-repeat 0 center;
