@@ -18,9 +18,11 @@ headings:
 ---
 
 ##Statement
+
 Adopt cloud computing or virtualisation as the preferred approaches to delivery service hosting.
 
 ##Rationale
+
 * Mygov.scot will adhere to the Scottish Government data hosting and data centre strategy for the Scottish public sector
 * Mygov.scot will evaluate and procure data hosting and data centre services with the elasticity, resilience and recoverability required to achieve the non-functional requirements of the service, expressed in the form of system quality attributes
 * Mygov.scot will realise public sector cost savings through increasing collaborative ICT procurement
@@ -29,7 +31,9 @@ Adopt cloud computing or virtualisation as the preferred approaches to delivery 
 * Mygov.scot will reduce Scotland’s carbon footprint through the procurement, evaluation and utilisation of data hosting and data centres with proven track records in carbon savings
 
 ##Implications
-*for delivery of the mygov.scot service*
+
+### for delivery of the mygov.scot service
+
 * Mygov.scot will follow the decision roadmap in the Scottish Government Data Hosting and Data Centres strategy
 * Mygov.scot will ensure that any data centre and hosting costs for the service are known
 * Mygov.scot will consider utility and cloud computing in assessing the appropriateness of current arrangements and future investment plans
@@ -40,10 +44,12 @@ Adopt cloud computing or virtualisation as the preferred approaches to delivery 
 * Mygov.scot will monitor existing data centre suppliers improvements in respect of their power usage effectiveness
 * Mygov.scot will provide advice and guidance to service providers and prospective service providers in respect of realising the Scottish Government data hosting and data centre strategy for the Scottish public sector
 
-*for service providers of mygov.scot services*
+### for service providers of mygov.scot services
+
 * Service providers and potential service providers must evaluate their use of mygov.scot services in respect of their ability to help them comply with the Scottish Government Data Hosting and Data Centres strategy
 * Service providers and potential service providers must maintain awareness of mygov.scot strategic plans in respect of managing their data using cloud and data centre services and the associate impact on service availability, integrity, confidentiality, personal data protection and compliance
 * Service providers and potential service providers must provide plans for the utilisation of data hosting and data centre usage for review by mygov.scot
 
 ##Supporting material
-- [Scottish Government High Level Operating Framework] (http://www.gov.scot/Topics/Economy/digital/digitalservices/HLOF)
+
+- [Scottish Government High Level Operating Framework](http://www.gov.scot/Topics/Economy/digital/digitalservices/HLOF)
