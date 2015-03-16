@@ -39,8 +39,8 @@ Build a service that can be iterated on a frequent basis and make sure resources
 
 ### for service providers of mygov.scot services
 
-* Service providers and potential service providers must maintain ongoing awareness of service evolution through established communication channels
-* Service providers and potential service providers must embrace the concept of continuing evolution within their use of mygov.scot service either through embracing similar processes within their own organisation or a clear understanding and development of interfaces between out services which are frequently subject to change and their static processes
+* Service providers must maintain ongoing awareness of service evolution through established communication channels
+* Service providers must embrace the concept of continuing evolution within their use of mygov.scot service either through embracing similar processes within their own organisation or a clear understanding and development of interfaces between out services which are frequently subject to change and their static processes.
 
 ##Supporting material
 

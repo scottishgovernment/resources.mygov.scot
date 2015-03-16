@@ -37,7 +37,7 @@ Make a plan for the event of the service being taken temporarily offline.
 * Mygov.scot will implement technology and processes required to mitigate continuity threats to the service to an appropriate level based on the likelihood of the event and the value of the service
 * Mygov.scot will regularly test the threat event scenarios to ensure that effectiveness of business continuity planning
 * Mygov.scot must publish clear information regarding availability expectations for the service to enable service providers and potential service providers to make informed decisions regarding their usage of the service
-* Mygov.scot will provide advise and guidance in the areas of business continuity and disaster recovery for service providers and potential service providers when required
+* Mygov.scot will provide advice and guidance in the areas of business continuity and disaster recovery for service providers and potential service providers when required
 * Mygov.scot will review business continuity and disaster recovery plans for service providers prior to going live
 
 ### for service providers of mygov.scot services
@@ -45,7 +45,7 @@ Make a plan for the event of the service being taken temporarily offline.
 * Service providers must provide information regarding what impact the availability of the information within the service can have on citizens
 * Service providers must understand and accept availability, recoverability and performance restrictions on the service during threat event scenarios
 * Service providers must agreed to a business continuity and disaster recovery process including a series of planned tests prior to going live and an agreed schedule of regular testing
-* Service providers must identify realistic availability and recoverability targets for their use of mygov.scot and any of their own service integrated to it
+* Service providers must identify realistic availability and recoverability targets for their use of mygov.scot and any of their own service integrated to it.
 
 ##Supporting material
 

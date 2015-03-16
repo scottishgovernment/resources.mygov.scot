@@ -4,7 +4,7 @@ title:  "Fitness for use"
 date:   2015-03-10 13:33:00
 permalink: ../standard/Fitness-for-use/ 
 categories: documentation
-summary: Appropriate service quality attributes will be defined prior to implementation, based on user needs and agreed by stakeholders.
+summary: Appropriate service quality attributes will be defined prior to implementation, based on user needs and agreed by stakeholders
 tags: 
 - policy
 type: standard
@@ -19,7 +19,7 @@ headings:
 
 ##Statement
 
-Appropriate service quality attributes will be defined prior to implementation, based on user needs and agreed by stakeholders.
+Appropriate service quality attributes will be defined prior to implementation, based on user needs and agreed by stakeholders
 
 ##Rationale
 
@@ -42,7 +42,7 @@ Appropriate service quality attributes will be defined prior to implementation, 
 
 * Service providers and potential service providers must review the published system quality attributes to confirm the suitability of the mygov.scot services
 * Service providers and potential service providers must provide details of their future expectations from mygov.scot services to ensure these evolve into the services they need
-* Service providers will plane to realise and verify non0-functional requirements, in the form of system quality attributes, during the discovery phase of transition
+* Service providers will plane to realise and verify non0-functional requirements, in the form of system quality attributes, during the discovery phase of transition.
 
 ##Supporting material
 

@@ -4,7 +4,7 @@ title:  "Service retirement"
 date:   2015-03-10 13:33:00
 permalink: ../standard/service-retirement/ 
 categories: documentation
-summary: Plan (with mygov.scot) for the phasing out of any existing alternative channels, where appropriate.
+summary: Plan for the phasing out of any existing alternative channels to mygov.scot
 tags: 
 - policy
 type: standard
@@ -19,23 +19,23 @@ headings:
 
 ##Statement
 
-Plan (with mygov.scot) for the phasing out of any existing alternative channels, where appropriate.
+Plan for the phasing out of any existing alternative channels to mygov.scot
 
 ##Rationale
 
-* Manage Expectations - Correctly managing the end of service is critical whether users - Service providersare being moved to a new service or even ceasing to have the service as their experience at this point will colour their view of both the service and the organisation providing it
-* Sell and Market - Service providers will not necessarily understand the value of new services or changes to services therefore as with any product effort is required to help the service providers understand the benefits as non adoption is always an option
-* Understand Disruption - Retirement of services that are being replaced by alternatives should understand, manage and where possible minimise the impact of this transition on users of the service
-* Communicate Effectively - Service value equates to the value a user gets from the service therefore during retirement, and transition to a new service, communication with users is critical to ensure they understand why the changes are necessary and how they will benefit from them
+* Manage Expectations - Correctly managing end of service for users is critical as it will impact on the user experience of the service and the view of the service provider
+* Identify & Market - Identifying and market the benefits of moving towards mygov.scot to help secure the support of both service providers and end users, helping avoid non adoption
+* Understand Disruption - Transition to new services should be managed proactively in order to correctly undertake the retirement of services, ensuring minimal distruption for users
+* Communicate Effectively - Service value equates to the value a user gets from the service, therefore communication with users is critical when transitioning to a new serviceto ensure they understand why changes are necessary and the associated benefits
 
 ##Implications
 
 ### for delivery of the mygov.scot service
 
-* Mygov.scot will obtain and maintain ongoing understanding regarding what elements of our services drive people to use the current service and communicate how these elements are delivered by alternative services after retirement of current ones or manage peoples expectations regarding why they are no longer available
+* Mygov.scot will understand what drives usage of current services and communicate how these are delivered by new services after retirement, or manage peoples expectations around availablility
 * Plan and deliver the resources required to correctly sell and market new or modified services
 * Understand who the service providers of a service are and how to effectively communicate with them 
-* Mygov.scot will provide resources, solutions and guidance for service providers and potential service providers to allow them to provide the information described below
+* Provide resources, solutions and guidance for service providers and potential service providers to allow them to provide the information described below
 * Mygov.scot will ensure all data within the service is destroyed in a secure manner based on the nature of the data and the nature of the service in which it was used
 * Mygov.scot must ensure that no intellectual property is lost during the retirement of a service
 * Mygov.scot will work with the providers of replacement services for retiring ones to understand and where appropriate maintain reference data integrity such as reference numbers to assist users and service providers during transition
@@ -43,9 +43,9 @@ Plan (with mygov.scot) for the phasing out of any existing alternative channels,
 
 ### for service providers of mygov.scot services
 
-* Service providers and potential service providers must maintain ongoing awareness of service evolution through established communication channels
-* Service providers and potential service providers must communicate to mygov.scot when existing channels are not working effectively or can be improved
-* Service providers and potential service providers must provide any information available to them regarding why their service providers choose to use, or not use, elements of their service and those of mygov.scot
+* Service providers must maintain ongoing awareness of service evolution through established communication channels
+* Service providers must communicate to mygov.scot when existing channels are not working effectively or can be improved
+* Service providers must provide any information available to them regarding why their service providers choose to use, or not use, elements of their service and those of mygov.scot.
 
 ##Supporting material
 

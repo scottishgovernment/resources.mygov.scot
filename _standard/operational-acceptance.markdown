@@ -4,7 +4,7 @@ title:  "Operational acceptance"
 date:   2015-03-10 13:33:00
 permalink: ../standard/operational-acceptance/ 
 categories: documentation
-summary: Be able to test the end-to-end service in an environment identical to that of the live version on all common browsers and devices. Use dummy accounts and a representative sample of users.
+summary: Be able to test the end-to-end service in an environment identical to that of the live version on all common browsers and devices. Use dummy accounts and a representative sample of users
 tags: 
 - policy
 type: standard
@@ -19,14 +19,14 @@ headings:
 
 ##Statement
 
-Be able to test the end-to-end service in an environment identical to that of the live version on all common browsers and devices. Use dummy accounts and a representative sample of users.
+Be able to test the end-to-end service in an environment identical to that of the live version on all common browsers and devices. Use dummy accounts and a representative sample of users
 
 ##Rationale
 
-* The transactional service's fitness for use (functional requirements) and fitness for purpose (quality attributes) have been validated and verified prior to go live.
-* Ensure buy in from support services such as infrastructure for the service prior to launch
-* Validate integration with shared service components such as system monitoring, security and service reporting
-* Validate the behaviour of the service in circumstances common to the users of the service such as various browsers and mobile devices  
+* Fitness - The transactional service's fitness for use (functional requirements) and fitness for purpose (quality attributes) have been validated and verified prior to go live
+* Support - Ensure commitment of support services such as infrastructure for the service prior to launch
+* Component Integration - Validate integration with shared service components such as system monitoring, security and service reporting
+* Browsers & Devices - Validate the behaviour of the service in circumstances common to the users of the service such as various browsers and mobile devices   
 
 ##Implications
 
@@ -40,9 +40,9 @@ Be able to test the end-to-end service in an environment identical to that of th
 
 ### for service providers of mygov.scot services
 
-* Service providers of mygov.scot must provide the necessary skills and resources to help us produce test plans based on user needs and business requirements
-* Service providers of mygov.scot must provide the necessary skills and resources to help us execute operational acceptance for product delivery 
-* Service providers of mygov.scot must provide evidence of their compliance with the agreed system quality attributes using mechanisms such as test completion report test results or reference to alternative mechanisms such as contract clauses, operational agreements and observed tests
+* Service providers must provide the necessary skills and resources to help us produce test plans based on user needs and business requirements
+* Service providers must provide the necessary skills and resources to help us execute operational acceptance for product delivery 
+* Service providers must provide evidence of their compliance with the agreed system quality attributes using mechanisms such as test completion report test results or reference to alternative mechanisms such as contract clauses, operational agreements and observed tests.
 
 ##Supporting material
 
