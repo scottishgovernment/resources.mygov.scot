@@ -4,7 +4,7 @@ title:  "Information rights"
 date:   2015-03-10 13:28
 permalink: ../standard/information-rights/ 
 categories: documentation
-summary: Evaluate the privacy risks to make sure that personal data collection requirements are appropriate
+summary: Evaluate the privacy risks to make sure that personal data collection requirements are appropriate.
 tags: 
 - policy
 type: standard
@@ -19,7 +19,7 @@ headings:
 
 ##Statement
 
-Evaluate the privacy risks to make sure that personal data collection requirements are appropriate
+Evaluate the privacy risks to make sure that personal data collection requirements are appropriate.
 
 ##Rationale
 

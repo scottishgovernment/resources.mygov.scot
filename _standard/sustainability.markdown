@@ -19,7 +19,7 @@ headings:
 
 ##Statement
 
-Make sure that you have the capacity and technical flexibility to update and improve the service on a very frequent basis
+Make sure that you have the capacity and technical flexibility to update and improve the service on a very frequent basis.
 
 ##Rationale
 

@@ -4,7 +4,7 @@ title:  "Open source"
 date:   2015-03-10 13:33:00
 permalink: ../standard/open-source/ 
 categories: documentation
-summary: Make all new source code open and reusable, and publish it under appropriate licences (or give a convincing explanation as to why this can’t be done for specific subsets of the source code)
+summary: Make all new source code open and reusable, and publish it under appropriate licences (or give a convincing explanation as to why this can’t be done for specific subsets of the source code).
 tags: 
 - policy
 type: standard
@@ -19,7 +19,7 @@ headings:
 
 ##Statement
 
-Make all new source code open and reusable, and publish it under appropriate licences (or give a convincing explanation as to why this can’t be done for specific subsets of the source code)
+Make all new source code open and reusable, and publish it under appropriate licences (or give a convincing explanation as to why this can’t be done for specific subsets of the source code).
 
 ##Rationale
 

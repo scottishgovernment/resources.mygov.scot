@@ -4,7 +4,7 @@ title:  "Service operation"
 date:   2015-03-10 13:33:00
 permalink: ../standard/service-operation/ 
 categories: documentation
-summary: To manage the live operation in a manner that delivers the agreed service levels in terms of availability, performance and functionality by establishing clear processes to manage incidents, changes and problems in order to reduce risk around system stability and respond efficiently to business and technical change
+summary: To manage the live operation in a manner that delivers the agreed service levels in terms of availability, performance and functionality by establishing clear processes to manage incidents, changes and problems in order to reduce risk around system stability and respond efficiently to business and technical change.
 tags: 
 - policy
 type: standard
@@ -19,7 +19,7 @@ headings:
 
 ##Statement
 
-To manage the live operation in a manner that delivers the agreed service levels in terms of availability, performance and functionality by establishing clear processes to manage incidents, changes and problems in order to reduce risk around system stability and respond efficiently to business and technical change
+To manage the live operation in a manner that delivers the agreed service levels in terms of availability, performance and functionality by establishing clear processes to manage incidents, changes and problems in order to reduce risk around system stability and respond efficiently to business and technical change.
 
 ##Rationale
 

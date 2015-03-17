@@ -4,7 +4,7 @@ title:  "Information security"
 date:   2014-09-17 14:23:54
 permalink: ../standard/information-security/ 
 categories: documentation
-summary: Evaluate what user data and information the service will be providing or storing, and address the security level, legal responsibilities, and risks associated with the service (consulting with experts where appropriate)
+summary: Evaluate what user data and information the service will be providing or storing, and address the security level, legal responsibilities, and risks associated with the service (consulting with experts where appropriate).
 tags: 
 - policy
 type: standard
@@ -19,7 +19,7 @@ headings:
 
 ##Statement
 
-Evaluate what user data and information the service will be providing or storing, and address the security level, legal responsibilities, and risks associated with the service (consulting with experts where appropriate)
+Evaluate what user data and information the service will be providing or storing, and address the security level, legal responsibilities, and risks associated with the service (consulting with experts where appropriate).
 
 ##Rationale
 

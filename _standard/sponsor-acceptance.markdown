@@ -4,7 +4,7 @@ title:  "Sponsor acceptance"
 date:   2015-03-10 13:33:00
 permalink: ../standard/sponsor-acceptance/ 
 categories: documentation
-summary: Test the service from beginning to end with a responsible stakeholder to ensure alignment with expectations
+summary: Test the service from beginning to end with a responsible stakeholder to ensure alignment with expectations.
 tags: 
 - policy
 type: standard
@@ -19,7 +19,7 @@ headings:
 
 ##Statement
 
-Test the service from beginning to end with a responsible stakeholder to ensure alignment with expectations
+Test the service from beginning to end with a responsible stakeholder to ensure alignment with expectations.
 
 ##Rationale
 

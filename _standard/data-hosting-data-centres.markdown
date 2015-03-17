@@ -4,7 +4,7 @@ title:  "Data hosting and data centres"
 date:   2015-03-10 13:33:00
 permalink: ../standard/data-hosting-data-centres/ 
 categories: documentation
-summary: Adopt cloud computing or virtualisation as the preferred approaches to service hosting
+summary: Adopt cloud computing or virtualisation as the preferred approaches to service hosting.
 tags: 
 - policy
 type: standard
@@ -19,7 +19,7 @@ headings:
 
 ##Statement
 
-Adopt cloud computing or virtualisation as the preferred approaches to service hosting
+Adopt cloud computing or virtualisation as the preferred approaches to service hosting.
 
 ##Rationale
 

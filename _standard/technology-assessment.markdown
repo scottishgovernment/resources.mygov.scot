@@ -4,7 +4,7 @@ title:  "Technology assessment"
 date:   2015-03-10 13:33:00
 permalink: ../standard/technology-assessment/ 
 categories: documentation
-summary: Evaluate what tools and systems will be used to build, host, operate and measure the service, and how to procure them
+summary: Evaluate what tools and systems will be used to build, host, operate and measure the service, and how to procure them.
 tags: 
 - policy
 type: standard
@@ -19,7 +19,7 @@ headings:
 
 ##Statement
 
-Evaluate what tools and systems will be used to build, host, operate and measure the service, and how to procure them
+Evaluate what tools and systems will be used to build, host, operate and measure the service, and how to procure them.
 
 ##Rationale
 

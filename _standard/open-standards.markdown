@@ -4,7 +4,7 @@ title:  "Open standards"
 date:   2015-03-10 13:33:00
 permalink: ../standard/open-standards/ 
 categories: documentation
-summary: Use open standards and common government platforms (eg Myaccount) where available
+summary: Use open standards and common government platforms (eg Myaccount) where available.
 tags: 
 - policy
 type: standard
@@ -19,7 +19,7 @@ headings:
 
 ##Statement
 
-Use open standards and common government platforms (eg Myaccount) where available
+Use open standards and common government platforms (eg Myaccount) where available.
 
 ##Rationale
 

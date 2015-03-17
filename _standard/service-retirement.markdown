@@ -4,7 +4,7 @@ title:  "Service retirement"
 date:   2015-03-10 13:33:00
 permalink: ../standard/service-retirement/ 
 categories: documentation
-summary: Plan for the phasing out of any existing alternative channels to mygov.scot
+summary: Plan for the phasing out of any existing alternative channels to mygov.scot.
 tags: 
 - policy
 type: standard
@@ -19,7 +19,7 @@ headings:
 
 ##Statement
 
-Plan for the phasing out of any existing alternative channels to mygov.scot
+Plan for the phasing out of any existing alternative channels to mygov.scot.
 
 ##Rationale
 

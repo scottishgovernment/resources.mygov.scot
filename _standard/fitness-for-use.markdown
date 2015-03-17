@@ -2,14 +2,14 @@
 layout: article
 title:  "Fitness for use"
 date:   2015-03-10 13:33:00
-permalink: ../standard/Fitness-for-use/ 
+permalink: ../standard/fitness-for-use/ 
 categories: documentation
-summary: Appropriate service quality attributes will be defined prior to implementation, based on user needs and agreed by stakeholders
+summary: Appropriate service quality attributes will be defined prior to implementation, based on user needs and agreed by stakeholders.
 tags: 
 - policy
 type: standard
 parent: standard
-thispage: Fitness-for-use
+thispage: fitness-for-use
 headings:
 - Statement
 - Rationale
@@ -19,7 +19,7 @@ headings:
 
 ##Statement
 
-Appropriate service quality attributes will be defined prior to implementation, based on user needs and agreed by stakeholders
+Appropriate service quality attributes will be defined prior to implementation, based on user needs and agreed by stakeholders.
 
 ##Rationale
 

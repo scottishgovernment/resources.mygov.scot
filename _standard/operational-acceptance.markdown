@@ -4,7 +4,7 @@ title:  "Operational acceptance"
 date:   2015-03-10 13:33:00
 permalink: ../standard/operational-acceptance/ 
 categories: documentation
-summary: Be able to test the end-to-end service in an environment identical to that of the live version on all common browsers and devices. Use dummy accounts and a representative sample of users
+summary: Be able to test the end-to-end service in an environment identical to that of the live version on all common browsers and devices. Use dummy accounts and a representative sample of users.
 tags: 
 - policy
 type: standard
@@ -19,7 +19,7 @@ headings:
 
 ##Statement
 
-Be able to test the end-to-end service in an environment identical to that of the live version on all common browsers and devices. Use dummy accounts and a representative sample of users
+Be able to test the end-to-end service in an environment identical to that of the live version on all common browsers and devices. Use dummy accounts and a representative sample of users.
 
 ##Rationale
 
