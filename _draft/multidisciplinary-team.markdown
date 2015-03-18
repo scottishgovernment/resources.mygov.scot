@@ -1,15 +1,15 @@
 ---
 layout: article
-title:  "Sustainable multidisciplinary team"
+title:  "Multidisciplinary team"
 date:   2015-03-10 13:33:00
-permalink: ../standard/sustainable-multidisciplinary-team/ 
+permalink: ../standard/multidisciplinary-team/ 
 categories: documentation
 summary: Put in place a sustainable multidisciplinary team that can design, build and operate the service, led by a suitably skilled and senior service manager with decision-making responsibility.
 tags: 
 - policy
 type: standard
 parent: standard
-thispage: sustainable-multidisciplinary-team
+thispage: multidisciplinary-team
 headings:
 - Statement
 - Rationale

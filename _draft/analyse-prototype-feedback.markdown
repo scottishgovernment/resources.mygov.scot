@@ -4,7 +4,7 @@ title:  "Analyse prototype feedback"
 date:   2015-03-10 13:33:00
 permalink: ../standard/analyse-prototype-feedback/ 
 categories: documentation
-summary: Analyse the prototype service’s success, and translate user feedback into features and tasks for the next phase of development.
+summary: Analyse the prototype service’s success and translate user feedback into features and tasks for the next phase of development.
 tags: 
 - policy
 type: standard

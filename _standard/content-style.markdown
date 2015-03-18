@@ -41,4 +41,5 @@ Content should be designed for the user and follow an appropriate content style 
 
 ##Supporting material
 
-- [mygov.scot content style guide](http://inside.mygov.scot/2014/08/27/consistent-content-style/)
+- [Blog post on our approach](http://inside.mygov.scot/2014/08/27/consistent-content-style/)
+- [Content style guide](../../content-style/)

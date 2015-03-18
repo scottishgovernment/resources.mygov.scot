@@ -30,14 +30,14 @@ Test the service from beginning to end with a responsible stakeholder to ensure 
 ##Implications
 
 ### for delivery of the mygov.scot service
+There are currently no implications for the direct delivery of the service, but there is an expectation of service providers.
+
+### for service providers of mygov.scot services
 
 * Service providers will ensure the responsible stakeholder is clearly identified, alongside any others and is communicated to throughout development
 * Service providers will develop user journeys with the product owner to enable them to demonstrate the service to stakeholders
 * Service providers will plan for and deliver the demonstration to the minister including the review and incorporation of feedback where appropriate
-* Service providers will arm the minister with correct, up to date, information tailored for the various target audience they need to discuss the service with.
-
-### for service providers of mygov.scot services
-
+* Service providers will arm the minister with correct, up to date, information tailored for the various target audience they need to discuss the service with
 
 ##Supporting material
 
