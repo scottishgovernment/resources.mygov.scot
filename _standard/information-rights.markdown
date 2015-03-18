@@ -17,17 +17,19 @@ headings:
 - Supporting material
 ---
 
-##Statement
+## Statement
 
 Evaluate the privacy risks to make sure that personal data collection requirements are appropriate.
 
-##Rationale
+
+## Rationale
 
 * Understanding - A clear understanding of the nature of the personal information within the system and the associated risks to that data will ensure necessary protections are implemented
 * Minimise risk - The risk of personal data exposure will be minimised by only holding personal data when there is a valid business reason to do so
 * Consent - The risk of non compliance with regulatory or legal frameworks eliminated through only storing and processing personal data when explicit consent is obtained for agreed purposes
 
-##Implications
+
+## Implications
 
 ### for delivery of the mygov.scot service
 
@@ -43,6 +45,7 @@ Evaluate the privacy risks to make sure that personal data collection requiremen
 * Service providers must provide information regarding any personal data supplied to mygov.scot
 * Service providers must comply with restrictions imposed by mygov.scot in respect personal data in order to ensure their personal data, and that of other service providers, remains appropriately secure
 
-##Supporting material
+
+## Supporting material
 
 - [GDS, Digital by Default Service Standard, Criterion 4](https://www.gov.uk/service-manual/digital-by-default#criterion-4)
