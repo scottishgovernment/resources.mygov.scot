@@ -1,6 +1,6 @@
 ---
 layout: home
-title:  "Resources from mygov.scot"
+title:  "Resources"
 tags:
 - standard
 thispage: home
