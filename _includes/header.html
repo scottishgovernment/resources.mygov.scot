@@ -9,36 +9,11 @@
         <nav id="site-nav">
             <button id="site-nav-toggler"></button>
             <ul>
-                {% for item in site.standard %}
-                    {% if item.parent == 'home' %}
                     <li>
-                        <a href="{{site.baseurl}}{{ item.url }}">
-                            {{ item.title }}
+                        <a href="https://www.mygov.scot/">
+                                Go back to mygov.scot
                             <span class="glyphicon glyphicon-chevron-right"></span>
                         </a>
-                    </li>
-                    {% endif %}
-                {% endfor %}
-
-                {% for item in site.guidelines %}
-                    {% if item.parent == 'home' %}
-                    <li>
-                        <a href="{{site.baseurl}}{{ item.url }}">
-                            {{ item.title }}
-                            <span class="glyphicon glyphicon-chevron-right"></span>
-                        </a>
-                    </li>
-                    {% endif %}
-                {% endfor %}
-
-                {% for item in site.additional %}
-                <li>
-                    <a href="{{site.baseurl}}{{ item.url }}">
-                        {{ item.title }}
-                        <span class="glyphicon glyphicon-chevron-right"></span>
-                    </a>
-                </li>
-                {% endfor %}
             </ul>
         </nav>
 
