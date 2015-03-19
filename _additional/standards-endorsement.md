@@ -1,11 +1,15 @@
 ---
 layout: article
-title:  "Proposed process for technical standards endorsement"
+title:  "Process for technical standards endorsement"
 parent: home
 permalink: ../process-technical-standards/
 summary: A proposed process for the endorsement of technical standards within Scottish public sector
 headings:
--
+- Introduction
+- Background
+- Objectives
+- Roles and Responsibilities
+- Recommendation and Endorsement Process
 ---
 
 ## Introduction
@@ -62,7 +66,7 @@ It is suggested that the Technical & Design Board fulfil the role of endorsing s
 A technology leader will be a responsible individual from Scottish Government or Scottish public sector tasked with overseeing the implementation of endorsed standards in their directorate or organisation. Technology leaders may also create new suggestions.
 
 
-## Recommendation & Endorsement Process
+## Recommendation and Endorsement Process
 
 ### 1. Suggestion
 
