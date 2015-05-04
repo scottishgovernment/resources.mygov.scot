@@ -36,7 +36,7 @@ Evaluate what tools and systems will be used to build, host, operate and measure
 ### for delivery of the mygov.scot service
 
 * Ensure user needs drive technology assessments
-* Esure that technology assessments will only take place after proper requirements gathering and technical architecture activities are completed to ensure that assessments are based on what we need technology to do and not based on what technology can do
+* Ensure that technology assessments will only take place after proper requirements gathering and technical architecture activities are completed to ensure that assessments are based on what we need technology to do and not based on what technology can do
 * Technologies with limited information will be assessed internally using techniques such as proof of concept, research or alpha project to validate their suitability to deliver business requirements
 * Technology selection assessments will be documented, allowing service providers to review this information in order to allow them to understand decisions made by mygov.scot and foster a sense of collaboration and partnership
 * Provide resources, solutions and guidance for service providers and potential service providers to allow them to provide the information described below
