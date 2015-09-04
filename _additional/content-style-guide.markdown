@@ -2,7 +2,7 @@
 layout: article
 title:  "Content style"
 date:   2015-03-10 13:33:00
-permalink: ../content-style/ 
+permalink: ../content-style/
 categories: documentation
 summary: Guidance on content style, based upon the Government Digital Service GOV.UK editorial style guide and suitable for use creating content on mygov.scot.
 parent: home
@@ -11,19 +11,17 @@ headings:
 - Publishing principles
 - About this guide
 - Language
-- Why mygov.scot is different – as is your role
+- Why content design is different
 - Search engine optimisation (SEO)
-- Standardised content formats
 - Style points
-- Benefits and schemes
-- Guides
+- Content formats
 - Writing for the web
 - A to Z of common terms
 
 ---
 ##Summary
 
-Guidance on content style, based upon the Government Digital Service GOV.UK editorial style guide and suitable for use creating content on mygov.scot. 
+Guidance on content style for mygov.scot, based upon the Government Digital Service GOV.UK editorial style guide.
 
 ##Writing for mygov.scot
 
@@ -46,14 +44,14 @@ Every item of content on mygov.scot serves a specific purpose, directly answerin
 Research shows that citizens’ digital queries usually begin with a search engine. All content on mygov.scot must be optimised for search engines so that citizens can find the correct information as quickly as possible.
 
 ##Publishing principles
-The role of the Content team is to turn complex information into content that is easy to understand and to provide clear ‘how to' styled instructions.
+The role of content designers is to turn complex information into content that is easy to understand and to provide clear ‘how to' styled instructions.
 
 ###User needs
-Content items should directly respond to user needs that have been verified through the discovery process. A user need is a specific question that we know users ask in relation to a topic. Each need has been verified through the use of analytics, user research and stakeholder engagement, and it has been allocated a unique identifying number.  
+Content items should directly respond to user needs that have been verified through the discovery process. A user need is a specific question that we know users ask in relation to a topic. Each need has been verified through the use of analytics, user research and stakeholder engagement, and it has been allocated a unique identifying number.
 
-Generally, user needs appear in the form of a sentence: 
+Generally, user needs appear in the form of a sentence:
 
-> As a `citizen`, I `want to know how much daycare costs` so that `I can decide if I can afford daycare for my child`.  
+> As a `citizen`, I `want to know how much daycare costs` so that `I can decide if I can afford daycare for my child`.
 
 Because this is very large project, this user need is rather general. In fact, the true story of a user is much more personal and probably looks something like this:
 
@@ -72,7 +70,7 @@ Some content items may answer multiple needs. These will often be presented in t
 Content designer assesses a content item to ensure that it meets the:
 
 1. user need(s) it has been written to answer
-2. needs of people living in, working in or visiting Scotland 
+2. needs of people living in, working in or visiting Scotland
 3. editorial and search engine optimisation (SEO) guidance set out in this guide
 4. internationally established accessibility standards
 
@@ -93,22 +91,22 @@ Pass to a peer to review for you.
 Ensure the content item is factually accurate, either by fact checking with a stakeholder or within the team. 
 
 ####Stage 5: Sign-off
-Ensure the content item has been signed off. 
+Ensure the content item has been signed off.
 
 ####Stage 6: Publish
 
-Trust and confidence in mygov.scot are paramount, so the fact-checking and sign-off processes must be followed appropriately. 
+Trust and confidence in mygov.scot are paramount, so the fact-checking and sign-off processes must be followed appropriately.
 
 Content that is too specialised for inclusion on mygov.scot should instead be referenced or signposted.
 
 ##About this guide
-We have used the [GOV.UK content style guide](https://www.gov.uk/government-digital-guidance/content-publishing "opens Gov.UK") as the starting point for our own guide. A significant amount of GOV.UK content will appear on or be accessible from mygov.scot and it makes sense to draw on the extensive user testing and analysis of the Government Digital Service (GDS), the team behind GOV.UK. 
+We have used the [GOV.UK content style guide](https://www.gov.uk/government-digital-guidance/content-publishing) as the starting point for our own guide. GOV.UK content will appear on or be accessible from mygov.scot and it makes sense to draw on the extensive user testing and analysis carried out by Government Digital Service (GDS), the team behind GOV.UK.
 
-We have reproduced, revised and added to the GDS guidance under the terms of the [Open Government Licence v2.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/). 
+We have reproduced, revised and added to the information made available by Government Digital Service under the terms of the [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/). 
 
-Consistency is important: users can find and process what they need more easily if webpages behave the way they expect them to – in terms of design, structure and content. Using this style guide will help us to make all mygov.scot content readable,  understandable and accessible. 
+Consistency is important: users can find and process what they need more easily if webpages behave the way they expect them to – in terms of design, structure and content. Using this style guide will help us to make all mygov.scot content readable, understandable and accessible.
 
-We take all of the writing for the web points into account when we write for mygov.scot. Then we add the following points: 
+We take all of the writing for the web points into account when we write for mygov.scot. Then we add the following points:
 
 ###Active voice
 Use the active rather than passive voice – it’s more direct and engaging. This will help us to write concise, clear content that is easy for the user to understand and act on. 
@@ -185,17 +183,16 @@ Much of this guide is based on a lot of user testing. By keeping to the style gu
 - raise trust levels 
 – if we are consistent, we are giving a coherent view
 
-GDS has had [research done on the impact of style guides](https://www.gov.uk/government/publications/govuk-content-principles-conventions-and-research-background). Have a look.
+GDS undertook [research on the impact of style guides](https://www.gov.uk/government/publications/govuk-content-principles-conventions-and-research-background)and is worth reading.
 
 ###Write in plain English
 Users don’t stop understanding text because it’s written clearly, but less educated users may not understand if you use complex language.  This also applies to new speakers of English who are still developing their vocabularies.
 
->mygov.scot is for everyone. 
+>mygov.scot is for everyone.
 
-As government, we can’t discriminate because of education, age or nationality, so use plain English to make it 
-accessible to as many people as possible.  This isn’t just a list of words to avoid; it’s a way of writing.
+As government, we can’t discriminate because of education, age or nationality, so use plain English to make it accessible to as many people as possible.  This isn’t just a list of words to avoid; it’s a way of writing.
 
-Don’t use formal or long words where easy or short ones will do. 
+Don’t use formal or long words where easy or short ones will do.
 
 |Examples:| |
 |:-------------|:---------|
@@ -328,6 +325,7 @@ Where evidence shows there’s a clear user need for including a legal term (e.g
 
 Where you need to use technical terms, you can. They’re not jargon. You just need to contain them 
 within single quotes and explain what they mean the first time you use them.
+
 ###Search results
 Our need isn’t necessarily to acquire website traffic for mygov.scot. We need to get government information to where Scotland’s people can find it, whether on mygov.scot itself or in a search engine results page. Google will frequently ‘scrape’ sites for the answer to common questions, e.g. the price of a British passport.
 
@@ -358,10 +356,10 @@ Ask yourself:
 - Does it include the keywords that citizens use?
 - Does it answer the user need for the situation in Scotland? 
 
-##Why mygov.scot is different – as is your role
-Not all content on mygov.scot will appear in the form of long text. We don’t just write copy, we ‘design content’. 
+##Why content design is different
+Not all content on mygov.scot will appear in the form of long text. We don’t just write copy, we ‘design content’.
 
-As a content team, we work with designers and developers to find out how best to present the information that will answer the user need. A tool, graphic or video may work better than copy in some cases. 
+As a content team, we work with visual designers and developers to find out how best to present the information that will answer the user need. A tool, graphic or video may work better than copy in some cases.
 
 Remember that a lot of people you will deal with have no knowledge of user behaviour. They won’t understand why you want to change the legal language they’ve been using for the past 15 years to something in plain English.
 
@@ -433,18 +431,18 @@ A meta description is a short summary of a web page, which search engines return
 
 Keywords included in meta descriptions will be displayed in bold in search engine results pages when these match a user’s query. This helps to confirm the relevance of the content item to the user before they decide to click and follow the link.
 
-##Standardised content formats
+###Content formats
 
-###Guides / benefits / schemes
+####Guides / benefits / schemes
 Provide a brief overview that front-loads popular keywords, and then list other popular keywords in the format below. You can use meta descriptions to clarify ambiguities around audience, or to differentiate titles that are similar:
 
 *Example:* 
 	Holiday entitlement or annual leave – information for employers and workers on entitlement, calculating leave, taking leave, accruing leave and disputes.
 
-###Quick answers
+####Quick answers
 Use the first sentence if it adequately sums up the content and includes popular keywords. If it doesn’t, consider changing the first sentence – it should be focused and optimised.
 
-###Frequently asked questions (FAQs)
+####Frequently asked questions (FAQs)
 FAQs are bad. We don’t like them. If you write content by starting with user needs, you won’t need to use FAQs.
 
 This is because FAQs:
@@ -455,7 +453,7 @@ This is because FAQs:
 information
 - mean that content is not where users expect to find it; it needs to be in context
 
-### Accessible PDFs
+####Accessible PDFs
 The best way to create an accessible PDF is to create an accessible source document.
 
 A source document is tagged when it’s converted into a PDF. The PDF tag tree reflects the structure of the document, and it’s this structure that assistive technologies like screen readers use to navigate the document.
@@ -463,18 +461,18 @@ A source document is tagged when it’s converted into a PDF. The PDF tag tree r
 ####In Microsoft Word
 Use the styles and features available in Word to format your content and give it structure. This will make it easier to convert your source document into a PDF because it lays the groundwork for the PDF tag tree.
 
-#####Use headings
+**Use headings**
 Use the heading styles in Word to create a logical document structure. Don’t increase the size of text or make it bold to create the appearance of headings. 
 
 Treat your document like a book. It should have one title (level one heading) and multiple chapters (level two headings). Within each chapter there may be multiple sections (level three headings) and subsections (level four headings).
 
-#####Use lists
+**Use lists**
 Use the list styles in Word to group together related items. Use a numbered list where the items follow a specific sequence. Don’t use punctuation or other markers to create the illusion of a list.
 
-#####Create a table of contents
+**Create a table of contents**
 If your document is longer than a few pages, use Word to automatically create a table of contents based on your heading structure. Don’t use lists and links to manually create a table of contents.
 
-#####Use readable body text
+**Use readable body text**
 
 - **Alignment:** Use left aligned text (unless the language of your document is read right to left). Don’t use justified text in your document.
 - **Font:** Choose a sans serif font and use the styles in Word to set it as the default
@@ -482,66 +480,66 @@ If your document is longer than a few pages, use Word to automatically create a 
 - **Headers and footers:** If you need to include footnotes or other text of a smaller size, increase the size of the body text to 14pt, rather than reduce the size of text below 12pt.
 - **Italics and Boldface:** Don’t use chunks of italicised or capitalised text, and don’t underline text unless it’s a link.
 
-#####Use good colour contrast
+**Use good colour contrast**
 Use foreground/background colours for text that have a good contrast ratio. [4.5:1 ratio recommended by the Web Content Accessibility Guidelines 2.0](http://www.w3.org/WAI/GL/WCAG20/WD-WCAG20-TECHS/G18) is a good minimum.
 
 Don’t use colour or shape as the only way to identify something in your document. Use text labels or descriptions instead.
 
-#####Use data tables
+**Use data tables**
 Use tables with column headings to display data. Don’t use tables to make cosmetic changes to the layout of the document.
 
-#####Provide text descriptions
+**Provide text descriptions**
 Use Word to add text descriptions to all important images in the document. Make sure the text description includes all of the information contained within, or conveyed by, the image.
 
 ####In Adobe Acrobat
 Use Adobe Acrobat Pro to convert your Word document into a PDF. Use the **Convert to PDF** option under the **Adobe** menu in Microsoft Word to do this. This will make sure that Acrobat picks up the accessibility you have built into your source document.
 
-#####Set the document language
+**Set the document language**
 Set the language of the document. Go to **File > Properties > Advanced** and select a language from the **Language** menu.
 
-#####Check the tag tree
+**Check the tag tree**
 All content must be tagged, marked as an artefact (background content) or removed from the tag tree. Use the **Tags** panel to review and edit the tag tree. If the PDF was converted from a well structured Word document, the tag tree should require little editing.
 
-#####Check the tab order
+**Check the tab order**
 If the PDF contains form fields, use **Advanced > Accessibility > Touch up reading order** to check they can be navigated with the tab key in a logical order. If the tab order needs  improving, use the **Order** panel to drag and drop the fields into the correct order.
 
-#####Check the reading order
+**Check the reading order**
 Use the **Tags** panel to review and edit the reading order of the PDF. Don’t rely on the visual order of the PDF. The reading order is based on the structure of the PDF tag tree, which may not match the visual content order.
 
-#####Check the reflow order
+**Check the reflow order**
 Use **View > Zoom > Reflow**, then check that the PDF still has a logical reading order. Note: It can sometimes be difficult to guarantee a logical reflow order for PDFs with complex content.
 
-#####Check text descriptions
+**Check text descriptions**
 Go to **Advanced > Accessibility > Touch up reading order** and check that all images have text descriptions. If the text descriptions were present in the source Word document and the **Convert to PDF** option was used, the text descriptions should already be present in the PDF.
 
-#####Remove empty tags
+**Remove empty tags**
 Remove empty tags from the tag tree. Use the **Tags** panel to highlight and delete any empty tags from the tag tree.
 
-#####Set decorative content
+**Set decorative content**
 Tag decorative content elements as artefacts. Use **Advanced > Accessibility > Touch up reading order** to select a decorative element, and use the **Background** button to make the element an artefact.
 
-#####Check data tables
+**Check data tables**
 Use the **Tags** panel to check the structure of data tables. The `<table>`, `<tr>` and `<td>` tags should be used to give data tables the proper structure. 
 
-#####Active links
+**Active links**
 Use the **Tags** panel to check that links are active. Active links should be tagged with the `<link>` tag.
 
-#####Check high contrast
+**Check high contrast**
 Use **File > Preference > Accessibility** to set a high contrast colour scheme, and check that the PDF remains readable. Note: It may not be possible to make the high contrast mode work in all PDFs, in which case you should be prepared to make a high contrast version available on request.
 
-#####Display document title
+**Display document title**
 Display the document title instead of the file name. Go to **File > Properties > Initial view** and select **Document title** from the **Show** dropdown menu.
 
-#####Before publication
+**Before publication**
 Once all of the above steps are complete, the PDF should be checked before it is published.
 
-#####Full Adobe accessibility check
+**Full Adobe accessibility check**
 Go to **Advanced > Accessibility** and select **Full check**. The PDF should pass the full check for [WCAG 2.0 Level AA](http://www.w3.org/WAI/WCAG20/quickref/) without any warnings.
 
-#####Quick screen reader check
+**Quick screen reader check**
 Ask a screen reader user to read through the PDF. If no one is available to do this, use one of the following options instead.
 
-#####Use NVDA
+**Use NVDA**
 [Non Visual Desktop Access (NVDA)](http://www.nvda-project.org/) is a free open source screen reader for Windows. It can be 
 installed on the desktop or run from a portable USB thumb drive.
 
@@ -554,7 +552,7 @@ With NVDA running, open the PDF and use the following commands to check the PDF:
 
 Note: These commands will also work with the Jaws screen reader from Freedom Scientific.
 
-#####Use VoiceOver
+**Use VoiceOver**
 All Apple Macs have VoiceOver built in. Turn VoiceOver on (or off) using `Cmd` + `F5`. With VoiceOver running, open the PDF and use the following commands to check the PDF: from the top of the PDF use a double finger down swipe, or Control + `Cmd` + `A` to read the PDF from top to bottom and check the reading order use the `Tab` key (repeatedly) to move through the PDF and check the tab order.
 
 Note: VoiceOver does not provide shortcut keys for navigating by headings or graphics.
@@ -942,50 +940,51 @@ Give one sentence on what the user can expect from the service – this will app
 You can add alternatives to the online transaction at the foot of the page.
 
 
-## Content formats ##
-### Answers ###
+## Content formats
+
+### Answers
 Answers assume prior knowledge and answer a popular and specific need (so you don’t need to explain terms or provide context). For example, the answer ‘National Minimum Wage rate’ should only give the rate, not information about what the National Minimum Wage is, how to pay it, etc. (although you should be clearly linking to related content that does).
 
 Stick exclusively to the answer – don’t be tempted to include extra information, however useful this might appear to be.
 
-### Summary ###
+#### Summary
 - one or two sentence(s) summing up the answer for common case (aim for one)
 - get the basic information quickly
 - not an introduction
 - use summary tags
 
-### Body ###
+#### Body
 - expand on summary with any necessary detail
 - be strict with information you include
 - stick to task
 - keep it concise; don’t overload it with caveats
 - no need to repeat info in subhead
 
-### Subheadings ###
+#### Subheadings
 - keep as close to search terms as possible
 - avoid questions; use statements
 - no need for the ‘if’ (e.g. ‘You’re working abroad’)
 - H2 are primary subheadings
 
-### Formatting ###
+#### Formatting
 - Don’t break up text with too many subheadings
 - use formatting options (e.g. call-outs) but don’t overload the page
 
 
-### When an answer becomes a guide ###
+#### When an answer becomes a guide
 Make the answer part of a longer guide when it:
 - depends on too many things, for example the age of your child and the type of job can’t be summed up
 - is not a popular search
 
-## Benefits and schemes ##
+### Benefits and schemes
 
-### Overview ###
+#### Overview
 Give people what they want to know without going into detail, e.g. the rate and how long it’s paid for. 
 
 - Don’t use one long paragraph. 
 - Separate the main points.
 
-### Main sections ###
+#### Main sections
 You’ll meet the user’s need by:
 
 - sticking to the title and need
@@ -993,20 +992,22 @@ You’ll meet the user’s need by:
 - using examples for complex calculations (use example markdown)
 - sticking to the common case – put unusual cases in ‘Further information’
 
-### Further information ###
+#### Further information
 This isn’t a dumping ground. Content still needs to be useful. If you can’t find a place for it, don’t use it.
 
-### The main information needed is:  ###
+#### The main information needed is:
 - effect on other benefits
 - appeals and edge cases
 - more information on how things like calculations, cases and benefits are worked out
 
-## Guides ##
-### Overview ###
+### Guides
+
+#### Overview
 ‘Part 1’ of the guide should contain the most important information that the majority of users will want to read – you can have an ‘overview’ but you don’t have to.
 
 Subsequent parts should have more specific information and content for specialist audiences.
-### Parts ###
+
+#### Parts
 You should break content into sections based on user needs as well as the natural structure of the content.
 
 You don’t have to use parts. If you find that you only have 3 or 4 small parts in a guide, consider simply having a page without parts where users can scroll.
@@ -1043,7 +1044,7 @@ The process of finding and absorbing information on the web should follow these 
 A site only works if users can find what they need quickly, complete their task and leave without 
 having to think about it too much.
 
-### What the user wants matters most ###
+### What the user wants matters most
 Users don’t usually read text unless they want information. When you write for the web, start with the same question every time: what does the user want to know?
 
 Meeting that need means being:
@@ -1052,13 +1053,14 @@ Meeting that need means being:
 - informative
 - clear and to the point
 
-### Where to publish ###
+### Where to publish
 You have a website, so you publish everything there. Right?
 
 Not necessarily.
 
 Think about where your users go. Do they visit blogs, forums, partner sites or social media? Why not talk to them there too? If all you do is publish on your site, you’re always working to get users to visit it.
-### Know your audience ###
+
+### Know your audience
 This is a traditional ‘rule’: you can’t write effectively unless you know who you’re writing for.
 
 It’s true most of the time.
@@ -1074,19 +1076,19 @@ Yes, it is. Whoever your main users are, you need to make your writing as easy t
 
 Can you really write in a way that engages anyone and everyone? The good news is you can.
 
-### Don't ‘push’ content at users, let them ‘pull’ it ###
+### Don't ‘push’ content at users, let them ‘pull’ it
 Traditionally, sites have published lots of information without thinking about the users, ‘pushing’ content at them.
 
 Content that works is information that users want and search for, ‘pulling’ it towards them.
 
-### How users read ###
+### How users read
 Knowing how users read means you’ll write in a way they can understand easily and quickly.
 
 By the time the average child is 9 years old, they can skip up to 30% of words on a page and still accurately predict the text. That’s not just reading online. If there’s enough context, the mind fills in the gaps. You don’t need to read every word to understand what is written.
 
 Also, online, users don’t read in the traditional way. They don’t necessarily read top to bottom or even from word to word.
 
-### Front-loadings ###
+### Front-loadings
 Web-user eye-tracking studies show that people tend to ‘read’ a webpage in an [‘F’ shape pattern](http://www.nngroup.com/articles/f-shaped-pattern-reading-web-content/). They look across the top, then down the side, reading further across when they find what they need.
 
 So ‘front-load’ sub-headings, titles and bullet points. What this means is: put the most important information first.
@@ -1112,7 +1114,7 @@ At the activity centre:
 - you can play
 - you can run
 
-### Common words ###
+### Common words
 By the time a child is 5 or 6 years old, they’ll use 2,500 to 5,000 common words. Even as adults, we find these words easier to recognise and understand.
 
 When you use a longer word (8 or 9 letters), users are more likely to skip shorter words that follow it (words of 3, 4 or 5 letters). So if you use longer, more complicated words, readers will skip more. Keep it simple.
@@ -1124,12 +1126,12 @@ How about:
 
 Focus on the child’s common word set of up to 5,000 words. This makes it easier to read and understand information quickly.
 
-### Start writing ###
+### Start writing
 So now you’re ready to write.
 
 Most users start on a search engine. There’s a good chance your audience won’t even find your page if you don’t use the vocabulary they use for their search in your page title, summary and first paragraph.
 
-### Titles ###
+#### Titles
 You don’t have a lot of space in a search engine to tell your user that the information they want is on your page, so make every word count. Keep all titles to 65 characters (including spaces).
 
 Think about how the title will look in search on mygov.scot and on search engines. Make sure your titles are clear for the content format you are using.
@@ -1141,21 +1143,21 @@ Explain any unusual terms and keep a friendly, informative tone. It’s not a ma
 
 Remember that puns or wordplay can make the content difficult to find.
 
-### Meta descriptions ###
+#### Meta descriptions
 Condense the main point of the page in 160 characters or less. Include the selected search keyword(s), plus any you haven’t included in the page title.
 
 Remember that the meta description – along with the title – is often what users will see in search results. So let them see quickly whether this page will have the information that they want.
 
 Summaries should end with a full stop.
 
-### Body copy ###
+#### Body copy
 Keep your body copy as focused as possible. Include search keywords where possible – without shoehorning them in.
 
 Remember, you’re likely to be battling outside factors for user attention, not least their mood and situation. They might be looking at a smartphone on a train, trying to complete their task online in the middle of a stressful family event, or dealing with any combination of multiple unknowns. If you want their attention, don’t waste their time.
 
 Don’t publish everything you can online. Publish only what the user needs to know so they can complete their task. Nothing more.
 
-### Length of page ###
+#### Length of page
 Jakob Nielsen [ran a study](http://www.nngroup.com/articles/how-little-do-users-read/) that showed users only read 20 to 28% of text on a web page, so you may think: ‘The shorter the page, the better’.
 
 This is generally true. Remember that the pressure on the brain to understand increases for every 100 words you put on a page. The quicker you can get to the point, the faster a user will consume the information, understand and either leave or engage.
@@ -1164,7 +1166,7 @@ But the main point is to write well.
 
 Word counts don’t help if you write text full of caveats, jargon and things users don’t need to know (but you want to say). You can have a single paragraph on a page, but if it’s not written in a user-centred way then it’s too much.
 
-### 7 golden rules for writing for the web ###
+#### 7 golden rules for writing for the web
 You should: 
 
 1. make it brief and to the point
@@ -1175,7 +1177,7 @@ You should:
 6. use words that are easy to understand
 7. use active, not passive, tense
 
-### After publication ###
+#### After publication
 Users expect information to be accurate and up to date. You can archive news stories, but you’ll need to change any other pages as the content changes or when user testing tells you there’s a better way of doing it.
 
 If you don’t, users will lose trust in your content, and may not visit your pages again.
@@ -1489,4 +1491,4 @@ If you don’t, users will lose trust in your content, and may not visit your pa
 |Working Tax Credit|Named benefit, but generic references to tax credits are lower case.
 |written ministerial statement, written statement|Lower case.|
 
-*Contains Government Digital Service information licensed under the [Open Government Licence v2.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/).*
+**Contains information from Government Digital Service licensed under the [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).**
