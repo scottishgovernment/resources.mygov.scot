@@ -14,7 +14,7 @@ headings:
 
 ## Introduction
 
-This paper doucments a process, which could be used within Scottish Government, to suggest and endorse technical standards for the Scottish public sector.
+This paper documents a process, which could be used within Scottish Government, to suggest and endorse technical standards for the Scottish public sector.
 
 <div style="color: #9F6000; background-color: #FEEFB3; font-size: 26px; border-style: solid; border-width: 2px; padding: 5px;">&#10148; Please note this document is currently in <strong>draft</strong> status and may be subject to change. We are happy to receive feedback on this document via the channels in the footer.</div><br>
 
@@ -38,7 +38,7 @@ The process should:
 - Identify stages from initial suggestion through to implementation and review;
 - Suggest activities to be undertaken at each stage;
 - Provide a suitable level of assurance to the Scottish public sector that endorsed standards are appropriate to their needs and that meeting those standards is acheivable;
-- Ensure transaprency and equitability.
+- Ensure transparency and equitability.
 
 
 ## Roles and Responsibilities
