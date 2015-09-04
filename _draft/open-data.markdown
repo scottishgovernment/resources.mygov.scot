@@ -43,4 +43,4 @@ Statement regarding standard followed by period.
 
 ##Supporting material
 
-- [Scottish Government Open Data Strategy](http://www.gov.scot/Resource/0047/00472007.pdf)
+- [Scottish Government Open Data Strategy](http://www.gov.scot/Topics/Economy/digital/digitalservices/datamanagement/OpenData)
