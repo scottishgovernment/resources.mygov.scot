@@ -109,3 +109,7 @@ Deliver a digital service whose impact on the environment, over its whole lifecy
 ### Data Hosting and Data Centres
 
 Adopt cloud computing or virtualisation as the preferred approaches to the delivery of data hosting for the service.
+
+### Sponsor Acceptance
+
+Test the service from beginning to end with the minister responsible for it.
