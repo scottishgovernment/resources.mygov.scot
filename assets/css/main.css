@@ -1304,14 +1304,10 @@ footer .scotgov-logo {
   text-indent: -999em;
   width: 64px;
 }
-/* line 755, ../scss/breakpoints/_base.scss */
-footer .footer-content,
-footer .footer-logos {
-  display: table-cell;
-}
-/* line 760, ../scss/breakpoints/_base.scss */
-footer .footer-logos {
-  padding-left: 3em;
+/* line 784, ../scss/breakpoints/_base.scss */
+footer .footer-logo {
+  float: right;
+  padding-left: 2em;
 }
 
 @media only screen and (min-width: 768px) {

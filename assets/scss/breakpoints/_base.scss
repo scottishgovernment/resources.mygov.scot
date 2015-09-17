@@ -752,12 +752,8 @@ footer {
     width: 64px;
   }
 
-  .footer-content,
-  .footer-logos {
-    display: table-cell;
-  }
-
-  .footer-logos {
-    padding-left: 3em;
+  .footer-logo {
+    float: right;
+    padding-left: 2em;
   }
 }
