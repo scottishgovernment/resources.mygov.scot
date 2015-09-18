@@ -175,5 +175,33 @@ It's not good enough to rely on the html `<blockquote>` element to render all in
 {% include example.html file="nav-button" height="250" %}
 
 
+### 7. Sequential guide navigation
+
+{% include example.html file="guide-sequential" %}
+
+
+### 8. Non-sequential guide navigation
+
+{% include example.html file="guide-non-sequential" %}
+
+
+### 9. Accordion
+
+{% include example.html file="accordion" height="300" %}
+
+
+### 10. Tabs
+
+{% include example.html file="tabs" %}
+
+
+### 11. Notifications
+
+{% include example.html file="notifications" height="300" %}
+
+
+
+
+
 
 
