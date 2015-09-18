@@ -4,7 +4,7 @@ title:  "Style guide"
 date:   2015-09-15 09:00:00
 permalink: ../style-guide/
 categories: documentation
-summary: ... summary ...
+summary: A guide outlining design thinking and approach, covering Grid, Typography and Link language, with common element inline examples.
 parent: home
 headings:
 - The Grid
@@ -81,7 +81,7 @@ Good semantic copy is supported by appropriate styling. Levels of importance are
 
 It's tempting to use all the space available. Don’t. Wide columns of text can make it difficult for the reader to keep their place, as the eye has greater distance to travel from end of one line to the start of the next.
 
-    **Recommended avg. max 14 words per line.**
+**Recommended avg. max 14 words per line.**
 
 All the best attention to typographical detail goes out the window if the body copy sits within an uncomfortably wide column. Further reading with [design composition fundamentals](http://inside.mygov.scot/2014/09/08/design-composition-fundamentals/) blog post.
 
@@ -89,7 +89,7 @@ All the best attention to typographical detail goes out the window if the body c
 ### 3. Font-weight treatment
 
 
-{% include example.html file="fontweight" caption="Font weights" height="650" %}
+{% include example.html file="fontweight" caption="Font weights" height="500" %}
 
 
 ### 4. Typographical variations
