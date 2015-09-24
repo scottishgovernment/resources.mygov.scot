@@ -69,4 +69,13 @@ Used to populate sidebar nav to sections of a document.
 This should be a list of all of the H2-level headings in a document. Copy and paste them from the document content to avoid errors, and be aware that subsequently changing the headers in the document will require that this list also be updated.
 
 
+## Style guide screenshots
+
+Each example in the style guide is a separate HTML page that is typically included via an iFrame in the style guide. In print view, however, we want to show a static image of the examples. We have a [PhantomJS](http://phantomjs.org/) script that creates these images automatically for each example. If you install PhantomJS, you can recreate the images whenever desired with the following command. 
+
+
+    $ phantomjs generate-example-screenshots.js
+
+See the `generate-example-screenshots.js` script for configuration.
+
 

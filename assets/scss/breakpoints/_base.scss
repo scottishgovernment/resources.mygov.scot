@@ -702,7 +702,6 @@ ol.nav {
 figure.example {
 
   margin: ($base-line-height * 2 - 2) 0 ($base-line-height * 2 + 2);
-  max-height: 800px;
 
   &:before {
     content: "EXAMPLE";
@@ -711,12 +710,20 @@ figure.example {
     padding: 4px 10px;
   }
 
-  iframe {
-    width: 100%;
+  iframe, img {
     border: 1px solid $grey-medium;
     padding: 15px;
+  }
+
+  iframe {
+    width: 100%;
+    
     overflow: hidden;
     max-height: 800px;
+  }
+
+  img {
+    display: none;
   }
 
   figcaption {

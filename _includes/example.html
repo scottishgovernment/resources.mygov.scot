@@ -7,6 +7,7 @@
 		{% endif %}
 		scrolling="no"
 	></iframe>
+	<img src="{{ include.file | prepend: site.baseurl | prepend: '/assets/images/example-screenshots/' }}.png" alt="{{ include.file }} example">
 	{% if include.caption %}
 	<figcaption>{{include.caption}}</figcaption>
 	{% endif %}
