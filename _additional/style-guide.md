@@ -74,7 +74,7 @@ Choose a font, try it out, define the rules. Here’s how we have done it...
 
 Good semantic copy is supported by appropriate styling. Levels of importance are defined by size, weight, and margins. Line-height, padding and margins all adhere to the baseline grid of 7px. Any deviations from this are nested within fixed height blocks which adhere to the grid. Any further deviations from this can be put down to ‘artistic license’.
 
-{% include example.html file="headings" caption="Basic headings and paragraph" height="300" %}
+{% include example.html file="headings" caption="Basic headings and paragraph" height="275" %}
 
 
 ### 2. Column width
@@ -89,7 +89,7 @@ All the best attention to typographical detail goes out the window if the body c
 ### 3. Font-weight treatment
 
 
-{% include example.html file="fontweight" caption="Font weights" height="500" %}
+{% include example.html file="fontweight" caption="Font weights" height="600" %}
 
 
 ### 4. Typographical variations
@@ -109,7 +109,7 @@ Similarily we found a need for `<h2>` emphasis in the instances that a `<h2>` ju
 
 Currently breadcrumbs appear on all views expcept mobile (320px). They adopt the 'small print' size and line-height styling defined below...
 
-{% include example.html file="breadcrumbs" caption="Breadcrumbs" height="100" %}
+{% include example.html file="breadcrumbs" caption="Breadcrumbs" height="130" %}
 
 
 ### 6. Informational notes
@@ -129,13 +129,13 @@ It's not good enough to rely on the html `<blockquote>` element to render all in
 
 ### 7. Unordered lists
 
-{% include example.html file="unordered-list" caption="An unordered list" height="400" %}
+{% include example.html file="unordered-list" caption="An unordered list" height="350" %}
 
 
 
 ### 8. Ordered lists
 
-{% include example.html file="ordered-list" caption="An ordered list" height="400" %}
+{% include example.html file="ordered-list" caption="An ordered list" height="350" %}
 
 
 ## Link and button language
