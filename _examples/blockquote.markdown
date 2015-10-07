@@ -5,6 +5,7 @@ parent: examples/
 ---
 
 <blockquote class="info-note blockquote">
-<p>The greatest trick the devil ever pulled was convincing the world he didn't exist (Light italic)</p>
-<cite>Verbal Kint (16px regular)</cite>
+<p>We must never shy away from robust debate, but we should strive always to be
+constructive and respectful.</p>
+<cite>Nicola Sturgeon</cite>
 </blockquote>

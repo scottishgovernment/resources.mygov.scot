@@ -717,9 +717,8 @@ figure.example {
 
   iframe {
     width: 100%;
-    
     overflow: hidden;
-    max-height: 800px;
+    // max-height: 800px;
   }
 
   img {
@@ -731,6 +730,13 @@ figure.example {
     text-align: center;
   }
 }
+
+pre {
+  margin-bottom: 24px;
+  padding: 10px;
+}
+
+
 
 footer {
   background: $grey-lightest;

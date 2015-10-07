@@ -6,5 +6,6 @@ parent: examples/
 
 
 <blockquote class="info-note note">
-	Standard note (Regular 17px / 28px). eg. Legal aid is different if you’ve been charged. Find out more about [criminal legal assistance](#).
+	If you're sending your company's first accounts, you'll usually need to 
+	send more than one Company Tax Return.
 </blockquote>

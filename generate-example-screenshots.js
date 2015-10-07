@@ -37,7 +37,7 @@ var examples_url = 'http://localhost:4000/examples/',
 			'clipRect': { top: 0, left: 0, width: 800, height: 150 }
 		},
 		'fontweight': {
-			'clipRect': { top: 0, left: 0, width: 800, height: 500 }
+			'clipRect': { top: 0, left: 0, width: 800, height: 950 }
 		},
 		'guide-sequential': {
 			'clipRect': { top: 0, left: 0, width: 800, height: 175 }
@@ -52,7 +52,7 @@ var examples_url = 'http://localhost:4000/examples/',
 			'clipRect': { top: 0, left: 0, width: 800, height: 75 }
 		},
 		'headings': {
-			'clipRect': { top: 0, left: 0, width: 800, height: 250 }
+			'clipRect': { top: 0, left: 0, width: 800, height: 950 }
 		},
 		'nav-button': {
 			'clipRect': { top: 0, left: 0, width: 800, height: 225 }
