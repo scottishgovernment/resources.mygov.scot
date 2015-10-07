@@ -208,7 +208,7 @@ Active states are affirming. In the case of buttons the hover state is maintaine
 
 ### 9. Accordion
 
-{% include example.html file="accordion" height="300" %}
+{% include example.html file="accordion" height="400" %}
 
 
 ### 10. Tabs
