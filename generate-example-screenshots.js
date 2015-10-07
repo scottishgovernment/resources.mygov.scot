@@ -25,7 +25,7 @@ var examples_url = 'http://localhost:4000/examples/',
 			'clipRect': { top: 0, left: 0, width: 800, height: 250 }
 		},
 		'blockquote': {
-			'clipRect': { top: 0, left: 0, width: 800, height: 150 }
+			'clipRect': { top: 0, left: 0, width: 800, height: 200 }
 		},
 		'breadcrumbs': {
 			'clipRect': { top: 0, left: 0, width: 800, height: 75 }
@@ -37,7 +37,7 @@ var examples_url = 'http://localhost:4000/examples/',
 			'clipRect': { top: 0, left: 0, width: 800, height: 150 }
 		},
 		'fontweight': {
-			'clipRect': { top: 0, left: 0, width: 800, height: 950 }
+			'clipRect': { top: 0, left: 0, width: 800, height: 1150 }
 		},
 		'guide-sequential': {
 			'clipRect': { top: 0, left: 0, width: 800, height: 175 }
@@ -67,7 +67,7 @@ var examples_url = 'http://localhost:4000/examples/',
 			'clipRect': { top: 0, left: 0, width: 800, height: 200 }
 		},
 		'ordered-list': {
-			'clipRect': { top: 0, left: 0, width: 800, height: 200 }
+			'clipRect': { top: 0, left: 0, width: 800, height: 350 }
 		},
 		'primary-button': {
 			'clipRect': { top: 0, left: 0, width: 800, height: 150 }
@@ -85,7 +85,7 @@ var examples_url = 'http://localhost:4000/examples/',
 			'clipRect': { top: 0, left: 0, width: 800, height: 250 }
 		},
 		'unordered-list': {
-			'clipRect': { top: 0, left: 0, width: 800, height: 200 }
+			'clipRect': { top: 0, left: 0, width: 800, height: 350 }
 		}
 	}, 
 	exampleIndex=0,

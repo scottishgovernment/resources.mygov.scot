@@ -701,17 +701,32 @@ ol.nav {
 
 figure.example {
 
-  margin: ($base-line-height * 2 - 2) 0 ($base-line-height * 2 + 2);
+  // margin: ($base-line-height * 2 - 2) 0 ($base-line-height * 2 + 2);
+  margin-top: 42px;
+  margin-bottom: 77px;
 
   &:before {
+    // content: "EXAMPLE";
+    // background-color: #f0f0f0;
+    // color: #666;
+    // padding: 4px 10px;
+
     content: "EXAMPLE";
-    background-color: $grey-medium;
-    color: white;
+    background-color: white;
+    color: #666;
     padding: 4px 10px;
+    border: 1px solid #ddd;
+    border-bottom: none;
+    margin-bottom: -1px;
+    display: inline-block;
+    z-index: 40;
+    position: relative;
+    font-size: 16px;
+    padding: 5px 15px;
   }
 
   iframe, img {
-    border: 1px solid $grey-medium;
+    border: 1px solid #ddd;
     padding: 15px;
   }
 
@@ -798,4 +813,9 @@ footer {
     float: right;
     padding-left: 2em;
   }
+}
+
+.lead {
+  font-size: 32px;
+  line-height: 42px;
 }

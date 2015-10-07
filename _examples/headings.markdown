@@ -4,7 +4,7 @@ permalink: examples/headings/
 parent: examples/
 ---
 
-<h1>This is an h1 header<br> (font­-weight: Bold/700)</h1>
+<h1>This is an h1 header (font­-weight: Bold/700)</h1>
 
 <p>This is paragraph text (font­ weight: Regular/400). Font­ sizes and associated spacing
 
@@ -14,9 +14,9 @@ HD (1200px+) share the same values while Mobile (≥320px) has a different set o
 
 as defined below.</p>
 
-<h2>This is an h2 header<br> (font­-weight: Bold/700)</h2>
+<h2>This is an h2 header (font­-weight: Bold/700)</h2>
 
-<h3>This is an h3 header<br> (font­-weight: Bold/700)</h3>
+<h3>This is an h3 header (font­-weight: Bold/700)</h3>
 
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
 

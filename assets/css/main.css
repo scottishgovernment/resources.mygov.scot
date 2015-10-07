@@ -1247,42 +1247,51 @@ ol.nav:after {
 
 /* line 702, ../scss/breakpoints/_base.scss */
 figure.example {
-  margin: 12px 0 16px;
+  margin-top: 42px;
+  margin-bottom: 77px;
 }
-/* line 706, ../scss/breakpoints/_base.scss */
+/* line 708, ../scss/breakpoints/_base.scss */
 figure.example:before {
   content: "EXAMPLE";
-  background-color: #cccccc;
-  color: white;
+  background-color: white;
+  color: #666;
   padding: 4px 10px;
+  border: 1px solid #ddd;
+  border-bottom: none;
+  margin-bottom: -1px;
+  display: inline-block;
+  z-index: 40;
+  position: relative;
+  font-size: 16px;
+  padding: 5px 15px;
 }
-/* line 713, ../scss/breakpoints/_base.scss */
+/* line 728, ../scss/breakpoints/_base.scss */
 figure.example iframe, figure.example img {
-  border: 1px solid #cccccc;
+  border: 1px solid #ddd;
   padding: 15px;
 }
-/* line 718, ../scss/breakpoints/_base.scss */
+/* line 733, ../scss/breakpoints/_base.scss */
 figure.example iframe {
   width: 100%;
   overflow: hidden;
 }
-/* line 724, ../scss/breakpoints/_base.scss */
+/* line 739, ../scss/breakpoints/_base.scss */
 figure.example img {
   display: none;
 }
-/* line 728, ../scss/breakpoints/_base.scss */
+/* line 743, ../scss/breakpoints/_base.scss */
 figure.example figcaption {
   font-size: 0.9em;
   text-align: center;
 }
 
-/* line 734, ../scss/breakpoints/_base.scss */
+/* line 749, ../scss/breakpoints/_base.scss */
 pre {
   margin-bottom: 24px;
   padding: 10px;
 }
 
-/* line 741, ../scss/breakpoints/_base.scss */
+/* line 756, ../scss/breakpoints/_base.scss */
 footer {
   background: #fcfcfc;
   border-top: 2px solid #ebebeb;
@@ -1290,48 +1299,48 @@ footer {
   line-height: 14px;
   padding: 21px 0 35px;
 }
-/* line 748, ../scss/breakpoints/_base.scss */
+/* line 763, ../scss/breakpoints/_base.scss */
 footer a {
   text-decoration: underline;
 }
-/* line 752, ../scss/breakpoints/_base.scss */
+/* line 767, ../scss/breakpoints/_base.scss */
 footer h3 {
   font-size: 12px;
   line-height: 21px;
   margin: -4px 0 8px;
 }
-/* line 758, ../scss/breakpoints/_base.scss */
+/* line 773, ../scss/breakpoints/_base.scss */
 footer .footer-links {
   list-style: none;
   margin-left: 0;
 }
-/* line 762, ../scss/breakpoints/_base.scss */
+/* line 777, ../scss/breakpoints/_base.scss */
 footer .footer-links li {
   margin-bottom: 7px;
 }
-/* line 765, ../scss/breakpoints/_base.scss */
+/* line 780, ../scss/breakpoints/_base.scss */
 footer .footer-links li a {
   background: transparent url() no-repeat 0 center;
   color: #000000;
   padding-left: 30px;
 }
-/* line 770, ../scss/breakpoints/_base.scss */
+/* line 785, ../scss/breakpoints/_base.scss */
 footer .footer-links li a.email {
   background-image: url(../images/footer_icons/envelope_mobile_standard_14.png);
 }
-/* line 774, ../scss/breakpoints/_base.scss */
+/* line 789, ../scss/breakpoints/_base.scss */
 footer .footer-links li a.blog {
   background-image: url(../images/footer_icons/speech_mobile_standard_14.png);
 }
-/* line 778, ../scss/breakpoints/_base.scss */
+/* line 793, ../scss/breakpoints/_base.scss */
 footer .footer-links li a.twitter {
   background-image: url(../images/footer_icons/twit_mobile_standard_14.png);
 }
-/* line 782, ../scss/breakpoints/_base.scss */
+/* line 797, ../scss/breakpoints/_base.scss */
 footer .footer-links li a.github {
   background-image: url(../images/footer_icons/code_mobile_standard_14.png);
 }
-/* line 789, ../scss/breakpoints/_base.scss */
+/* line 804, ../scss/breakpoints/_base.scss */
 footer .scotgov-logo {
   background: url(../images/scotgov_logos/sg_logo_mobile_standard_64.png) no-repeat 0 0 transparent;
   display: block;
@@ -1339,10 +1348,16 @@ footer .scotgov-logo {
   text-indent: -999em;
   width: 64px;
 }
-/* line 797, ../scss/breakpoints/_base.scss */
+/* line 812, ../scss/breakpoints/_base.scss */
 footer .footer-logo {
   float: right;
   padding-left: 2em;
+}
+
+/* line 818, ../scss/breakpoints/_base.scss */
+.lead {
+  font-size: 32px;
+  line-height: 42px;
 }
 
 @media only screen and (min-width: 768px) {

@@ -5,7 +5,7 @@ parent: examples/
 ---
 
 
-<a class="button button-cancel" title="Claim Child Benefit" href="https://www.gov.uk/child-benefit" data-gtm="signpost">
+<a class="button button-cancel" title="Claim Child Benefit" href="#" data-gtm="signpost">
                     <span class="link-text">
                         Cancel
                     </span>

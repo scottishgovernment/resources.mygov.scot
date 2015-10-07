@@ -1,19 +1,19 @@
 ---
 layout: article
-title:  "Style guide"
+title:  "Design style guide"
 date:   2015-09-15 09:00:00
 permalink: ../style-guide/
 categories: documentation
 summary: A guide outlining design thinking and approach, covering Grid, Typography and Link language, with common element inline examples.
 parent: home
 headings:
-- The Grid
+- The grid
 - Typography
 - Link and button language
 
 ---
 
-## The Grid
+## The grid
 
 <p class="lead">If you do nothing else: get responsive; be consistent.</p>
 
@@ -74,30 +74,27 @@ We chose to use Roboto, a Google font, which ticks a lot of boxes in terms of re
 
 Good semantic copy is supported by appropriate styling. Levels of importance are defined by size, weight, and margins. Line-height, padding and margins all adhere to the baseline grid of 7px. Any deviations from this are nested within fixed height blocks which adhere to the grid. Any further deviations from this can be put down to ‘artistic license’.
 
-{% include example.html file="headings" caption="Basic headings and paragraph" height="900" %}
+{% include example.html file="headings" caption="Basic headings and paragraph" height="1000" %}
 
 
 ### 2. Column width
 
 It's tempting to use all the space available. Don’t. Wide columns of text can make it difficult for the reader to keep their place, as the eye has greater distance to travel from end of one line to the start of the next.
 
-**Recommended avg. max 14 words per line.**
+*Recommendation: average 14 words per line*
 
 All the best attention to typographical detail goes out the window if the body copy sits within an uncomfortably wide column. Further reading with [design composition fundamentals](http://inside.mygov.scot/2014/09/08/design-composition-fundamentals/) blog post.
 
 
 ### 3. Font weight treatment
 
-To ensure best font­ weight appearance, use the following CSS: 
+To ensure best font­ weight appearance, use font smoothing. This delivers a truer and more legible interpretation of a font-set across macs, and is more consistent with PC display in terms of weight. We achieve that with the following CSS.
 
 	{
         -­webkit­font­smoothing: antialiased;	
     }
 
-  
-This delivers a truer and more legible interpretation of a font-set across macs, and is more consistent with PC display in terms of weight.
-
-{% include example.html file="fontweight" caption="Font weights" height="1000" %}
+{% include example.html file="fontweight" caption="Font weights" height="1250" %}
 
 
 ### 4. Typographical variations
@@ -127,11 +124,11 @@ Currently breadcrumbs appear on all views expcept mobile (320px). They adopt the
 It's not good enough to rely on the html `<blockquote>` element to render all information requiring some kind of highlighting. Here we have a range of ‘informational notes’...
 
 
-{% include example.html file="note" caption="Note" %}
+{% include example.html file="note" caption="Note" height="250" %}
 
 {% include example.html file="note-caution" caption="Note caution" height="250" %}
 
-{% include example.html file="blockquote" caption="Blockquote" %}
+{% include example.html file="blockquote" caption="Blockquote" height="250" %}
 
 {% include example.html file="small-print" caption="Small print" height="150"%}
 
@@ -163,7 +160,7 @@ Links are by default Primary blue. In the case of text links, underline only app
 
 Hover states are subtle indicators. All text and button links darken on hover.
 
-Note: Transitions are almost immediate (0.2 secs duration on hover), and ease out at a slower rate on out (1 sec duration).
+*Note: Transitions are almost immediate (0.2 secs duration on hover), and ease out at a slower rate on out (1 sec duration).*
 
 Active states are affirming. In the case of buttons the hover state is maintained while the reversal text becomes semi-transparent. This maintains a consistency across desktop and mobile devices where hover becomes redundant, while replicating a real-life down-press event. In the case of text links and Category / Content item listings a light blue is applied to the background. This is especially useful to mobile users, as screen size and brightness, smaller text and graphical elements, and poor connectivity can all potentially make it difficult to know whether a link has been pressed. 
 
@@ -201,12 +198,12 @@ Active states are affirming. In the case of buttons the hover state is maintaine
 
 ### 7. Sequential guide navigation
 
-{% include example.html file="guide-sequential" %}
+{% include example.html file="guide-sequential" height="200" %}
 
 
 ### 8. Non-sequential guide navigation
 
-{% include example.html file="guide-non-sequential" %}
+{% include example.html file="guide-non-sequential" height="200" %}
 
 
 ### 9. Accordion
