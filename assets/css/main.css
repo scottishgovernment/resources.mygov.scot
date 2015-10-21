@@ -645,14 +645,14 @@ ul {
 }
 /* line 68, ../scss/breakpoints/_base.scss */
 #header #logo .mygovscot-logo {
-  background: url(../images/mygov_logos/mygovscot_beta_mob_standard_110.png) no-repeat 0 0 transparent;
+  background: url(../images/mygov_logos/mygovscot_130px.png) no-repeat 0 0 transparent;
   border-right: 1px solid #000000;
   display: inline-block;
-  height: 24px;
+  height: 26px;
   margin: 13px 0;
   padding-right: 0.3em;
   text-indent: -999em;
-  width: 120px;
+  width: 140px;
 }
 
 /* line 81, ../scss/breakpoints/_base.scss */
@@ -1611,7 +1611,7 @@ footer .footer-logo {
   }
   /* line 33, ../scss/breakpoints/_desktop.scss */
   #header #logo .mygovscot-logo {
-    background-image: url(../images/mygov_logos/mygovscot_beta_desktop_standard_195.png);
+    background-image: url(../images/mygov_logos/mygovscot_195px.png);
     height: 42px;
     margin: 17px 0;
     width: 205px;
@@ -1642,7 +1642,7 @@ footer .footer-logo {
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min--moz-device-pixel-ratio: 1.5), only screen and (min-device-pixel-ratio: 1.5) {
   /* line 2, ../scss/breakpoints/_2x.scss */
   #header .mygovscot-logo {
-    background-image: url(../images/mygov_logos/mygovscot_beta_mob_hi_220.png);
+    background-image: url(../images/mygov_logos/mygovscot_130px_@2x.png);
     background-size: 110px;
   }
 
