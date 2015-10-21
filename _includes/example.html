@@ -1,0 +1,14 @@
+
+<figure class="example">
+	<iframe 
+		src="{{ include.file | prepend: site.baseurl | prepend: '/examples/' }}" 
+		{% if include.height %}
+		style="height: {{ include.height }}px"
+		{% endif %}
+		scrolling="no"
+	></iframe>
+	<img src="{{ include.file | prepend: site.baseurl | prepend: '/assets/images/example-screenshots/' }}.png" alt="{{ include.file }} example">
+	{% if include.caption %}
+	<figcaption>{{include.caption}}</figcaption>
+	{% endif %}
+</figure>

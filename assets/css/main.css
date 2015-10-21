@@ -768,7 +768,7 @@ ol.breadcrumb {
 }
 /* line 191, ../scss/breakpoints/_base.scss */
 ol.breadcrumb > li + li:before {
-  color: #ebebeb;
+  color: #cccccc;
 }
 
 /* line 196, ../scss/breakpoints/_base.scss */
@@ -872,16 +872,13 @@ ol.nav:after {
   content: '';
   display: block;
   height: 1px;
-  margin-left: 10%;
   position: absolute;
-  width: 23%;
 }
 /* line 306, ../scss/breakpoints/_base.scss */
 #in-page-nav li a {
   color: #333333;
   display: block;
   margin-right: 10%;
-  padding: 0 12% 0 10%;
   position: relative;
 }
 /* line 313, ../scss/breakpoints/_base.scss */
@@ -1225,29 +1222,76 @@ ol.nav:after {
   border-top: 7px solid #333333;
   display: inline-block;
   margin-top: 33px;
+  padding-top: 12px;
 }
-/* line 675, ../scss/breakpoints/_base.scss */
+/* line 676, ../scss/breakpoints/_base.scss */
 .article h2:first-child {
   margin-top: -2px;
 }
-/* line 680, ../scss/breakpoints/_base.scss */
+/* line 681, ../scss/breakpoints/_base.scss */
 .article .introduction {
   font-size: 1.4em;
   font-weight: 300;
   line-height: 28px;
 }
 
-/* line 688, ../scss/breakpoints/_base.scss */
+/* line 691, ../scss/breakpoints/_base.scss */
 .standard.article h2 {
   border-color: #226eaa;
 }
 
-/* line 694, ../scss/breakpoints/_base.scss */
+/* line 697, ../scss/breakpoints/_base.scss */
 .guidelines.article h2 {
   border-color: #a9b259;
 }
 
-/* line 699, ../scss/breakpoints/_base.scss */
+/* line 702, ../scss/breakpoints/_base.scss */
+figure.example {
+  margin-top: 42px;
+  margin-bottom: 77px;
+}
+/* line 708, ../scss/breakpoints/_base.scss */
+figure.example:before {
+  content: "EXAMPLE";
+  background-color: white;
+  color: #666;
+  padding: 4px 10px;
+  border: 1px solid #ddd;
+  border-bottom: none;
+  margin-bottom: -1px;
+  display: inline-block;
+  z-index: 40;
+  position: relative;
+  font-size: 16px;
+  padding: 5px 15px;
+}
+/* line 728, ../scss/breakpoints/_base.scss */
+figure.example iframe, figure.example img {
+  border: 1px solid #ddd;
+  padding: 15px;
+}
+/* line 733, ../scss/breakpoints/_base.scss */
+figure.example iframe {
+  width: 100%;
+  overflow: hidden;
+}
+/* line 739, ../scss/breakpoints/_base.scss */
+figure.example img {
+  display: none;
+}
+/* line 743, ../scss/breakpoints/_base.scss */
+figure.example figcaption {
+  font-size: 0.9em;
+  text-align: center;
+}
+
+/* line 749, ../scss/breakpoints/_base.scss */
+pre {
+  margin-bottom: 24px;
+  padding: 10px;
+}
+
+/* line 756, ../scss/breakpoints/_base.scss */
 footer {
   background: #fcfcfc;
   border-top: 2px solid #ebebeb;
@@ -1255,48 +1299,48 @@ footer {
   line-height: 14px;
   padding: 21px 0 35px;
 }
-/* line 706, ../scss/breakpoints/_base.scss */
+/* line 763, ../scss/breakpoints/_base.scss */
 footer a {
   text-decoration: underline;
 }
-/* line 710, ../scss/breakpoints/_base.scss */
+/* line 767, ../scss/breakpoints/_base.scss */
 footer h3 {
   font-size: 12px;
   line-height: 21px;
   margin: -4px 0 8px;
 }
-/* line 716, ../scss/breakpoints/_base.scss */
+/* line 773, ../scss/breakpoints/_base.scss */
 footer .footer-links {
   list-style: none;
   margin-left: 0;
 }
-/* line 720, ../scss/breakpoints/_base.scss */
+/* line 777, ../scss/breakpoints/_base.scss */
 footer .footer-links li {
   margin-bottom: 7px;
 }
-/* line 723, ../scss/breakpoints/_base.scss */
+/* line 780, ../scss/breakpoints/_base.scss */
 footer .footer-links li a {
   background: transparent url() no-repeat 0 center;
   color: #000000;
   padding-left: 30px;
 }
-/* line 728, ../scss/breakpoints/_base.scss */
+/* line 785, ../scss/breakpoints/_base.scss */
 footer .footer-links li a.email {
   background-image: url(../images/footer_icons/envelope_mobile_standard_14.png);
 }
-/* line 732, ../scss/breakpoints/_base.scss */
+/* line 789, ../scss/breakpoints/_base.scss */
 footer .footer-links li a.blog {
   background-image: url(../images/footer_icons/speech_mobile_standard_14.png);
 }
-/* line 736, ../scss/breakpoints/_base.scss */
+/* line 793, ../scss/breakpoints/_base.scss */
 footer .footer-links li a.twitter {
   background-image: url(../images/footer_icons/twit_mobile_standard_14.png);
 }
-/* line 740, ../scss/breakpoints/_base.scss */
+/* line 797, ../scss/breakpoints/_base.scss */
 footer .footer-links li a.github {
   background-image: url(../images/footer_icons/code_mobile_standard_14.png);
 }
-/* line 747, ../scss/breakpoints/_base.scss */
+/* line 804, ../scss/breakpoints/_base.scss */
 footer .scotgov-logo {
   background: url(../images/scotgov_logos/sg_logo_mobile_standard_64.png) no-repeat 0 0 transparent;
   display: block;
@@ -1304,14 +1348,16 @@ footer .scotgov-logo {
   text-indent: -999em;
   width: 64px;
 }
-/* line 755, ../scss/breakpoints/_base.scss */
-footer .footer-content,
-footer .footer-logos {
-  display: table-cell;
+/* line 812, ../scss/breakpoints/_base.scss */
+footer .footer-logo {
+  float: right;
+  padding-left: 2em;
 }
-/* line 760, ../scss/breakpoints/_base.scss */
-footer .footer-logos {
-  padding-left: 3em;
+
+/* line 818, ../scss/breakpoints/_base.scss */
+.lead {
+  font-size: 32px;
+  line-height: 42px;
 }
 
 @media only screen and (min-width: 768px) {

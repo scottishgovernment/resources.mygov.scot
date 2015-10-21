@@ -1,0 +1,8 @@
+/* line 4, ../scss/print.scss */
+figure.example iframe {
+  display: none;
+}
+/* line 7, ../scss/print.scss */
+figure.example img {
+  display: inline;
+}

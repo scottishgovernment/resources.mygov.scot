@@ -20,3 +20,5 @@ collections:
     output: true
   additional:
     output: true
+  examples:
+    output: true

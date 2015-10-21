@@ -189,7 +189,7 @@ ol.breadcrumb {
   padding: 0;
 
   > li + li:before {
-    color: $grey-light;
+    color: $grey-medium;
   }
 }
 
@@ -298,16 +298,16 @@ ol.nav {
       content: '';
       display: block;
       height: 1px;
-      margin-left: $indent;
+      // margin-left: $indent;
       position: absolute;
-      width: 33% - $indent;
+      // width: 33% - $indent;
     }
 
     a {
       color: $grey-dark;
       display: block;
       margin-right: $indent;
-      padding: 0 $indent * 1.2 0 $indent;
+      // padding: 0 $indent * 1.2 0 $indent;
       position: relative;
 
       .glyphicon {
@@ -671,6 +671,7 @@ ol.nav {
     border-top: $base-line-height solid $grey-dark;
     display: inline-block;
     margin-top: ($base-line-height * 5 - 2);
+    padding-top: ($base-line-height * 2 - 2);
 
     &:first-child {
       margin-top: -2px;
@@ -682,6 +683,8 @@ ol.nav {
     font-weight: 300;
     line-height: $base-line-height * 4;
   }
+
+
 }
 
 .standard.article {
@@ -695,6 +698,60 @@ ol.nav {
     border-color: $green;
   }
 }
+
+figure.example {
+
+  // margin: ($base-line-height * 2 - 2) 0 ($base-line-height * 2 + 2);
+  margin-top: 42px;
+  margin-bottom: 77px;
+
+  &:before {
+    // content: "EXAMPLE";
+    // background-color: #f0f0f0;
+    // color: #666;
+    // padding: 4px 10px;
+
+    content: "EXAMPLE";
+    background-color: white;
+    color: #666;
+    padding: 4px 10px;
+    border: 1px solid #ddd;
+    border-bottom: none;
+    margin-bottom: -1px;
+    display: inline-block;
+    z-index: 40;
+    position: relative;
+    font-size: 16px;
+    padding: 5px 15px;
+  }
+
+  iframe, img {
+    border: 1px solid #ddd;
+    padding: 15px;
+  }
+
+  iframe {
+    width: 100%;
+    overflow: hidden;
+    // max-height: 800px;
+  }
+
+  img {
+    display: none;
+  }
+
+  figcaption {
+    font-size: 0.9em;
+    text-align: center;
+  }
+}
+
+pre {
+  margin-bottom: 24px;
+  padding: 10px;
+}
+
+
 
 footer {
   background: $grey-lightest;
@@ -752,12 +809,13 @@ footer {
     width: 64px;
   }
 
-  .footer-content,
-  .footer-logos {
-    display: table-cell;
+  .footer-logo {
+    float: right;
+    padding-left: 2em;
   }
+}
 
-  .footer-logos {
-    padding-left: 3em;
-  }
+.lead {
+  font-size: 32px;
+  line-height: 42px;
 }
