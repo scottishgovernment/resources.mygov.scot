@@ -3,7 +3,7 @@ layout: default
 title:  "Digital First Service Standard"
 parent: home
 permalink: ../digital-first/
-summary: A draft standard for services that will be provided via mygov.scot.
+summary: The standard for services that will be provided via mygov.scot.
 ---
 
 
