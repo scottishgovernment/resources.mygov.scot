@@ -11,8 +11,6 @@ summary: A draft standard for services that will be provided via mygov.scot.
 
 This document describes the minimum standard required when delivering a citizen-facing, online service, that will be provided via [mygov.scot](http://www.mygov.scot/). The document is based upon GDS' "Digital by Default" standard.
 
-<div style="color: #9F6000; background-color: #FEEFB3; font-size: 26px; border-style: solid; border-width: 2px; padding: 5px;">&#10148; Please note this document is currently in <strong>draft</strong> status and may be subject to change. We are happy to receive feedback on this document via the channels in the footer.</div>
-
 
 ## Contents
 
