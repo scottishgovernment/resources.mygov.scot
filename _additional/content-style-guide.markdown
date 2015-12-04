@@ -23,6 +23,9 @@ headings:
 
 Guidance on content style for mygov.scot, based upon the Government Digital Service GOV.UK editorial style guide.
 
+<div style="color: #9F6000; background-color: #FEEFB3; font-size: 26px; border-style: solid; border-width: 2px; padding: 5px;">&#10148; Please note this document is currently in <strong>draft</strong> status and may be subject to change. We are happy to receive feedback on this document via the channels in the footer.</div>
+
+
 ##Writing for mygov.scot
 
 ###Vision
@@ -33,11 +36,11 @@ We aim to work closely and in partnership with public sector organisations to pu
 
 Only user-led, service-oriented and customer-focused content makes it onto mygov.scot.  It is a place for Scotland’s people, not policy.
 
-Citizens will visit mygov.scot only if they have a need to know or do something. They want to find out how to answer that need as quickly and as easily as possible. 
+Citizens will visit mygov.scot only if they have a need to know or do something. They want to find out how to answer that need as quickly and as easily as possible.
 
 > Users are ‘reading to do’.
 
-Every item of content on mygov.scot serves a specific purpose, directly answering user needs quickly and clearly. Each content item should explain just enough to complete the immediate task – and no more. 
+Every item of content on mygov.scot serves a specific purpose, directly answering user needs quickly and clearly. Each content item should explain just enough to complete the immediate task – and no more.
 
 > We don't give out general information.
 
@@ -88,7 +91,7 @@ These can include:
 Pass to a peer to review for you.
 
 ####Stage 4: Fact check
-Ensure the content item is factually accurate, either by fact checking with a stakeholder or within the team. 
+Ensure the content item is factually accurate, either by fact checking with a stakeholder or within the team.
 
 ####Stage 5: Sign-off
 Ensure the content item has been signed off.
@@ -102,29 +105,29 @@ Content that is too specialised for inclusion on mygov.scot should instead be re
 ##About this guide
 We have used the [GOV.UK content style guide](https://www.gov.uk/government-digital-guidance/content-publishing) as the starting point for our own guide. GOV.UK content will appear on or be accessible from mygov.scot and it makes sense to draw on the extensive user testing and analysis carried out by Government Digital Service (GDS), the team behind GOV.UK.
 
-We have reproduced, revised and added to the information made available by Government Digital Service under the terms of the [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/). 
+We have reproduced, revised and added to the information made available by Government Digital Service under the terms of the [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
 
 Consistency is important: users can find and process what they need more easily if webpages behave the way they expect them to – in terms of design, structure and content. Using this style guide will help us to make all mygov.scot content readable, understandable and accessible.
 
 We take all of the writing for the web points into account when we write for mygov.scot. Then we add the following points:
 
 ###Active voice
-Use the active rather than passive voice – it’s more direct and engaging. This will help us to write concise, clear content that is easy for the user to understand and act on. 
+Use the active rather than passive voice – it’s more direct and engaging. This will help us to write concise, clear content that is easy for the user to understand and act on.
 
 >Example: Write ‘you can’ rather than ‘you may be able to’.
 
 ###Tone of voice
-Every piece of content on mygov.scot has a purpose. We respond to user needs with specific 
-information or instructions. We don’t give out general information. We certainly don’t offer our opinion or give advice. 
+Every piece of content on mygov.scot has a purpose. We respond to user needs with specific
+information or instructions. We don’t give out general information. We certainly don’t offer our opinion or give advice.
 
->Get straight to the point, without being abrupt. 
+>Get straight to the point, without being abrupt.
 
 Write conversationally. Use contractions and keywords that you know the audience actually uses. Use analytics and other sources to help you decide which terms are most appropriate.
 
-Don't be too informal. It’s important to retain an air of authority and dependability and overly chatty familiar or informal text makes the site appear unprofessional. 
+Don't be too informal. It’s important to retain an air of authority and dependability and overly chatty familiar or informal text makes the site appear unprofessional.
 >Example: use ‘call us’ instead of ‘give us a ring’.
 
-Address the user appropriately. Use ‘you’ wherever possible, without being too insistent. Content on the site often makes a direct appeal to citizens and businesses to get involved or to take action. 
+Address the user appropriately. Use ‘you’ wherever possible, without being too insistent. Content on the site often makes a direct appeal to citizens and businesses to get involved or to take action.
 
 >Example: ‘You can contact HMRC by phone or email’ or ‘Pay your car tax’.
 
@@ -139,7 +142,7 @@ Look around. What are you and other teams across central government, NDPBs, heal
 
 When writing a content item for mygov.scot, first check that the user need hasn’t already been covered somewhere else on the website. Each user need has a unique number that identifies it. Search for this in the publishing tool to see if it is already answered somewhere else. Then you can decide which content is best for the site.
 
-It’s important to note that search engines regard duplicate content as an indicator of a low quality site. Including duplicate content could therefore harm the search performance of mygov.scot as a whole. 
+It’s important to note that search engines regard duplicate content as an indicator of a low quality site. Including duplicate content could therefore harm the search performance of mygov.scot as a whole.
 
 If a user need is answered with one content item, which links to related information easily and well, people are more likely to trust mygov.scot content.
 
@@ -151,16 +154,16 @@ So that content is easily understandable, concise and relevant, it should be:
 - clear and concise
 - assertive, but not pushy
 - direct, but not rude
-- helpful, but not informal 
+- helpful, but not informal
 – friendliness can lead to a lack of precision and unnecessary words
 - serious, but not arrogant
-- emotionless and without bias 
+- emotionless and without bias
 – adjectives can be subjective and make the text sound more emotive and like ‘spin’
 
 You should:
 
 - use contractions (e.g. 'don't' instead of 'do not')
-- use the language people are using 
+- use the language people are using
 - use analytics and Google Trends to identify the keywords that people search for
 - not use long sentences with complicated sub-clauses
 
@@ -172,15 +175,15 @@ Make sure text is gender neutral wherever possible. Use ‘them’, ‘their’ 
 ###Stick to the style guide
 Much of this guide is based on a lot of user testing. By keeping to the style guide, we:
 
-- work to our user testing 
+- work to our user testing
 – what’s the point of publishing if we ignore our users?
-- save time 
+- save time
 – users don’t have to learn different conventions
 - eliminate minor mistakes
 - will find it easier to train new people
-- help users 
+- help users
 – some users will pick up on inconsistencies while reading, causing their focus to shift from what’s being said to how it’s being said
-- raise trust levels 
+- raise trust levels
 – if we are consistent, we are giving a coherent view
 
 GDS undertook [research on the impact of style guides](https://www.gov.uk/government/publications/govuk-content-principles-conventions-and-research-background)and is worth reading.
@@ -217,9 +220,9 @@ Don’t use formal or long words where easy or short ones will do.
 |terminate|end, stop|
 |utilise|use|
 
-Avoid any semblance of jargon, whether in the form of specific words or overly complex sentence structure. 
+Avoid any semblance of jargon, whether in the form of specific words or overly complex sentence structure.
 
-We will also lose trust from users if we write in ‘government speak’. 
+We will also lose trust from users if we write in ‘government speak’.
 
 Words that are too general and vague can lead to misinterpretation or empty,  meaningless text.
 
@@ -229,7 +232,7 @@ We can do without these words:
 - advancing
 - collaborate (use ‘working with’)
 - combating
-- commit/pledge (we need to be more specific 
+- commit/pledge (we need to be more specific
 – we’re either doing something or we’re not)
 - countering
 - deliver (pizzas, post and services are delivered – not abstract concepts like ‘improvements’ or ‘priorities’)
@@ -265,16 +268,16 @@ Always avoid metaphors. For example:
 - one-stop shop (we are government, not a retail outlet)
 - ring fencing
 
-You can generally get rid of any of these words by breaking the term down into what you’re actually 
+You can generally get rid of any of these words by breaking the term down into what you’re actually
 doing. Be open and specific.
 
 Write conversationally – picture your audience and write as if you’re talking to them one-to-one but with the authority of someone who can actively help.
 
-All audiences should understand our content. It’s not about ‘dumbing down’; it’s about making public 
+All audiences should understand our content. It’s not about ‘dumbing down’; it’s about making public
 services in Scotland easily accessible by all.
 
 ### Senstivity and using inclusive language
-It is important to recognise that people with people with health conditions or impairments may be sensitive about their conditions, and it is vital that we do not assume that they are defined by them. A person who uses a wheelchair is still a person, they just 
+It is important to recognise that people with people with health conditions or impairments may be sensitive about their conditions, and it is vital that we do not assume that they are defined by them. A person who uses a wheelchair is still a person, they just
 
 |Avoid|Use||
 |:------|:-----|:----------------|
@@ -293,20 +296,20 @@ It is important to recognise that people with people with health conditions or i
 |fits, spells, attacks|seizures|Avoid melodramatic and highly descriptive terms|
 
 ##Language##
-- Use a normal tone of voice, do not patronise or talk down. 
-- Do not define a disabled person by their impairment. It causes offence to be given a medical label. 
-- Take care to ensure that language used does not reinforce a negative stereotype. 
-- Avoid labels that say nothing about the person and reinforce the impression that the disabled person is sick or dependent. 
-- Avoid references that dehumanise, use instead a ‘person with…’ Never say ‘a victim of’ or ‘suffers from’. 
-- Avoid collective nouns, such as ‘the disabled’. One exception is that many deaf people whose first language is British Sign Language (BSL) consider themselves part of ‘the deaf community.’ They may describe themselves as ‘Deaf’, with a capital D, to emphasise their deaf identity. 
--I t is acceptable to use everyday language, for example, ‘see you later’, or ‘another pair of hands.’ 
-- Never attempt to speak or finish a sentence for the person you are talking to. 
-- Address disabled people in the same way as you talk to everyone else. 
-- Communicate directly to a disabled person, even if accompanied by an interpreter or companion. 
-- Ensure the disabled person has a role equal to that of everyone else. 
+- Use a normal tone of voice, do not patronise or talk down.
+- Do not define a disabled person by their impairment. It causes offence to be given a medical label.
+- Take care to ensure that language used does not reinforce a negative stereotype.
+- Avoid labels that say nothing about the person and reinforce the impression that the disabled person is sick or dependent.
+- Avoid references that dehumanise, use instead a ‘person with…’ Never say ‘a victim of’ or ‘suffers from’.
+- Avoid collective nouns, such as ‘the disabled’. One exception is that many deaf people whose first language is British Sign Language (BSL) consider themselves part of ‘the deaf community.’ They may describe themselves as ‘Deaf’, with a capital D, to emphasise their deaf identity.
+-I t is acceptable to use everyday language, for example, ‘see you later’, or ‘another pair of hands.’
+- Never attempt to speak or finish a sentence for the person you are talking to.
+- Address disabled people in the same way as you talk to everyone else.
+- Communicate directly to a disabled person, even if accompanied by an interpreter or companion.
+- Ensure the disabled person has a role equal to that of everyone else.
 
 ###Positive form
-Replace a negative form with a positive one wherever possible. 
+Replace a negative form with a positive one wherever possible.
 
 |Examples:| |
 |:-------------|:---------|
@@ -323,7 +326,7 @@ Legal content can still be written in plain English. It’s important that users
 
 Where evidence shows there’s a clear user need for including a legal term (e.g. ‘bona vacantia’), always explain it in plain English.
 
-Where you need to use technical terms, you can. They’re not jargon. You just need to contain them 
+Where you need to use technical terms, you can. They’re not jargon. You just need to contain them
 within single quotes and explain what they mean the first time you use them.
 
 ###Search results
@@ -334,18 +337,18 @@ Most people want to know the price of a passport before they apply. Well-structu
 When they’re ready, users can click a link, read the rest of the information and apply. If you have a simple answer to a question, try to put it in the summary.
 
 ### Spelling
-Refer to the *Concise Oxford English Dictionary*, 12th edition (Oxford University Press, Oxford New York, 2011) for spelling and hyphenation. 
+Refer to the *Concise Oxford English Dictionary*, 12th edition (Oxford University Press, Oxford New York, 2011) for spelling and hyphenation.
 
-- Use British English rather than American English. 
-- Choose ‘s’ spellings over ‘z’ forms, e.g., realise, organise, immunisation, organisation. 
+- Use British English rather than American English.
+- Choose ‘s’ spellings over ‘z’ forms, e.g., realise, organise, immunisation, organisation.
 - Exceptions include where it’s part of a specific name, e.g. ‘World Health Organization’.
-- All references to mygov.scot should be in lower case and contain a full stop before ‘scot’. 
+- All references to mygov.scot should be in lower case and contain a full stop before ‘scot’.
 
 ###Read it aloud
-Read each content item aloud and check there’s nothing superfluous. Always keep in mind the 
+Read each content item aloud and check there’s nothing superfluous. Always keep in mind the
 specific user need.
 
-Ask yourself: 
+Ask yourself:
 
 - Does it make sense?
 - Does it flow?
@@ -367,9 +370,9 @@ Remember that a lot of people you will deal with have no knowledge of user behav
 ##Search engine optimisation (SEO)
 
 ###Why optimise content for search engines
-Your content may answer user needs simply and succinctly, but no one will read it if it’s too difficult to find. 
+Your content may answer user needs simply and succinctly, but no one will read it if it’s too difficult to find.
 
-Research shows that search engines are where most users start their search for information. 
+Research shows that search engines are where most users start their search for information.
 
 When designing content it’s important to identify words and terms that people are actually entering into search engines to try to find what they need, and to include those terms at various key points within the content.
 
@@ -388,7 +391,7 @@ Use search tools like [SEMrush](http://www.semrush.com/), [Google Trends](http:/
 
 For example, users looking for financial support whilst unemployed may enter the term ‘jobseeker’s allowance’ most frequently, but ‘JSA’ and ‘unemployment benefit’ could also receive a significant amount of traffic.
 
-To check the popularity of your preferred term, enter it into the [SEMrush](http://www.semrush.com/) search field. Make sure results are filtered for the UK. 
+To check the popularity of your preferred term, enter it into the [SEMrush](http://www.semrush.com/) search field. Make sure results are filtered for the UK.
 
 ###Double-check with Google Trends
 Volume figures aren’t exact, so focus on trends and relative popularity over numbers. Use multiple tools to make big decisions based on data, like which keywords to use in a title.
@@ -396,12 +399,12 @@ Volume figures aren’t exact, so focus on trends and relative popularity over n
 [Google Trends](http://www.google.co.uk/trends/) allows you to compare alternative keywords, and shows seasonal trends.
 
 ###Finalise keyword selection with Google AdWords
-The [Google AdWords Keyword Planner](https://adwords.google.com/KeywordPlanner) can help to finalise the keyword selection for a particular 
-content item, as it shows detailed search level data around a particular keyword. 
+The [Google AdWords Keyword Planner](https://adwords.google.com/KeywordPlanner) can help to finalise the keyword selection for a particular
+content item, as it shows detailed search level data around a particular keyword.
 
-For example, the tool shows that ‘claim jobseeker’s allowance’ is searched for more frequently than‘get jobseeker’s allowance’ or ‘apply for jobseeker’s allowance’. 
+For example, the tool shows that ‘claim jobseeker’s allowance’ is searched for more frequently than‘get jobseeker’s allowance’ or ‘apply for jobseeker’s allowance’.
 
-This would help to confirm the selection of ‘how to claim jobseeker’s allowance’ as the primary keyword phrase for that piece of content. 
+This would help to confirm the selection of ‘how to claim jobseeker’s allowance’ as the primary keyword phrase for that piece of content.
 
 ###Optimise content
 Once you know the most popular keywords you can prioritise them in the:
@@ -411,14 +414,14 @@ Once you know the most popular keywords you can prioritise them in the:
 - introductions/summaries
 - chapter/part titles
 - body copy
-- metadata descriptions 
+- metadata descriptions
 
 You can cover more than one keyword. For example, you can use ‘jobseeker’s’ and ‘allowance’ throughout the page but also include ‘JSA’ and ‘unemployment benefit’ in the first sentence, since a lot of people also search using these terms.
 
 ###Get a more detailed understanding of your need
 As well as the keywords that people are using in search, you can uncover the specific themes that people are searching for within a subject with the search tools above.
 
-For example, the [Google AdWords Keyword Planner](https://adwords.google.com/KeywordPlanner) also shows you terms related to ‘jobseeker’s 
+For example, the [Google AdWords Keyword Planner](https://adwords.google.com/KeywordPlanner) also shows you terms related to ‘jobseeker’s
 allowance’. In its report, the long list of keywords is aggregated into themes, and you can click on each theme heading to get the different keywords.
 
 The report shows that the following topics should be addressed within this content item:
@@ -436,7 +439,7 @@ Keywords included in meta descriptions will be displayed in bold in search engin
 ####Guides / benefits / schemes
 Provide a brief overview that front-loads popular keywords, and then list other popular keywords in the format below. You can use meta descriptions to clarify ambiguities around audience, or to differentiate titles that are similar:
 
-*Example:* 
+*Example:*
 	Holiday entitlement or annual leave – information for employers and workers on entitlement, calculating leave, taking leave, accruing leave and disputes.
 
 ####Quick answers
@@ -449,7 +452,7 @@ This is because FAQs:
 
 - duplicate other content on the site
 - can’t be front-loaded (putting the most important words users will search for first), which makes usability difficult
-- are usually not questions frequently asked by the user, but a ‘dumping ground’ for important 
+- are usually not questions frequently asked by the user, but a ‘dumping ground’ for important
 information
 - mean that content is not where users expect to find it; it needs to be in context
 
@@ -462,7 +465,7 @@ A source document is tagged when it’s converted into a PDF. The PDF tag tree r
 Use the styles and features available in Word to format your content and give it structure. This will make it easier to convert your source document into a PDF because it lays the groundwork for the PDF tag tree.
 
 **Use headings**
-Use the heading styles in Word to create a logical document structure. Don’t increase the size of text or make it bold to create the appearance of headings. 
+Use the heading styles in Word to create a logical document structure. Don’t increase the size of text or make it bold to create the appearance of headings.
 
 Treat your document like a book. It should have one title (level one heading) and multiple chapters (level two headings). Within each chapter there may be multiple sections (level three headings) and subsections (level four headings).
 
@@ -476,7 +479,7 @@ If your document is longer than a few pages, use Word to automatically create a 
 
 - **Alignment:** Use left aligned text (unless the language of your document is read right to left). Don’t use justified text in your document.
 - **Font:** Choose a sans serif font and use the styles in Word to set it as the default
-- **Font size:** Always use a minimum size of 12pt. 
+- **Font size:** Always use a minimum size of 12pt.
 - **Headers and footers:** If you need to include footnotes or other text of a smaller size, increase the size of the body text to 14pt, rather than reduce the size of text below 12pt.
 - **Italics and Boldface:** Don’t use chunks of italicised or capitalised text, and don’t underline text unless it’s a link.
 
@@ -519,7 +522,7 @@ Remove empty tags from the tag tree. Use the **Tags** panel to highlight and del
 Tag decorative content elements as artefacts. Use **Advanced > Accessibility > Touch up reading order** to select a decorative element, and use the **Background** button to make the element an artefact.
 
 **Check data tables**
-Use the **Tags** panel to check the structure of data tables. The `<table>`, `<tr>` and `<td>` tags should be used to give data tables the proper structure. 
+Use the **Tags** panel to check the structure of data tables. The `<table>`, `<tr>` and `<td>` tags should be used to give data tables the proper structure.
 
 **Active links**
 Use the **Tags** panel to check that links are active. Active links should be tagged with the `<link>` tag.
@@ -540,7 +543,7 @@ Go to **Advanced > Accessibility** and select **Full check**. The PDF should pas
 Ask a screen reader user to read through the PDF. If no one is available to do this, use one of the following options instead.
 
 **Use NVDA**
-[Non Visual Desktop Access (NVDA)](http://www.nvda-project.org/) is a free open source screen reader for Windows. It can be 
+[Non Visual Desktop Access (NVDA)](http://www.nvda-project.org/) is a free open source screen reader for Windows. It can be
 installed on the desktop or run from a portable USB thumb drive.
 
 With NVDA running, open the PDF and use the following commands to check the PDF:
@@ -562,8 +565,8 @@ Note: VoiceOver does not provide shortcut keys for navigating by headings or gra
 Do not use a full stop after abbreviated titles, such as Dr, but do use full stops as shown for these Latin abbreviations:
 
 - e.g.
-- i.e. 
-- etc. 
+- i.e.
+- etc.
 
 User testing has shown that some people are unfamiliar with such abbreviations, so consider your audience before abbreviating.
 
@@ -583,7 +586,7 @@ Quick reminder: Freedom of Information – you can make an FOI request but not a
 ### Americanisms ###
 Don’t use Americanisms. You ‘fill in’ a form, not ‘fill out’ a form. You ‘wait for’ a reply, not ‘wait on’ a reply.
 ### Ampersand ###
-The ampersand symbol (&) should only appear in the logo image of an organisation or department. 
+The ampersand symbol (&) should only appear in the logo image of an organisation or department.
 Always use ‘and’ in headings, subheadings and body copy.
 ### Brackets ###
 Use (round brackets), not [square brackets]. Avoid using brackets within brackets.
@@ -602,14 +605,14 @@ You can use bullet points to make text easier to read. Make sure that:
 - if you add links they appear within the text and not as the whole bullet
 - there is no full stop after the last bullet point
 
-Don’t use full stops at the end of bullet points unless each is a complete sentence that can stand alone. (If this is the case, introduce the bullet points with a heading only and use sentence case throughout, starting each bullet point with a leading capital letter.) 
+Don’t use full stops at the end of bullet points unless each is a complete sentence that can stand alone. (If this is the case, introduce the bullet points with a heading only and use sentence case throughout, starting each bullet point with a leading capital letter.)
 
 Use numbered steps instead of bullet points to guide a user through a process. You don't need a lead-in line and you can use links and downloads (with appropriate markdown) in steps. Each step ends with a full stop because each step should be a complete sentence.
 
 ### Capitalisation ###
 DON’T USE BLOCK CAPITALS FOR LARGE AMOUNTS OF TEXT, AS IT’S QUITE HARD TO READ.
 
-Use sentence case for headings and subheadings. 
+Use sentence case for headings and subheadings.
 
 #### Lower case is preferable but use capitalisation for: ####
 - directorates (specific government directorates – see below)
@@ -619,25 +622,25 @@ Use sentence case for headings and subheadings.
 - brand names
 - The Earth (i.e. our planet), Planet Earth and Earth sciences
 - faculties, departments, institutes and schools
-- job titles, ministers’ role titles, e.g. Minister for Housing and Welfare, Secretary of State for 
+- job titles, ministers’ role titles, e.g. Minister for Housing and Welfare, Secretary of State for
 - Scotland
 - names of groups, directorates and organisations, e.g. Knowledge and Innovation Group
 - Parliament, the House; the Scottish Parliament, the Chamber
-- titles of specific acts or bills, e.g. Housing (Scotland) Bill (but use ‘the act’ or ‘the bill’ after the first 
+- titles of specific acts or bills, e.g. Housing (Scotland) Bill (but use ‘the act’ or ‘the bill’ after the first
 - time you use the full act or bill title)
-- names of specific, named government schemes known to people outside government, e.g. Right 
+- names of specific, named government schemes known to people outside government, e.g. Right
 - to Buy, Queen’s Awards for Enterprise
 - Rt Hon (note lack of full stops)
 - specific select committees, e.g. Scottish Affairs Select Committee
 - header cells in tables
-- titles of publications 
+- titles of publications
 - World War 1 and World War 2 (note caps and numbers)
 
 #### Don’t capitalise: ####
 - civil service
-- minister – never Minister, unless part of a specific job title, e.g. Minister for Parliamentary 
+- minister – never Minister, unless part of a specific job title, e.g. Minister for Parliamentary
 - Business
-- department or ministry – never Department or Ministry, unless referring to a specific one, e.g. 
+- department or ministry – never Department or Ministry, unless referring to a specific one, e.g.
 - Ministry of Defence
 - group and directorate, unless referring to a specific group or directorate,  
 - e.g. the Scottish Procurement and Commercial Directorate
@@ -652,7 +655,7 @@ Use sentence case for headings and subheadings.
 ### Capitals for government departments ###
 Use the following conventions for UK Government departments/Scottish Government directorates and NDPBs. A department/directorate/NDPB using an ampersand in its logo image is fine but use ‘and’ when writing in full text.
 
-- Agriculture, Food and Rural Communities Directorate 
+- Agriculture, Food and Rural Communities Directorate
 - Attorney General’s Office (AGO)
 - Business Directorate
 - Cabinet Office (CO)
@@ -737,7 +740,7 @@ When referring to ‘today’ (e.g. in a news article) make sure you include the
 Write email addresses in full, in lower case and as active links. Don’t include any other words as part of the link.
 
 ### En dash (−) ###
-You can use an en dash (but not a hyphen) in place of a colon or brackets, or to add emphasis. Include a single space on either side of an en dash. 
+You can use an en dash (but not a hyphen) in place of a colon or brackets, or to add emphasis. Include a single space on either side of an en dash.
 
 Choosing en dashes over brackets can give text a more contemporary feel.  This is appropriate when writing progressive text in place of a colon:
 
@@ -757,9 +760,9 @@ Compass directions are all in lower case: the north, the south of England, the s
 
 The same applies to wider regions: the west, western Europe.
 
-Note the following: East End, West End (London), Middle East, Central America, North America, 
-South America, Latin America, South East Asia, the Far East, the West/Western (when referring to 
-Europe and North America). 
+Note the following: East End, West End (London), Middle East, Central America, North America,
+South America, Latin America, South East Asia, the Far East, the West/Western (when referring to
+Europe and North America).
 
 If in doubt, refer to the *New Oxford English Dictionary for Writers and Editors*.
 
@@ -773,12 +776,12 @@ Use UK and United Kingdom in preference to Britain and British (UK business, UK 
 ### Headers and subheads ###
 Use a leading capital letter for only the first word in a header or subhead – except where a proper noun (name) also appears.
 
-If a header includes a colon the word that follows immediately after should also have a leading capital letter. 
+If a header includes a colon the word that follows immediately after should also have a leading capital letter.
 
 ### Hyphenation ###
 Hyphenate ‘re-’ words starting with ‘e’, e.g. re-evaluate
 
-|Don't hyphenate:| 
+|Don't hyphenate:|
 |:-------------|
 |reinvent|
 |reopen|
@@ -851,7 +854,7 @@ Write out ‘pence’ in full – ‘calls will cost 4 pence per minute from a l
 ### Organisations ###
 An organisation is a single entity, so takes the singular form of a verb.  E.g., ‘The Scottish Government is the devolved government for Scotland.’
 
-The definite article can be used when referring to the organisation by its full name, but shouldn’t normally be used with the organisation’s acronym. 
+The definite article can be used when referring to the organisation by its full name, but shouldn’t normally be used with the organisation’s acronym.
 
 *Example:*
 	You should contact the Driving Standards Agency.
@@ -864,26 +867,26 @@ Use of the indefinite articles: use ‘an’ with silent ‘h’ words not hard 
 Use ‘local council’ instead of ‘local authority’ where possible.
 
 ### Oxford comma ###
-Avoid using the Oxford comma except where doing so will help to prevent confusion. 
+Avoid using the Oxford comma except where doing so will help to prevent confusion.
 
 *Examples:*
 	Include your completed form, driving licence and a copy of your birth certificate.
-	Find out information about holiday entitlement, calculating leave, taking leave, accruing 
-	leave, and disputes. 
+	Find out information about holiday entitlement, calculating leave, taking leave, accruing
+	leave, and disputes.
 
 ### Plurals ###
-Some nouns have an irregular plural form. If in doubt, refer to the *Concise Oxford English Dictionary*, 12th edition (2011). 
+Some nouns have an irregular plural form. If in doubt, refer to the *Concise Oxford English Dictionary*, 12th edition (2011).
 
-Although datum is the proper singular form of data, it is rarely used. Use data for the singular and plural noun. Data agrees with the singular verb, however. 
+Although datum is the proper singular form of data, it is rarely used. Use data for the singular and plural noun. Data agrees with the singular verb, however.
 
 *Examples:*
-Your data is kept securely in our system. 
+Your data is kept securely in our system.
 We will use your data if it helps us to progress your case.
 Noun plurals never take an apostrophe unless the possessive is being used.
 
 *Example:*
 Watch MSPs take part in debate.
-Discuss the MSPs’ performance after the debate. 
+Discuss the MSPs’ performance after the debate.
 
 
 ### Quotes and speech marks ###
@@ -895,8 +898,8 @@ in headlines for unusual terms that require explanation when referring to titles
 Note: Use roman font (no single quotes) for book and newspaper titles (but use title case, as used by the publication) – e.g. *New Oxford English Dictionary for Writers and Editors*.
 
 #### Double quotes ####
-Use double quotes in body text for direct quotations of speech or source material. 
-Enclose punctuation for direct speech inside the double quotes. 
+Use double quotes in body text for direct quotations of speech or source material.
+Enclose punctuation for direct speech inside the double quotes.
 
 Never precede quoted speech with ‘that’. E.g. The First Minister said, “This is great news.”
 
@@ -918,7 +921,7 @@ Use ‘Telephone: 011 111 111’ or ‘Mobile:’ not ‘Mob:’. Use spaces bet
 - 077718 300 300
 - +44 (0)20 7450 4000
 - +39 1 33 45 70 90
- 
+
 If possible, group the numbers into easily remembered units, e.g. 0800 80 70 60.
 
 ### Titles ###
@@ -929,13 +932,13 @@ Remember all of the search engine optimisation points and use colons to introduc
 
 *Bad example: *
  	‘An assessment of the impact of proposed reforms to Income Tax’
- 	
+
 ### Transactions and services ###
 These are pre-transaction pages. Use SEO to define the title, so if people search for ‘registry office’, put that in the summary or body text and then explain the proper term is  ‘register office’.
 
 Give one sentence on what the user can expect from the service – this will appear  before the button.
 
-‘What you need to know’ section: This is where you put information that the user will need to complete the transaction and information about how long it takes, how much there will be to pay etc. 
+‘What you need to know’ section: This is where you put information that the user will need to complete the transaction and information about how long it takes, how much there will be to pay etc.
 
 You can add alternatives to the online transaction at the foot of the page.
 
@@ -979,16 +982,16 @@ Make the answer part of a longer guide when it:
 ### Benefits and schemes
 
 #### Overview
-Give people what they want to know without going into detail, e.g. the rate and how long it’s paid for. 
+Give people what they want to know without going into detail, e.g. the rate and how long it’s paid for.
 
-- Don’t use one long paragraph. 
+- Don’t use one long paragraph.
 - Separate the main points.
 
 #### Main sections
 You’ll meet the user’s need by:
 
 - sticking to the title and need
-- resisting the temptation to provide information around the subject 
+- resisting the temptation to provide information around the subject
 - using examples for complex calculations (use example markdown)
 - sticking to the common case – put unusual cases in ‘Further information’
 
@@ -1041,7 +1044,7 @@ The process of finding and absorbing information on the web should follow these 
 5. I trust the information.
 6. I know what to do next and I don’t need anything else.
 
-A site only works if users can find what they need quickly, complete their task and leave without 
+A site only works if users can find what they need quickly, complete their task and leave without
 having to think about it too much.
 
 ### What the user wants matters most
@@ -1065,7 +1068,7 @@ This is a traditional ‘rule’: you can’t write effectively unless you know 
 
 It’s true most of the time.
 
-If you have a specific audience in mind, knowing how they behave can mean the difference between 
+If you have a specific audience in mind, knowing how they behave can mean the difference between
 success and complete failure.
 
 You definitely need to know the vocabulary of your users. That’s the one golden rule. If you don’t use the same terms and phrases as them, they may never find your content. You’ve failed.
@@ -1097,7 +1100,7 @@ For example, say ‘Canteen menu’, not ‘What’s on the menu at the canteen 
 
 Make sure your bullet points are all in the same tense and verb form, with any common information in the lead-in.
 
-*Good example:* 
+*Good example:*
 
 At the activity centre you can:
 
@@ -1119,7 +1122,7 @@ By the time a child is 5 or 6 years old, they’ll use 2,500 to 5,000 common wor
 
 When you use a longer word (8 or 9 letters), users are more likely to skip shorter words that follow it (words of 3, 4 or 5 letters). So if you use longer, more complicated words, readers will skip more. Keep it simple.
 
-Look at this sentence: “The recently implemented categorical standardisation procedure on waste oil should not be applied before 1 January 2014.” It’s just an example, but you can imagine people missing that ‘not’. This is a big deal. 
+Look at this sentence: “The recently implemented categorical standardisation procedure on waste oil should not be applied before 1 January 2014.” It’s just an example, but you can imagine people missing that ‘not’. This is a big deal.
 
 How about:
 “Do not use the new waste oil standards before 1 January 2014.”
@@ -1136,7 +1139,7 @@ You don’t have a lot of space in a search engine to tell your user that the in
 
 Think about how the title will look in search on mygov.scot and on search engines. Make sure your titles are clear for the content format you are using.
 
-Front-load keywords and use colons to break up long titles (it helps users to scan).  ‘Planning appeal procedures: Technical review’ works better than ‘Technical review of planning 
+Front-load keywords and use colons to break up long titles (it helps users to scan).  ‘Planning appeal procedures: Technical review’ works better than ‘Technical review of planning
 appeal procedures’.
 
 Explain any unusual terms and keep a friendly, informative tone. It’s not a magazine and we won’t be using slang, etc., but keep the language easy to understand.
@@ -1167,12 +1170,12 @@ But the main point is to write well.
 Word counts don’t help if you write text full of caveats, jargon and things users don’t need to know (but you want to say). You can have a single paragraph on a page, but if it’s not written in a user-centred way then it’s too much.
 
 #### 7 golden rules for writing for the web
-You should: 
+You should:
 
 1. make it brief and to the point
 2. break up text into subheaded sections
 3. use bullet lists
-4. ‘front-load’ subheadings, titles and bullet points with the most important information 
+4. ‘front-load’ subheadings, titles and bullet points with the most important information
 5. include links to external sites and relevant pages
 6. use words that are easy to understand
 7. use active, not passive, tense
@@ -1184,7 +1187,7 @@ If you don’t, users will lose trust in your content, and may not visit your pa
 
 
 ## A to Z of common terms ##
- 
+
 |  A                         |                                                          |
 |:--------------------------|:----------------------------------------------------------|
 |Access to Work Scheme|This is an official title when you are referring directly to the actual programme, so is in upper case; if not, then use lower case. |
@@ -1215,7 +1218,7 @@ If you don’t, users will lose trust in your content, and may not visit your pa
 |**C**|
 |cabinet, Scottish cabinet|The cabinet is lower case, unless referring to a title, e.g. Cabinet Secretary for Education and Lifelong Learning, but education secretary.|
 |Cairngorms National Park|This is an official name. |
-|CAMHS (Child and Adolescent Mental Health Services) |More usually known by its acronym.| 
+|CAMHS (Child and Adolescent Mental Health Services) |More usually known by its acronym.|
 |Capital Gains Tax|This is an official title.|
 |Care Inspectorate|This is an official title. |
 |ceilidh|Lower case.|
@@ -1226,18 +1229,18 @@ If you don’t, users will lose trust in your content, and may not visit your pa
 |Child Benefit|This is an official title.|
 |Child Tax Credit|Named benefit, but generic references to tax credits are lower case.|
 |Childcare Allowance for Parents|This is an official title.|
-|Citizens Advice Bureau(x)|No apostrophe. The bureaux are the actual offices that dispense advice.| 
+|Citizens Advice Bureau(x)|No apostrophe. The bureaux are the actual offices that dispense advice.|
 |Citizens Advice Scotland|No apostrophe. This is the charity that oversees all Citizens Advice Bureaux.|
 |Civil Contingencies Secretariat|Upper case because it's the name of an organisation.|
 |civil service|Lower case.|
 |coalition|Lower case in all instances, including 'the coalition'.|
 |CO2|Use capital letters and a regular 2.
 |coastguard|Not a title.
-|code of practice|Lower case. 
+|code of practice|Lower case.
 |Comhairle nan Eilean Siar|Local government council for the Na h-Eileanan Siar council area; Scotland’s sole Gaelic-only named council (formerly the Western Isles Council).|
 |commercial software|Not 'third party software' or '3rd party software'.
 |community council|Lower case.
-|community health partnership (CHP); community health and care partnership (CHCP)|Use capitals when referring to an official name, e.g. NHS Mid Highland| 
+|community health partnership (CHP); community health and care partnership (CHCP)|Use capitals when referring to an official name, e.g. NHS Mid Highland|
 |Community Health Partnership.||
 |Community Health Index (CHI) |Number|
 |community resilience|Lower case.|
@@ -1293,13 +1296,13 @@ If you don’t, users will lose trust in your content, and may not visit your pa
 |focuses, focused|Single ‘s’ only.|
 |foot and mouth disease|Lower case.|
 |free school meals|Lower case.|
-|Freedom of Information (Scotland) Act (FOISA)|This is an official title.| 
+|Freedom of Information (Scotland) Act (FOISA)|This is an official title.|
 |fulfil|Ends with a single ‘l’.|
 |Full Payment Submission|Upper case.|
 |**G**|
-|Gaelic/Gàidhlig|This is a proper noun.| 
+|Gaelic/Gàidhlig|This is a proper noun.|
 |general election|Lower case.|
-|GIRFEC|Getting it right for every child; this approach is more usually known by its acronym.| 
+|GIRFEC|Getting it right for every child; this approach is more usually known by its acronym.|
 |government|Lower case unless referring to a specific government,  e.g. Scottish Government, UK Government.|
 |government offices|Lower case.|
 |government procurement card|Lower case.|
@@ -1309,9 +1312,9 @@ If you don’t, users will lose trust in your content, and may not visit your pa
 |**H**|
 |harbour authority|Lower case unless part of a proper noun, e.g. Wick Harbour Authority.|
 |harbour master|Not a title, therefore lower case.|
-|Health Protection Scotland|This is an official title.| 
+|Health Protection Scotland|This is an official title.|
 |High Court of Justiciary|This is a proper noun.|
-|Hogmanay|This is a proper noun.| 
+|Hogmanay|This is a proper noun.|
 |home page|Lower case, two words.|
 |human resources|Lower case.|
 |**I**|
@@ -1332,7 +1335,7 @@ If you don’t, users will lose trust in your content, and may not visit your pa
 |license| Verb, e.g. 'Driver and Vehicle Licensing Agency'|
 |Local Authority Trading Standards Services|Upper case as long as it's a specific named organisation, not trading standards services in general.|
 |local council|Lower case.|
-|Loch Lomond and The Trossachs National Park|This is an official name.| 
+|Loch Lomond and The Trossachs National Park|This is an official name.|
 |Lone Parents Childcare Grant|This is an official title.|
 |lottery| Always use the National Lottery if that is what you mean.
 |**M**|
@@ -1348,7 +1351,7 @@ If you don’t, users will lose trust in your content, and may not visit your pa
 |money laundering|Lower case when referring to the activity not the regulation.|
 |**N**|
 |Na h-Eileanan an Iar|Scottish Parliament and UK Parliament constituency area.|
-|Na h-Eileanan Siar|The official name of the council area formerly known as the Western Isles.| 
+|Na h-Eileanan Siar|The official name of the council area formerly known as the Western Isles.|
 |National Insurance card||
 |National Insurance contributions(NICs)||
 |National Insurance number|Not NINO.|
@@ -1359,7 +1362,7 @@ If you don’t, users will lose trust in your content, and may not visit your pa
 |New Export System (NES)||
 |NHS 24|Note the single space.|
 |NHS local health board,  NHS special health board|Lower case. Note: there are no NHS trusts in Scotland.|
-|non-executive director|Lower case in text. Ue capitals for titles, e.g. (name), Non-executive Director, NMS.| 
+|non-executive director|Lower case in text. Ue capitals for titles, e.g. (name), Non-executive Director, NMS.|
 |Nuclear Decommissioning Authority|Upper case because it's the name of an organisation.|
 |**O**|
 |occupational pension|This term covers both company and public sector pension schemes. Only use this term if explaining tax rules that apply specifically to occupational pension schemes.|
@@ -1373,7 +1376,7 @@ If you don’t, users will lose trust in your content, and may not visit your pa
 |**P**|
 |Parliament, Scottish Parliament|Upper case.|
 |Parliamentary|Upper case.|
-|Parliamentary Bureau|This is an official title.| 
+|Parliamentary Bureau|This is an official title.|
 |Parliamentary committees, Scottish Parliament committees|Parliamentary/Parliament takes an initial capital and committees is in lower case.|
 |Patent Box|When referring to the product/relief/regime, then say 'the Patent Box'. Occasionally the definite article will be dropped. Examples of this are: in calculations - where we use 'Patent Box deduction' when using phrases such as 'Answers to your Patent Box questions', etc.|
 |payroll|Lower case.|
@@ -1406,7 +1409,7 @@ If you don’t, users will lose trust in your content, and may not visit your pa
 |Reduced Earnings Allowance|Named benefit.|
 |regulations|Use capitals when referring to 'Regulations' in a full title, e.g. Licensing of Animal Dealers (Young Cats and Young Dogs) (Scotland) Regulations 2009 or the Fruit Juices and Fruit Nectars (Scotland) Regulations 2013, but usually 'the licensing of animal dealers regulations'. No comma before the date.|
 |reform plan|Lower case.|
-|regional resilience partnership|Lower case, but use capitals when referring to an official title, e.g. ‘North of Scotland Regional Resilience Partnership’. 
+|regional resilience partnership|Lower case, but use capitals when referring to an official title, e.g. ‘North of Scotland Regional Resilience Partnership’.
 |research team|When a group that has a very generic title (e.g. working group, research team) it should be lower case. Note that 'team' is lower case, e.g. youth offending team, Behavioural Insights team.|
 |Registered Dealers in Controlled Oils (RDCO)|This is an official title.|
 |resilience| Lower case.|
@@ -1414,7 +1417,7 @@ If you don’t, users will lose trust in your content, and may not visit your pa
 |risk assessment|Lower case.|
 |risk management|Lower case.|
 |Royal Household in Scotland|Upper case when referring to the departments that, collectively, support the British Royal Family.|
-|**S**| 
+|**S**|
 |science and technical advice cell|When a group that has a very generic title (e.g. X working group, Y research team) it should be lower case.|
 |Scottish Environment Protection Agency (SEPA)|Not ‘Environmental’.|
 |Scotland Office|This is an official title.|
@@ -1438,7 +1441,7 @@ If you don’t, users will lose trust in your content, and may not visit your pa
 |Shadow Cabinet|This is an official title when used in relation to the UK Parliament, which has only one Shadow Cabinet (comprised of opposition members). Each of the opposition parties in the Scottish Parliament forms a shadow cabinet; capitalise only if using the full title of any of these, e.g. the Labour Shadow Cabinet.|
 |sheriff, sheriff court, sheriff principal (pl. sheriffs principal)|Lower case, unless used as an official title, e.g. Dumfries Sheriff Court. |
 |SMEs|This acronym means small and medium enterprises. Use SME for the singular.|
-|special waste|Lower case. Note: this is Scotland’s term for what is known as hazardous waste elsewhere in the UK.| 
+|special waste|Lower case. Note: this is Scotland’s term for what is known as hazardous waste elsewhere in the UK.|
 |Spending Review|When referring to the Spending Review, it is treated as an official title, but if discussing an action e.g. 'we are conducting a spending review' only lower case is used.|
 |St Andrew’s Day|This is a proper name.|
 |Stamp Taxes for Agents online service|This is an official title.|
