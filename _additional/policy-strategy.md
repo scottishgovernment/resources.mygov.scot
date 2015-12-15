@@ -1,11 +1,14 @@
 ---
 layout: default
 title: Digital Public Service Strategy Catalogue
-permalink: /sib/strategy-catalogue/
-parent: sib
-thispage: strategy-catalogue
-summary: This document summarises the key Scottish Government strategies related to the delivery of online services. It's primary purpose is to provide an overview of the strategic context for delivery. Reading this document is not a substitute for reading the documents themselves and the whole team should have an understanding of the digital strategic landscape.
+summary: A list of Scottish Government policy and strategy related to digital delivery.
+index: 4
+imperative: Policy
 ---
+
+## Purpose
+
+This document summarises the key Scottish Government strategies related to the delivery of online services. It's primary purpose is to provide an overview of the strategic context for delivery. Reading this document is not a substitute for reading the documents themselves and the whole team should have an understanding of the digital strategic landscape.
 
 <div style="color: #9F6000; background-color: #FEEFB3; font-size: 26px; border-style: solid; border-width: 2px; padding: 5px;">&#10148; Please note this document is currently in <strong>draft</strong> status and may be subject to change. We are happy to receive feedback on this document via the channels in the footer.</div>
 

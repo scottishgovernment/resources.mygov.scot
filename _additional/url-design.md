@@ -1,11 +1,14 @@
 ---
 layout: default
-title: URL standards
-permalink: /sib/url-design/
-parent: sib
-thispage: url-design
-summary: This document describes how URLs are used on mygov.scot, their formatting requirements and why short URLs are sometimes created for promotional purposes. This document is forked from Government Digital Service URL Standards.
+title: URL Design Guide
+summary: Guidance on the design of URLs on mygov.scot.
+imperative: Guideline
+index: 2
 ---
+
+## Purpose
+
+This document describes how URLs are used on mygov.scot, their formatting requirements and why short URLs are sometimes created for promotional purposes. This document is forked from Government Digital Service URL Standards.
 
 <div style="color: #9F6000; background-color: #FEEFB3; font-size: 26px; border-style: solid; border-width: 2px; padding: 5px;">&#10148; Please note this document is currently in <strong>draft</strong> status and may be subject to change. We are happy to receive feedback on this document via the channels in the footer.</div>
 
@@ -34,7 +37,7 @@ summary: This document describes how URLs are used on mygov.scot, their formatti
 -  articles (a, an, the) and other superfluous words should not be used, e.g. use `/benefits/` or `/benefits-guides/` rather than `/a-guide-to-benefits/`
 - URLs should use the verb stem, where possible, e.g. `/apply/` instead of `/applying/`
 - each page must have a URL which is as short, memorable and unambiguous as possible, especially if a URL is going to be referred to offline
-- URLs should be based on user need rather than the (current) name of a policy, scheme or service, which might change, e.g. the URL <https://www.mygov.scot/help-with-mortgage-payments/> is intended for people who wish to seek help with their mortgage payments due to financial difficulty, available through the homeowner support fund service.
+- URLs should be based on user need rather than the (current) name of a policy, scheme or service, which might change, e.g. the URL <https://www.mygov.scot/help-with-childcare-costs/> is intended for people who wish to seek help with covering the costs of caring for their children.
 
 
 ## Campaign sites and URL promotion
@@ -55,7 +58,7 @@ summary: This document describes how URLs are used on mygov.scot, their formatti
 
 8\. These are redirects which exist at `www.mygov.scot/url/`, such as those used for organisation pages. Due to the large amount of content that already exists at the top level of mygov.scot, only a limited number of redirects will be allowed here. Requests will be considered by the mygov.scot performance and experience team on a case-by-case basis and will only be granted if the following conditions are satisfied:
 
-- the URL conforms to all other requirements of the mygov.scot URL policy
+- the URL conforms to all other requirements of the mygov.scot URL guidelines
 - the content being promoted originates from, or is significantly relevant to, more than one government department or organisation
 - the URL needs to be specific to the content and make sense forever (e.g. include a year when using a re-direct for one-off promotion of an annual event)
 - the URL will be used for significant offline marketing and promotion
@@ -68,11 +71,11 @@ summary: This document describes how URLs are used on mygov.scot, their formatti
 
 ## Service sub-domain URLs
 
-10\. The advertised start page of all mygov.scot transactional services will be of on the informational start page e.g. `www.mygov.scot/service-url/` and must comply with the mygov.scot URL policy.
+10\. The advertised start page of all mygov.scot transactional services will be of the form `www.mygov.scot/service-url/` and must comply with the mygov.scot URL guidelines.
 
 11\. The transactional part of the service - the dynamically generated pages where users interact with the service - will not typically be hosted on www.mygov.scot. Rather, this part of the service will exist on a mygov.scot sub-domain of the form `servicename.service.mygov.scot`.
 
-12\. The 'service name' part of a URL will be agreed between the mygov.scot team and the service manager, and will conform to the mygov.scot URL policy.
+12\. The 'service name' part of a URL will be agreed between the mygov.scot team and the service manager, and will conform to the mygov.scot URL guidelines.
 
 13\. Dashes may be used to separate words where appropriate, but are not mandatory for service sub-domain URLs.
 

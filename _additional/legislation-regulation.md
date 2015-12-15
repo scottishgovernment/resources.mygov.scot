@@ -1,11 +1,13 @@
 ---
 layout: default
-title: Catalogue of Legislation & Regulation
-permalink: /sib/legislation-regulation-catalogue/
-parent: sib
-thispage: legislation-regulation-catalogue
-summary: This catalogue lists legislation and regulation related to the delivery of an online service by or on behalf of Scottish public sector organisations. For each item an introduction is provided as well as links to related guidance and standards.
+title: Legislation & Regulation Catalogue
+summary: Guidance on legislation and regulation with which digital services may be required to comply.
+imperative: Guideline
 ---
+
+## Purpose
+
+This catalogue lists legislation and regulation related to the delivery of an online service by or on behalf of Scottish public sector organisations. For each item an introduction is provided as well as links to related guidance and standards.
 
 <div style="color: #9F6000; background-color: #FEEFB3; font-size: 26px; border-style: solid; border-width: 2px; padding: 5px;">&#10148; Please note this document is currently in <strong>draft</strong> status and may be subject to change. We are happy to receive feedback on this document via the channels in the footer.</div><br>
 

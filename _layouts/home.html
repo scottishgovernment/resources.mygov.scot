@@ -12,62 +12,26 @@
         <div class="col-md-8 jumbo">
             <h1>{{ page.title }}</h1>
 
+            {{ page.summary }}
+        </div>
+    </div>
+</div>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-8">
             {{ content }}
         </div>
     </div>
 </div>
 
-{% for item in site.standard %}
-    {% if item.parent == 'home' %}
-        <article class="summary-block fancy standard">
-            <div class="container">
-                <div class="inner">
-                    <h2 class="summary-title">{{ item.title }}</h2>
-
-                    {{ item.content }}
-
-                    <div class="button-wrapper">
-                        <a class="button" href="{{ item.permalink }}">
-                            <span class="button-text">Let's go</span>
-                            <span class="glyphicon glyphicon-chevron-right"></span>
-                        </a>
-                    </div>
-                </div>
-
-            </div>
-        </article>
-    {% endif %}
-{% endfor %}
-
-{% for item in site.guidelines %}
-    {% if item.parent == 'home' %}
-        <article class="summary-block guidelines">
-            <div class="container">
-                <div class="inner">
-                    <h2 class="summary-title">{{ item.title }}</h2>
-
-                    {{ item.content }}
-
-                    <div class="button-wrapper">
-                        <a class="button" href="{{ item.permalink }}">
-                            <span class="button-text">Let's go</span>
-                            <span class="glyphicon glyphicon-chevron-right"></span>
-                        </a>
-                    </div>
-                </div>
-
-            </div>
-        </article>
-    {% endif %}
-{% endfor %}
-
 <div class="container" id="additional">
     <div class="row">
         <div class="col-md-8">
-            {% for item in site.additional %}
+            {% assign indexed = site.additional | sort: 'index', 'last' %}
+            {% for item in indexed %}
             <article>
-                <h2><a href="{{ item.permalink }}">{{ item.title }}</a></h2>
-
+                <h2><a href="{{ item.url }}">{{ item.title }}</a>{% if item.imperative %} <small>({{item.imperative}})</small>{% endif %}</h2>
                 <p>{{ item.summary }}</p>
             </article>
             {% endfor %}

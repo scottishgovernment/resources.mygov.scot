@@ -1,11 +1,13 @@
 ---
 layout: default
-title: Catalogue of Procurement Frameworks for Digital Delivery
-permalink: /sib/digital-procurement-catalogue/
-parent: sib
-thispage: digital-procurement-catalogue
-summary: This catalogue lists procurement frameworks let by the Scottish Government and the Crown Commercial Service that may be useful when delivering public services online. Frameworks will be added, updated and removed over time in order to reflect changes.
+title: Procurement Frameworks Catalogue
+summary: Guidance on procurement frameworks that can be used as a part of delivering online public services.
+imperative: Guideline
 ---
+
+## Purpose
+
+This catalogue lists procurement frameworks let by the Scottish Government and the Crown Commercial Service that may be useful when delivering public services online. Frameworks will be added, updated and removed over time in order to reflect changes.
 
 <div style="color: #9F6000; background-color: #FEEFB3; font-size: 26px; border-style: solid; border-width: 2px; padding: 5px;">&#10148; Please note this document is currently in <strong>draft</strong> status and may be subject to change. We are happy to receive feedback on this document via the channels in the footer.</div>
 

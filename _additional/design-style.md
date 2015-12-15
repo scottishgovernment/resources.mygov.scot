@@ -1,17 +1,20 @@
 ---
 layout: article
-title:  "Design style guide"
-date:   2015-09-15 09:00:00
-permalink: ../style-guide/
+title:  "Design Style Guide"
 categories: documentation
-summary: A guide outlining design thinking and approach, covering Grid, Typography and Link language, with common element inline examples.
-parent: home
+summary: The standard for the look and feel of services available via mygov.scot.
+imperative: Standard
+index: 1
 headings:
 - The grid
 - Typography
 - Link and button language
 
 ---
+
+## Purpose
+
+This document outlines design thinking and approach, covering Grid, Typography and Link language, with inline examples for common elements.
 
 ## The grid
 
@@ -21,7 +24,7 @@ headings:
 
 We make use of a responsive 12 column grid which works across multiple devices. There are 4 breakpoints, which allow for custom CSS to be generated for different viewports and which can be loosely attributed to: smart phones; small/portrait tablet; desktop and desktop HD.
 
-This allows us to deliver content optimised for a variety of devices. It means that mobile is loved just as much as desktop. It means that we engrain in our thinking "let's start with mobile" and "let's enhance desktop". The goal is that our users don't notice they are on the mobile version of our site &mdash; they are just on our site. Consistency of design elements and language throughout ensure that the journey is the same. 
+This allows us to deliver content optimised for a variety of devices. It means that mobile is loved just as much as desktop. It means that we engrain in our thinking "let's start with mobile" and "let's enhance desktop". The goal is that our users don't notice they are on the mobile version of our site &mdash; they are just on our site. Consistency of design elements and language throughout ensure that the journey is the same.
 
 ### HD Desktop (L)
 
@@ -53,8 +56,8 @@ For displays &lt; 768px
 By defining a set of rules that determine spacing above and below common elements on the site, we set the vertical rhythm. And this rhythm is ever more pertinent across mobile devices where users encounter much longer pages that often look very uniform compared to their desktop counterparts.
 
 The use of a 7px baseline/vertical grid sets the rules for vertical spacing across the site. This provides the backbone for typographical line-height and padding as well as sizing and margins for all graphical elements. Line-height and fixed height elements are all multiples of 7px. Padding, margins and borders of each block element also total multiples of 7px. So everything sits on the grid, which is nice, but most importantly, as a designer/developer there is less guess work involved and you are better prepared to make decisions.
- 
-**Note:** It may be necessary to fine-tune spacing to accurately position against the baseline. ‘Baseline grid’ is a recognised term in web design with it’s grounding in print design. It refers to the baseline that text sits on, as if writing on ruled paper (descenders drop below the baseline). However, in the case of web design, it can be misleading as the vertical spacing of text is determined by the css parameter ‘line-height’ and this positions text within the vertical centre of the attributed area. 
+
+**Note:** It may be necessary to fine-tune spacing to accurately position against the baseline. ‘Baseline grid’ is a recognised term in web design with it’s grounding in print design. It refers to the baseline that text sits on, as if writing on ruled paper (descenders drop below the baseline). However, in the case of web design, it can be misleading as the vertical spacing of text is determined by the css parameter ‘line-height’ and this positions text within the vertical centre of the attributed area.
 
 Use the baseline grid to inform layout, and use it as a guide, not a constraint.
 
@@ -91,7 +94,7 @@ All the best attention to typographical detail goes out the window if the body c
 To ensure best font­ weight appearance, use font smoothing. This delivers a truer and more legible interpretation of a font-set across macs, and is more consistent with PC display in terms of weight. We achieve that with the following CSS.
 
 	{
-        -­webkit­font­smoothing: antialiased;	
+        -­webkit­font­smoothing: antialiased;
     }
 
 {% include example.html file="fontweight" caption="Font weights" height="1250" %}
@@ -152,17 +155,17 @@ It's not good enough to rely on the html `<blockquote>` element to render all in
 
 Users will quickly become familiar with the language of a site and we can gain their trust by delivering consistent interactions. If this is achieved, then the user can browse and find the information they seek quicker and easier. That's the ultimate goal.
 
-Links/Buttons by default need to stand out from their context. The way we handle different types of links needs to vary slightly dependent on the context. 
+Links/Buttons by default need to stand out from their context. The way we handle different types of links needs to vary slightly dependent on the context.
 
 Users are informed when a text link or button will link to an external site by way of the recognised ‘external link’ icon.
 
-Links are by default Primary blue. In the case of text links, underline only appears on hover except in the instance of contextual text links, whereby their default state is underlined to help stand-out from body text. Call to Action (CTA) buttons are big and bold. Secondary buttons are smaller than their Primary counterparts and are a darker blue to indicate that they are optional. Cancel/Call-off buttons have a ‘ghost’ appearance meaning they do not fight for attention with CTA buttons which they will often sit alongside. 
+Links are by default Primary blue. In the case of text links, underline only appears on hover except in the instance of contextual text links, whereby their default state is underlined to help stand-out from body text. Call to Action (CTA) buttons are big and bold. Secondary buttons are smaller than their Primary counterparts and are a darker blue to indicate that they are optional. Cancel/Call-off buttons have a ‘ghost’ appearance meaning they do not fight for attention with CTA buttons which they will often sit alongside.
 
 Hover states are subtle indicators. All text and button links darken on hover.
 
 *Note: Transitions are almost immediate (0.2 secs duration on hover), and ease out at a slower rate on out (1 sec duration).*
 
-Active states are affirming. In the case of buttons the hover state is maintained while the reversal text becomes semi-transparent. This maintains a consistency across desktop and mobile devices where hover becomes redundant, while replicating a real-life down-press event. In the case of text links and Category / Content item listings a light blue is applied to the background. This is especially useful to mobile users, as screen size and brightness, smaller text and graphical elements, and poor connectivity can all potentially make it difficult to know whether a link has been pressed. 
+Active states are affirming. In the case of buttons the hover state is maintained while the reversal text becomes semi-transparent. This maintains a consistency across desktop and mobile devices where hover becomes redundant, while replicating a real-life down-press event. In the case of text links and Category / Content item listings a light blue is applied to the background. This is especially useful to mobile users, as screen size and brightness, smaller text and graphical elements, and poor connectivity can all potentially make it difficult to know whether a link has been pressed.
 
 
 
@@ -219,10 +222,3 @@ Active states are affirming. In the case of buttons the hover state is maintaine
 ### 11. Notifications
 
 {% include example.html file="notifications" height="300" %}
-
-
-
-
-
-
-

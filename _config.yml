@@ -12,13 +12,22 @@ markdown: kramdown
 
 # Collections
 collections:
-  standard:
-    output: true
-  standard_items:
-    output: true
-  guidelines:
-    output: true
   additional:
     output: true
+    permalink: /standards/:name/
+    parent: home
   examples:
     output: true
+
+# Default values
+defaults:
+  - scope:
+      path: ""
+      type: additional
+    values:
+      parent: home
+  - scope:
+      path: ""
+      type: examples
+    values:
+      sitemap: false

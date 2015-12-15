@@ -1,11 +1,10 @@
 ---
 layout: article
-title:  "Content style"
-date:   2015-03-10 13:33:00
-permalink: ../content-style/
+title:  "Content Style Guide"
 categories: documentation
 summary: Guidance on content style, based upon the Government Digital Service GOV.UK editorial style guide and suitable for use creating content on mygov.scot.
-parent: home
+imperative: Guideline
+index: 3
 headings:
 - Writing for mygov.scot
 - Publishing principles

@@ -1,11 +1,12 @@
 ---
 layout: default
-title: Catalogue of Industry Standards
-permalink: /sib/industry-standards-catalogue/
-parent: sib
-thispage: industry-standards-catalogue
-summary: This catalogue lists industry standards related to the delivery of digital services in Scotland. Standards will be added, updated and removed over time in order to reflect the changing landscape of digital delivery.
+title: Industry Standards Catalogue
+summary: A list of industry standards recommended for the delivery of digital services.
+imperative: Guideline
 ---
+
+## Purpose
+This catalogue lists industry standards related to the delivery of digital services in Scotland. Standards will be added, updated and removed over time in order to reflect the changing landscape of digital delivery.
 
 <div style="color: #9F6000; background-color: #FEEFB3; font-size: 26px; border-style: solid; border-width: 2px; padding: 5px;">&#10148; Please note this document is currently in <strong>draft</strong> status and may be subject to change. We are happy to receive feedback on this document via the channels in the footer.</div>
 
