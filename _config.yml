@@ -3,7 +3,7 @@ title: Resources from mygov.scot
 email: feedback.mygov@scotland.gsi.gov.uk
 description: These resources have been made available to help deliver clear content and to guide you in building digital services that will appear on mygov.scot.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://resources.mygov.scot/" # the base hostname & protocol for your site
+url: "http://resources.mygov.scot" # the base hostname & protocol for your site
 twitter_username: mygovscot
 github_username:  scottishgovernment
 
@@ -31,3 +31,7 @@ defaults:
       type: examples
     values:
       sitemap: false
+
+# Gems required for plugins
+gems:
+  - jekyll-sitemap
