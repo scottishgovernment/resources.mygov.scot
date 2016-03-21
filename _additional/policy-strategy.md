@@ -163,8 +163,8 @@ The vision sets out where we want to be by 2020 and sets out 10 guiding principl
 
 The Strategic Action Plan has been developed with and for the Scottish public sector to help realise the Data Vision. The Plan will be reviewed annually, to track and assure progress.
 
-[Data Vision](http://www.scotland.gov.uk/Resource/Doc/1067/0049471.pdf).
-[Data Strategic Action Plan](http://www.scotland.gov.uk/Resource/Doc/1067/0049471.pdf).
+[Data Vision](http://www.gov.scot/Topics/Economy/digital/digitalservices/datamanagement/dmbvfs/dmbvfspdf).
+[Data Strategic Action Plan](http://www.gov.scot/Publications/2015/02/5136).
 
 ## Open Data Strategy
 
