@@ -111,3 +111,7 @@ Adopt cloud computing or virtualisation as the preferred approaches to the deliv
 ### Sponsor Acceptance
 
 Test the service from beginning to end with the minister responsible for it.
+
+----
+<br>
+A [Digital First Service Standard poster](/poster-A0.pdf) is also available.
