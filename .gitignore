@@ -3,3 +3,4 @@ _site
 .idea/
 scottishgovernment.github.io.iml
 Gemfile*
+.DS_Store
