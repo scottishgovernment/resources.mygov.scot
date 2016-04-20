@@ -34,4 +34,4 @@ defaults:
 
 # Gems required for plugins
 gems:
-  - jekyll-sitemap
+  - jekyll-sitema
