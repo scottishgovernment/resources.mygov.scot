@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Digital First Service Standard"
-summary: The standard for services that will be provided via mygov.scot.
+summary: The standard for all digital public services.
 imperative: Standard
 index: 0
 ---
@@ -9,7 +9,7 @@ index: 0
 
 ## Purpose
 
-This document describes the minimum standard required when delivering a citizen-facing, online service, that will be provided via [mygov.scot](http://www.mygov.scot/). The document is based upon GDS' "Digital by Default" standard.
+This document describes the minimum standard required when delivering a digital public service. The document is based upon GDS' "Digital by Default" standard.
 
 
 ## Contents
@@ -75,7 +75,7 @@ Build a service consistent with the user experience of the rest of mygov.scot in
 
 ### Channel Shift
 
-Identify and, wherever possible, remove impediments that prevent citizens from using the digital service, clearly establishing it as the primary channel. Plan to provide appropriate assisted digital support if necessary.
+Identify and, wherever possible, remove impediments that prevent users from using the digital service, clearly establishing it as the primary channel. Plan to provide appropriate assisted digital support if necessary.
 
 ### Data Driven
 
@@ -107,6 +107,10 @@ Deliver a digital service whose impact on the environment, over its whole lifecy
 ### Data Hosting and Data Centres
 
 Adopt cloud computing or virtualisation as the preferred approaches to the delivery of data hosting for the service.
+
+### Ecosystem
+
+Identify how your service aligns with Scotland's digital ecosystem.
 
 ### Sponsor Acceptance
 
