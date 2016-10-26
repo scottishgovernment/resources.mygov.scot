@@ -149,12 +149,3 @@ Is the measure of how easy it is to create tests for a system and its associated
 
 ### Usability
 Is the ease of use and learnability of the system.
-
-Still with us?
-
-If you would like to find out more, we recommend reading (http://www.iso-architecture.org/ieee-1471/)[ISO/IEC/IEEE 42010 Systems &amp; Software Engineering - Architecture Description].
-
-
-----
-<br>
-A [Digital First Service Standard poster](/poster-A0.pdf) is also available.
