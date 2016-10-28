@@ -4,8 +4,16 @@ email: feedback.mygov@gov.scot
 description: These resources have been made available to help deliver clear content and to guide you in building digital services that will appear on mygov.scot.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://resources.mygov.scot" # the base hostname & protocol for your site
-twitter_username: mygovscot
-github_username:  scottishgovernment
+mygov_twitter_username: mygovscot
+mygov_twitter_url: https://www.twitter.com/mygovscot
+mygov_site_url: https://www.mygov.scot/
+mygov_blog_url: https://inside.mygov.scot/
+mygov_blog_title: inside.mygov.scot
+mygov_description:
+github_username: scottishgovernment
+github_url: https://github.com/scottishgovernment/
+
+
 
 # Build settings
 markdown: kramdown
