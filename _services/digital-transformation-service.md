@@ -36,7 +36,7 @@ These fundamental parts of an organisation are not easy to transform and many or
 
 ## About DTS
 
-DTS was established in August 2015 and has worked with organisations across the Central Government sector including…
+DTS was established in August 2015 and has worked with organisations across the Central Government sector.
 
 It has offices in Edinburgh, Glasgow and Dundee.
 
@@ -46,7 +46,8 @@ This work includes:
 
 * building digital strategies
 * business cases
-* designing technology platforms  building digital skills
+* designing technology platforms
+* building digital skills
 * digital maturity models
 
 There is more information about each of these below.
@@ -55,7 +56,7 @@ There is more information about each of these below.
 
 If you would like to know more about DTS’ service offers and  discuss the ways we could work with your organisation please get in touch.  
 
-Contact: Central Government Digital Transformation Service: 0141 242 0109 / cgdts@gov.scot
+You can reach us by telephone on **{{ site.dts_telephone_number }}**  or via email at **{{site.dts_email}}**.
 
 ## Services offered
 
@@ -357,4 +358,4 @@ Various coaching options are available dependent on client need.
 
 If you would like to know more about DTS’ service offers and  discuss the ways we could work with your organisation please get in touch.  
 
-Get in touch with us by telephone on **{{ site.dts_telephone_number }}**  or via email at **{{site.dts_email}}**.
+You can reach us by telephone on **{{ site.dts_telephone_number }}**  or via email at **{{site.dts_email}}**.
