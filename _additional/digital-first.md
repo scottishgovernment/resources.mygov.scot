@@ -2,6 +2,7 @@
 layout: default
 title:  "Digital First Service Standard"
 summary: The standard for all digital public services.
+category: standard
 imperative: Standard
 index: 0
 ---
