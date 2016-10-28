@@ -3,20 +3,15 @@
             <div class="footer-logo">
                 <span class="scotgov-logo">Scottish Government</span>
             </div>
-
             <div class="footer-content">
                 <h3>Scottish Government</h3>
-
-                <p>These resources have been made available to help deliver clear content and to guide you in building transactional services that will appear on <a href="http://www.mygov.scot">mygov.scot</a>.</p>
-
+                <p>{{ site.description }}</p>
                 <ul class="footer-links">
-                    <li><a class="twitter" href="https://www.twitter.com/mygovscot">@mygovscot</a></li>
-                    <li><a class="blog" href="http://inside.mygov.scot/">inside.mygov.scot</a></li>
-                    <li><a class="github" href="https://github.com/scottishgovernment/">Scottish Government GitHub</a></li>
+                    <li><a class="twitter" href="{{ site.mygov_twitter_url}}">{{ site.mygov_twitter_username }}</a></li>
+                    <li><a class="blog" href="{{ site.mygov_site_url}}">mygov.scot</a></li>
+                    <li><a class="github" href="{{ site.github_url }}">{{ site.github_username}}</a></li>
                 </ul>
             </div>
-
-
         </div>
     </div>
     <!-- /end .container -->
