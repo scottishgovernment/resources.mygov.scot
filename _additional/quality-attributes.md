@@ -1,8 +1,9 @@
 ---
 layout: default
-title:  "System Quality Attributes"
+title:  "Quality Attributes"
+category: guideline
 summary: Towards a measurable and empirical software engineering future.
-imperative: Guidelines
+imperative: Guideline
 index: 0
 ---
 
