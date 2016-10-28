@@ -12,6 +12,14 @@ mygov_blog_title: inside.mygov.scot
 mygov_description:
 github_username: scottishgovernment
 github_url: https://github.com/scottishgovernment/
+dts_twitter_username: DTS
+dts_twitter_url: https://twitter.com/cg_dts
+dts_email: cgdts@gov.scot
+dts_telephone_number: 0141 242 0109
+dts_site_url:
+dts_blog_url: https://blogs.gov.scot/digital/category/digital-public-services/digital-transformation-service/
+dts_blog_title: Digital Transformation Service
+dts_description: The Digital Transformation Service (DTS) can help Central Government organisations design programmes that deliver Digital Services that meet citizen needs.
 
 
 
@@ -24,6 +32,10 @@ collections:
     output: true
     permalink: /standards/:name/
     parent: home
+  services:
+    output: true
+    permalink: /services/:name/
+    parent: home
   examples:
     output: true
 
@@ -32,6 +44,11 @@ defaults:
   - scope:
       path: ""
       type: additional
+    values:
+      parent: home
+  - scope:
+      path: ""
+      type: services
     values:
       parent: home
   - scope:
