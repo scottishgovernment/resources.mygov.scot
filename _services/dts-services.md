@@ -13,7 +13,7 @@ headings:
 DTS works collaboratively with organisations to deliver business transformation which puts users at the heart of services.
 
 Our services are broken into three categories:
-
-* [Discovery](/services/dts-discovery)
-* [Strategy](/services/dts-strategy)
-* [Delivery](/services/dts-delivery)
+{{site.url}}
+* [Discovery]({{ site.url }}/services/dts-discovery)
+* [Strategy]({{ site.url }}/services/dts-strategy)
+* [Delivery]({{ site.url }}/services/dts-delivery)
