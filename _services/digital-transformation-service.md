@@ -27,8 +27,7 @@ These fundamental parts of an organisation are not easy to transform and many or
 
 DTS has worked with organisations across the Public Sector including the, Food Standards Scotland, Forestry Commission, Transport Scotland and Scottish Courts.
 
-{{site.url}}
-This work includes building digital skills, strategies, designing technology platforms, business cases, recruitment and carrying out digital maturity assessment. To find out more about the services DTS offer click [here]({{ site.url}}/services/dts-services).
+This work includes building digital skills, strategies, designing technology platforms, business cases, recruitment and carrying out digital maturity assessment. To find out more about the services DTS offer click [here]({{ site.url }}/services/dts-services).
 
 If you would like to know more about DTS’ service offers and discuss the ways we could work with your organisation please get in touch.  
 
