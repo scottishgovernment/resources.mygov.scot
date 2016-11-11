@@ -75,6 +75,20 @@ This document describes how URLs are used on mygov.scot, their formatting requir
 
 11\. The transactional part of the service - the dynamically generated pages where users interact with the service - will not typically be hosted on www.mygov.scot. Rather, this part of the service will exist on a mygov.scot sub-domain of the form `servicename.service.mygov.scot`.
 
+For example:
+
+`applicationtracker.service.mygov.scot`
+
+It may also represent an available end-point (either public or private), Such as:
+
+`publications.api.gov.scot`
+
+or
+
+`content.api.mygov.scot`
+
+Where the terms `service` and `api` represent the function of the URL within that namespace.
+
 12\. The 'service name' part of a URL will be agreed between the mygov.scot team and the service manager, and will conform to the mygov.scot URL guidelines.
 
 13\. Dashes may be used to separate words where appropriate, but are not mandatory for service sub-domain URLs.
