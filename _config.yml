@@ -12,6 +12,7 @@ mygov_blog_title: inside.mygov.scot
 mygov_description:
 github_username: scottishgovernment
 github_url: https://github.com/scottishgovernment/
+github_sg_site_url: https://scottishgovernment.github.io
 dts_twitter_username: DTS
 dts_twitter_url: https://twitter.com/cg_dts
 dts_email: cgdts@gov.scot
