@@ -1,11 +1,28 @@
 # Site settings
 title: Resources from mygov.scot
-email: feedback.mygov@scotland.gsi.gov.uk
+email: feedback.mygov@gov.scot
 description: These resources have been made available to help deliver clear content and to guide you in building digital services that will appear on mygov.scot.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://resources.mygov.scot" # the base hostname & protocol for your site
-twitter_username: mygovscot
-github_username:  scottishgovernment
+url: "https://resources.mygov.scot" # the base hostname & protocol for your site
+mygov_twitter_username: mygovscot
+mygov_twitter_url: https://www.twitter.com/mygovscot
+mygov_site_url: https://www.mygov.scot/
+mygov_blog_url: https://inside.mygov.scot/
+mygov_blog_title: inside.mygov.scot
+mygov_description:
+github_username: scottishgovernment
+github_url: https://github.com/scottishgovernment/
+github_sg_site_url: https://scottishgovernment.github.io
+dts_twitter_username: DTS
+dts_twitter_url: https://twitter.com/cg_dts
+dts_email: cgdts@gov.scot
+dts_telephone_number: 0141 242 0109
+dts_site_url:
+dts_blog_url: https://blogs.gov.scot/digital/category/digital-public-services/digital-transformation-service/
+dts_blog_title: Digital Transformation Service
+dts_description: The Digital Transformation Service (DTS) can help Central Government organisations design programmes that deliver Digital Services that meet citizen needs.
+
+
 
 # Build settings
 markdown: kramdown
@@ -16,6 +33,10 @@ collections:
     output: true
     permalink: /standards/:name/
     parent: home
+  services:
+    output: true
+    permalink: /services/:name/
+    parent: home
   examples:
     output: true
 
@@ -24,6 +45,11 @@ defaults:
   - scope:
       path: ""
       type: additional
+    values:
+      parent: home
+  - scope:
+      path: ""
+      type: services
     values:
       parent: home
   - scope:

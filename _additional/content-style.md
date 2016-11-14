@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: default
 title:  "Content Style Guide"
 categories: documentation
 summary: Guidance on content style, based upon the Government Digital Service GOV.UK editorial style guide and suitable for use creating content on mygov.scot.
@@ -18,19 +18,18 @@ headings:
 - A to Z of common terms
 
 ---
-##Summary
+## Summary
 
 Guidance on content style for mygov.scot, based upon the Government Digital Service GOV.UK editorial style guide.
 
 <div style="color: #9F6000; background-color: #FEEFB3; font-size: 26px; border-style: solid; border-width: 2px; padding: 5px;">&#10148; Please note this document is currently in <strong>draft</strong> status and may be subject to change. We are happy to receive feedback on this document via the channels in the footer.</div>
 
+## Writing for mygov.scot
 
-##Writing for mygov.scot
-
-###Vision
+### Vision
 mygov.scot is the place for people in Scotland to access public services that are easy to find and simple to use – services so convenient, people choose digital first.
 
-###Editorial aims
+### Editorial aims
 We aim to work closely and in partnership with public sector organisations to put user needs at the forefront of service delivery and design. It will mean that people can quickly and easily find the service they need without having to know who provides it.
 
 Only user-led, service-oriented and customer-focused content makes it onto mygov.scot.  It is a place for Scotland’s people, not policy.
@@ -45,10 +44,10 @@ Every item of content on mygov.scot serves a specific purpose, directly answerin
 
 Research shows that citizens’ digital queries usually begin with a search engine. All content on mygov.scot must be optimised for search engines so that citizens can find the correct information as quickly as possible.
 
-##Publishing principles
+## Publishing principles
 The role of content designers is to turn complex information into content that is easy to understand and to provide clear ‘how to' styled instructions.
 
-###User needs
+### User needs
 Content items should directly respond to user needs that have been verified through the discovery process. A user need is a specific question that we know users ask in relation to a topic. Each need has been verified through the use of analytics, user research and stakeholder engagement, and it has been allocated a unique identifying number.
 
 Generally, user needs appear in the form of a sentence:
@@ -65,9 +64,9 @@ Reading into a user need in this way allows you to empathise with the real peopl
 
 Some content items may answer multiple needs. These will often be presented in the format of a guide, or as an article containing several headed paragraphs along a single theme.
 
-###Stages of creation:
+### Stages of creation:
 
-####Stage 1: Assessment
+#### Stage 1: Assessment
 
 Content designer assesses a content item to ensure that it meets the:
 
@@ -76,7 +75,7 @@ Content designer assesses a content item to ensure that it meets the:
 3. editorial and search engine optimisation (SEO) guidance set out in this guide
 4. internationally established accessibility standards
 
-####Stage 2: Creation
+#### Stage 2: Creation
 
 Depending on the source, quality and complexity of the content, the designer then edits, revises or re-writes the content along the lines with mygov.scot editorial guidelines.
 
@@ -86,22 +85,22 @@ These can include:
 - updating or making minor edits to existing content from a known source for use on mygov.scot such as changing the name of a service provider or signpost to a different URL
 - creating entirely new content in collaboration with a subject matter expert (SME)
 
-####Stage 3: Peer review
+#### Stage 3: Peer review
 Pass to a peer to review for you.
 
-####Stage 4: Fact check
+#### Stage 4: Fact check
 Ensure the content item is factually accurate, either by fact checking with a stakeholder or within the team.
 
-####Stage 5: Sign-off
+#### Stage 5: Sign-off
 Ensure the content item has been signed off.
 
-####Stage 6: Publish
+#### Stage 6: Publish
 
 Trust and confidence in mygov.scot are paramount, so the fact-checking and sign-off processes must be followed appropriately.
 
 Content that is too specialised for inclusion on mygov.scot should instead be referenced or signposted.
 
-##About this guide
+## About this guide
 We have used the [GOV.UK content style guide](https://www.gov.uk/government-digital-guidance/content-publishing) as the starting point for our own guide. GOV.UK content will appear on or be accessible from mygov.scot and it makes sense to draw on the extensive user testing and analysis carried out by Government Digital Service (GDS), the team behind GOV.UK.
 
 We have reproduced, revised and added to the information made available by Government Digital Service under the terms of the [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
@@ -110,12 +109,12 @@ Consistency is important: users can find and process what they need more easily 
 
 We take all of the writing for the web points into account when we write for mygov.scot. Then we add the following points:
 
-###Active voice
+### Active voice
 Use the active rather than passive voice – it’s more direct and engaging. This will help us to write concise, clear content that is easy for the user to understand and act on.
 
->Example: Write ‘you can’ rather than ‘you may be able to’.
+> Example: Write ‘you can’ rather than ‘you may be able to’.
 
-###Tone of voice
+### Tone of voice
 Every piece of content on mygov.scot has a purpose. We respond to user needs with specific
 information or instructions. We don’t give out general information. We certainly don’t offer our opinion or give advice.
 
@@ -124,6 +123,7 @@ information or instructions. We don’t give out general information. We certain
 Write conversationally. Use contractions and keywords that you know the audience actually uses. Use analytics and other sources to help you decide which terms are most appropriate.
 
 Don't be too informal. It’s important to retain an air of authority and dependability and overly chatty familiar or informal text makes the site appear unprofessional.
+
 >Example: use ‘call us’ instead of ‘give us a ring’.
 
 Address the user appropriately. Use ‘you’ wherever possible, without being too insistent. Content on the site often makes a direct appeal to citizens and businesses to get involved or to take action.
@@ -132,7 +132,7 @@ Address the user appropriately. Use ‘you’ wherever possible, without being t
 
 Refer to the Scottish Government as ‘we’. Be clear and consistent. Avoid using complex words or sentence structures that could confuse the reader. Users must feel they can trust mygov.scot to be ultimate authority on all matters devolved to Scotland.  
 
-###Avoid duplication
+### Avoid duplication
 Duplicate content confuses the user, damaging the credibility of content. If there are two pieces of information on a subject, how can the user be sure there’s not a third item that they’ve missed? Users will end up calling a helpline because they aren’t certain they have all of the information.
 
 >If something is written once and links to the relevant information easily and well, people are more likely to trust the content.
@@ -145,7 +145,7 @@ It’s important to note that search engines regard duplicate content as an indi
 
 If a user need is answered with one content item, which links to related information easily and well, people are more likely to trust mygov.scot content.
 
-###Be concise
+### Be concise
 So that content is easily understandable, concise and relevant, it should be:
 
 - specific
@@ -166,12 +166,12 @@ You should:
 - use analytics and Google Trends to identify the keywords that people search for
 - not use long sentences with complicated sub-clauses
 
->Use short, clear, complete sentences (Note: words ending in ‘–ion’ and ‘–ment’ tend to make sentences longer and more complicated than they need to be.)
+> Use short, clear, complete sentences (Note: words ending in ‘–ion’ and ‘–ment’ tend to make sentences longer and more complicated than they need to be.)
 
-###Gender-neutral text
+### Gender-neutral text
 Make sure text is gender neutral wherever possible. Use ‘them’, ‘their’ and ‘they’, and choose gender-neutral job titles, e.g. firefighter, police officer, etc.
 
-###Stick to the style guide
+### Stick to the style guide
 Much of this guide is based on a lot of user testing. By keeping to the style guide, we:
 
 - work to our user testing
@@ -187,38 +187,39 @@ Much of this guide is based on a lot of user testing. By keeping to the style gu
 
 GDS undertook [research on the impact of style guides](https://www.gov.uk/government/publications/govuk-content-principles-conventions-and-research-background)and is worth reading.
 
-###Write in plain English
+### Write in plain English
 Users don’t stop understanding text because it’s written clearly, but less educated users may not understand if you use complex language.  This also applies to new speakers of English who are still developing their vocabularies.
 
->mygov.scot is for everyone.
+> mygov.scot is for everyone.
 
 As government, we can’t discriminate because of education, age or nationality, so use plain English to make it accessible to as many people as possible.  This isn’t just a list of words to avoid; it’s a way of writing.
 
 Don’t use formal or long words where easy or short ones will do.
 
-|Examples:| |
-|:-------------|:---------|
-|accomplish|do, finish|
-|additional|more|
-|approximately| about, roughly|
-|assist	|help|
-|complete|fill in, finish|
-|discuss|talk about|
-|during which time|while|
-|eligible for|can get|
-|establish|find out, set up, show|
-|in lieu of|instead of, in place of|
-|indicate|show, suggest|
-|obtain	|get, receive|
-|option	|choice|
-|purchase|buy|
-|provide|give|
-|receive|get|
-|regarding|about, on|
-|such as|like|
-|terminate|end, stop|
-|utilise|use|
+| Examples | |
+| ------------- | --------- |
+| accomplish | do, finish |
+| additional | more |
+| approximately | about, roughly |
+| assist	| help |
+| complete | fill in, finish |
+| discuss | talk about |
+| during which time | while |
+| eligible for | can get |
+| establish | find out, set up, show |
+| in lieu of | instead of, in place of |
+| indicate | show, suggest |
+| obtain	| get, receive |
+| option	| choice |
+| purchase | buy |
+| provide | give |
+| receive | get |
+| regarding | about, on |
+| such as | like |
+| terminate | end, stop |
+| utilise | use |
 
+<br />
 Avoid any semblance of jargon, whether in the form of specific words or overly complex sentence structure.
 
 We will also lose trust from users if we write in ‘government speak’.
@@ -278,7 +279,7 @@ services in Scotland easily accessible by all.
 ### Senstivity and using inclusive language
 It is important to recognise that people with people with health conditions or impairments may be sensitive about their conditions, and it is vital that we do not assume that they are defined by them. A person who uses a wheelchair is still a person, they just
 
-|Avoid|Use||
+| Avoid | Use | Description |
 |:------|:-----|:----------------|
 |(the) handicapped, (the) disabled| disabled people|The word 'disabled' is a description not a group of people. Many people who need disability benefits and services do not identify with this term.|
 |afflicted by, suffers from, victim of | has [name of condition or impairment]|Phrases like 'suffers from' which evoke discomfort or pity and suggest constant pain and a sense of hopelessness.|
@@ -294,7 +295,7 @@ It is important to recognise that people with people with health conditions or i
 |dwarf, midget|someone with restricted growth or short stature|Respect is paramount, and many terms have a negative and hurtful impact on individuals|
 |fits, spells, attacks|seizures|Avoid melodramatic and highly descriptive terms|
 
-##Language##
+## Language
 - Use a normal tone of voice, do not patronise or talk down.
 - Do not define a disabled person by their impairment. It causes offence to be given a medical label.
 - Take care to ensure that language used does not reinforce a negative stereotype.
@@ -307,7 +308,7 @@ It is important to recognise that people with people with health conditions or i
 - Communicate directly to a disabled person, even if accompanied by an interpreter or companion.
 - Ensure the disabled person has a role equal to that of everyone else.
 
-###Positive form
+### Positive form
 Replace a negative form with a positive one wherever possible.
 
 |Examples:| |
@@ -320,7 +321,9 @@ Replace a negative form with a positive one wherever possible.
 |not possible|unfeasible/impossible|
 |not sure|unsure|
 
-###Publishing legal and technical content
+<br />
+
+### Publishing legal and technical content
 Legal content can still be written in plain English. It’s important that users understand content and that we present complicated information simply.
 
 Where evidence shows there’s a clear user need for including a legal term (e.g. ‘bona vacantia’), always explain it in plain English.
@@ -328,7 +331,7 @@ Where evidence shows there’s a clear user need for including a legal term (e.g
 Where you need to use technical terms, you can. They’re not jargon. You just need to contain them
 within single quotes and explain what they mean the first time you use them.
 
-###Search results
+### Search results
 Our need isn’t necessarily to acquire website traffic for mygov.scot. We need to get government information to where Scotland’s people can find it, whether on mygov.scot itself or in a search engine results page. Google will frequently ‘scrape’ sites for the answer to common questions, e.g. the price of a British passport.
 
 Most people want to know the price of a passport before they apply. Well-structured content, with the answer included in the summary, means the price will appear in the search results. This means users don’t need to leave Google to get their information.
@@ -343,7 +346,7 @@ Refer to the *Concise Oxford English Dictionary*, 12th edition (Oxford Universit
 - Exceptions include where it’s part of a specific name, e.g. ‘World Health Organization’.
 - All references to mygov.scot should be in lower case and contain a full stop before ‘scot’.
 
-###Read it aloud
+### Read it aloud
 Read each content item aloud and check there’s nothing superfluous. Always keep in mind the
 specific user need.
 
@@ -358,7 +361,7 @@ Ask yourself:
 - Does it include the keywords that citizens use?
 - Does it answer the user need for the situation in Scotland? 
 
-##Why content design is different
+## Why content design is different
 Not all content on mygov.scot will appear in the form of long text. We don’t just write copy, we ‘design content’.
 
 As a content team, we work with visual designers and developers to find out how best to present the information that will answer the user need. A tool, graphic or video may work better than copy in some cases.
@@ -366,9 +369,9 @@ As a content team, we work with visual designers and developers to find out how 
 Remember that a lot of people you will deal with have no knowledge of user behaviour. They won’t understand why you want to change the legal language they’ve been using for the past 15 years to something in plain English.
 
 
-##Search engine optimisation (SEO)
+## Search engine optimisation (SEO)
 
-###Why optimise content for search engines
+### Why optimise content for search engines
 Your content may answer user needs simply and succinctly, but no one will read it if it’s too difficult to find.
 
 Research shows that search engines are where most users start their search for information.
@@ -377,12 +380,12 @@ When designing content it’s important to identify words and terms that people 
 
 You'll have to use the vocabulary they use, and that starts with your page title, summary and first paragraph, so that users can find it.
 
-###mygov.scot keyword control list
+### mygov.scot keyword control list
 As part of mygov.scot’s SEO strategy, a broad keyword control list identifies the two or three most common keywords associated with a broad content category, e.g. ‘unemployment benefit’, ‘jobseeker’s allowance’.
 
 Use these keywords to guide your identification of the exact keywords for a particular content item.
 
-###Find popular keywords with search tools
+### Find popular keywords with search tools
 Use search tools like [SEMrush](http://www.semrush.com/), [Google Trends](http://www.google.co.uk/trends/) and [Google AdWords Keyword Planner](https://adwords.google.com/KeywordPlanner) to find the keywords that people are searching for in external search engines like Google. What you’re calling the need might not be what your users are calling it
 
 ### Find the most popular keyword
@@ -392,12 +395,12 @@ For example, users looking for financial support whilst unemployed may enter the
 
 To check the popularity of your preferred term, enter it into the [SEMrush](http://www.semrush.com/) search field. Make sure results are filtered for the UK.
 
-###Double-check with Google Trends
+### Double-check with Google Trends
 Volume figures aren’t exact, so focus on trends and relative popularity over numbers. Use multiple tools to make big decisions based on data, like which keywords to use in a title.
 
 [Google Trends](http://www.google.co.uk/trends/) allows you to compare alternative keywords, and shows seasonal trends.
 
-###Finalise keyword selection with Google AdWords
+### Finalise keyword selection with Google AdWords
 The [Google AdWords Keyword Planner](https://adwords.google.com/KeywordPlanner) can help to finalise the keyword selection for a particular
 content item, as it shows detailed search level data around a particular keyword.
 
@@ -405,7 +408,7 @@ For example, the tool shows that ‘claim jobseeker’s allowance’ is searched
 
 This would help to confirm the selection of ‘how to claim jobseeker’s allowance’ as the primary keyword phrase for that piece of content.
 
-###Optimise content
+### Optimise content
 Once you know the most popular keywords you can prioritise them in the:
 
 - title
@@ -417,7 +420,7 @@ Once you know the most popular keywords you can prioritise them in the:
 
 You can cover more than one keyword. For example, you can use ‘jobseeker’s’ and ‘allowance’ throughout the page but also include ‘JSA’ and ‘unemployment benefit’ in the first sentence, since a lot of people also search using these terms.
 
-###Get a more detailed understanding of your need
+### Get a more detailed understanding of your need
 As well as the keywords that people are using in search, you can uncover the specific themes that people are searching for within a subject with the search tools above.
 
 For example, the [Google AdWords Keyword Planner](https://adwords.google.com/KeywordPlanner) also shows you terms related to ‘jobseeker’s
@@ -428,23 +431,23 @@ The report shows that the following topics should be addressed within this conte
 - Jobcentre Plus
 - Housing Benefit
 
-###Meta descriptions for mainstream content
+### Meta descriptions for mainstream content
 A meta description is a short summary of a web page, which search engines return in their results pages. A meta description also helps you to clarify the purpose of a page to the user.
 
 Keywords included in meta descriptions will be displayed in bold in search engine results pages when these match a user’s query. This helps to confirm the relevance of the content item to the user before they decide to click and follow the link.
 
-###Content formats
+### Content formats
 
-####Guides / benefits / schemes
+#### Guides / benefits / schemes
 Provide a brief overview that front-loads popular keywords, and then list other popular keywords in the format below. You can use meta descriptions to clarify ambiguities around audience, or to differentiate titles that are similar:
 
 *Example:*
 	Holiday entitlement or annual leave – information for employers and workers on entitlement, calculating leave, taking leave, accruing leave and disputes.
 
-####Quick answers
+#### Quick answers
 Use the first sentence if it adequately sums up the content and includes popular keywords. If it doesn’t, consider changing the first sentence – it should be focused and optimised.
 
-####Frequently asked questions (FAQs)
+#### Frequently asked questions (FAQs)
 FAQs are bad. We don’t like them. If you write content by starting with user needs, you won’t need to use FAQs.
 
 This is because FAQs:
@@ -455,12 +458,12 @@ This is because FAQs:
 information
 - mean that content is not where users expect to find it; it needs to be in context
 
-####Accessible PDFs
+#### Accessible PDFs
 The best way to create an accessible PDF is to create an accessible source document.
 
 A source document is tagged when it’s converted into a PDF. The PDF tag tree reflects the structure of the document, and it’s this structure that assistive technologies like screen readers use to navigate the document.
 
-####In Microsoft Word
+#### In Microsoft Word
 Use the styles and features available in Word to format your content and give it structure. This will make it easier to convert your source document into a PDF because it lays the groundwork for the PDF tag tree.
 
 **Use headings**
@@ -493,7 +496,7 @@ Use tables with column headings to display data. Don’t use tables to make cosm
 **Provide text descriptions**
 Use Word to add text descriptions to all important images in the document. Make sure the text description includes all of the information contained within, or conveyed by, the image.
 
-####In Adobe Acrobat
+#### In Adobe Acrobat
 Use Adobe Acrobat Pro to convert your Word document into a PDF. Use the **Convert to PDF** option under the **Adobe** menu in Microsoft Word to do this. This will make sure that Acrobat picks up the accessibility you have built into your source document.
 
 **Set the document language**
@@ -571,7 +574,7 @@ User testing has shown that some people are unfamiliar with such abbreviations, 
 
 If you want to use the long form (‘for example’ instead of ‘e.g.’, ‘specifically’ instead of ‘i.e.’, etc.) then this is at the content designer’s discretion.
 
-### Acronyms ###
+### Acronyms
 You can use an acronym to replace a name or term that appears frequently in a single content item (e.g. an article or guide). Don’t include an acronym unless you will use it several times later on in the same text.
 
 Spell out the acronym in full the first time it is used, putting the acronym in brackets immediately afterwards. (Don’t use full stops in acronyms – BBC, not B.B.C.) From then on, use only the acronym in that specific content item.
@@ -582,16 +585,16 @@ There’s no need to spell out acronyms in common usage, e.g. DVLA, EU, HMRC, MS
 
 Quick reminder: Freedom of Information – you can make an FOI request but not a request under the FOI Act.
 
-### Americanisms ###
+### Americanisms
 Don’t use Americanisms. You ‘fill in’ a form, not ‘fill out’ a form. You ‘wait for’ a reply, not ‘wait on’ a reply.
-### Ampersand ###
+### Ampersand
 The ampersand symbol (&) should only appear in the logo image of an organisation or department.
 Always use ‘and’ in headings, subheadings and body copy.
-### Brackets ###
+### Brackets
 Use (round brackets), not [square brackets]. Avoid using brackets within brackets.
 
 
-### Bullet points and steps ###
+### Bullet points and steps
 Make good use of bullet point lists – they scan easily. Limit a single list to six or seven bullet points, and try to fit each bullet point to one line (and never more than two).
 
 You can use bullet points to make text easier to read. Make sure that:
@@ -608,12 +611,12 @@ Don’t use full stops at the end of bullet points unless each is a complete sen
 
 Use numbered steps instead of bullet points to guide a user through a process. You don't need a lead-in line and you can use links and downloads (with appropriate markdown) in steps. Each step ends with a full stop because each step should be a complete sentence.
 
-### Capitalisation ###
+### Capitalisation
 DON’T USE BLOCK CAPITALS FOR LARGE AMOUNTS OF TEXT, AS IT’S QUITE HARD TO READ.
 
 Use sentence case for headings and subheadings.
 
-#### Lower case is preferable but use capitalisation for: ####
+#### Lower case is preferable but use capitalisation for:
 - directorates (specific government directorates – see below)
 - titles
 - buildings
@@ -635,7 +638,7 @@ Use sentence case for headings and subheadings.
 - titles of publications
 - World War 1 and World War 2 (note caps and numbers)
 
-#### Don’t capitalise: ####
+#### Don’t capitalise:
 - civil service
 - minister – never Minister, unless part of a specific job title, e.g. Minister for Parliamentary
 - Business
@@ -651,7 +654,7 @@ Use sentence case for headings and subheadings.
 - policy themes, e.g. sustainable communities, promoting economic growth,  
 - enterprise areas
 - general mention of select committees (but do capitalise specific ones – see above)
-### Capitals for government departments ###
+### Capitals for government departments
 Use the following conventions for UK Government departments/Scottish Government directorates and NDPBs. A department/directorate/NDPB using an ampersand in its logo image is fine but use ‘and’ when writing in full text.
 
 - Agriculture, Food and Rural Communities Directorate
@@ -706,19 +709,19 @@ Use the following conventions for UK Government departments/Scottish Government 
 - Student Awards Agency for Scotland (SAAS)
 - Visit Scotland
 
-### Colons ###
+### Colons
 Use a colon to introduce a list of bullet points. Elsewhere consider using an en dash, which is less formal and can help the copy to flow better.
 
 Avoid using semicolons.
 
-### Contractions ###
+### Contractions
 Write the way you speak. Use simple contractions like ‘they’ve’ (they have), ‘we’ll’ (we will), ‘don’t’ (do not). Avoid using ‘should’ve’, ‘could’ve’, ‘would’ve’, etc. as these are hard to read.
 
 Never use ‘we’ve got’ or ‘you’ve got to’ – it’s ‘we have’ or ‘you have to’.
 
 Take care not to confuse the possessive pronoun ‘its’ with the contraction ‘it’s’ (it is).
 
-### Dates and times ###
+### Dates and times
 
 We use ‘to’ in date and time ranges – not hyphens, en dashes or em dashes. For example:
 
@@ -735,10 +738,10 @@ We use ‘to’ in date and time ranges – not hyphens, en dashes or em dashes.
 
 When referring to ‘today’ (e.g. in a news article) make sure you include the date as well. For example: ‘The minister announced today (14 June 2012) that…’
 
-### Email addresses ###
+### Email addresses
 Write email addresses in full, in lower case and as active links. Don’t include any other words as part of the link.
 
-### En dash (−) ###
+### En dash (−)
 You can use an en dash (but not a hyphen) in place of a colon or brackets, or to add emphasis. Include a single space on either side of an en dash.
 
 Choosing en dashes over brackets can give text a more contemporary feel.  This is appropriate when writing progressive text in place of a colon:
@@ -746,15 +749,15 @@ Choosing en dashes over brackets can give text a more contemporary feel.  This i
 *Examples:*
 	You can fill in the form – paper or online version – to tell us about a change. It’s important to tell us about any changes immediately – so act now.  
 
-### Formatting ###
+### Formatting
 Don’t underline words or use italics. Use ‘single quotation marks’ when referring to a document, scheme or initiative.
 
 Don’t overdo the **bold** or it will lose its effect.
 
-### Full stops ###
+### Full stops
 Use a full stop at end of every sentence, including in summaries, except where the sentence ends on a website URL or an email address.
 
-### Geography and regions ###
+### Geography and regions
 Compass directions are all in lower case: the north, the south of England, the south-west, north-east Scotland, south Wales.
 
 The same applies to wider regions: the west, western Europe.
@@ -767,17 +770,17 @@ If in doubt, refer to the *New Oxford English Dictionary for Writers and Editors
 
 Always write out the full name of the area the first time you use it. You can use a capital for a shortened version of a specific area or region if it’s commonly known by that name,  e.g. ‘the Pole’ for the North Pole.
 
-### Great Britain vs United Kingdom ###
+### Great Britain vs United Kingdom
 Great Britain refers only to England, Scotland and Wales, and excludes Northern Ireland. If telling users about multiple areas, use ‘Scotland, England and Wales’ instead.
 
 Use UK and United Kingdom in preference to Britain and British (UK business, UK foreign policy, ambassador and high commissioner). Note: British embassy, not UK embassy.
 
-### Headers and subheads ###
+### Headers and subheads
 Use a leading capital letter for only the first word in a header or subhead – except where a proper noun (name) also appears.
 
 If a header includes a colon the word that follows immediately after should also have a leading capital letter.
 
-### Hyphenation ###
+### Hyphenation
 Hyphenate ‘re-’ words starting with ‘e’, e.g. re-evaluate
 
 |Don't hyphenate:|
@@ -795,7 +798,7 @@ If in doubt, check the *Concise Oxford English Dictionary*, 12th edition (2011) 
 
 Use hyphens for phrasal adjectives that come before the object, e.g. ‘up-to-date report’  (but not after – ‘the report is up to date’).
 
-### Legal language ###
+### Legal language
 If you’re talking about a legal requirement, use ‘must’. For example, ‘your employer must pay you the National Minimum Wage (NMW)’.
 
 If you feel that ‘must’ doesn’t have enough emphasis, then use ‘legal requirement’, ‘legally entitled’, etc. For example: ‘Once your child is registered at school, you’re legally responsible for making sure they attend regularly’.
@@ -804,10 +807,10 @@ When deciding whether to use ‘must’ or ‘legally entitled’, etc., conside
 
 This may be a legal requirement, but not completing it would just stop the person from moving on to the next stage of a process, rather than committing a more serious offence.
 
-### Links ###
+### Links
 Front-load your link text with the relevant terms and make them active and specific. Always link to online services first. Offer offline alternatives afterwards (where possible).
 
-### Measurements ###
+### Measurements
 Use numerals and spell out measurements at first mention.
 
 Abbreviating kilograms to kg is fine – you don’t need to spell it out.
@@ -816,7 +819,7 @@ If the measurement is more than 1 word, e.g. ‘kilometres per hour’ then spel
 
 Use Celsius for temperature, e.g. 37°C.
 
-### Numbers ###
+### Numbers
 Write all numbers in numerals (including 1 to 9) except where it’s part of a common expression and it would look strange, e.g. ‘one or two of them’. Use common sense.
 
 ‘One of the 13 words in this sentence is causing problems: this 1.’
@@ -835,22 +838,22 @@ Keep it as accurate as possible and up to 2 decimal places. For example: 4.03MB.
 
 Addresses: use ‘to’ in address ranges, for example: 49 to 53 Cherry Street.
 
-### Millions ###
+### Millions
 Always use million in money (and billion), e.g. £138 million. Use millions in phrases, e.g. ‘millions of people’.
 
-### Ordinal numbers ###
+### Ordinal numbers
 Spell out first to ninth. After that use 10th, etc.
 
 In tables, use numerals throughout.
 
-### Money ###
+### Money
 Use the £ symbol – £75. Don’t use decimals unless pence are included – for example use: £75.50 but not £75.00.
 
 Don’t use ‘£0.xx million’ for amounts less than £1 million.
 
 Write out ‘pence’ in full – ‘calls will cost 4 pence per minute from a landline’.
 
-### Organisations ###
+### Organisations
 An organisation is a single entity, so takes the singular form of a verb.  E.g., ‘The Scottish Government is the devolved government for Scotland.’
 
 The definite article can be used when referring to the organisation by its full name, but shouldn’t normally be used with the organisation’s acronym.
@@ -865,7 +868,7 @@ Use of the indefinite articles: use ‘an’ with silent ‘h’ words not hard 
 
 Use ‘local council’ instead of ‘local authority’ where possible.
 
-### Oxford comma ###
+### Oxford comma
 Avoid using the Oxford comma except where doing so will help to prevent confusion.
 
 *Examples:*
@@ -888,15 +891,15 @@ Watch MSPs take part in debate.
 Discuss the MSPs’ performance after the debate.
 
 
-### Quotes and speech marks ###
+### Quotes and speech marks
 
-#### Single quotes ####
+#### Single quotes
 Use single quotes:
 in headlines for unusual terms that require explanation when referring to titles of publications, for example: Download the publication ‘Understanding Capital Gains Tax’ (PDF, 360KB)
 
 Note: Use roman font (no single quotes) for book and newspaper titles (but use title case, as used by the publication) – e.g. *New Oxford English Dictionary for Writers and Editors*.
 
-#### Double quotes ####
+#### Double quotes
 Use double quotes in body text for direct quotations of speech or source material.
 Enclose punctuation for direct speech inside the double quotes.
 
@@ -904,13 +907,13 @@ Never precede quoted speech with ‘that’. E.g. The First Minister said, “Th
 
 In long passages of speech, open quotes for every new paragraph, but close quotes only at the end of the final paragraph.
 
-### Spaces ###
+### Spaces
 Use a single space only following a full stop – never a double space. Add spaces around an en dash, but not around an oblique – e.g. and/or.
 
-### Styling of mygov.scot ###
+### Styling of mygov.scot
 mygov.scot is always all lower case, even when it appears in a header or begins a sentence.
 
-### Telephone numbers ###
+### Telephone numbers
 Use ‘Telephone: 011 111 111’ or ‘Mobile:’ not ‘Mob:’. Use spaces between city and local exchange, etc. Here are the different formats to use:
 
 - 01273 800 900
@@ -923,16 +926,16 @@ Use ‘Telephone: 011 111 111’ or ‘Mobile:’ not ‘Mob:’. Use spaces bet
 
 If possible, group the numbers into easily remembered units, e.g. 0800 80 70 60.
 
-### Titles ###
+### Titles
 Remember all of the search engine optimisation points and use colons to introduce  the subclause.
 
-*Good example: *
+*Good example:*
  	‘Income Tax reform: Impact assessment’
 
-*Bad example: *
+*Bad example:*
  	‘An assessment of the impact of proposed reforms to Income Tax’
 
-### Transactions and services ###
+### Transactions and services
 These are pre-transaction pages. Use SEO to define the title, so if people search for ‘registry office’, put that in the summary or body text and then explain the proper term is  ‘register office’.
 
 Give one sentence on what the user can expect from the service – this will appear  before the button.
@@ -940,7 +943,6 @@ Give one sentence on what the user can expect from the service – this will app
 ‘What you need to know’ section: This is where you put information that the user will need to complete the transaction and information about how long it takes, how much there will be to pay etc.
 
 You can add alternatives to the online transaction at the foot of the page.
-
 
 ## Content formats
 
@@ -1022,7 +1024,7 @@ Avoid duplicating information but also don’t assume people have read all parts
 
 You can link between different parts of the guide using slugs.
 
-## Writing for the web ##
+## Writing for the web
 Anyone can put information online, but writing well for the web is very different. Look at popular information sites like the BBC, The Guardian, Oxfam or Lonely Planet. You’ll see their content is easy to read and understand.
 
 They use:
@@ -1033,7 +1035,7 @@ They use:
 
 This helps users to find what they need quickly and absorb it effortlessly.
 
-### User need ###
+### User need
 The process of finding and absorbing information on the web should follow these steps:
 
 1. I have a question.
@@ -1106,7 +1108,6 @@ At the activity centre you can:
 - swim
 - play
 - run
-
 
 *Bad example:*
 
@@ -1185,7 +1186,7 @@ Users expect information to be accurate and up to date. You can archive news sto
 If you don’t, users will lose trust in your content, and may not visit your pages again.
 
 
-## A to Z of common terms ##
+## A to Z of common terms
 
 |  A                         |                                                          |
 |:--------------------------|:----------------------------------------------------------|
@@ -1493,4 +1494,5 @@ If you don’t, users will lose trust in your content, and may not visit your pa
 |Working Tax Credit|Named benefit, but generic references to tax credits are lower case.
 |written ministerial statement, written statement|Lower case.|
 
+<br />
 **Contains information from Government Digital Service licensed under the [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).**
