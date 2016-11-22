@@ -119,4 +119,4 @@ Test the service from beginning to end with the minister responsible for it.
 
 ----
 <br>
-A [Digital First Service Standard poster](/poster-A0.pdf) is also available.
+A [Digital First Service Standard poster](/dfss-poster-oct-17.pdf) is also available.
