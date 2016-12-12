@@ -130,7 +130,7 @@ The DMM provides a benchmark  of the digital maturity of an organisation. It has
 • Strategy & Leadership
 
 ## Value Chain Mapping
-.
+
 Value Chain Mapping is a tool used to identify where value can be added and where waste can be reduced in an organisation.  The output usually informs the strategy.  
 
 ## User Research
