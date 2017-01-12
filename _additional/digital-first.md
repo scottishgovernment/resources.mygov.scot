@@ -9,6 +9,7 @@ index: 0
 
 
 ## Contents
+{:.no_toc}
 
 * TOC
 {:toc}
@@ -16,7 +17,7 @@ index: 0
 
 ## Overview of the Digital First Service Standard
 
-The Digital First Service Standard is a set of [22 criteria](standards/digital-first) that all Scottish public sector online services and Scottish Government corporate services must meet. This includes services for users (for example submitting an application) or corporate services (for example checking your payslip online).
+The Digital First Service Standard is a set of 22 criteria that all Scottish public sector online services and Scottish Government corporate services must meet. This includes services for users (for example submitting an application) or corporate services (for example checking your payslip online).
 
 The standard has 3 themes:
 
