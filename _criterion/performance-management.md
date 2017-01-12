@@ -1,19 +1,16 @@
 ---
 layout: digital-first-criteria
 title:  "16. Performance Management"
-summary:
 category: standard
 imperative: Standard
 index: 0
 ---
 
 ## Contents
-
+{:.no_toc}
 * TOC
 {:toc}
 <!--TOC max3-->
-
-# 16. Performance Management
 
 Identify performance indicators for the service, including the 4 mandatory key performance indicators (KPI) defined in the GDS service manual. Establish a benchmark for each metric and make a plan to enable improvements.
 

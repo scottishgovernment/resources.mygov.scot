@@ -1,6 +1,6 @@
 ---
-layout: default
-title:  "Digital First - Transparent"
+layout: digital-first-criteria
+title:  "17. Transparent"
 summary:
 category: standard
 imperative: Standard
@@ -8,14 +8,10 @@ index: 0
 ---
 
 ## Contents
-
+{:.no_toc}
 * TOC
 {:toc}
 <!--TOC max3-->
-
-# 17. Transparent
-
-Publish performance data on the Digital First Performance Platform.
 
 ## How point 17 improves their service
 

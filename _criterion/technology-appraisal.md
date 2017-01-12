@@ -1,6 +1,6 @@
 ---
-layout: default
-title:  "Digital First - Technology Appraisal"
+layout: digital-first-criteria
+title:  "06. Technology Appraisal"
 summary:
 category: standard
 imperative: Standard
@@ -8,12 +8,10 @@ index: 0
 ---
 
 ## Contents
-
+{:.no_toc}
 * TOC
 {:toc}
 <!--TOC max3-->
-
-# 06. Technology Appraisal
 
 Evaluate what technology, tools and systems will be used to build, host, operate and measure the service and how to procure them.
 

@@ -1,6 +1,6 @@
 ---
-layout: default
-title:  "Digital First - Sustainability"
+layout: digital-first-criteria
+title:  "05. Sustainability"
 summary:
 category: standard
 imperative: Standard
@@ -8,12 +8,10 @@ index: 0
 ---
 
 ## Contents
-
+{:.no_toc}
 * TOC
 {:toc}
 <!--TOC max3-->
-
-# 05. Sustainability
 
 Build a service that can be iterated and improved on a frequent basis and make sure that you have the capability, resources and technical flexibility.
 

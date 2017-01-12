@@ -1,14 +1,13 @@
 ---
 layout: digital-first-criteria
 title:  "18. Open Data"
-summary:
 category: standard
 imperative: Standard
 index: 0
 ---
 
 ## Contents
-
+{:.no_toc}
 * TOC
 {:toc}
 <!--TOC max3-->

@@ -1,14 +1,13 @@
 ---
 layout: digital-first-criteria
 title:  "13. Consistent User Experience"
-summary:
 category: standard
 imperative: Standard
 index: 0
 ---
 
 ## Contents
-
+{:.no_toc}
 * TOC
 {:toc}
 <!--TOC max3-->

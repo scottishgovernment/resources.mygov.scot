@@ -39,7 +39,7 @@ Additional information can be found [here](/criterion/user-centred).
 
 Put a plan in place for ongoing user research and usability testing to continuously seek feedback and input from users to improve the service.
 
-Additional information can be found [here](/criterion/continious-feedback).
+Additional information can be found [here](/criterion/continuous-feedback).
 
 ### Cross-functional Team
 
@@ -130,7 +130,7 @@ The KPIs are:
 - [completion rate](https://www.gov.uk/service-manual/measurement/completion-rate.html)
 - [digital take-up](https://www.gov.uk/service-manual/measurement/digital-takeup.html)
 
-Additional information can be found [here](/criterion/performance).
+Additional information can be found [here](/criterion/performance-management).
 
 ### Transparent
 

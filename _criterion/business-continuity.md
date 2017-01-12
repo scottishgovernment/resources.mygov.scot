@@ -1,14 +1,13 @@
 ---
 layout: digital-first-criteria
 title:  "11. Business Continuity"
-summary:
 category: standard
 imperative: Standard
 index: 0
 ---
 
 ## Contents
-
+{:.no_toc}
 * TOC
 {:toc}
 <!--TOC max3-->
