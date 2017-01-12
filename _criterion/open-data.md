@@ -25,9 +25,9 @@ Making data open will support:
 * open data presents an opportunity for citizens to better engage with the public sector regarding both the development of policies and the delivery of public services;
 * empowers others to use the data for new and exciting purposes;
 * receiving feedback on the data we make open is valuable. Feedback and engagement can:
-o	improve the quality of the data;
-o	private insight into the data;
-o	bring wider groups into the design of public services.
+  * improve the quality of the data;
+  * private insight into the data;
+  * bring wider groups into the design of public services.
 
 ## How they’ll be assessed
 
