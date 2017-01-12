@@ -37,6 +37,10 @@ collections:
     output: true
     permalink: /services/:name/
     parent: home
+  criterion:
+    output: true
+    permalink: /criterion/:name/
+    parent: home
   examples:
     output: true
 
@@ -50,6 +54,11 @@ defaults:
   - scope:
       path: ""
       type: services
+    values:
+      parent: home
+  - scope:
+      path: ""
+      type: criterion
     values:
       parent: home
   - scope:
