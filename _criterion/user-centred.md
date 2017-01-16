@@ -39,6 +39,7 @@ To pass the discovery assessment, the service team usually needs to show:
 ### In the alpha assessment (1.2.2)
 
 To pass the alpha assessment, the service team usually needs to show:
+
 * the user needs found for the service in discovery and how discovery found those needs, including any needs for assisted digital users
 * they’ve developed stakeholder maps and made connections with groups that will allow interaction with users
 * how the service team has been writing user stories for the service - including for users who need assisted digital support
@@ -51,6 +52,7 @@ To pass the alpha assessment, the service team usually needs to show:
 ### In the beta assessment (1.2.3)
 
 To pass the beta assessment, the service team usually needs to:
+
 * talk about the private beta, including how many users they’ve tested with, how they’ve recruited them and received informed and active consent, how they’ve used analytics in their research, and what they’ve learned that they didn’t find in alpha
 * compliance with data protection on any identifiable personal information of participants (safe and securely stored information)
 * explain who their users are, what they’ve done to understand their needs and what user needs they’ve found, including users who need assisted digital support
@@ -63,7 +65,9 @@ To pass the beta assessment, the service team usually needs to:
 * how the user researcher will ensure compliance with ethics requirements throughout the service team
 * discuss how they received active consent and maintained data protection for users
 * show how the have sought and received permission for ethical research if they have included vulnerable participants within their user groups
+
 The service team also need to:
+
 * discuss research that identifies parts of the task which users find difficult - they’ll have to explain how they’ve changed the service to make these parts of the task easier for users and how they tested and researched to confirm this
 * discuss any problems that they found in research which they’ll have to overcome to design the service
 * explain the research they did to understand whether their support model meets user needs and how that research informed iteration and testing
