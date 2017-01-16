@@ -17,6 +17,7 @@ index: 0
 Assessors should get in touch with the service team before the assessment.
 
 Assessors will learn about the service by speaking to the service team about:
+
 * the context of the service
 * the makeup of the team
 * what’s went well so far
