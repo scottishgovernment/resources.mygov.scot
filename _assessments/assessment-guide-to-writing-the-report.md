@@ -55,7 +55,7 @@ When writing about the assessment, write in the past tense. For example ‘The p
 
 When writing about the work the service team is doing to build the service, write in the present tense. For example ‘The assessment panel was impressed that the team is regularly carrying out research with its users.’
 
-###Singular or plural
+### Singular or plural
 
 The ‘assessment panel’ or ‘panel’ is singular - use ‘the panel was’, not ‘the panel were’.
 
