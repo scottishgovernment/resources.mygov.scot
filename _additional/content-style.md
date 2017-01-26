@@ -30,6 +30,7 @@ Guidance on content style for mygov.scot, based upon the Government Digital Serv
 mygov.scot is the place for people in Scotland to access public services that are easy to find and simple to use – services so convenient, people choose digital first.
 
 ### Editorial aims
+
 We aim to work closely and in partnership with public sector organisations to put user needs at the forefront of service delivery and design. It will mean that people can quickly and easily find the service they need without having to know who provides it.
 
 Only user-led, service-oriented and customer-focused content makes it onto mygov.scot.  It is a place for Scotland’s people, not policy.
@@ -1240,9 +1241,10 @@ If you don’t, users will lose trust in your content, and may not visit your pa
 |Comhairle nan Eilean Siar|Local government council for the Na h-Eileanan Siar council area; Scotland’s sole Gaelic-only named council (formerly the Western Isles Council).|
 |commercial software|Not 'third party software' or '3rd party software'.
 |community council|Lower case.
-|community health partnership (CHP); community health and care partnership (CHCP)|Use capitals when referring to an official name, e.g. NHS Mid Highland|
-|Community Health Partnership.||
+|Community Health Partnership (CHP); community health and care partnership (CHCP)|Use capitals when referring to an official name, e.g. NHS Mid Highland|
 |Community Health Index (CHI) |Number|
+|community planning |lower case|
+|community planning partnerships |lower case|
 |community resilience|Lower case.|
 |conduct of business rules|Lower case.|
 |confirmation|Lower case. |
@@ -1395,7 +1397,7 @@ If you don’t, users will lose trust in your content, and may not visit your pa
 |policy statement|Lower case.|
 |PowerPoint presentation|Upper case because it's a brand name.|
 |practice |Noun e.g.GP practice|
-|practise |Verb e.g. practice medicine|
+|practice |Verb e.g. practice medicine|
 |Prime Minister|Use 'Prime Minister (name)' and 'the Prime Minister'.|
 |Private Member's Bill (pl.  Private Members’ Bills)|This is an official title used by the UK Parliament.|  
 |Private Bill, Public Bill, Hybrid Bill|These are official titles used by the Scottish Parliament. |
