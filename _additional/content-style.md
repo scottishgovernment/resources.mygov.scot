@@ -1241,7 +1241,7 @@ If you don’t, users will lose trust in your content, and may not visit your pa
 |Comhairle nan Eilean Siar|Local government council for the Na h-Eileanan Siar council area; Scotland’s sole Gaelic-only named council (formerly the Western Isles Council).|
 |commercial software|Not 'third party software' or '3rd party software'.
 |community council|Lower case.
-|Community Health Partnership (CHP); community health and care partnership (CHCP)|Use capitals when referring to an official name, e.g. NHS Mid Highland|
+|Community Health Partnership (CHP); Community Health and Care Partnership (CHCP)|Use capitals when referring to an official name, e.g. NHS Mid Highland|
 |Community Health Index (CHI) |Number|
 |community planning |lower case|
 |community planning partnerships |lower case|
