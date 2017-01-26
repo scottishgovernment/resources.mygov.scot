@@ -14,7 +14,7 @@ index: 0
 
 After the assessment, the panel will produce a report. This will give feedback to the Service Manager and Service Team including whether they have met the standard or not met it.
 
-There is a [template](/) you should use for the report.
+There is a [template](/Assessment_report_template.docx) you should use for the report.
 
 ## Responsibilities
 
@@ -37,7 +37,7 @@ The assessment report is a written record of the discussions and recommendations
 
 There is flexibility in how the report can be structured – the Lead Assessor decides the best structure to use.
 
-The [report template] (link to report template) should always be used.
+The [report template](/Assessment_report_template.docx) should always be used.
 
 ## Report style guide
 

@@ -1,13 +1,13 @@
 ---
 layout: digital-first-criteria
-title:  "Preparing for a Digital First Assessment Preparation"
-category: standard
-imperative: Standard
+title:  "Preparing for a Digital First Assessment"
+category: assessment
+imperative: Assessment
 index: 0
 ---
 
 ## Contents
-
+{:.no_toc}
 * TOC
 {:toc}
 <!--TOC max3-->
@@ -23,7 +23,7 @@ Assessors will learn about the service by speaking to the service team about:
 * what’s went well so far
 * future challenges
 
-The service team needs to consider all [22 criteria] (https://resources.mygov.scot/standards/digital-first/) and present evidence in the presentation.
+The service team needs to consider all [22 criteria](/standards/digital-first/) and present evidence in the presentation.
 
 ## At the Assessment
 

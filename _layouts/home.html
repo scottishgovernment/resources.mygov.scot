@@ -36,6 +36,17 @@
             </article>
             {% endfor %}
         </div>
+        <div class="col-md-8">
+            {% assign indexed = site.assessments | sort: 'index', 'last' %}
+            {% for item in indexed %}
+             {% if item.frontpage %}
+                <article>
+                    <h2><a href="{{ item.url }}">{{ item.title }}</a>{% if item.imperative %} <small>({{item.imperative}})</small>{% endif %}</h2>
+                    <p>{{ item.summary }}</p>
+                </article>
+              {% endif %}
+            {% endfor %}
+        </div>
     </div>
     <div class="row">
         <div class="col-md-8">
