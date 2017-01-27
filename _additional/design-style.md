@@ -4,16 +4,16 @@ title:  "Design Style Guide"
 categories: documentation
 summary: The standard for the look and feel of services available via mygov.scot.
 imperative: Standard
-index: 1
+index: 2
 headings:
 - The grid
 - Typography
 - Link and button language
+- MyGov assets
 
 ---
 
 ## Purpose
-
 This document outlines design thinking and approach, covering Grid, Typography and Link language, with inline examples for common elements.
 
 ## The grid
@@ -30,25 +30,25 @@ This allows us to deliver content optimised for a variety of devices. It means t
 
 For displays &ge; 1200px
 
-<img src="{{ site.baseurl }}/assets/images/style-guide-grid-l.png" alt="The grid on large desktops" style="width:100%;">
+<img src="{{ site.url }}/assets/images/style-guide-grid-l.png" alt="The grid on large desktops" style="width:100%;">
 
 ### Desktop (M)
 
 For displays &ge; 992px
 
-<img src="{{ site.baseurl }}/assets/images/style-guide-grid-m.png" alt="The grid on normal desktops" style="width:80%;">
+<img src="{{ site.url }}/assets/images/style-guide-grid-m.png" alt="The grid on normal desktops" style="width:80%;">
 
 ### Tablet (S)
 
 For displays &ge; 768px
 
-<img src="{{ site.baseurl }}/assets/images/style-guide-grid-s.png" alt="The grid on tablets" style="width:60%;">
+<img src="{{ site.url }}/assets/images/style-guide-grid-s.png" alt="The grid on tablets" style="width:60%;">
 
 ### Mobile (XS)
 
 For displays &lt; 768px
 
-<img src="{{ site.baseurl }}/assets/images/style-guide-grid-xs.png" alt="The grid on mobiles" style="width:60%;">
+<img src="{{ site.url }}/assets/images/style-guide-grid-xs.png" alt="The grid on mobiles" style="width:60%;">
 
 
 ### Be consistent
@@ -108,19 +108,13 @@ Outwith regular article formatting, we have found a need for ‘h2 emphasis’ t
 
 Guide pages display both the guide title (h1) and page/section title (h2) on each page. The standard h2 which is used sitewide does not have enough prominence in this instance to handle the page title, therefore ‘h2 emphasis (guide)’ has been defined to be used solely on guide pages. Can only appear once on a page as in the case of h1. Note: Guide page h3s match styling of regular h2s and similarly guide page h4s match regular h3s. ‘h2 emphasis (guide)’ is larger than standard ‘h2 emphasis’ and applies a blue top border.
 
-
 {% include example.html file="h2-guide" caption="h2 in a guide" height="100" %}
-
-
-
-
 
 ### 5. Breadcrumbs
 
 Currently breadcrumbs appear on all views expcept mobile (320px). They adopt the 'small print' size and line-height styling.
 
 {% include example.html file="breadcrumbs" caption="Breadcrumbs" height="130" %}
-
 
 ### 6. Informational notes
 
@@ -135,19 +129,13 @@ It's not good enough to rely on the html `<blockquote>` element to render all in
 
 {% include example.html file="small-print" caption="Small print" height="150"%}
 
-
 ### 7. Ordered lists
 
 {% include example.html file="ordered-list" caption="An ordered list" height="350" %}
 
-
 ### 8. Unordered lists
 
 {% include example.html file="unordered-list" caption="An unordered list" height="350" %}
-
-
-
-
 
 ## Link and button language
 
@@ -167,58 +155,50 @@ Hover states are subtle indicators. All text and button links darken on hover.
 
 Active states are affirming. In the case of buttons the hover state is maintained while the reversal text becomes semi-transparent. This maintains a consistency across desktop and mobile devices where hover becomes redundant, while replicating a real-life down-press event. In the case of text links and Category / Content item listings a light blue is applied to the background. This is especially useful to mobile users, as screen size and brightness, smaller text and graphical elements, and poor connectivity can all potentially make it difficult to know whether a link has been pressed.
 
-
-
 ### 1. Text links
 
 {% include example.html file="text-links" caption="Header and contextual links; internal and external" height="250" %}
-
 
 ### 2. Primary button
 
 {% include example.html file="primary-button" %}
 
-
 ### 3. External button
 
 {% include example.html file="external-button" %}
-
 
 ### 4. Secondary button
 
 {% include example.html file="secondary-button" height="175" %}
 
-
 ### 5. Stop / Call-off / Cancel button
 
 {% include example.html file="cancel-button" %}
-
 
 ### 6. Navigation button
 
 {% include example.html file="nav-button" height="250" %}
 
-
 ### 7. Sequential guide navigation
 
 {% include example.html file="guide-sequential" height="200" %}
-
 
 ### 8. Non-sequential guide navigation
 
 {% include example.html file="guide-non-sequential" height="200" %}
 
-
 ### 9. Accordion
 
 {% include example.html file="accordion" height="400" %}
-
 
 ### 10. Tabs
 
 {% include example.html file="tabs" %}
 
-
 ### 11. Notifications
 
 {% include example.html file="notifications" height="300" %}
+
+## MyGov Assets
+
+()[https://github.com/scottishgovernment/mygov-assets]
