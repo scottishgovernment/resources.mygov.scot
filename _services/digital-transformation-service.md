@@ -110,6 +110,10 @@ DTS  have  assisted CHS and SCRA by:
 * developing Project Initiation Documents, target architecture models and low level business cases to support a phased programme delivery
 * delivering Digital Maturity Model and Impact Mapping sessions involving all levels of the organisations
 
+* [DG Communities Case Study](https://vimeo.com/198170572)
+
+The Digital Transformation Service were asked to conduct <a href="#digital-maturity-model-dmm">Digital Maturity Model Assessments</a> across the Scottish Government.  We conducted 12 assessments over 6 areas [as well as deep dive sessions covering human resources, procurement, information technology, digital communications and digital business transformation], and produced individual directorate and a consolidated Scottish Government report which was presented to the Executive Team.
+
 
 ## Strategy development and review
 
@@ -123,11 +127,11 @@ The Digital Strategy will generate high-level activities and a roadmap will show
 
 The DMM provides a benchmark  of the digital maturity of an organisation. It has been developed in line with Scotland’s Digital Public Services Strategy, and provides an organisation with a means of measuring their digital capability in five key areas:
 
-• Customer Focus
-• Collaboration & Value For Money  
-• Data – Openness & Privacy
-• Skills & Capability
-• Strategy & Leadership
+* Customer Focus
+* Collaboration & Value For Money  
+* Data – Openness & Privacy
+* Skills & Capability
+* Strategy & Leadership
 
 ## Value Chain Mapping
 
@@ -142,6 +146,7 @@ User research focuses on understanding user behaviours, needs, and motivations. 
 Business Process Modelling develops visual aids which  show how an organisation works. These take two forms:
 
 1)	‘As-is’ models which will help identify how effectively and efficiently an organisation is currently working and where incremental improvements can be obtained
+
 2)	‘To-be’ models design the activities that will determine how new or changed services will be managed within the organisation. ‘To-be’ models will usually be accompanied by significant business, policy or ICT changes.
 
 
@@ -155,9 +160,9 @@ High-level activities identified in a strategy will often require an outline or 
 
 Business cases are developed over time. The three key stages are:
 
-1) Strategic
-2) Outline business case
-3) Full Business Case.
+* 1 - Strategic
+* 2 - Outline business case
+* 3 - Full Business Case.
 
 We support organisations to procure in an agile way. This includes going to market with desired outcomes and working with suppliers to address these. This often dramatically reduces the time taken to procure and enables fast delivery.
 
