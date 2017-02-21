@@ -9,7 +9,6 @@ headings:
 - The grid
 - Typography
 - Link and button language
-- MyGov assets
 
 ---
 
@@ -198,7 +197,3 @@ Active states are affirming. In the case of buttons the hover state is maintaine
 ### 11. Notifications
 
 {% include example.html file="notifications" height="300" %}
-
-## MyGov Assets
-
-()[https://github.com/scottishgovernment/mygov-assets]
