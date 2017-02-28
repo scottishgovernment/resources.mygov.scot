@@ -52,7 +52,7 @@ Content Designers focus on the content of the service. They want a service team 
 * focused on user needs
 * in plain English and easily accessible to all
 * accurate and reliable
-* follows the gov.uk style guide
+* follows the gov.uk [style guide](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style)
 
 ## Assisted Digital Assessor
 
@@ -69,11 +69,12 @@ They want a service team to show:
 
 ## User Research Assessor
 
-User Researchers look at the research conducted for the service and the service team’s plans for on-going research.
+User Researchers look at the research conducted for the service and the service team’s plans for ongoing research.
 
 They want a service team to show:
 
-* they have used an appropriate mix of research generation and analysis tools and methods to generate robust insight into service user’s needs, problems, behaviours and contexts
+* they have used an appropriate mix of research and analysis tools and methods
+* how they have generated insight into service user’s needs, problems, behaviours and contexts
 * how they have engaged service users to make sense of that research and to make design decisions
 * what actions have been taken based on these insights – for example in creating user needs or service design decisions
 
