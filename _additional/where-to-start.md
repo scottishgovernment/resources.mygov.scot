@@ -14,10 +14,6 @@ frontpage: yes
 {:toc}
 <!--TOC max3-->
 
-## Summary
-
-Information on how to prepare for and the process of the Digital First Service Standard assessment.
-
 ## Agile overview
 
 Information on how to make your project agile and on the different stages of agile: Discovery, Alpha, Beta and Live.
