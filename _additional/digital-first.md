@@ -170,4 +170,4 @@ Additional information can be found [here](/criterion/sponsor-acceptance).
 
 ----
 <br>
-A [Digital First Service Standard poster](/dfss-poster-oct-17.pdf) is also available.
+A [Digital First Service Standard poster](/dfss-poster-feb-17.pdf) is also available.
