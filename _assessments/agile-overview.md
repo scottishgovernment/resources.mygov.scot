@@ -33,7 +33,7 @@ Future public services in Scotland need to be flexible. When services are delive
 
 Service teams across Scotland must use the agile approach to delivering a service as part of the [Digital First Service Standard](standards/digital-first).
 
-If you think you can’t use agile to deliver your service, please raise this in your first conversation with the Digital First team, contact them at **OCIOAssurance@gov.scot**.
+If you think you can’t use agile to deliver your service, please raise this in your first conversation with the Digital First team, contact them at <a href="mailto:OCIOAssurance@gov.scot">OCIOAssurance@gov.scot</a>.
 
 ## Discovery
 
