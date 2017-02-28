@@ -40,7 +40,7 @@ Find out more about [assessor roles and responsibilities](/assessments/assessmen
 
 Examples of questions that may be asked at the different stages of assessment.
 
-Read the [asking the right questions page](/assessments/asking-the-right-questions.md).
+Read the [asking the right questions page](/assessments/asking-the-right-questions).
 
 ## Support for organisations and assessors
 
