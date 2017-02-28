@@ -7,10 +7,6 @@ imperative: Standard
 index: 0
 ---
 
-## Purpose
-
-This document describes the minimum standard required when delivering a digital public service. The document is based upon GDS' "Digital by Default" standard.
-
 ## Contents
 {:.no_toc}
 
@@ -72,7 +68,7 @@ When you exit Alpha, you should:
 * decide whether to move your service into the Beta phase
 * understand the problems with the design of your service and decide how you’ll solve them
 * make some estimates about how much your service will cost
-* dentify any risks for the Beta stage and plan how you’ll tackle them
+* identify any risks for the Beta stage and plan how you’ll tackle them
 * decide what you need to build in Beta if you are moving into Beta
 
 Further information on Alpha is available on the [GOV.UK website](https://www.gov.uk/service-manual/agile-delivery/how-the-alpha-phase-works).
@@ -81,7 +77,7 @@ Further information on Alpha is available on the [GOV.UK website](https://www.go
 
 In Beta you will be developing a working version of your service. This is sometimes called a minimum viable product (MVP).
 
-It must be able to handle real transactions (for example if your service includes a search function users must be able to search and get results in the Beta version).
+It must be able to handle real transactions (for example if your service includes a search function users must be able to search and get results).
 
 Beta involves releasing a version of your service to the public.
 
