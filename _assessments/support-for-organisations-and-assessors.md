@@ -10,7 +10,6 @@ index: 0
 ## Contents
 {:.no_toc}
 * TOC
-
 {:toc}
 <!--TOC max3-->
 
@@ -20,7 +19,7 @@ If you are launching a new digital public service or redesigning an existing ser
 
 The Digital First team are there to support you whenever you need it.
 
-Contact them at **OCIOAssurance@gov.scot** before you start work on the new service to let them know what you are planning.
+Contact them at <a href="mailto:OCIOAssurance@gov.scot">OCIOAssurance@gov.scot</a> before you start work on the new service to let them know what you are planning.
 
 ## Support with digital transformation
 

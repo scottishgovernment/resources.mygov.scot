@@ -65,7 +65,7 @@ The ‘service team’ is singular - use ‘the team is’, not ‘the team are�
 
 ### Met the standard
 
-For services that have met the Digital First Service Standard the report should explain what has been done well by the service team. It should also explain if there is anything that the service team need to be careful of or improve for [the next stage]. (link to agile page)
+For services that have met the Digital First Service Standard the report should explain what has been done well by the service team. It should also explain if there is anything that the service team need to be careful of or improve for [the next stage](/assessments/agile-overview).
 
 This should include examples of good practice so that other service teams working on similar projects can learn from them.
 
@@ -77,7 +77,7 @@ For services that have not met the Digital First Service Standard the report sho
 
 Recommendations can be provided by the assessment panel for the points in the standard that have been met. The aim of recommendations is to give the service team points to consider during the next stage of development.
 
-Requirements should be provided by the assessment panel for the points that were not met. It will be mandatory for the Service Team to meet these requirements before they sit the reassessment. The panel should set a fixed amount of time for when the requirement should be met.
+Requirements should be provided by the assessment panel for the points that were not met. It will be mandatory for the service team to meet these requirements before they sit the re-assessment. The panel should set a fixed amount of time for when the requirement should be met.
 
 ### How to write recommendations and requirements
 
@@ -97,4 +97,4 @@ Within the report, any commercial partner on the service should be referenced as
 
 The report will be sent to the service team for fact checking before it is published.
 
-If you’re a Lead Assessor and would like some support with this, contact the Digital First Team on **OCIOAssurance@gov.scot**.
+If you’re a Lead Assessor and would like some support with this, contact the Digital First Team at <a href="mailto:OCIOAssurance@gov.scot">OCIOAssurance@gov.scot</a>.
