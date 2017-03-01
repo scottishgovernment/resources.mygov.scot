@@ -45,6 +45,10 @@ collections:
     output: true
     permalink: /assessments/:name/
     parent: home
+  guidelines:
+    output: true
+    permalink: /guidelines/:name/
+    parent: home
   examples:
     output: true
 
@@ -68,6 +72,11 @@ defaults:
   - scope:
       path: ""
       type: assessments
+    values:
+      parent: home
+  - scope:
+      path: ""
+      type: guidelines
     values:
       parent: home
   - scope:
