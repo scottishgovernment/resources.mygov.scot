@@ -49,6 +49,10 @@ collections:
     output: true
     permalink: /guidelines/:name/
     parent: home
+  prototypes:
+    output: true
+    permalink: /prototypes/:name/
+    parent: home
   examples:
     output: true
 
@@ -77,6 +81,11 @@ defaults:
   - scope:
       path: ""
       type: guidelines
+    values:
+      parent: home
+  - scope:
+      path: ""
+      type: prototypes
     values:
       parent: home
   - scope:
