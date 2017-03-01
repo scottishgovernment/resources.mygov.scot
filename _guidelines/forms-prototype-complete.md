@@ -100,7 +100,7 @@ frontpage: no
                 <input type="hidden" value="sitesearch" name="cat"/>
 
                 <button type="submit" title="search" class="search-box__button button button--primary">
-                    <img alt="" class="search-box__icon" src="{{ "/assets/images/icons/search-white_@2x.png" | prepend: site.url }}" />
+                    <img alt="" class="search-box__icon" src="{{ "/assets/images/icons/search-white_@2x.png" | prepend: site.github_sg_site_url }}" />
                     <span class="hidden">Search mygov.scot</span>
                 </button>
             </form>
