@@ -44,7 +44,7 @@ The following services are in scope and available through the Framework:
 - Hosting Services: Co-location
 
 **Start date**: 21 May 2015
-**End date**: 20 May 2017
+**End date**: 20 May 2018
 
 #### [Digital and Technology Services Framework](http://www.gov.scot/Topics/Government/Procurement/directory/itms/itservicesframework) (DATS)
 
@@ -68,7 +68,7 @@ Covers a wide range of services including (but not limited to):
 - and System Integration.
 
 **Start Date**: 13 May 2015
-**End Date**: 12 May 2017
+**End Date**: 12 May 2018
 
 #### [Server Maintenance Framework](http://www.gov.scot/Topics/Government/Procurement/directory/itms/ServerMaintenanceFramework)
 
@@ -82,7 +82,7 @@ The framework includes maintenance of the following:
 - Storage Area Network (SAN).
 
 **Start Date**: 24 June 15
-**End Date**: 23 June 17
+**End Date**: 23 June 18
 
 #### [Application Design and Development Services](http://www.gov.scot/Topics/Government/Procurement/directory/itms/ADDSFramework) (ADDS)
 
@@ -157,7 +157,7 @@ There are 20 suppliers in total ranging from multi-national to SME organisations
 **Start Date**: 26/08/2014
 **End Date**: 25/08/2017
 
-#### [Digital Marketplace: G-Cloud 7](http://ccs-agreements.cabinetoffice.gov.uk/contracts/rm1557vii) (RM1557vii)
+#### [Digital Marketplace: G-Cloud 8](https://ccs-agreements.cabinetoffice.gov.uk/contracts/rm1557viii) (RM1557viii)
 
 The G-Cloud framework allows you to choose and purchase cloud services covering infrastructure, platform, software and specialist cloud services. The framework is for commodity based, pay-as-you go cloud services across four lots:
 
@@ -170,8 +170,8 @@ The G-Cloud framework allows you to choose and purchase cloud services covering 
 
 Lot 4 is for services outside of the three traditional ‘as a service’ (aaS) areas to support customers transitioning to cloud services.
 
-**Start Date**: 23/11/2015
-**End Date**: 22/05/2017
+**Start Date**: 29/07/2016
+**End Date**: 28/07/2017
 
 #### [Technology Services](http://ccs-agreements.cabinetoffice.gov.uk/contracts/rm1058) (RM1058)
 
@@ -209,12 +209,12 @@ Provides access to managed email services for public sector organisations.
 **Start Date**: 29/08/2014
 **End Date**: 28/08/2017
 
-#### [Digital Outcomes and Specialists](https://www.gov.uk/government/publications/digital-services-store-buyers-guide/digital-servcies-buyers-guide) (RM1043iii)
+#### [Digital Outcomes and Specialists 2](https://www.gov.uk/government/publications/digital-services-store-buyers-guide/digital-servcies-buyers-guide) (RM1043iii)
 
 Provides services including a digital outcome, e.g. a beta of an NHS appointment booking system; digital specialists, e.g.a product manager or developers; user research studios; user research participants.
 
-**Start Date**: 03/03/2016
-**End Date**: 02/09/2017
+**Start Date**: 24/02/2017
+**End Date**: TBC
 
 
 ## IT Networking Frameworks
