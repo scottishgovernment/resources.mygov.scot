@@ -160,158 +160,154 @@ frontpage: no
                             <a name="registration-time-link"></a>
                             <span class="required-icon">*</span><label for="registration-time">Time of session</label>
                             <p>Use 24 hour format.</p>
-                            <div class="input-wrapper">
-                                <input data-maxlength="100" id="registration-time" class="grey form-control" type="text" placeholder="e.g. 14.00" />
-                                <p class="current-errors"></p>
-                            </div>
+                            <input id="registration-time" class="grey form-control" type="text" placeholder="e.g. 14.00" />
+                            <p class="current-errors"></p>
                         </div>
 
                         <h2>Your details</h2>
                         <div class="form-group relative">
                             <a name="name-link"></a>
                             <span class="required-icon">*</span><label for="name">Your name</label>
-                            <div class="input-wrapper">
-                                <input data-maxlength="300" id="name" class="grey form-control" type="text" />
-                                <p class="current-errors"></p>
-                            </div>
+                            <input id="name" class="grey form-control" type="text">
+                            <p class="current-errors"></p>
                         </div>
 
                         <div class="form-group relative">
                             <a name="birthdate-link"></a>
                             <span class="required-icon">*</span><label for="birthdate">Date of birth</label>
+
                             <div class="input-wrapper birthdate" id="birthdate">
-                                <select id="birthdate-day" class="grey">
-                                    <option selected disabled value="">Day</option>
-                                    <option>1</option>
-                                    <option>2</option>
-                                    <option>3</option>
-                                    <option>4</option>
-                                    <option>5</option>
-                                    <option>6</option>
-                                    <option>7</option>
-                                    <option>8</option>
-                                    <option>9</option>
-                                    <option>10</option>
-                                    <option>11</option>
-                                    <option>12</option>
-                                    <option>13</option>
-                                    <option>14</option>
-                                    <option>15</option>
-                                    <option>16</option>
-                                    <option>17</option>
-                                    <option>18</option>
-                                    <option>19</option>
-                                    <option>20</option>
-                                    <option>21</option>
-                                    <option>22</option>
-                                    <option>23</option>
-                                    <option>24</option>
-                                    <option>25</option>
-                                    <option>26</option>
-                                    <option>27</option>
-                                    <option>28</option>
-                                    <option>29</option>
-                                    <option>30</option>
-                                    <option>31</option>
-                                </select>
+                                <div class="create-select__arrow">
+                                    <select id="birthdate-day" class="create-select">
+                                        <option selected disabled value="">Day</option>
+                                        <option>1</option>
+                                        <option>2</option>
+                                        <option>3</option>
+                                        <option>4</option>
+                                        <option>5</option>
+                                        <option>6</option>
+                                        <option>7</option>
+                                        <option>8</option>
+                                        <option>9</option>
+                                        <option>10</option>
+                                        <option>11</option>
+                                        <option>12</option>
+                                        <option>13</option>
+                                        <option>14</option>
+                                        <option>15</option>
+                                        <option>16</option>
+                                        <option>17</option>
+                                        <option>18</option>
+                                        <option>19</option>
+                                        <option>20</option>
+                                        <option>21</option>
+                                        <option>22</option>
+                                        <option>23</option>
+                                        <option>24</option>
+                                        <option>25</option>
+                                        <option>26</option>
+                                        <option>27</option>
+                                        <option>28</option>
+                                        <option>29</option>
+                                        <option>30</option>
+                                        <option>31</option>
+                                    </select>
+                                </div>
 
-                                <select id="birthdate-month" class="grey">
-                                    <option selected disabled value="">Month</option>
-                                    <option value="1">January</option>
-                                    <option value="2">February</option>
-                                    <option value="3">March</option>
-                                    <option value="4">April</option>
-                                    <option value="5">May</option>
-                                    <option value="6">June</option>
-                                    <option value="7">July</option>
-                                    <option value="8">August</option>
-                                    <option value="9">September</option>
-                                    <option value="10">October</option>
-                                    <option value="11">November</option>
-                                    <option value="12">December</option>
-                                </select>
+                                <div class="create-select__arrow">
+                                    <select id="birthdate-month" class="create-select">
+                                        <option selected disabled value="">Month</option>
+                                        <option value="1">January</option>
+                                        <option value="2">February</option>
+                                        <option value="3">March</option>
+                                        <option value="4">April</option>
+                                        <option value="5">May</option>
+                                        <option value="6">June</option>
+                                        <option value="7">July</option>
+                                        <option value="8">August</option>
+                                        <option value="9">September</option>
+                                        <option value="10">October</option>
+                                        <option value="11">November</option>
+                                        <option value="12">December</option>
+                                    </select>
+                                </div>
 
-                                <select id="birthdate-year" class="grey">
-                                    <option selected disabled value="">Year</option>
-                                    <option>2017</option><option>2016</option><option>2015</option><option>2014</option><option>2013</option><option>2012</option><option>2011</option><option>2010</option><option>2009</option><option>2008</option><option>2007</option><option>2006</option><option>2005</option><option>2004</option><option>2003</option><option>2002</option><option>2001</option><option>2000</option><option>1999</option><option>1998</option><option>1997</option><option>1996</option><option>1995</option><option>1994</option><option>1993</option><option>1992</option><option>1991</option><option>1990</option><option>1989</option><option>1988</option><option>1987</option><option>1986</option><option>1985</option><option>1984</option><option>1983</option><option>1982</option><option>1981</option><option>1980</option><option>1979</option><option>1978</option><option>1977</option><option>1976</option><option>1975</option><option>1974</option><option>1973</option><option>1972</option><option>1971</option><option>1970</option><option>1969</option><option>1968</option><option>1967</option><option>1966</option><option>1965</option><option>1964</option><option>1963</option><option>1962</option><option>1961</option><option>1960</option><option>1959</option><option>1958</option><option>1957</option><option>1956</option><option>1955</option><option>1954</option><option>1953</option><option>1952</option><option>1951</option><option>1950</option><option>1949</option><option>1948</option><option>1947</option><option>1946</option><option>1945</option><option>1944</option><option>1943</option><option>1942</option><option>1941</option><option>1940</option><option>1939</option><option>1938</option><option>1937</option><option>1936</option><option>1935</option><option>1934</option><option>1933</option><option>1932</option><option>1931</option><option>1930</option><option>1929</option><option>1928</option><option>1927</option><option>1926</option><option>1925</option><option>1924</option><option>1923</option><option>1922</option><option>1921</option><option>1920</option><option>1919</option><option>1918</option><option>1917</option><option>1916</option><option>1915</option><option>1914</option><option>1913</option><option>1912</option><option>1911</option><option>1910</option><option>1909</option><option>1908</option><option>1907</option><option>1906</option><option>1905</option><option>1904</option><option>1903</option><option>1902</option><option>1901</option>
-                                </select>
+
+                                <div class="create-select__arrow">                            
+                                    <select id="birthdate-year" class="create-select">                                    
+                                        <option selected disabled value="">Year</option>
+                                        <option>2017</option><option>2016</option><option>2015</option><option>2014</option><option>2013</option><option>2012</option><option>2011</option><option>2010</option><option>2009</option><option>2008</option><option>2007</option><option>2006</option><option>2005</option><option>2004</option><option>2003</option><option>2002</option><option>2001</option><option>2000</option><option>1999</option><option>1998</option><option>1997</option><option>1996</option><option>1995</option><option>1994</option><option>1993</option><option>1992</option><option>1991</option><option>1990</option><option>1989</option><option>1988</option><option>1987</option><option>1986</option><option>1985</option><option>1984</option><option>1983</option><option>1982</option><option>1981</option><option>1980</option><option>1979</option><option>1978</option><option>1977</option><option>1976</option><option>1975</option><option>1974</option><option>1973</option><option>1972</option><option>1971</option><option>1970</option><option>1969</option><option>1968</option><option>1967</option><option>1966</option><option>1965</option><option>1964</option><option>1963</option><option>1962</option><option>1961</option><option>1960</option><option>1959</option><option>1958</option><option>1957</option><option>1956</option><option>1955</option><option>1954</option><option>1953</option><option>1952</option><option>1951</option><option>1950</option><option>1949</option><option>1948</option><option>1947</option><option>1946</option><option>1945</option><option>1944</option><option>1943</option><option>1942</option><option>1941</option><option>1940</option><option>1939</option><option>1938</option><option>1937</option><option>1936</option><option>1935</option><option>1934</option><option>1933</option><option>1932</option><option>1931</option><option>1930</option><option>1929</option><option>1928</option><option>1927</option><option>1926</option><option>1925</option><option>1924</option><option>1923</option><option>1922</option><option>1921</option><option>1920</option><option>1919</option><option>1918</option><option>1917</option><option>1916</option><option>1915</option><option>1914</option><option>1913</option><option>1912</option><option>1911</option><option>1910</option><option>1909</option><option>1908</option><option>1907</option><option>1906</option><option>1905</option><option>1904</option><option>1903</option><option>1902</option><option>1901</option>
+                                    </select>
+                                </div>
                                 <p class="current-errors"></p>
                             </div>
                         </div>
+
                         <div class="form-group relative">
                             <a name="email-link"></a>
                             <span class="required-icon">*</span><label for="email">Email address</label>
-                            <div class="input-wrapper">
-                                <input data-maxlength="150" id="email" class="grey form-control" type="text" />
-                                <p class="current-errors"></p>
-                                <p class="server-side-errors"></p>
-                            </div>
+                            <input id="email" class="grey form-control" type="text">
+                            <p class="current-errors"></p>
+                            <p class="server-side-errors"></p>
                         </div>
+
                         <div class="form-group relative">
                             <a name="telephone-number-link"></a>
                             <label for="telephone-number">Phone number <span class="optional">(optional)</span></label>
                             <p>We will use this if there are any problems with your form and we need to contact you.<br />
                             If overseas, include International dialling code e.g. +34.</p>
-                            <div class="input-wrapper">
-                                <input data-maxlength="20" id="telephone-number" class="grey grid__item one-half" type="text" />
-                                <p class="current-errors"></p>
-                            </div>
+                            <input id="telephone-number" class="grey form-control" type="text">
+                            <p class="current-errors"></p>
                         </div>
+
                         <div class="form-group relative">
-                            <a name="address-1-link"></a>
+                            <a name="address-1-link"></a>                            
                             <span class="required-icon">*</span><label for="address-1">Address line 1</label>
-                            <div class="input-wrapper">
-                                <input data-maxlength="100" id="address-1" class="grey form-control" type="text" />
-                                <p class="current-errors"></p>
-                            </div>
+                            <input id="address-1" class="grey form-control" type="text">
+                            <p class="current-errors"></p>
                         </div>
+
                         <div class="form-group relative">
                             <label for="address-2">Address line 2 <span class="optional">(optional)</span></label>
-                            <div class="input-wrapper">
-                                <input data-maxlength="100" id="address-2" class="grey form-control" type="text" />
-                            </div>
+                            <input id="address-2" class="grey form-control" type="text">
                         </div>
+
                         <div class="form-group relative">
                             <label for="address-3">Address line 3 <span class="optional">(optional)</span></label>
-                            <div class="input-wrapper">
-                                <input data-maxlength="100" id="address-3" class="grey form-control" type="text" />
-                            </div>
+                            <input id="address-3" class="grey form-control" type="text">
                         </div>
+
                         <div class="form-group relative">
                             <a name="postcode-link"></a>
                             <span class="required-icon">*</span> <label for="postcode">Postcode</label>
-                            <div class="input-wrapper">
-                                <input data-maxlength="100" id="postcode" class="grey form-control" type="text" />
-                                <p class="current-errors"></p>
-                            </div>
+                            <input id="postcode" class="grey form-control" type="text">
+                            <p class="current-errors"></p>
                         </div>
 
                         <h2>Online activity</h2>
-                        <div class="form-group relative">
+                        <div class="form-group relative" id="smartphone-radio">
                             <a name="smartphone-radio-link"></a>
-                            <fieldset id="smartphone-radio">
                                 <span class="required-icon">*</span><legend>Do you use a smartphone or tablet to access the internet?</legend>
-                                <p class="current-errors"></p>
                                 <div class="input-wrapper">
-                                    <input data-maxlength="100" id="smartphone-yes" name="smartphone" class="grey form-control fancy-radio" type="radio" />
+                                    <input id="smartphone-yes" name="smartphone" class="grey form-control fancy-radio" type="radio">
                                      <label for="smartphone-yes" class="inline radio-button fancy-radio">Yes</label>
-                                    <input data-maxlength="100" id="smartphone-no" name="smartphone" class="grey form-control fancy-radio" type="radio" />
+                                    <input id="smartphone-no" name="smartphone" class="grey form-control fancy-radio" type="radio">
                                     <label for="smartphone-no" class="inline fancy-radio" >No</label>
+                                    <p class="current-errors"></p>
                                 </div>
-                            </fieldset>
                         </div>
 
                         <div class="form-group relative">
                             <fieldset>
                                 <legend>If so, what kind of device(s) do you have? <span class="optional">(optional)</span></legend>
                                 <div class="input-wrapper">
-                                    <input name="device" id="device-ios" class="fancy-checkbox" type="checkbox" />
+                                    <input name="device" id="device-ios" class="fancy-checkbox" type="checkbox">
                                     <label for="device-ios" class="inline fancy-checkbox">iOS (Apple)</label> <br>
-                                    <input name="device" id="device-android" class="fancy-checkbox" type="checkbox" />
+                                    <input name="device" id="device-android" class="fancy-checkbox" type="checkbox">
                                     <label for="device-android" class="inline fancy-checkbox">Android</label> <br>
-                                    <input name="device" id="device-windows" class="fancy-checkbox" type="checkbox" />
+                                    <input name="device" id="device-windows" class="fancy-checkbox" type="checkbox">
                                     <label for="device-windows" class="inline fancy-checkbox">Windows</label> <br>
-                                    <input name="device" id="device-other" class="fancy-checkbox" type="checkbox" />
+                                    <input name="device" id="device-other" class="fancy-checkbox" type="checkbox">
                                     <label for="device-other" class="inline fancy-checkbox">Other</label> <br>
                                 </div>
                             </fieldset>
@@ -325,28 +321,28 @@ frontpage: no
                                 <p class="current-errors"></p>
                                 <div class="input-wrapper time-online">
                                     <div>
-                                        <input id="time-online-social" class="grey form-control" type="text" placeholder="0" />
-                                        <label for="time-online-social" class="inline">Social networking sites</label>
+                                        <input id="time-online-social" class="grey form-control" type="text" placeholder="0">
+                                        <label for="time-online-social" class="inline">Social networking sites</label> 
                                     </div>
                                     <div>
-                                        <input id="time-online-news" class="grey form-control" type="text" placeholder="0" />
-                                        <label for="time-online-news" class="inline">News sites</label>
+                                        <input id="time-online-news" class="grey form-control" type="text" placeholder="0"> 
+                                        <label for="time-online-news" class="inline">News sites</label> 
                                     </div>
                                     <div>
-                                        <input id="time-online-youtube" class="grey form-control" type="text" placeholder="0" />
-                                        <label for="time-online-youtube" class="inline">YouTube</label>
+                                        <input id="time-online-youtube" class="grey form-control" type="text" placeholder="0">
+                                        <label for="time-online-youtube" class="inline">YouTube</label> 
                                     </div>
                                     <div>
-                                        <input id="time-online-work" class="grey form-control" type="text" placeholder="0" />
-                                        <label for="time-online-work" class="inline">Work-related</label>
+                                        <input id="time-online-work" class="grey form-control" type="text" placeholder="0"> 
+                                        <label for="time-online-work" class="inline">Work-related</label> 
                                     </div>
                                     <div>
-                                        <input id="time-online-gaming" class="grey form-control" type="text" placeholder="0" />
-                                        <label for="time-online-gaming" class="inline">Gaming</label>
+                                        <input id="time-online-gaming" class="grey form-control" type="text" placeholder="0">
+                                        <label for="time-online-gaming" class="inline">Gaming</label> 
                                     </div>
                                     <div>
-                                        <input id="time-online-other" class="grey form-control" type="text" placeholder="0" />
-                                        <label for="time-online-other" class="inline">Other</label>
+                                        <input id="time-online-other" class="grey form-control" type="text" placeholder="0"> 
+                                        <label for="time-online-other" class="inline">Other</label> 
                                     </div>
                                 </div>
                             </fieldset>
@@ -360,20 +356,20 @@ frontpage: no
                                 <span class="required-icon">*</span><legend>Tell us how you have found this form so far</legend>
                                 <p class="current-errors"></p>
                                 <div class="input-wrapper">
-                                    <input name="form-difficulty" id="very-difficult" class="fancy-radio" type="radio" />
-                                    <label for="very-difficult" class="inline fancy-radio">Very difficult</label> <br>
+                                    <input name="form-difficulty" id="very-difficult" class="fancy-radio" type="radio">
+                                    <label for="very-difficult" class="fancy-radio">Very difficult</label> <br>
 
-                                    <input name="form-difficulty" id="difficult" class="fancy-radio" type="radio" />
-                                    <label for="difficult" class="inline fancy-radio">Difficult</label> <br>
+                                    <input name="form-difficulty" id="difficult" class="fancy-radio" type="radio">
+                                    <label for="difficult" class="fancy-radio">Difficult</label> <br>
 
-                                    <input name="form-difficulty" id="ok" class="fancy-radio" type="radio" />
-                                    <label for="ok" class="inline fancy-radio">OK</label> <br>
+                                    <input name="form-difficulty" id="ok" class="fancy-radio" type="radio">
+                                    <label for="ok" class="fancy-radio">OK</label> <br>
 
-                                    <input name="form-difficulty" id="easy" class="fancy-radio" type="radio" />
-                                    <label for="easy" class="inline fancy-radio">Easy</label> <br>
+                                    <input name="form-difficulty" id="easy" class="fancy-radio" type="radio">
+                                    <label for="easy" class="fancy-radio">Easy</label> <br>
 
-                                    <input name="form-difficulty" id="very-easy" class="fancy-radio" type="radio" />
-                                    <label for="very-easy" class="inline fancy-radio">Very easy</label> <br>
+                                    <input name="form-difficulty" id="very-easy" class="fancy-radio" type="radio">
+                                    <label for="very-easy" class="fancy-radio">Very easy</label> <br>
                                 </div>
                             </fieldset>
                         </div>
@@ -385,7 +381,7 @@ frontpage: no
                                 If you’ve had any frustrations or the experience has been a pleasure throughout, then tell us here.
                             </p>
                             <div class="input-wrapper">
-                                <textarea data-maxlength="700" rows="4" id="comments"
+                                <textarea rows="4" id="comments"
                                           class="grey form-control"></textarea>
                                 <p class="word-count"><span>700</span> characters remaining</p>
                                 <p class="current-errors"></p>
@@ -398,37 +394,36 @@ frontpage: no
                             <a name="session-date-link"></a>
                             <span class="required-icon">*</span><label for="session-date">Confirm date of session</label>
                             <p>Use DD/MM/YYYY format.</p>
-                            <div class="input-wrapper">
-                                <input data-maxlength="100" id="session-date" class="grey form-control" type="text" placeholder="e.g. 01/02/2017" />
-                                <p class="current-errors"></p>
-                            </div>
+                            <input id="session-date" class="grey form-control" type="text" placeholder="e.g. 01/02/2017">
+                            <p class="current-errors"></p>
                         </div>
 
-                        <br />
                         <div class="expandable-item expandable-item--disclaimer">
                             <a name="consent-checkbox-link"></a>
-                            <input type="checkbox" id="consent-checkbox" class="fancy-checkbox" />
-                            <label class="consent inline fancy-checkbox" for="consent-checkbox">By ticking the attached box you’re consenting to your data being used as laid out in the <a class="js-toggle-expand expandable-item__link-trigger" href="#consent-statement" data-toggle="collapse" data-gtm="panel-opened" aria-expanded="false" aria-controls="consent-statement">consent statement.</a></label> <br />
-                            <p class="current-errors"></p>
+                            <fieldset id="consent">
+                                <input type="checkbox" id="consent-checkbox" class="fancy-checkbox">
+                                <label class="consent inline fancy-checkbox" for="consent-checkbox">By ticking the attached box you’re consenting to your data being used as laid out in the <a class="js-toggle-expand expandable-item__link-trigger" href="#consent-statement" data-toggle="collapse" data-gtm="panel-opened" aria-expanded="false" aria-controls="consent-statement">consent statement.</a></label> 
+                                <p class="current-errors"></p>
 
-                            <div class="expandable-item__body expandable-item__body--disclaimer" id="consent-statement">
-                                <h3>Usability Testing - Informed consent</h3>
+                                <div class="expandable-item__body expandable-item__body--disclaimer" id="consent-statement">
+                                    <h3>Usability Testing - Informed consent</h3>
 
-                                <p>The data received today will be used to help us understand and improve the Scottish Government websites.</p>
+                                    <p>The data received today will be used to help us understand and improve the Scottish Government websites.</p>
 
-                                <p>During the session you will be asked to use your personal information at certain points (i.e. full name, date of birth, email address, phone number, address and postcode). Observers from the MyGov team and the User Research and Service Design team will be able to view this information live. Your information will not be saved (on any databases), but it will be video recorded along with your likeness and voice. </p>
+                                    <p>During the session you will be asked to use your personal information at certain points (i.e. full name, date of birth, email address, phone number, address and postcode). Observers from the MyGov team and the User Research and Service Design team will be able to view this information live. Your information will not be saved (on any databases), but it will be video recorded along with your likeness and voice. </p>
 
-                                <p>The recording will be stored on a password protected computer on a secure network in a locked room within the Scottish Government premises that can be accessed only by the user research team.  Your personal information will be removed/blanked out and any references (i.e. this consent form) will be kept in a separate file. The video file will be viewable only by team members on the MyGov programme or the User Research and Service Design team.</p>
+                                    <p>The recording will be stored on a password protected computer on a secure network in a locked room within the Scottish Government premises that can be accessed only by the user research team.  Your personal information will be removed/blanked out and any references (i.e. this consent form) will be kept in a separate file. The video file will be viewable only by team members on the MyGov programme or the User Research and Service Design team.</p>
 
-                                <p>We will hold your details for 12 months and the video recording will be deleted 12 months from the date you write below.</p>
+                                    <p>We will hold your details for 12 months and the video recording will be deleted 12 months from the date you write below.</p>
 
-                                <p>If you have any questions about this study or your data please speak with the user researcher. If you need to get in touch at a later date please get in contact by emailing URSD@gov.scot.</p>
-                            </div>
+                                    <p>If you have any questions about this study or your data please speak with the user researcher. If you need to get in touch at a later date please get in contact by emailing URSD@gov.scot.</p>
+                                </div>
+                            </fieldset>
                         </div>
 
 
                         <div class="form-group">
-                            <input type="submit" data-gtm="form-submit" id="form-submit" class="button button--primary" />
+                            <input type="submit" data-gtm="form-submit" id="form-submit" class="button button--primary" value="Submit">
                         </div>
                     </form>
 

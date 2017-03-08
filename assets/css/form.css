@@ -8,57 +8,138 @@
   .large--eight-twelfths {
     width: calc(66.666% + 15px);
   }
-}
 
-.form-intro {
+  .form-intro {
   padding-left: 15px;
   padding-right: 15px;
+  }
 }
+
+
 
 div.form-box {
   padding: 15px;
 }
 
+/* General margin for all text inputs */
 
+input[type=text] {
+  margin-top: 7px;
+}
+
+input:disabled {
+  border: 1px solid #e3e3e3 !important;
+}
+
+label.disabled, span.disabled {
+  color: #b3b3b3;
+}
 
 
 /**** Select (dropdown) styling ****/
 .birthdate select {
     display: inline-block;
-    margin-right: 20px;
-    width: initial;
+    margin-right: -45px;
     text-align: left;
     height: 42px;
 }
 
 #birthdate-day {
-  width: 75px;
+  min-width: 88px;
+  width: 27%;
 }
 
 #birthdate-month {
-  width: 115px;
+  min-width: 135px;
+  width: 42%;
 }
 
 #birthdate-year {
-  width: 100px;
+  min-width: 95px;
+  width: 29%;
 }
 
+.create-select {
+  -webkit-appearance: button;
+  -moz-appearance: none;
+  border: 1px solid #727272;
+  border-radius: 5px;
+  color: #333;
+  padding-left: 10px;
+}
 
+.create-select__arrow:after {
+  content: " ";
+  background: url('../../assets/images/icons/arrows/dd_arrows.png');
+  display: inline-block;
+  width: 42px;
+  height: 42px;
+  position: relative;
+  right: 0px;
+  bottom: -17px;
+  pointer-events: none;
+}
 
+.create-select__arrow {
+  display: inline-block;
+}
+
+@media only screen and (min--moz-device-pixel-ratio: 1.3), only screen and (-o-min-device-pixel-ratio: 2.6 / 2), only screen and (-webkit-min-device-pixel-ratio: 1.3), only screen and (min-device-pixel-ratio: 1.3), only screen and (min-resolution: 1.3dppx) {
+
+  .create-select__arrow:after {
+    background: url('../../assets/images/icons/arrows/dd_arrows_@2x.png');
+    background-size: cover;
+  } 
+
+}
 
 /**** Fixed widths - to be added to for mobile ****/
 
-#registration-time, #postcode, #session-date {
-  width: 262px;
+@media(min-width: 768px) {
+
+  #registration-time, #postcode, #session-date {
+    width: 262px;
+  }
+
+  #registration-date {
+    display: inline-block;
+    width: 215px;
+  }
+
+  #telephone-number {
+    width: 360px;
+  }
+
+  #birthdate-day {
+  width: 105px;
+  }
+
+  #birthdate-month {
+  width: 155px;
+  }
+
+  .birthdate select {
+    margin-right: -30px;
+  }
+
+  .create-select__arrow:after {
+    content: " ";
+    background: url('../../assets/images/icons/arrows/dd_arrows.png');
+    display: inline-block;
+    width: 42px;
+    height: 42px;
+    position: relative;
+    right: 17px;
+    bottom: -17px;
+    pointer-events: none;
+  }
 }
 
-.registration-date input {
-  display: inline-block;
-  width: 215px;
-}
-
-#telephone-number {
-  width: 360px;
+@media(max-width: 767px){
+  #registration-date {
+    width: calc(100% - 48px);
+    display: inline-block;
+  }
 }
 
 .time-online input[type="text"], .time-online input[type="number"] {
@@ -81,14 +162,20 @@ input[type="number"] {
 
 /**** Labels and legends ****/
 
+fieldset .input-wrapper label {
+  display: inline-block;
+  font-weight: normal;
+  margin-right: 30px;
+}
+
 label.inline {
-    display: inline-block;
-    font-weight: normal;
-    margin-right: 30px;
+  display: inline-block;
+  font-weight: normal;
+  margin-right: 30px;
 }
 
 legend {
-    font-weight: 700;
+  font-weight: 700;
 }
 
 .required-icon + legend {
@@ -118,6 +205,10 @@ label.fancy-checkbox, label.fancy-radio {
   margin-top: 21px;
   margin-left: 10px;
   white-space: nowrap;
+}
+
+label.consent.fancy-checkbox {
+  margin-left: 0px;
 }
 
 /* line 132, ../../../src/scss/base/_base.forms.scss */
@@ -184,6 +275,14 @@ input:checked + label.fancy-radio:before {
   content: '\f111';
 }
 
+.input-error label.fancy-checkbox:before {
+  border-color: #d32205;
+  border-width: 2px;
+}
+
+label.fancy-radio:first-of-type {
+    margin-top: 14px;
+}
 
 
 /**** Heading styling - similar to govscot homepage ****/
@@ -213,7 +312,7 @@ form h2:before {
 
 
 /* errors */
-.current-errors, .server-side-errors, .field-errors {
+.form-group .current-errors, fieldset .current-errors, .form-group .server-side-errors, .form-group .field-errors {
   font-size: 16px;
   line-height: 21px;
   color: #d32205;
@@ -236,10 +335,10 @@ form h2:before {
 }
 
 .field-errors {
-  margin: 0px;
+  margin: 7px 0 0 12px;
 }
 
-.server-side-neutral {
+.server-side-errors.server-side-neutral {
   color: #727272;
 }
 
@@ -257,7 +356,8 @@ form h2:before {
 
 .form-message--error li {
   font-size: 17px;
-  padding-top: 21px;
+  padding-top: 14px;
+  line-height: 28px;
 }
 
 div .form-message--error .form-errors ul {
@@ -265,33 +365,52 @@ div .form-message--error .form-errors ul {
 }
 
 .form-message--error:after {
-  content: url('../../assets/images/icons/error_triangle.png');
+  display: inline-block;
+  content: " ";
+  background: url('../../assets/images/icons/error_triangle.png');
   position: relative;
   bottom: -43px;
   left: 20px;
+  height: 38px;
+  width: 73px;
 }
 
 .form-message--successful:after {
-  content: url('../../assets/images/icons/success_triangle.png');
+  display: inline-block;
+  content: " ";
+  background: url('../../assets/images/icons/success_triangle.png');
+  background-size: cover;
   position: relative;
-  bottom: -78px;
+  bottom: -43px;
   left: 20px;
+  height: 38px;
+  width: 73px;
 }
 
 @media(min-width: 768px) {
   .form-message--error:after {
-    content: url('../../assets/images/icons/error_triangle.png');
-    position: relative;
     bottom: -46px;
     left: 20px;
   }
 
   .form-message--successful:after {
-  content: url('../../assets/images/icons/success_triangle.png');
-  position: relative;
-  bottom: -81px;
-  left: 20px;
+    bottom: -46px;
+    left: 20px;
+  }
 }
+
+@media only screen and (min--moz-device-pixel-ratio: 1.3), only screen and (-o-min-device-pixel-ratio: 2.6 / 2), only screen and (-webkit-min-device-pixel-ratio: 1.3), only screen and (min-device-pixel-ratio: 1.3), only screen and (min-resolution: 1.3dppx) {
+
+  .form-message--error:after {
+    background: url('../../assets/images/icons/error_triangle_@2x.png');
+    background-size: cover;
+  }
+
+  .form-message--successful:after {
+    background: url('../../assets/images/icons/success_triangle_@2x.png');
+    background-size: cover;
+  }
+
 }
 
 div .form-message--error .form-errors ul {
@@ -306,7 +425,7 @@ div .form-message--error .form-errors ul {
 .form-message--successful {
   border: 7px solid #4e9d52;
   border-radius: 15px;
-  padding: 21px 30px 35px 30px;
+  padding: 21px 30px 0px 30px;
   background: #fff;
   margin-bottom: 49px;
 }
@@ -347,15 +466,15 @@ fieldset .input-wrapper.input-error {
   border-radius: 6px;
 }
 
-fieldset .input-wrapper.input-error label.fancy-radio:first-of-type,
-fieldset .input-wrapper.input-error div:first-of-type input {
+.time-online div:first-of-type input {
   margin-top: 14px;
 }
 
-fieldset .input-wrapper.input-error label.fancy-radio:last-of-type,
-fieldset .input-wrapper.input-error div:last-of-type input {
+.input-wrapper.input-error label.fancy-radio:last-of-type,
+.input-wrapper.input-error div:last-of-type input {
   margin-bottom: 14px;
 }
+
 
 
 
@@ -375,15 +494,10 @@ input[type="number"].grey {
 }
 
 /* line 68, ../../../node_modules/mygov-assets/scss/base/_base.forms.scss */
-input[type=text].grey:focus, input[type="number"].grey:focus, textarea.grey:focus, select.grey:focus {
+input[type=text].grey:focus, input[type="number"].grey:focus, textarea.grey:focus, select.grey:focus, select:focus {
   border: 2px solid #0065bd;
   background: #e5f0f8;
   outline: none;
-}
-
-/* line 140, ../../../node_modules/mygov-assets/scss/base/_base.forms.scss */
-.input-wrapper {
-  margin-top: 7px;
 }
 
 /* Color settings in mygov-assets - change color__placeholder to color__grey--medium 
@@ -469,4 +583,8 @@ label.consent.inline {
   font-size: 16px;
   white-space: initial;
 }
+
+
+
+
 

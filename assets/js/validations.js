@@ -1,5 +1,3 @@
-
-
 /**
  * Checks if $field is completed. Appends or Removes an error message.
  *
@@ -22,13 +20,13 @@ var requiredField = function($field, optionalMessage) {
 //  Required dropdown
 
 var requiredDateDropdown = function($field) {
-	var dropdowns = $field.find('select');
+    var dropdowns = $field.find('select');
     var label = $('label[for="' + $field.attr('id') + '"]');
-    var message = 'Please enter a date';
+    var message = 'Please enter a full date';
 
-	var valid = _.every(dropdowns, function(element){
-		return element.value !== '';
-	});
+    var valid = _.every(dropdowns, function(element){
+        return element.value !== '';
+    });
 
     addOrRemoveFormErrors($field, valid, 'required', label.text(), message);
     showOrHideCurrentErrors($field, valid, message);
@@ -51,6 +49,7 @@ var requiredRadio = function($field){
         } 
     }
 
+    addOrRemoveFieldSetErrors($field, valid);
     addOrRemoveFormErrors($field, valid, 'required', title, message);
     showOrHideCurrentErrors($field, valid, message);
 
@@ -61,8 +60,9 @@ var requiredRadio = function($field){
 
 var requiredCheckbox = function($field){
     var message = 'You can only submit this form if you accept the consent statement.';
-    var valid = $field.prop('checked');
+    var valid = $field.find('input:checkbox').prop('checked');
 
+    addOrRemoveFieldSetErrors($field, valid);
     addOrRemoveFormErrors($field, valid, 'consent-checkbox', 'Consent', message);
     showOrHideCurrentErrors($field, valid, message);
 
@@ -88,6 +88,7 @@ var requiredTimeSpent = function($field){
         }
     }
 
+    addOrRemoveFieldSetErrors($field, valid);
     addOrRemoveFormErrors($field, valid, 'required', title, message);
     showOrHideCurrentErrors($field, valid, message);
 
@@ -95,16 +96,14 @@ var requiredTimeSpent = function($field){
 }
 
 
-// validate Time Spent boxes - this is doing two things so could do with a refactor
+// validate number input into text boxes
 
-var validateTimeSpent = function($field){
+var validateNumberInput = function($field){
     var boxes = $field.find('input:text');
     var title = $field.find('legend').text();
-    var message = 'Please give answers in under 24 hours and only enter numbers.';
+    var message = 'Please give only enter numbers.';
 
     var valid = true;
-    var total = 0;
-
     var regex = new RegExp('^[0-9.]{0,}$');
 
     for (var i = 0; i < boxes.length; i++) {
@@ -117,23 +116,46 @@ var validateTimeSpent = function($field){
                 $(boxes[i]).addClass('input-error');
             } 
             valid = false;  
-            addOrRemoveFormErrors($field, valid, 'invalid-time-spent', title, 'Please only enter numbers.');    
         } else {
             $(boxes[i]).next().next('.field-errors').remove();
             $(boxes[i]).removeClass('input-error');
         } 
+    }
 
-        if (inputIsValid && value !== '') {
+    addOrRemoveFormErrors($field, valid, 'invalid-time-spent', title, 'Please only enter numbers.');    
+
+    return valid;
+}
+
+// validates total time from all time boxes - could be refactored to be more reusable?
+
+var validateTotalTime = function($field){
+    var boxes = $field.find('input:text');
+    var title = $field.find('legend').text();
+    var message = 'Please give answers totalling under 24 hours.';
+
+    var valid = true;
+    var total = 0;
+
+    for (var i = 0; i < boxes.length; i++) {
+        var value = $.trim($(boxes[i]).val());
+        if ( !isNaN(parseFloat(value)) ){
             total = total + parseFloat(value); 
         }
     }
 
+    if (total === 0){
+        return true;
+    }
+
     if (total > 24) {
         valid = false;
-        showOrHideCurrentErrors($field, valid, 'Please give answers totalling under 24 hours.');
-        addOrRemoveFormErrors($field, valid, 'invalid-time-spent', title, 'Please give answers totalling under 24 hours.');
     }
-    
+
+    addOrRemoveFieldSetErrors($field, valid);
+    showOrHideCurrentErrors($field, valid, message);
+    addOrRemoveFormErrors($field, valid, 'invalid-time-spent', title, message);
+
     return valid;
 }
 
@@ -452,6 +474,18 @@ var maxCharacters = function($field, maxLength) {
     }
  }
 
+
+// Show or hide fieldset errors
+
+var addOrRemoveFieldSetErrors = function($field, valid){
+    console.log('fieldset')
+     if (!valid){
+        $field.find('.input-wrapper').addClass('input-error');
+    } else {
+        $field.find('.input-wrapper').removeClass('input-error');
+    }
+}
+
 /**
  *  Shows or hides individual field's current errors box (box below each field)
  */
@@ -472,7 +506,7 @@ var showOrHideCurrentErrors = function (field, valid, message) {
     }
 }
 
-// Server side error handling
+// 'Server side' error handling 
 
 var handleServerSideErrors = function (field, valid, message) {
     var errorContainer;
@@ -490,7 +524,7 @@ var handleServerSideErrors = function (field, valid, message) {
         errorContainer.html('');
     }
 
-    field.on('keydown', function(){
+    field.one('input', function(){
         errorContainer.addClass('server-side-neutral');
         field.removeClass('input-error');
     });
