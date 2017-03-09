@@ -459,7 +459,7 @@ var maxCharacters = function($field, maxLength) {
     if (!valid) {
         if($(errorName).length === 0) {
             $(className).append('<li class="error ' + errorClass + '"><a class="form-nav" href="#'
-                  + field.attr('id') + '-link">' + '<span class="fa-circle error-circle"></span>'
+                  + field.attr('id') + '-link">'
                   + fieldName + ': <span class="underline">' +  message + '</span></a></li>');
         } else {
             $(errorName).removeClass('error-grey');
@@ -478,7 +478,6 @@ var maxCharacters = function($field, maxLength) {
 // Show or hide fieldset errors
 
 var addOrRemoveFieldSetErrors = function($field, valid){
-    console.log('fieldset')
      if (!valid){
         $field.find('.input-wrapper').addClass('input-error');
     } else {
