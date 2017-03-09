@@ -27,6 +27,10 @@ input[type=text] {
   margin-top: 7px;
 }
 
+.header-bar input {
+  margin-top: 0;
+}
+
 input:disabled {
   border: 1px solid #e3e3e3 !important;
 }
@@ -642,6 +646,8 @@ input {
 label.consent.inline {
   font-size: 16px;
   white-space: initial;
+  max-width: 100%;
+  margin-right: 10px;
 }
 
 
