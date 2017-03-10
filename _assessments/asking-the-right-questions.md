@@ -24,8 +24,8 @@ Read the relevant document for the stage of the project you are assessing. You s
 
 Prompts and Questions for:
 
-* [Discovery assessment](/Prompts_and_Questions-Discovery_v.5)
-* [Alpha assessment](/Prompts_and_Questions-Alpha_v.5)
-* [Beta assessment](/Prompts_and_Questions-Beta_v.5)
+* [Discovery assessment](/Prompts_and_Questions-Discovery_v.5.docx)
+* [Alpha assessment](/Prompts_and_Questions-Alpha_v.5.docx)
+* [Beta assessment](/Prompts_and_Questions-Beta_v.5.docx)
 
 By asking these prompts and questions you will find it easier to write your section of the [assessment report](/assessments/assessment-guide-to-writing-the-report).
