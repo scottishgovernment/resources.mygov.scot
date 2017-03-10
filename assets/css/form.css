@@ -41,7 +41,7 @@ label.disabled, span.disabled {
 
 
 /**** Select (dropdown) styling ****/
-.birthdate select {
+form select {
     display: inline-block;
     margin-right: -45px;
     text-align: left;
@@ -61,6 +61,11 @@ label.disabled, span.disabled {
 #birthdate-year {
   min-width: 95px;
   width: 29%;
+}
+
+#registration-time-hours, #registration-time-minutes {
+  width: 90px;
+  font-size: 14px;
 }
 
 .create-select {
@@ -265,7 +270,7 @@ input + label.fancy-checkbox:before {
   font-family: 'FontAwesome';
 }
 
-input + label.fancy-radio:before {
+input + label.fancy-radio:before, label.fancy-radio:before {
   background-color: #ffffff;
   border: 3px solid #727272;
   border-radius: 50%;
@@ -315,6 +320,19 @@ label.fancy-radio:first-of-type {
     margin-top: 14px;
 }
 
+form .vertical-label {
+  display: inline-block;
+  text-align: center;
+  font-weight: 400;
+  padding-left: 0px;
+  margin: 0 10px;
+  top: -46px;
+}
+
+.vertical-label.fancy-radio:before {
+  left: 0;
+  top: 43px;
+}
 
 /**** Heading styling - similar to govscot homepage ****/
 
