@@ -10,18 +10,6 @@ var appendErrorContainer = function($field) {
     }
 };
 
-/**
- * Removes the error container for $field from the DOM
- *
- * @param {object} $field - the form field errors were logged against
- */
-var removeErrorContainer = function($field) {
-    var className = $field.attr('id') + '-errors';
-    if($('.' + className).length !== 0) {
-        $('.' + className).remove();
-    }
-};
-
 
 /**
  * Validates $field
@@ -70,26 +58,20 @@ var formIsValid = function (highlightField) {
     $formErrors.html('');
     var formIsValid = true;
 
-    var changeToServerSideValidations = function(field){
-        $(field.id).off(field.invalidEvent);
-        $(field.id).off(field.neutralEvent);
-    }
-
     for (var i = 0; i < FormValidations.length; i++) {
-     	var field = FormValidations[i];
+        var field = FormValidations[i];
 
-    	var valid = validateField($(field.id), highlightField, field.validations);
+        var valid = validateField($(field.id), highlightField, field.validations);
 
         if (valid){
             if (field.serverSideValidations){
                 valid = validateField($(field.id), highlightField, field.serverSideValidations);
-                changeToServerSideValidations(field);
             }
         }
 
-    	if (!valid) {
-    		formIsValid = false;
-    	}
+        if (!valid) {
+            formIsValid = false;
+        }
     }
 
     return formIsValid;
@@ -102,23 +84,23 @@ registrationForm.init = function () {
     // textchange is a shim to allow us to use the input event in IE8 & IE9
 
     var addEventListeners = function(item){
-    	for (var i = 0; i < item.fields.length; i++) {
-    		var field = $(item.fields[i])
+        for (var i = 0; i < item.fields.length; i++) {
+            var field = $(item.fields[i])
 
-	    	field.on(item.neutralEvent, function(){
-	    		validateField($(item.id), true, item.validations);
-	    	});
+            field.on(item.neutralEvent, function(){
+                validateField($(item.id), true, item.validations);
+            });
 
-	    	field.on(item.invalidEvent, function(){
-	    		if (field.hasClass('input-error')){
-		    		validateField($(item.id), true, item.validations);
-	    		}
-	    	});
-	    }
+            field.on(item.invalidEvent, function(){
+                if ($(this).hasClass('input-error')){
+                    validateField($(item.id), true, item.validations);
+                }
+            });
+        }
     }
 
     for (var i = 0; i < FormValidations.length; i++) {
-    	addEventListeners(FormValidations[i]);
+        addEventListeners(FormValidations[i]);
     }
 
     // Have now set these with CSS, but input may need to be upper or lower cased when saved to database.
@@ -132,7 +114,6 @@ registrationForm.init = function () {
     // });
 
     // Textarea expands when text is too long for it, and shrinks when too short (minimum height 84px)
-    var minHeight = $('#comments').attr('rows') * parseFloat($('#comments').css('line-height'));
 
     $('textarea').on('paste input', function () {
         var minHeight = $(this).attr('rows') * parseFloat($(this).css('line-height'));
@@ -158,7 +139,7 @@ registrationForm.init = function () {
 
             return;
         } else {
-            window.location.href = ('complete.html');
+            window.location.href = ('/prototypes/forms-prototype-complete/');
         }
 
         // do not get the data and post it anywhere - this is a prototype.
