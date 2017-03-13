@@ -1,7 +1,7 @@
 Scottish Government Github Repository
 ============================
 
-Standards and guidlines web site
+Standards and guidelines web site
 
 Usage instructions:
 
