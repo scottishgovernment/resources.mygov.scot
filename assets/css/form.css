@@ -1,24 +1,68 @@
-/**** Extra things to make the grey background extend out so that 
-      form text is aligned with rest of page text  ****/
-@media(min-width: 768px) {
-  .grid__item {
-    padding-left: 15px;
+/**** Form field widths ****/
+
+.input--small, .input--medium, .input--large {
+  width: 100%;
+}
+
+.input__datepicker {
+  width: calc(100% - 46px);
+  display: inline-block;
+}
+
+@media (min-width: 480px) {
+  .input--small {
+    width: 41.6666%;
   }
 
-  .large--eight-twelfths {
-    width: calc(66.666% + 15px);
+  .input--medium {
+    width: 50%;
   }
 
-  .form-intro {
-  padding-left: 15px;
-  padding-right: 15px;
+  .input__datepicker {
+    width: calc(41.6666% - 46px);
+    display: inline-block;
   }
+
+}
+
+@media (min-width: 768px) {
+  .input--small {
+    width: 40%;
+  }
+
+  .input__datepicker {
+    width: calc(40% - 46px);
+    display: inline-block;
+  }
+
+}
+
+@media (min-width: 992px) {
+  .input--small {
+    width: 37.5%;
+  }
+
+  .input__datepicker {
+    width: calc(37.5% - 46px);
+    display: inline-block;
+  }
+
+  .push--medium--one-twelfth {
+    left: 0px;
+  }
+
 }
 
 
 
+
+
+
+/**** Extra things to make the grey background extend out so that 
+      form text is aligned with rest of page text  ****/
 div.form-box {
   padding: 15px;
+  margin: 28px -15px;
 }
 
 /* General margin for all text inputs */
@@ -101,19 +145,6 @@ label.disabled, span.disabled {
 
 @media(min-width: 768px) {
 
-  #registration-time, #postcode, #session-date {
-    width: 262px;
-  }
-
-  #registration-date {
-    display: inline-block;
-    width: 215px;
-  }
-
-  #telephone-number {
-    width: 360px;
-  }
-
   #birthdate-day {
   width: 105px;
   }
@@ -140,10 +171,10 @@ label.disabled, span.disabled {
 }
 
 @media(max-width: 767px){
-  #registration-date {
-    width: calc(100% - 48px);
+/*  #registration-date {
+    width: calc(100% - 46px);
     display: inline-block;
-  }
+  }*/
 }
 
 .time-online input[type="text"], .time-online input[type="number"] {
@@ -582,17 +613,6 @@ textarea.grey {
   line-height: 21px;
 }
 
-@media(min-width: 768px) {
-  .asterisk {
-    font-size: 35px;
-  }
-
-  p.asterisk-note {
-    font-size: 19px;
-    height: 28px;
-  }
-}
-
 .asterisk {
   font-size: 30px;
   top: 10px;
@@ -606,6 +626,19 @@ p.asterisk-note {
   height: initial;
   font-size: 16px; 
 }
+
+@media(min-width: 768px) {
+  .asterisk {
+    font-size: 35px;
+  }
+
+  p.asterisk-note {
+    font-size: 19px;
+    height: 28px;
+  }
+}
+
+
 
 p.word-count {
     color: #727272;

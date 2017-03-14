@@ -113,18 +113,18 @@ frontpage: no
 
 <div class="wrapper">
     <div class="grid"><!--
-        --><div class="grid__item large--eight-twelfths">
+        --><div class="grid__item large--eight-twelfths medium--ten-twelfths push--medium--one-twelfth">
                 <article>
 
-                <div class="form-intro">
-                    <header class="article-header">
-                        <h1 class="article-header__title">Registration</h1>
-                    </header>
 
-                    <div class="body-content">
-                        <p>To get started we just need some contact information from you as well as an indication of how you like to use the internet. If you’d like to know how we use your information then you can read our <a href="https://www.mygov.scot/privacy/">Privacy policy</a>. Your test facilitator can help you if you have any queries.</p>
-                    </div>
+                <header class="article-header">
+                    <h1 class="article-header__title">Registration</h1>
+                </header>
+
+                <div class="body-content">
+                    <p>To get started we just need some contact information from you as well as an indication of how you like to use the internet. If you’d like to know how we use your information then you can read our <a href="https://www.mygov.scot/privacy/">Privacy policy</a>. Your test facilitator can help you if you have any queries.</p>
                 </div>
+
 
                 <div class="form-box">
 
@@ -147,7 +147,7 @@ frontpage: no
                             <span class="required-icon">*</span><label
                                 for="registration-date" class="filters_">Date of session</label>
                             <div class="date-entry__input-group input-group input-wrapper registration-date">
-                                <input type="text" id="registration-date" placeholder="DD/MM/YYYY" class="grey form-control" />
+                                <input type="text" id="registration-date" placeholder="DD/MM/YYYY" class="grey form-control input__datepicker" />
                                 <button id="date-start-trigger" type="button" class="date-entry__trigger button button--primary js-show-calendar">Choose date</button>
                                 <p class="current-errors"></p>
                             </div>
@@ -160,7 +160,7 @@ frontpage: no
                             <a name="registration-time-link"></a>
                             <span class="required-icon">*</span><label for="registration-time">Time of session</label>
                             <p>Use 24 hour format.</p>
-                            <input id="registration-time" class="grey form-control" type="text" placeholder="e.g. 14.00" />
+                            <input id="registration-time" class="grey form-control input--small" type="text" placeholder="e.g. 14.00" />
                             <p class="current-errors"></p>
                         </div>
 
@@ -168,7 +168,7 @@ frontpage: no
                         <div class="form-group relative">
                             <a name="name-link"></a>
                             <span class="required-icon">*</span><label for="name">Your name</label>
-                            <input id="name" class="grey form-control" type="text">
+                            <input id="name" class="grey form-control input--large" type="text">
                             <p class="current-errors"></p>
                         </div>
 
@@ -256,7 +256,7 @@ frontpage: no
                             <label for="telephone-number">Phone number <span class="optional">(optional)</span></label>
                             <p>We will use this if there are any problems with your form and we need to contact you.<br />
                             If overseas, include International dialling code e.g. +34.</p>
-                            <input id="telephone-number" class="grey form-control" type="text">
+                            <input id="telephone-number" class="grey form-control input--medium" type="text">
                             <p class="current-errors"></p>
                         </div>
 
@@ -280,7 +280,7 @@ frontpage: no
                         <div class="form-group relative">
                             <a name="postcode-link"></a>
                             <span class="required-icon">*</span> <label for="postcode">Postcode</label>
-                            <input id="postcode" class="grey form-control" type="text">
+                            <input id="postcode" class="grey form-control input--small" type="text">
                             <p class="current-errors"></p>
                         </div>
 
@@ -394,7 +394,7 @@ frontpage: no
                             <a name="session-date-link"></a>
                             <span class="required-icon">*</span><label for="session-date">Confirm date of session</label>
                             <p>Use DD/MM/YYYY format.</p>
-                            <input id="session-date" class="grey form-control" type="text" placeholder="e.g. 01/02/2017">
+                            <input id="session-date" class="grey form-control input--small" type="text" placeholder="e.g. 01/02/2017">
                             <p class="current-errors"></p>
                         </div>
 
