@@ -669,7 +669,6 @@ input {
   border-radius: 0;
 }
 
-
 .date-entry__trigger {
   position: relative;
   right: initial;
@@ -683,7 +682,11 @@ label.consent.inline {
   margin-right: 10px;
 }
 
-
+@media (max-width: 479px) {
+  .expandable-item--disclaimer .expandable-item__body {
+    padding: 10px 0;
+  }
+}
 
 
 
