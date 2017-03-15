@@ -216,7 +216,7 @@ frontpage: no
 
                                 <div class="create-select__arrow">
                                     <select id="birthdate-month" class="create-select">
-                                        <option selected disabled value="">Month</option>
+                                        <option selected disabled value="Month">Month</option>
                                         <option value="1">January</option>
                                         <option value="2">February</option>
                                         <option value="3">March</option>
@@ -231,7 +231,6 @@ frontpage: no
                                         <option value="12">December</option>
                                     </select>
                                 </div>
-
 
                                 <div class="create-select__arrow">                            
                                     <select id="birthdate-year" class="create-select">                                    

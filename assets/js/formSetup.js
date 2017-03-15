@@ -126,6 +126,18 @@ registrationForm.init = function () {
         }
     });
 
+    // Date of birth dropdowns - change month values to numbers when on smallest screens
+
+    if (window.innerWidth < 360) {
+        var monthDropdown = document.getElementById('birthdate-month');
+        console.log(monthDropdown)
+        for (var i = 0; i < monthDropdown.children.length; i++) {
+            monthDropdown.children[i].innerText = monthDropdown.children[i].value;
+        }
+    }
+
+    // Submit actions
+
     $('form#registration-form').on('submit', function(e) {
         submitted = true;
         e.preventDefault();
@@ -142,7 +154,7 @@ registrationForm.init = function () {
             window.location.href = ('/prototypes/forms-prototype-complete/');
         }
 
-        // do not get the data and post it anywhere - this is a prototype.
+        // this is a prototype so does not post the data anywhere.
     });
 };
 
