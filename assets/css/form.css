@@ -87,24 +87,21 @@ label.disabled, span.disabled {
 /**** Select (dropdown) styling ****/
 .birthdate select {
     display: inline-block;
-    margin-right: -45px;
+    margin-right: -42px;
     text-align: left;
     height: 42px;
 }
 
 #birthdate-day {
-  min-width: 88px;
-  width: 27%;
+  width: 82px;
 }
 
 #birthdate-month {
-  min-width: 135px;
-  width: 42%;
+  width: 98px;
 }
 
 #birthdate-year {
-  min-width: 95px;
-  width: 29%;
+  width: 90px;
 }
 
 .create-select {
@@ -143,6 +140,30 @@ label.disabled, span.disabled {
 
 /**** Fixed widths - to be added to for mobile ****/
 
+@media(min-width: 360px) {
+
+  #birthdate-month {
+    width: 138px;
+  }
+
+  .birthdate select {
+    margin-right: -42px;
+  }
+
+  .create-select__arrow:after {
+    content: " ";
+    background: url('../../assets/images/icons/arrows/dd_arrows.png');
+    display: inline-block;
+    width: 42px;
+    height: 42px;
+    position: relative;
+    right: 0px;
+    bottom: -17px;
+    pointer-events: none;
+  }
+}
+
+
 @media(min-width: 768px) {
 
   #birthdate-day {
@@ -168,13 +189,6 @@ label.disabled, span.disabled {
     bottom: -17px;
     pointer-events: none;
   }
-}
-
-@media(max-width: 767px){
-/*  #registration-date {
-    width: calc(100% - 46px);
-    display: inline-block;
-  }*/
 }
 
 .time-online input[type="text"], .time-online input[type="number"] {
