@@ -158,12 +158,82 @@ frontpage: no
 
                         <div class="form-group relative">
                             <a name="registration-time-link"></a>
-                            <span class="required-icon">*</span><label for="registration-time">Time of session</label>
-                            <p>Use 24 hour format.</p>
-                            <input id="registration-time" class="grey form-control input--small" type="text" placeholder="e.g. 14.00" />
+                            <span class="required-icon">*</span><legend>Time of session</legend>
+
+                            <div class="input-wrapper" id="registration-time">
+                            <label for="registration-time-hours" class="inline">Hours<br>
+                                <div class="create-select__arrow">
+                                    <select id="registration-time-hours" class="create-select">
+                                        <option selected disabled value="">HH</option>
+                                        <option>01</option>
+                                        <option>02</option>
+                                        <option>03</option>
+                                        <option>04</option>
+                                        <option>05</option>
+                                        <option>06</option>
+                                        <option>07</option>
+                                        <option>08</option>
+                                        <option>09</option>
+                                        <option>10</option>
+                                        <option>11</option>
+                                        <option>12</option>
+                                    </select>
+                                </div>
+                            </label>
+
+                            <label for="registration-time-minutes" class="inline">Minutes<br>
+                                <div class="create-select__arrow">
+                                    <select id="registration-time-minutes" class="create-select">
+                                        <option selected disabled value="">MM</option>
+                                        <option>01</option>
+                                        <option>02</option>
+                                        <option>03</option>
+                                        <option>04</option>
+                                        <option>05</option>
+                                        <option>06</option>
+                                        <option>07</option>
+                                        <option>08</option>
+                                        <option>09</option>
+                                        <option>10</option>
+                                        <option>11</option>
+                                        <option>12</option>
+                                    </select>
+                                </div>
+                            </label>  
+                            
+                            <input type="radio" name="reg-time" id="registration-time-am" class="grey form-control fancy-radio">
+                            <label for="registration-time-am" class="vertical-label fancy-radio">AM</label>
+                            
+                            <input type="radio" name="reg-time" id="registration-time-pm" class="grey form-control fancy-radio">
+                            <label for="registration-time-pm" class="vertical-label fancy-radio">PM</label>
+                            </div>
+
                             <p class="current-errors"></p>
                         </div>
 
+                        <div class="form-group relative">
+                            <a name="registration-time-link"></a>
+                            <span class="required-icon">*</span><legend>Time of session text fields</legend>
+
+                            <div class="input-wrapper" id="registration-time">
+                            <label for="registration-time-hours-2" class="inline">Hours<br>
+                                <input type="text" id="registration-time-hours-2" class="grey" placeholder="HH">
+                            </label>
+
+                            <span class="time-colon">:</span>
+
+                            <label for="registration-time-minutes-2" class="inline">Minutes<br>
+                                <input type="text" id="registration-time-minutes-2" class="grey" placeholder="MM">
+                            </label>  
+                            
+                            <input type="radio" name="reg-time" id="registration-time-am" class="grey form-control fancy-radio">
+                            <label for="registration-time-am" class="vertical-label fancy-radio">AM</label>
+                            
+                            <input type="radio" name="reg-time" id="registration-time-pm" class="grey form-control fancy-radio">
+                            <label for="registration-time-pm" class="vertical-label fancy-radio">PM</label>
+                            </div>
+                            <p class="current-errors"></p>
+                        </div>
                         <h2>Your details</h2>
                         <div class="form-group relative">
                             <a name="name-link"></a>
@@ -289,7 +359,7 @@ frontpage: no
                                 <span class="required-icon">*</span><legend>Do you use a smartphone or tablet to access the internet?</legend>
                                 <div class="input-wrapper">
                                     <input id="smartphone-yes" name="smartphone" class="grey form-control fancy-radio" type="radio">
-                                     <label for="smartphone-yes" class="inline radio-button fancy-radio">Yes</label>
+                                    <label for="smartphone-yes" class="inline fancy-radio">Yes</label>
                                     <input id="smartphone-no" name="smartphone" class="grey form-control fancy-radio" type="radio">
                                     <label for="smartphone-no" class="inline fancy-radio" >No</label>
                                     <p class="current-errors"></p>
