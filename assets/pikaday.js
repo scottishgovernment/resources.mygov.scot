@@ -586,13 +586,16 @@
 
             opts.isRTL = !!opts.isRTL;
 
-            opts.field = (opts.field && opts.field.nodeName) ? opts.field : null;
+            opts.field = opts.field;
+            opts.dayField = (opts.dayField && opts.dayField.nodeName) ? opts.dayField : null;
+            opts.monthField = (opts.monthField && opts.monthField.nodeName) ? opts.monthField : null;
+            opts.yearField = (opts.yearField && opts.yearField.nodeName) ? opts.yearField : null;
 
             opts.theme = (typeof opts.theme) === 'string' && opts.theme ? opts.theme : null;
 
-            opts.bound = !!(opts.bound !== undefined ? opts.field && opts.bound : opts.field);
+            opts.bound = !!(opts.bound !== undefined ? opts.dayField && opts.bound : opts.dayField);
 
-            opts.trigger = (opts.trigger && opts.trigger.nodeName) ? opts.trigger : opts.field;
+            opts.trigger = (opts.trigger && opts.trigger.nodeName) ? opts.trigger : opts.dayField;
 
             opts.disableWeekends = !!opts.disableWeekends;
 
@@ -670,12 +673,17 @@
          */
         setDate: function(date, preventOnSelect)
         {
+
             if (!date) {
                 this._d = null;
 
-                if (this._o.field) {
-                    this._o.field.value = '';
-                    fireEvent(this._o.field, 'change', { firedBy: this });
+                if (this._o.dayField) {
+                    this._o.dayField.value = '';
+                    this._o.monthField.value = '';
+                    this._o.yearField.value = '';
+                    fireEvent(this._o.dayField, 'change', { firedBy: this });
+                    fireEvent(this._o.monthField, 'change', { firedBy: this });
+                    fireEvent(this._o.yearField, 'change', { firedBy: this });
                 }
 
                 return this.draw();
@@ -700,9 +708,14 @@
             setToStartOfDay(this._d);
             this.gotoDate(this._d);
 
-            if (this._o.field) {
-                this._o.field.value = this.toString();
-                fireEvent(this._o.field, 'change', { firedBy: this });
+            if (this._o.dayField) {
+                console.log(this)
+                this._o.dayField.value = this.toString().slice(0,2);
+                this._o.monthField.value = this.toString().slice(3,5);
+                this._o.yearField.value = this.toString().slice(6,10);
+                fireEvent(this._o.dayField, 'change', { firedBy: this });
+                fireEvent(this._o.monthField, 'change', { firedBy: this });
+                fireEvent(this._o.yearField, 'change', { firedBy: this });
             }
             if (!preventOnSelect && typeof this._o.onSelect === 'function') {
                 this._o.onSelect.call(this, this.getDate());
@@ -862,7 +875,7 @@
             this.el.innerHTML = html;
 
             if (opts.bound) {
-                if(opts.field.type !== 'hidden') {
+                if(opts.dayField.type !== 'hidden') {
                     sto(function() {
                         opts.trigger.focus();
                     }, 1);
@@ -1040,8 +1053,8 @@
             removeEvent(this.el, 'mousedown', this._onMouseDown, true);
             removeEvent(this.el, 'touchend', this._onMouseDown, true);
             removeEvent(this.el, 'change', this._onChange);
-            if (this._o.field) {
-                removeEvent(this._o.field, 'change', this._onInputChange);
+            if (this._o.dayField) {
+                removeEvent(this._o.dayField, 'change', this._onInputChange);
                 if (this._o.bound) {
                     removeEvent(this._o.trigger, 'click', this._onInputClick);
                     removeEvent(this._o.trigger, 'focus', this._onInputFocus);

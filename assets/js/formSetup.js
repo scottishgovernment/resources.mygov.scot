@@ -130,7 +130,6 @@ registrationForm.init = function () {
 
     if (window.innerWidth < 360) {
         var monthDropdown = document.getElementById('birthdate-month');
-        console.log(monthDropdown)
         for (var i = 0; i < monthDropdown.children.length; i++) {
             monthDropdown.children[i].innerText = monthDropdown.children[i].value;
         }

@@ -1,8 +1,11 @@
 
 
 // Calendar code
-    function PickerOptions(field, container, settings, theme) {
+    function PickerOptions(field, dayField, monthField, yearField, container, settings, theme) {
         this.field = field;
+        this.dayField = dayField;
+        this.monthField = monthField;
+        this.yearField = yearField;
         this.container = container;
         this.format = 'DD/MM/YYYY';
         this.maxDate = settings.maxDate;
@@ -30,13 +33,18 @@
     
 
 var testSettings = { maxDate: '2019-01-20', minDate: '2008-01-01'}
-var toPickerOptions = new PickerOptions(document.getElementById('registration-date'), $('#registration-date').closest('.date-entry').find('.date-entry__calendar')[0], testSettings, 'tst-date-to'); //NOSONAR
+// var toPickerOptions = new PickerOptions(document.getElementById('registration-date'), $('#registration-date').closest('.date-entry').find('.date-entry__calendar')[0], testSettings, 'tst-date-to'); //NOSONAR
 
-var dateToPicker = new Pikaday(toPickerOptions);
+var day = document.getElementById('registration-date-day');
+var month = document.getElementById('registration-date-month');
+var year = document.getElementById('registration-date-year');
+var confirmPickerOptions = new PickerOptions(document.getElementById('registration-date-confirm'), day, month, year, $('#registration-date-confirm').closest('.date-entry').find('.date-entry__calendar')[0], testSettings, 'confirm-date'); //NOSONAR
+
+// var dateToPicker = new Pikaday(toPickerOptions);
+var confirmDatePicker = new Pikaday(confirmPickerOptions);
 
 $('.js-show-calendar').on('click', function () {
     var calendar = $($(this).closest('.date-entry').find('.date-entry__calendar').get(0));
-
             // dataLayer.push({
             //     'field': calendar.parent().find('label').text().toLowerCase().replace(' ', '-'),
             //     'interaction': calendar.hasClass('date-entry__calendar--open') ? 'close': 'open',

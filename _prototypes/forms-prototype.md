@@ -156,6 +156,22 @@ frontpage: no
                             </div>
                         </div>
 
+                        <div class="form-group relative date-entry">
+                            <a name="registration-date-confirm-link"></a>
+                            <span class="required-icon">*</span><label
+                                for="registration-date-confirm" class="filters_">Confirm date of session</label>
+                            <div class="date-entry__input-group input-group input-wrapper" id="registration-date-confirm">
+                                <input type="text" id="registration-date-day" placeholder="DD" class="grey form-control input__datepicker--day" />
+                                <input type="text" id="registration-date-month" placeholder="MM" class="grey form-control input__datepicker--month" />
+                                <input type="text" id="registration-date-year" placeholder="YYYY" class="grey form-control input__datepicker--year" />
+                                <button id="date-start-trigger" type="button" class="date-entry__trigger button button--primary js-show-calendar">Choose date</button>
+                                <p class="current-errors"></p>
+                            </div>
+                            <div class="date-entry__calendar">
+                                <button class="date-entry__close filters-container__close hidden-xsmall js-close-calendar" type="button">Close</button>
+                            </div>
+                        </div>
+
                         <div class="form-group relative">
                             <a name="registration-time-link"></a>
                             <span class="required-icon">*</span><legend>Time of session</legend>

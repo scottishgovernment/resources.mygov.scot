@@ -104,6 +104,17 @@ form select {
   width: 90px;
 }
 
+.input__datepicker--day, .input__datepicker--month {
+  width: 48px;
+  display: inline-block;
+  padding: 6px 10px;
+}
+
+.input__datepicker--year {
+  width: 80px;
+  display: inline-block;
+}
+
 #registration-time-hours, #registration-time-minutes {
   width: 85px;
   font-size: 16px;
