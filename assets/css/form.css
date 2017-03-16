@@ -194,6 +194,10 @@ form select {
     width: 262px;
   }
 
+  #birthdate-month {
+    width: 138px;
+  }
+
   .birthdate select {
     margin-right: -42px;
   }
