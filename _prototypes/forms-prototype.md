@@ -158,9 +158,9 @@ frontpage: no
 
                         <div class="form-group relative">
                             <a name="registration-time-link"></a>
-                            <span class="required-icon">*</span><label for="registration-time">Time of session</label>
-                            <p>Use 24 hour format.</p>
+                            <span class="required-icon">*</span><legend>Time of session</legend>
 
+                            <div class="input-wrapper" id="registration-time">
                             <label for="registration-time-hours" class="inline">Hours<br>
                                 <div class="create-select__arrow">
                                     <select id="registration-time-hours" class="create-select">
@@ -206,10 +206,33 @@ frontpage: no
                             
                             <input type="radio" name="reg-time" id="registration-time-pm" class="grey form-control fancy-radio">
                             <label for="registration-time-pm" class="vertical-label fancy-radio">PM</label>
-
+                            </div>
                             <p class="current-errors"></p>
                         </div>
 
+                        <div class="form-group relative">
+                            <a name="registration-time-link"></a>
+                            <span class="required-icon">*</span><legend>Time of session text fields</legend>
+
+                            <div class="input-wrapper" id="registration-time">
+                            <label for="registration-time-hours-2" class="inline">Hours<br>
+                                <input type="text" id="registration-time-hours-2" class="grey" placeholder="HH">
+                            </label>
+
+                            <span class="time-colon">:</span>
+
+                            <label for="registration-time-minutes-2" class="inline">Minutes<br>
+                                <input type="text" id="registration-time-minutes-2" class="grey" placeholder="MM">
+                            </label>  
+                            
+                            <input type="radio" name="reg-time" id="registration-time-am" class="grey form-control fancy-radio">
+                            <label for="registration-time-am" class="vertical-label fancy-radio">AM</label>
+                            
+                            <input type="radio" name="reg-time" id="registration-time-pm" class="grey form-control fancy-radio">
+                            <label for="registration-time-pm" class="vertical-label fancy-radio">PM</label>
+                            </div>
+                            <p class="current-errors"></p>
+                        </div>
                         <h2>Your details</h2>
                         <div class="form-group relative">
                             <a name="name-link"></a>
