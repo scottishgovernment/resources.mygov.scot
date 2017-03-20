@@ -17,20 +17,79 @@ var requiredField = function($field, optionalMessage) {
     return valid;
 };
 
+// Required inputs (more than one)
+
+var requiredInputs = function($field, optionalMessage) {
+    var inputs = $field.find('input');
+    var label = $('label[for="' + $field.attr('id') + '"]');
+    var message = optionalMessage || 'Please complete all fields';
+
+    var valid = true;
+
+    for (var i = 0; i < inputs.length; i++) {
+        if ($(inputs[i]).val() == '') {
+            valid = false;
+        }
+    }
+
+    addOrRemoveFormErrors($field, valid, 'required', label.text(), message);
+    showOrHideCurrentErrors($field, valid, message);
+
+    return valid;
+}
+
 //  Required dropdown
 
-var requiredDateDropdown = function($field) {
+var requiredDropdown = function($field, optionalMessage) {
     var dropdowns = $field.find('select');
-    var label = $('label[for="' + $field.attr('id') + '"]');
-    var message = 'Please enter a full date';
+    var label = $('label[for="' + $field.attr('id') + '"]').text() || $field.find('legend').text();
+    var message = optionalMessage || 'Please make a selection for all fields';
 
     var valid = _.every(dropdowns, function(element){
         return element.value !== '';
     });
 
-    addOrRemoveFormErrors($field, valid, 'required', label.text(), message);
+    addOrRemoveFormErrors($field, valid, 'required', label, message);
     showOrHideCurrentErrors($field, valid, message);
 
+    return valid;
+}
+
+// Required group of time fields (dropdowns and radio buttons)
+
+var requiredTimeGroup = function($field){
+    var dropdowns = $field.find('select');
+    var textInputs = $field.find('input:text');
+
+    var radioButtons = $field.find('input:radio');
+    var message = 'Please enter a full time, including \'AM\' or \'PM\'';
+    var label = $('label[for="' + $field.attr('id') + '"]').text() || $field.find('legend').text();
+
+    var valid = false;
+
+    var dropdownsValid = _.every(dropdowns, function(element){
+        return element.value !== '';
+    });
+
+    var textInputsValid = _.every(textInputs, function(element){
+        return element.value !== '';
+    });
+
+    var radioButtonsValid = false;
+
+    for (var i = 0; i < radioButtons.length; i++) {
+        if ($(radioButtons[i]).is(':checked')) {
+            radioButtonsValid = true;
+        } 
+    }
+
+    if (dropdownsValid && textInputsValid && radioButtonsValid) {
+        valid = true;
+    }
+
+    addOrRemoveFormErrors($field, valid, 'required', label, message);
+    showOrHideCurrentErrors($field, valid, message);
+    
     return valid;
 }
 
@@ -351,6 +410,27 @@ var todaysDate = function($field){
     var day = parseInt(trimmedValue.slice(0, 2));
     var month = parseInt(trimmedValue.slice(3, 5));
     var year = parseInt(trimmedValue.slice(6, 10));
+
+    var today = new Date();
+
+    var valid = (today.getFullYear() === year) && (today.getMonth() === month - 1) && (today.getDate() === day);
+
+    addOrRemoveFormErrors($field, valid, 'not-todays-date', fieldName, message);
+    showOrHideCurrentErrors($field, valid, message);
+
+    return valid;
+}
+
+//  check that date is today's date - split fields
+
+var todaysDateSplit = function($field){
+    var inputs = $field.find('input:text');
+    var fieldName = $('label[for="' + $field.attr('id') + '"]').text();
+    var message = 'Your session date must be today\'s date';
+
+    var day = parseInt($(inputs[0]).val());
+    var month = parseInt($(inputs[1]).val());
+    var year = parseInt($(inputs[2]).val());
 
     var today = new Date();
 

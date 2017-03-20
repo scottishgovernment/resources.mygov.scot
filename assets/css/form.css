@@ -150,7 +150,7 @@ form select {
   line-height: 0px;
 }
 
-#registration-time {
+#registration-time .input-wrapper {
   margin-top: 7px;
 }
 
@@ -170,7 +170,7 @@ form select {
   margin-right: 18px;
 }
 
-#registration-time label[for="registration-time-am"] {
+#registration-time label[for="registration-time-am"], #registration-time label[for="registration-time-am-2"] {
   margin-right: 15px;
 }
 
@@ -188,7 +188,7 @@ form select {
   color: #727272;
 }
 
-#registration-date-confirm .time-slash {
+#confirm-date .time-slash {
   margin-right: 1px;
   margin-left: 0px;
   position: relative;
@@ -270,11 +270,11 @@ form select {
     margin-right: 11px;
   }
 
-  #registration-time label[for="registration-time-am"] {
+  #registration-time label[for="registration-time-am"], #registration-time label[for="registration-time-am-2"] {
     margin-right: 20px;
   }
 
-  #registration-time label[for="registration-time-pm"] {
+  #registration-time label[for="registration-time-pm"], #registration-time label[for="registration-time-pm-2"] {
     margin-left: 34px;
   }
 
@@ -290,7 +290,7 @@ form select {
     margin-right: 3px;
   }
 
-  #registration-date-confirm .time-slash {
+  #confirm-date .time-slash {
     margin: -1px;
   }
 

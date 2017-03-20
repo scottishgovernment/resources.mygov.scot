@@ -38,7 +38,7 @@ var testSettings = { maxDate: '2019-01-20', minDate: '2008-01-01'}
 var day = document.getElementById('registration-date-day');
 var month = document.getElementById('registration-date-month');
 var year = document.getElementById('registration-date-year');
-var confirmPickerOptions = new PickerOptions(document.getElementById('registration-date-confirm'), day, month, year, $('#registration-date-confirm').closest('.date-entry').find('.date-entry__calendar')[0], testSettings, 'confirm-date'); //NOSONAR
+var confirmPickerOptions = new PickerOptions(document.getElementById('confirm-date'), day, month, year, $('#confirm-date').closest('.date-entry').find('.date-entry__calendar')[0], testSettings, 'confirm-date'); //NOSONAR
 
 // var dateToPicker = new Pikaday(toPickerOptions);
 var confirmDatePicker = new Pikaday(confirmPickerOptions);

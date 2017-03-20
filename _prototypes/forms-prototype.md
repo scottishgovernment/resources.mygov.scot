@@ -156,33 +156,11 @@ frontpage: no
                             </div>
                         </div>
 
-                        <div class="form-group relative date-entry">
-                            <a name="registration-date-confirm-link"></a>
-                            <span class="required-icon">*</span><label
-                                for="registration-date-confirm" class="filters_">Confirm date of session</label>
-                            <div class="date-entry__input-group input-group input-wrapper" id="registration-date-confirm">
-                                <input type="text" id="registration-date-day" placeholder="DD" class="grey form-control input__datepicker--day" />
-                                
-                                <span class="time-slash">/</span>
-                                
-                                <input type="text" id="registration-date-month" placeholder="MM" class="grey form-control input__datepicker--month" />
-                                
-                                <span class="time-slash">/</span>
-
-                                <input type="text" id="registration-date-year" placeholder="YYYY" class="grey form-control input__datepicker--year" />
-                                <button id="date-start-trigger" type="button" class="date-entry__trigger button button--primary js-show-calendar">Choose date</button>
-                                <p class="current-errors"></p>
-                            </div>
-                            <div class="date-entry__calendar">
-                                <button class="date-entry__close filters-container__close hidden-xsmall js-close-calendar" type="button">Close</button>
-                            </div>
-                        </div>
-
-                        <div class="form-group relative">
+                        <div class="form-group relative" id="registration-time">
                             <a name="registration-time-link"></a>
                             <span class="required-icon">*</span><legend>Time of session</legend>
 
-                            <div class="input-wrapper" id="registration-time">
+                            <div class="input-wrapper">
                             <label for="registration-time-hours" class="inline">Hours<br>
                                 <div class="create-select__arrow">
                                     <select id="registration-time-hours" class="create-select">
@@ -233,11 +211,11 @@ frontpage: no
                             <p class="current-errors"></p>
                         </div>
 
-                        <div class="form-group relative">
+                        <div class="form-group relative" id="registration-time">
                             <a name="registration-time-link"></a>
                             <span class="required-icon">*</span><legend>Time of session text fields</legend>
 
-                            <div class="input-wrapper" id="registration-time">
+                            <div class="input-wrapper">
                             <label for="registration-time-hours-2" class="inline">Hours<br>
                                 <input type="text" id="registration-time-hours-2" class="grey" placeholder="HH">
                             </label>
@@ -248,11 +226,11 @@ frontpage: no
                                 <input type="text" id="registration-time-minutes-2" class="grey" placeholder="MM">
                             </label>  
                             
-                            <input type="radio" name="reg-time" id="registration-time-am" class="grey form-control fancy-radio">
-                            <label for="registration-time-am" class="vertical-label fancy-radio">AM</label>
+                            <input type="radio" name="reg-time-2" id="registration-time-am-2" class="grey form-control fancy-radio">
+                            <label for="registration-time-am-2" class="vertical-label fancy-radio">AM</label>
                             
-                            <input type="radio" name="reg-time" id="registration-time-pm" class="grey form-control fancy-radio">
-                            <label for="registration-time-pm" class="vertical-label fancy-radio">PM</label>
+                            <input type="radio" name="reg-time-2" id="registration-time-pm-2" class="grey form-control fancy-radio">
+                            <label for="registration-time-pm-2" class="vertical-label fancy-radio">PM</label>
                             </div>
                             <p class="current-errors"></p>
                         </div>
@@ -481,13 +459,24 @@ frontpage: no
 
                         <h2>Confirmation</h2>
 
-                        <div class="form-group relative">
-                            <a name="session-date-link"></a>
-                            <span class="required-icon">*</span><label for="session-date">Confirm date of session</label>
-                            <p>Use DD/MM/YYYY format.</p>
-                            <input id="session-date" class="grey form-control input--small" type="text" placeholder="e.g. 01/02/2017">
-                            <p class="current-errors"></p>
+                        <div class="form-group relative date-entry">
+                            <a name="confirm-date-link"></a>
+                            <span class="required-icon">*</span><label
+                                for="confirm-date" class="filters_">Confirm date of session</label>
+                            <div class="date-entry__input-group input-group input-wrapper" id="confirm-date">
+                                <input type="text" id="registration-date-day" placeholder="DD" class="grey form-control input__datepicker--day" />                            
+                                <span class="time-slash">/</span>                              
+                                <input type="text" id="registration-date-month" placeholder="MM" class="grey form-control input__datepicker--month" />                            
+                                <span class="time-slash">/</span>
+                                <input type="text" id="registration-date-year" placeholder="YYYY" class="grey form-control input__datepicker--year" />
+                                <button id="date-start-trigger" type="button" class="date-entry__trigger button button--primary js-show-calendar">Choose date</button>
+                                <p class="current-errors"></p>
+                            </div>
+                            <div class="date-entry__calendar">
+                                <button class="date-entry__close filters-container__close hidden-xsmall js-close-calendar" type="button">Close</button>
+                            </div>
                         </div>
+
 
                         <div class="expandable-item expandable-item--disclaimer">
                             <a name="consent-checkbox-link"></a>

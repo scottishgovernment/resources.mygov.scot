@@ -30,10 +30,9 @@ var FormValidations = [{
 	id: '#registration-time',
 	errorName: 'Time of session',
 	fields: ['#registration-time'],
-	validations: [_.partialRight(requiredField, 'Please enter a time, for example 12.43'), time24Hours, 
-	_.partialRight(timeRange, new Date(0,0,0,9,0), new Date(0,0,0,17,0))],
+	validations: [requiredTimeGroup],
 	neutralEvent: 'blur',
-	invalidEvent: 'keyup'
+	invalidEvent: 'keyup change'
 },
 {
 	id: '#name',
@@ -47,7 +46,7 @@ var FormValidations = [{
 	id: '#birthdate',
 	errorName: 'Date of birth',
 	fields: ['#birthdate-year'],
-	validations: [requiredDateDropdown],
+	validations: [_.partialRight(requiredDropdown, 'Please enter a full date')],
 	neutralEvent: 'blur change',
 	invalidEvent: 'change'
 },
@@ -136,12 +135,12 @@ var FormValidations = [{
 	invalidEvent: 'textchange keyup blur'
 },
 {
-	id: '#session-date',
+	id: '#confirm-date',
 	errorName: 'Confirm date of session',
-	fields: ['#session-date'],
-	validations: [_.partialRight(requiredField, 'Please enter a date'), dateRegex, todaysDate],
-	neutralEvent: 'blur',
-	invalidEvent: 'keyup'	
+	fields: ['#registration-date-day', '#registration-date-month', '#registration-date-year'],
+	validations: [_.partialRight(requiredInputs, 'Please enter a full date'), todaysDateSplit],
+	neutralEvent: 'blur change',
+	invalidEvent: 'keyup change'	
 },
 {
 	id: '#consent',
