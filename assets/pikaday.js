@@ -709,7 +709,6 @@
             this.gotoDate(this._d);
 
             if (this._o.dayField) {
-                console.log(this)
                 this._o.dayField.value = this.toString().slice(0,2);
                 this._o.monthField.value = this.toString().slice(3,5);
                 this._o.yearField.value = this.toString().slice(6,10);

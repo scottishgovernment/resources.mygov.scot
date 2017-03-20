@@ -11,9 +11,9 @@
   position: relative;
 }
 /* line 175, ../../../src/scss/components/_component.list-controls.scss */
-.date-entry + .date-entry {
+/*.date-entry + .date-entry {
   margin-top: -7px;
-}
+}*/
 /* line 179, ../../../src/scss/components/_component.list-controls.scss */
 .date-entry__input-group {
   position: relative;
@@ -771,5 +771,5 @@
 /* CALENDAR BUTTON ALIGNMENT */
 
 .body-content .button {
-    margin: 0;
+    margin: 0 0 0 10px;
 }

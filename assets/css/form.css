@@ -111,7 +111,7 @@ form select {
 }
 
 .input__datepicker--year {
-  width: 80px;
+  width: 70px;
   display: inline-block;
 }
 
@@ -159,7 +159,7 @@ form select {
 }
 
 #registration-time label[for="registration-time-minutes"] {
-  margin-right: 26px;
+  margin-right: 22px;
 }
 
 #registration-time label[for="registration-time-hours-2"] {
@@ -182,6 +182,19 @@ form select {
 
 .time-colon {
   margin-right: 1px;
+  position: relative;
+  top: 0;
+  font-size: 100%;
+  color: #727272;
+}
+
+#registration-date-confirm .time-slash {
+  margin-right: 1px;
+  margin-left: 0px;
+  position: relative;
+  top: 0;
+  font-size: 100%;
+  color: #727272;
 }
 
 #registration-time input[type="text"] {
@@ -254,7 +267,7 @@ form select {
   }
 
   #registration-time label[for="registration-time-hours"] {
-    margin-right: 15px;
+    margin-right: 11px;
   }
 
   #registration-time label[for="registration-time-am"] {
@@ -274,7 +287,11 @@ form select {
   }
 
   .time-colon {
-  margin-right: 3px;
+    margin-right: 3px;
+  }
+
+  #registration-date-confirm .time-slash {
+    margin: -1px;
   }
 
   .birthdate .create-select__arrow:after {
