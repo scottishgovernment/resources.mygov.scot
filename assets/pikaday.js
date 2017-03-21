@@ -684,6 +684,9 @@
                     fireEvent(this._o.dayField, 'change', { firedBy: this });
                     fireEvent(this._o.monthField, 'change', { firedBy: this });
                     fireEvent(this._o.yearField, 'change', { firedBy: this });
+                } else {
+                    this._o.field.value = '';
+                    fireEvent(this._o.field, 'change', { firedBy: this });
                 }
 
                 return this.draw();
@@ -715,6 +718,9 @@
                 fireEvent(this._o.dayField, 'change', { firedBy: this });
                 fireEvent(this._o.monthField, 'change', { firedBy: this });
                 fireEvent(this._o.yearField, 'change', { firedBy: this });
+            } else {
+                this._o.field.value = this.toString();
+                fireEvent(this._o.field, 'change', { firedBy: this });
             }
             if (!preventOnSelect && typeof this._o.onSelect === 'function') {
                 this._o.onSelect.call(this, this.getDate());

@@ -185,6 +185,7 @@ frontpage: no
                                 <div class="create-select__arrow">
                                     <select id="registration-time-minutes" class="create-select">
                                         <option selected disabled value="">MM</option>
+                                        <option>00</option>
                                         <option>01</option>
                                         <option>02</option>
                                         <option>03</option>
@@ -197,6 +198,53 @@ frontpage: no
                                         <option>10</option>
                                         <option>11</option>
                                         <option>12</option>
+                                        <option>13</option>
+                                        <option>14</option>
+                                        <option>15</option>
+                                        <option>16</option>
+                                        <option>17</option>
+                                        <option>18</option>
+                                        <option>19</option>
+                                        <option>20</option>
+                                        <option>21</option>
+                                        <option>22</option>
+                                        <option>23</option>
+                                        <option>24</option>
+                                        <option>25</option>
+                                        <option>26</option>
+                                        <option>27</option>
+                                        <option>28</option>
+                                        <option>29</option>
+                                        <option>30</option>
+                                        <option>31</option>
+                                        <option>32</option>
+                                        <option>33</option>
+                                        <option>34</option>
+                                        <option>35</option>
+                                        <option>36</option>
+                                        <option>37</option>
+                                        <option>38</option>
+                                        <option>39</option>
+                                        <option>40</option>
+                                        <option>41</option>
+                                        <option>42</option>
+                                        <option>43</option>
+                                        <option>44</option>
+                                        <option>45</option>
+                                        <option>46</option>
+                                        <option>47</option>
+                                        <option>48</option>
+                                        <option>49</option>
+                                        <option>50</option>
+                                        <option>51</option>
+                                        <option>52</option>
+                                        <option>53</option>
+                                        <option>54</option>
+                                        <option>55</option>
+                                        <option>56</option>
+                                        <option>57</option>
+                                        <option>58</option>
+                                        <option>59</option>
                                     </select>
                                 </div>
                             </label>  
@@ -211,33 +259,10 @@ frontpage: no
                             <p class="current-errors"></p>
                         </div>
 
-                        <div class="form-group relative" id="registration-time">
-                            <a name="registration-time-link"></a>
-                            <span class="required-icon">*</span><legend>Time of session text fields</legend>
-
-                            <div class="input-wrapper">
-                            <label for="registration-time-hours-2" class="inline">Hours<br>
-                                <input type="text" id="registration-time-hours-2" class="grey" placeholder="HH">
-                            </label>
-
-                            <span class="time-colon">:</span>
-
-                            <label for="registration-time-minutes-2" class="inline">Minutes<br>
-                                <input type="text" id="registration-time-minutes-2" class="grey" placeholder="MM">
-                            </label>  
-                            
-                            <input type="radio" name="reg-time-2" id="registration-time-am-2" class="grey form-control fancy-radio">
-                            <label for="registration-time-am-2" class="vertical-label fancy-radio">AM</label>
-                            
-                            <input type="radio" name="reg-time-2" id="registration-time-pm-2" class="grey form-control fancy-radio">
-                            <label for="registration-time-pm-2" class="vertical-label fancy-radio">PM</label>
-                            </div>
-                            <p class="current-errors"></p>
-                        </div>
                         <h2>Your details</h2>
                         <div class="form-group relative">
                             <a name="name-link"></a>
-                            <span class="required-icon">*</span><label for="name">Your name</label>
+                            <span class="required-icon">*</span><label for="name">Full name</label>
                             <input id="name" class="grey form-control input--large" type="text">
                             <p class="current-errors"></p>
                         </div>
@@ -475,6 +500,30 @@ frontpage: no
                             <div class="date-entry__calendar">
                                 <button class="date-entry__close filters-container__close hidden-xsmall js-close-calendar" type="button">Close</button>
                             </div>
+                        </div>
+
+                        <div class="form-group relative" id="confirm-time">
+                            <a name="confirm-time-link"></a>
+                            <span class="required-icon">*</span><legend>Comfirm time of session</legend>
+
+                            <div class="input-wrapper">
+                            <label for="confirm-time-hours" class="inline">Hours<br>
+                                <input type="text" id="confirm-time-hours" class="grey" placeholder="HH">
+                            </label>
+
+                            <span class="time-colon">:</span>
+
+                            <label for="confirm-time-minutes" class="inline">Minutes<br>
+                                <input type="text" id="confirm-time-minutes" class="grey" placeholder="MM">
+                            </label>  
+                            
+                            <input type="radio" name="confirm-time" id="confirm-time-am" class="grey form-control fancy-radio">
+                            <label for="confirm-time-am" class="vertical-label fancy-radio">AM</label>
+                            
+                            <input type="radio" name="confirm-time" id="confirm-time-pm" class="grey form-control fancy-radio">
+                            <label for="confirm-time-pm" class="vertical-label fancy-radio">PM</label>
+                            </div>
+                            <p class="current-errors"></p>
                         </div>
 
 

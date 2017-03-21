@@ -5,7 +5,7 @@
 }
 
 .input__datepicker {
-  width: calc(100% - 46px);
+  width: calc(100% - 56px);
   display: inline-block;
 }
 
@@ -146,11 +146,11 @@ form select {
 }
 
 
-#registration-time label {
+#registration-time label, #confirm-time label {
   line-height: 0px;
 }
 
-#registration-time .input-wrapper {
+#registration-time .input-wrapper, #confirm-time .input-wrapper {
   margin-top: 7px;
 }
 
@@ -162,19 +162,19 @@ form select {
   margin-right: 22px;
 }
 
-#registration-time label[for="registration-time-hours-2"] {
+#confirm-time label[for="confirm-time-hours"] {
   margin-right: 2px;
 }
 
-#registration-time label[for="registration-time-minutes-2"] {
+#confirm-time label[for="confirm-time-minutes"] {
   margin-right: 18px;
 }
 
-#registration-time label[for="registration-time-am"], #registration-time label[for="registration-time-am-2"] {
+#registration-time label[for="registration-time-am"], #confirm-time label[for="confirm-time-am"] {
   margin-right: 15px;
 }
 
-#registration-time-hours-2, #registration-time-minutes-2 {
+#confirm-time-hours, #confirm-time-minutes {
   width: 48px;
   height: 42px;
   margin-top: 17px;
@@ -197,7 +197,7 @@ form select {
   color: #727272;
 }
 
-#registration-time input[type="text"] {
+#registration-time input[type="text"], #confirm-time input[type="text"] {
   padding: 6px 10px;
 }
 
@@ -270,19 +270,19 @@ form select {
     margin-right: 11px;
   }
 
-  #registration-time label[for="registration-time-am"], #registration-time label[for="registration-time-am-2"] {
+  #registration-time label[for="registration-time-am"], #confirm-time label[for="confirm-time-am"] {
     margin-right: 20px;
   }
 
-  #registration-time label[for="registration-time-pm"], #registration-time label[for="registration-time-pm-2"] {
+  #registration-time label[for="registration-time-pm"], #confirm-time label[for="confirm-time-pm"] {
     margin-left: 34px;
   }
 
-  #registration-time label[for="registration-time-hours-2"] {
+  #confirm-time label[for="confirm-time-hours"] {
     margin-right: 0px;
   }
 
-  #registration-time label[for="registration-time-minutes-2"] {
+  #confirm-time label[for="confirm-time-minutes"] {
     margin-right: 7px;
   }
 
@@ -506,6 +506,12 @@ form h2 {
   margin-top: 70px;
 }
 
+@media (max-width: 767px) {
+  form h2:first-child {
+    margin-top: 28px;
+  }
+}
+
 form h2:before {
   background: #0065bd;
   border-radius: 8px;
@@ -559,7 +565,7 @@ form h2:before {
 .form-message--error li {
   font-size: 16px;
   padding-top: 14px;
-  line-height: 28px;
+  line-height: 21px;
 }
 
 div .form-message--error .form-errors ul {
@@ -610,6 +616,7 @@ div .form-message--error .form-errors ul {
 
   .form-message--error li {
     font-size: 17px;
+    line-height: 28px;
   }
 }
 
@@ -770,7 +777,7 @@ textarea.grey {
 p.asterisk-note {
   font-weight: bold;
   margin-top: 28px;
-  margin-bottom: 28px;
+  margin-bottom: 14px;
   height: initial;
   font-size: 16px; 
 }

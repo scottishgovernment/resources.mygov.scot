@@ -38,9 +38,10 @@ var testSettings = { maxDate: '2019-01-20', minDate: '2008-01-01'}
 var day = document.getElementById('registration-date-day');
 var month = document.getElementById('registration-date-month');
 var year = document.getElementById('registration-date-year');
+var toPickerOptions = new PickerOptions(document.getElementById('registration-date'), null, null, null, $('#registration-date').closest('.date-entry').find('.date-entry__calendar')[0], testSettings, 'confirm-date'); //NOSONAR
 var confirmPickerOptions = new PickerOptions(document.getElementById('confirm-date'), day, month, year, $('#confirm-date').closest('.date-entry').find('.date-entry__calendar')[0], testSettings, 'confirm-date'); //NOSONAR
 
-// var dateToPicker = new Pikaday(toPickerOptions);
+var dateToPicker = new Pikaday(toPickerOptions);
 var confirmDatePicker = new Pikaday(confirmPickerOptions);
 
 $('.js-show-calendar').on('click', function () {

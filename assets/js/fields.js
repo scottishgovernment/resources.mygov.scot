@@ -143,6 +143,14 @@ var FormValidations = [{
 	invalidEvent: 'keyup change'	
 },
 {
+	id: '#confirm-time',
+	errorName: 'Confirm time of session',
+	fields: ['#confirm-time'],
+	validations: [requiredTimeGroup],
+	neutralEvent: 'blur',
+	invalidEvent: 'keyup change'
+},
+{
 	id: '#consent',
 	errorName: 'Consent',
 	fields: ['#consent'],
