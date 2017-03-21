@@ -579,7 +579,7 @@ var showOrHideCurrentErrors = function (field, valid, message) {
     }
 
     if (!valid) {
-        errorContainer.html('<span class="fa-circle error-circle"></span>' + message);
+        errorContainer.html('<li>' + message + '</li>');
     } else {
         errorContainer.html('');
     }

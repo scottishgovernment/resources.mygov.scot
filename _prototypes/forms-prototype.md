@@ -149,7 +149,7 @@ frontpage: no
                             <div class="date-entry__input-group input-group input-wrapper registration-date">
                                 <input type="text" id="registration-date" placeholder="DD/MM/YYYY" class="grey form-control input__datepicker" />
                                 <button id="date-start-trigger" type="button" class="date-entry__trigger button button--primary js-show-calendar">Choose date</button>
-                                <p class="current-errors"></p>
+                                <ul class="current-errors"></ul>
                             </div>
                             <div class="date-entry__calendar">
                                 <button class="date-entry__close filters-container__close hidden-xsmall js-close-calendar" type="button">Close</button>
@@ -256,7 +256,7 @@ frontpage: no
                             <label for="registration-time-pm" class="vertical-label fancy-radio">PM</label>
                             </div>
 
-                            <p class="current-errors"></p>
+                            <ul class="current-errors"></ul>
                         </div>
 
                         <h2>Your details</h2>
@@ -264,7 +264,7 @@ frontpage: no
                             <a name="name-link"></a>
                             <span class="required-icon">*</span><label for="name">Full name</label>
                             <input id="name" class="grey form-control input--large" type="text">
-                            <p class="current-errors"></p>
+                            <ul class="current-errors"></ul>
                         </div>
 
                         <div class="form-group relative">
@@ -333,7 +333,7 @@ frontpage: no
                                         <option>2017</option><option>2016</option><option>2015</option><option>2014</option><option>2013</option><option>2012</option><option>2011</option><option>2010</option><option>2009</option><option>2008</option><option>2007</option><option>2006</option><option>2005</option><option>2004</option><option>2003</option><option>2002</option><option>2001</option><option>2000</option><option>1999</option><option>1998</option><option>1997</option><option>1996</option><option>1995</option><option>1994</option><option>1993</option><option>1992</option><option>1991</option><option>1990</option><option>1989</option><option>1988</option><option>1987</option><option>1986</option><option>1985</option><option>1984</option><option>1983</option><option>1982</option><option>1981</option><option>1980</option><option>1979</option><option>1978</option><option>1977</option><option>1976</option><option>1975</option><option>1974</option><option>1973</option><option>1972</option><option>1971</option><option>1970</option><option>1969</option><option>1968</option><option>1967</option><option>1966</option><option>1965</option><option>1964</option><option>1963</option><option>1962</option><option>1961</option><option>1960</option><option>1959</option><option>1958</option><option>1957</option><option>1956</option><option>1955</option><option>1954</option><option>1953</option><option>1952</option><option>1951</option><option>1950</option><option>1949</option><option>1948</option><option>1947</option><option>1946</option><option>1945</option><option>1944</option><option>1943</option><option>1942</option><option>1941</option><option>1940</option><option>1939</option><option>1938</option><option>1937</option><option>1936</option><option>1935</option><option>1934</option><option>1933</option><option>1932</option><option>1931</option><option>1930</option><option>1929</option><option>1928</option><option>1927</option><option>1926</option><option>1925</option><option>1924</option><option>1923</option><option>1922</option><option>1921</option><option>1920</option><option>1919</option><option>1918</option><option>1917</option><option>1916</option><option>1915</option><option>1914</option><option>1913</option><option>1912</option><option>1911</option><option>1910</option><option>1909</option><option>1908</option><option>1907</option><option>1906</option><option>1905</option><option>1904</option><option>1903</option><option>1902</option><option>1901</option>
                                     </select>
                                 </div>
-                                <p class="current-errors"></p>
+                                <ul class="current-errors"></ul>
                             </div>
                         </div>
 
@@ -341,7 +341,7 @@ frontpage: no
                             <a name="email-link"></a>
                             <span class="required-icon">*</span><label for="email">Email address</label>
                             <input id="email" class="grey form-control" type="text">
-                            <p class="current-errors"></p>
+                            <ul class="current-errors"></ul>
                             <p class="server-side-errors"></p>
                         </div>
 
@@ -351,14 +351,14 @@ frontpage: no
                             <p>We will use this if there are any problems with your form and we need to contact you.<br />
                             If overseas, include International dialling code e.g. +34.</p>
                             <input id="telephone-number" class="grey form-control input--medium" type="text">
-                            <p class="current-errors"></p>
+                            <ul class="current-errors"></ul>
                         </div>
 
                         <div class="form-group relative">
                             <a name="address-1-link"></a>                            
                             <span class="required-icon">*</span><label for="address-1">Address line 1</label>
                             <input id="address-1" class="grey form-control" type="text">
-                            <p class="current-errors"></p>
+                            <ul class="current-errors"></ul>
                         </div>
 
                         <div class="form-group relative">
@@ -375,7 +375,7 @@ frontpage: no
                             <a name="postcode-link"></a>
                             <span class="required-icon">*</span> <label for="postcode">Postcode</label>
                             <input id="postcode" class="grey form-control input--small" type="text">
-                            <p class="current-errors"></p>
+                            <ul class="current-errors"></ul>
                         </div>
 
                         <h2>Online activity</h2>
@@ -387,7 +387,7 @@ frontpage: no
                                     <label for="smartphone-yes" class="inline fancy-radio">Yes</label>
                                     <input id="smartphone-no" name="smartphone" class="grey form-control fancy-radio" type="radio">
                                     <label for="smartphone-no" class="inline fancy-radio" >No</label>
-                                    <p class="current-errors"></p>
+                                    <ul class="current-errors"></ul>
                                 </div>
                         </div>
 
@@ -412,7 +412,7 @@ frontpage: no
                             <fieldset id="time-online">
                                 <span class="required-icon">*</span><legend>Daily time spent online?</legend>
                                 <p>Please indicate number of hours spent in each area.</p>
-                                <p class="current-errors"></p>
+                                <ul class="current-errors"></ul>
                                 <div class="input-wrapper time-online">
                                     <div>
                                         <input id="time-online-social" class="grey form-control" type="text" placeholder="0">
@@ -448,7 +448,7 @@ frontpage: no
                             <a name="form-difficulty-link"></a>
                             <fieldset id="form-difficulty">
                                 <span class="required-icon">*</span><legend>Tell us how you have found this form so far</legend>
-                                <p class="current-errors"></p>
+                                <ul class="current-errors"></ul>
                                 <div class="input-wrapper">
                                     <input name="form-difficulty" id="very-difficult" class="fancy-radio" type="radio">
                                     <label for="very-difficult" class="fancy-radio">Very difficult</label> <br>
@@ -478,7 +478,7 @@ frontpage: no
                                 <textarea rows="4" id="comments"
                                           class="grey form-control"></textarea>
                                 <p class="word-count"><span>700</span> characters remaining</p>
-                                <p class="current-errors"></p>
+                                <ul class="current-errors"></ul>
                             </div>
                         </div>
 
@@ -495,7 +495,7 @@ frontpage: no
                                 <span class="time-slash">/</span>
                                 <input type="text" id="registration-date-year" placeholder="YYYY" class="grey form-control input__datepicker--year" />
                                 <button id="date-start-trigger" type="button" class="date-entry__trigger button button--primary js-show-calendar">Choose date</button>
-                                <p class="current-errors"></p>
+                                <ul class="current-errors"></ul>
                             </div>
                             <div class="date-entry__calendar">
                                 <button class="date-entry__close filters-container__close hidden-xsmall js-close-calendar" type="button">Close</button>
@@ -504,7 +504,7 @@ frontpage: no
 
                         <div class="form-group relative" id="confirm-time">
                             <a name="confirm-time-link"></a>
-                            <span class="required-icon">*</span><legend>Comfirm time of session</legend>
+                            <span class="required-icon">*</span><legend>Confirm time of session</legend>
 
                             <div class="input-wrapper">
                             <label for="confirm-time-hours" class="inline">Hours<br>
@@ -523,7 +523,7 @@ frontpage: no
                             <input type="radio" name="confirm-time" id="confirm-time-pm" class="grey form-control fancy-radio">
                             <label for="confirm-time-pm" class="vertical-label fancy-radio">PM</label>
                             </div>
-                            <p class="current-errors"></p>
+                            <ul class="current-errors"></ul>
                         </div>
 
 
@@ -532,7 +532,7 @@ frontpage: no
                             <fieldset id="consent">
                                 <input type="checkbox" id="consent-checkbox" class="fancy-checkbox">
                                 <label class="consent inline fancy-checkbox" for="consent-checkbox">By ticking the attached box you’re consenting to your data being used as laid out in the <a class="js-toggle-expand expandable-item__link-trigger" href="#consent-statement" data-toggle="collapse" data-gtm="panel-opened" aria-expanded="false" aria-controls="consent-statement">consent statement.</a></label> 
-                                <p class="current-errors"></p>
+                                <ul class="current-errors"></ul>
 
                                 <div class="expandable-item__body expandable-item__body--disclaimer" id="consent-statement">
                                     <h3>Usability Testing - Informed consent</h3>

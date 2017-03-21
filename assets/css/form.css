@@ -291,7 +291,7 @@ form select {
   }
 
   #confirm-date .time-slash {
-    margin: -1px;
+    margin: 1px;
   }
 
   .birthdate .create-select__arrow:after {
@@ -485,10 +485,11 @@ form .vertical-label {
 @media (min-width: 768px) {
   form .vertical-label {
     top: 0px;
+    left: 40px;
   }
 
   .vertical-label.fancy-radio:before {
-    left: 40px;
+    left: -40px;
     top: -15px;
   }
 }
@@ -534,20 +535,12 @@ form h2:before {
   color: #d32205;
   font-weight: normal;
   margin-top: 7px;
+  margin-bottom: 7px;
+  margin-left: 0;
 }
 
-.error-circle {
-  font-family: FontAwesome;
-  font-size: 12px;
-  vertical-align: middle;
-  margin-right: 7px;
-  line-height: 22px;
-  float: left;
-  display: block;
-}
-
-.form-errors .error-circle {
-  line-height: 30px;
+.current-errors li {
+  padding-top: 0px;
 }
 
 .field-errors {
@@ -595,6 +588,17 @@ div .form-message--error .form-errors ul {
   width: 73px;
 }
 
+.form-message--error {
+  background-color: #fff;
+  border-radius: 15px;
+  border: 7px solid #d32205;
+  margin-bottom: 49px;
+}
+
+.form-message--error, .form-message--successful {
+  padding: 14px 15px 0px 15px;
+}
+
 @media(min-width: 768px) {
   .form-message--error:after {
     bottom: -46px;
@@ -611,22 +615,15 @@ div .form-message--error .form-errors ul {
     border-radius: 15px;
     border: 7px solid #d32205;
     margin-bottom: 49px;
+  }
+
+  .form-message--error, .form-message--successful {
     padding: 21px 30px 0px 30px;
   }
 
   .form-message--error li {
     font-size: 17px;
     line-height: 28px;
-  }
-}
-
-@media (max-width: 767px) {
-  .form-message--error {
-    background-color: #fff;
-    border-radius: 15px;
-    border: 7px solid #d32205;
-    padding: 14px 15px 0px 15px;
-    margin-bottom: 49px;
   }
 }
 
@@ -644,7 +641,7 @@ div .form-message--error .form-errors ul {
 
 }
 
-div .form-message--error .form-errors ul {
+div .form-message--error .form-errors ul, ul.current-errors {
   list-style: none;
   margin-left: 0;
   list-style-position: outside;
@@ -652,7 +649,7 @@ div .form-message--error .form-errors ul {
   padding-left: 15px;
 }
 
-.form-errors ul li:before {
+.form-errors ul li:before, .current-errors li:before {
   content: '\f111';
   font-family: FontAwesome;
   font-size: 12px;
@@ -668,7 +665,6 @@ div .form-message--error .form-errors ul {
 .form-message--successful {
   border: 7px solid #4e9d52;
   border-radius: 15px;
-  padding: 21px 30px 0px 30px;
   background: #fff;
   margin-bottom: 49px;
 }
