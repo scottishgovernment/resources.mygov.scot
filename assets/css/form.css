@@ -385,7 +385,7 @@ input[type="radio"], input[type="checkbox"] {
     display: inline-block;
     width: initial;
     font-size: 40px;
-    margin: 21px 0 0px -18px;
+    margin: 21px 0 0px 0px;
 }
 
 /* line 124, ../../../src/scss/base/_base.forms.scss */
@@ -393,7 +393,7 @@ label.fancy-checkbox, label.fancy-radio {
   position: relative;
   padding-left: 41px;
   margin-top: 21px;
-  margin-left: 10px;
+  margin-left: 0px;
   white-space: nowrap;
 }
 
