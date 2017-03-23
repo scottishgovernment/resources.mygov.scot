@@ -59,7 +59,7 @@ var requiredDropdown = function($field, optionalMessage) {
 
 var requiredTimeGroup = function($field){
     var dropdowns = $field.find('select');
-    var textInputs = $field.find('input:text');
+    var textInputs = $field.find('input');
 
     var radioButtons = $field.find('input:radio');
     var message = 'Please enter a full time, including \'AM\' or \'PM\'';
@@ -424,7 +424,7 @@ var todaysDate = function($field){
 //  check that date is today's date - split fields
 
 var todaysDateSplit = function($field){
-    var inputs = $field.find('input:text');
+    var inputs = $field.find('input');
     var fieldName = $('label[for="' + $field.attr('id') + '"]').text();
     var message = 'Your session date must be today\'s date';
 

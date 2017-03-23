@@ -68,7 +68,6 @@ $('#registration-date').on('blur', function () {
 });
 
 $('.js-show-calendar').on('blur', function () {
-    console.log('blurred')
     var calendar = $($(this).closest('.date-entry').find('.date-entry__calendar').get(0));
     calendar.removeClass('date-entry__calendar--open');
 });

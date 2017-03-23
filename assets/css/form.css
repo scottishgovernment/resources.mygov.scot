@@ -736,6 +736,8 @@ input[type="number"].grey {
   border: 1px solid #727272;
   font-size: 16px;
   height: 42px;
+  padding: 6px 9px;
+  margin-top: 7px;
 }
 
 /* line 68, ../../../node_modules/mygov-assets/scss/base/_base.forms.scss */
