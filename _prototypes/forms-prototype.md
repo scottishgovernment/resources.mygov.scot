@@ -275,15 +275,15 @@ frontpage: no
                                 <div class="create-select__arrow">
                                     <select id="birthdate-day" class="create-select">
                                         <option selected disabled value="">Day</option>
-                                        <option>1</option>
-                                        <option>2</option>
-                                        <option>3</option>
-                                        <option>4</option>
-                                        <option>5</option>
-                                        <option>6</option>
-                                        <option>7</option>
-                                        <option>8</option>
-                                        <option>9</option>
+                                        <option value="01">1</option>
+                                        <option value="02">2</option>
+                                        <option value="03">3</option>
+                                        <option value="04">4</option>
+                                        <option value="05">5</option>
+                                        <option value="06">6</option>
+                                        <option value="07">7</option>
+                                        <option value="08">8</option>
+                                        <option value="09">9</option>
                                         <option>10</option>
                                         <option>11</option>
                                         <option>12</option>
@@ -312,15 +312,15 @@ frontpage: no
                                 <div class="create-select__arrow">
                                     <select id="birthdate-month" class="create-select">
                                         <option selected disabled value="Month">Month</option>
-                                        <option value="1">January</option>
-                                        <option value="2">February</option>
-                                        <option value="3">March</option>
-                                        <option value="4">April</option>
-                                        <option value="5">May</option>
-                                        <option value="6">June</option>
-                                        <option value="7">July</option>
-                                        <option value="8">August</option>
-                                        <option value="9">September</option>
+                                        <option value="01">January</option>
+                                        <option value="02">February</option>
+                                        <option value="03">March</option>
+                                        <option value="04">April</option>
+                                        <option value="05">May</option>
+                                        <option value="06">June</option>
+                                        <option value="07">July</option>
+                                        <option value="08">August</option>
+                                        <option value="09">September</option>
                                         <option value="10">October</option>
                                         <option value="11">November</option>
                                         <option value="12">December</option>
@@ -578,9 +578,6 @@ frontpage: no
         </div><!--
     --></div>
 
-    <div class="grid"><!--
-           Feedback form would go here.
-    --></div>
 
 </div>
 <script type="text/javascript">
