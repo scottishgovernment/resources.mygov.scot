@@ -383,9 +383,9 @@ legend, label {
 
 input[type="radio"], input[type="checkbox"] {
     display: inline-block;
-    width: initial;
+    width: 0px;
     font-size: 40px;
-    margin: 21px 0 0px 0px;
+    margin: 21px 0 0px 10px;
 }
 
 /* line 124, ../../../src/scss/base/_base.forms.scss */
