@@ -160,7 +160,7 @@ form select {
 }
 
 #registration-time label[for="registration-time-minutes"] {
-  margin-right: 22px;
+  margin-right: 11px;
 }
 
 #confirm-time label[for="confirm-time-hours"] {
@@ -172,7 +172,7 @@ form select {
 }
 
 #registration-time label[for="registration-time-am"], #confirm-time label[for="confirm-time-am"] {
-  margin-right: 15px;
+  margin-right: 5px;
 }
 
 #confirm-time-hours, #confirm-time-minutes {
@@ -233,6 +233,10 @@ form select {
     right: 0px;
     bottom: -17px;
     pointer-events: none;
+  }
+
+  #registration-time label[for="registration-time-minutes"] {
+    margin-right: 22px;
   }
 }
 
