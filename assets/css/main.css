@@ -997,14 +997,11 @@ footer {
         footer .footer-links li a.github {
           background-image: url(../images/footer_icons/code_mobile_standard_14.png); }
   footer .scotgov-logo {
-    background: url(../images/scotgov_logos/sg_logo_mobile_standard_64.png) no-repeat 0 0 transparent;
+    background: url(../images/scotgov_logos/SG_Logo_Mob.png) no-repeat 0 0 transparent;
     display: block;
-    height: 69px;
+    height: 35px;
     text-indent: -999em;
-    width: 64px; }
-  footer .footer-logo {
-    float: right;
-    padding-left: 2em; }
+    width: 135px; }
 
 .lead {
   font-size: 32px;
@@ -1140,9 +1137,9 @@ footer {
         footer .footer-links li a.github {
           background-image: url(../images/footer_icons/code_desktop_standard_28.png); }
     footer .scotgov-logo {
-      background-image: url(../images/scotgov_logos/sg_logo_desktop_standard_110.png);
-      height: 117px;
-      width: 110px; } }
+      background-image: url(../images/scotgov_logos/SG_Logo_Desktop.png);
+      height: 43px;
+      width: 165px; } }
 @media only screen and (min-width: 992px) {
   body {
     font-size: 19px;
@@ -1204,8 +1201,8 @@ footer {
       background-image: url(../images/footer_icons/code_desktop_standard_28.png); }
 
   footer .scotgov-logo {
-    background-image: url(../images/scotgov_logos/sg_logo_mobile_hi_128.png);
-    background-size: 64px; }
+    background-image: url(../images/scotgov_logos/SG_Logo_Mob_@2x.png);
+    background-size: 135px 35px; }
 
   .home .summary-block.guidelines .inner,
   .guidelines .summary-block .inner {
