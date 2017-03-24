@@ -316,29 +316,35 @@ var time24Hours = function($field){
 
 // Time between time ranges
 
-var timeRange = function($field, startTime, endTime){
-    var trimmedValue = $.trim($field.val());
-    var fieldName = $('label[for="' + $field.attr('id') + '"]').text();
-    var message = 'Times must be after ' + startTime.toTimeString().slice(0,5)
-                     + ' and before ' + endTime.toTimeString().slice(0,5) + '.';
+// var timeRange = function($field, startTime, endTime){
+//     var dropdowns = $field.find('select');
+//     var textInputs = $field.find('input');
+//     var radioButtonChecked = $field.find('input:radio:checked');
 
-    // Adds a zero to the start of the time if necessary, e.g. "9.00" becomes "09.00"
-    if (trimmedValue.length !== 5){
-        trimmedValue = "0".concat(trimmedValue);
-    }
+//     var timePeriod = $(radioButtonChecked).val();
 
-    var hours = trimmedValue.slice(0, 2);
-    var minutes = trimmedValue.slice(3, 5);
+//     var hours = parseInt(dropdowns[0].value);
+//     var minutes = parseInt(dropdowns[1].value);
 
-    var timeEntered = new Date(0, 0, 0, hours, minutes);
+//     if (timePeriod === "PM") {
+//         hours = hours + 12;
+//     }
 
-    var valid = (timeEntered >= startTime) && (timeEntered <= endTime);
+//     // var fieldName = $('label[for="' + $field.attr('id') + '"]').text();
+//     // var message = 'Times must be after ' + startTime.toTimeString().slice(0,5)
+//     //                  + ' and before ' + endTime.toTimeString().slice(0,5) + '.';
 
-    addOrRemoveFormErrors($field, valid, 'invalid-time-range', fieldName, message);
-    showOrHideCurrentErrors($field, valid, message);
+//     var timeEntered = new Date(0, 0, 0, hours, minutes);
+//     console.log(timeEntered)
 
-    return valid;
-}
+//     var valid = (timeEntered >= startTime) && (timeEntered <= endTime);
+
+//     // addOrRemoveFormErrors($field, valid, 'invalid-time-range', fieldName, message);
+//     // showOrHideCurrentErrors($field, valid, message);
+
+//     console.log(valid)
+//     return valid;
+// }
 
 // regex for emails 
 

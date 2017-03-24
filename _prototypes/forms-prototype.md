@@ -249,10 +249,10 @@ frontpage: no
                                 </div>
                             </label>  
                             
-                            <input type="radio" name="reg-time" id="registration-time-am" class="grey form-control fancy-radio">
+                            <input type="radio" name="reg-time" id="registration-time-am" class="grey form-control fancy-radio" value="AM">
                             <label for="registration-time-am" class="vertical-label fancy-radio">AM</label>
                             
-                            <input type="radio" name="reg-time" id="registration-time-pm" class="grey form-control fancy-radio">
+                            <input type="radio" name="reg-time" id="registration-time-pm" class="grey form-control fancy-radio" value="PM">
                             <label for="registration-time-pm" class="vertical-label fancy-radio">PM</label>
                             </div>
 
