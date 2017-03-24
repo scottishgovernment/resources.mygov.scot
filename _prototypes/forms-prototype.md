@@ -489,11 +489,11 @@ frontpage: no
                             <span class="required-icon">*</span><label
                                 for="confirm-date" class="filters_">Confirm date of session</label>
                             <div class="date-entry__input-group input-group input-wrapper" id="confirm-date">
-                                <input type="number" id="registration-date-day" placeholder="DD" class="grey form-control input__datepicker--day" />                            
+                                <input type="number" pattern="[0-9]*" id="registration-date-day" placeholder="DD" class="grey form-control input__datepicker--day" />                            
                                 <span class="time-slash">/</span>                              
-                                <input type="number" id="registration-date-month" placeholder="MM" class="grey form-control input__datepicker--month" />                            
+                                <input type="number" pattern="[0-9]*" id="registration-date-month" placeholder="MM" class="grey form-control input__datepicker--month" />                            
                                 <span class="time-slash">/</span>
-                                <input type="number" id="registration-date-year" placeholder="YYYY" class="grey form-control input__datepicker--year" />
+                                <input type="number" pattern="[0-9]*" id="registration-date-year" placeholder="YYYY" class="grey form-control input__datepicker--year" />
                                 <button id="date-start-trigger" type="button" class="date-entry__trigger button button--primary js-show-calendar">Choose date</button>
                                 <ul class="current-errors"></ul>
                             </div>
@@ -508,13 +508,13 @@ frontpage: no
 
                             <div class="input-wrapper">
                             <label for="confirm-time-hours" class="inline">Hours<br>
-                                <input type="number" id="confirm-time-hours" class="grey" placeholder="HH">
+                                <input type="number" pattern="[0-9]*" id="confirm-time-hours" class="grey" placeholder="HH">
                             </label>
 
                             <span class="time-colon">:</span>
 
                             <label for="confirm-time-minutes" class="inline">Minutes<br>
-                                <input type="number" id="confirm-time-minutes" class="grey" placeholder="MM">
+                                <input type="number" pattern="[0-9]*" id="confirm-time-minutes" class="grey" placeholder="MM">
                             </label>  
                             
                             <input type="radio" name="confirm-time" id="confirm-time-am" class="grey form-control fancy-radio">

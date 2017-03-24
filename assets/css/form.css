@@ -208,10 +208,6 @@ form select {
 
 @media(min-width: 360px) {
 
-  #postcode, #session-date {
-    width: 262px;
-  }
-
   #birthdate-month {
     width: 138px;
   }
@@ -379,9 +375,9 @@ legend, label {
   }
 
   .form-group p {
-  font-size: 17px;
-  margin-bottom: 7px;
-}
+    font-size: 17px;
+    margin-bottom: 7px;
+  }
 }
 
 /**** Radio button and checkbox styling ****/
@@ -653,7 +649,7 @@ div .form-message--error .form-errors ul {
 
 }
 
-div .form-message--error .form-errors ul, ul.current-errors, ul.server-side-errors {
+div .form-message--error .form-errors ul, form ul.current-errors, ul.server-side-errors {
   list-style: none;
   margin-left: 0;
   list-style-position: outside;
@@ -715,16 +711,13 @@ fieldset .input-wrapper.input-error {
   background-color: #f4e2df;
   border: 1px dashed #d32205;
   border-radius: 6px;
+  padding-bottom: 14px;
 }
 
 .time-online div:first-of-type input {
   margin-top: 14px;
 }
 
-.input-wrapper.input-error label.fancy-radio:last-of-type,
-.input-wrapper.input-error div:last-of-type input {
-  margin-bottom: 14px;
-}
 
 
 
