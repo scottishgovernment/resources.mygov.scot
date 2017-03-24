@@ -158,7 +158,7 @@ frontpage: no
 
                         <div class="form-group relative" id="registration-time">
                             <a name="registration-time-link"></a>
-                            <span class="required-icon">*</span><legend>Time of session</legend>
+                            <span class="required-icon">*</span><legend>Allocated time slot</legend>
 
                             <div class="input-wrapper">
                             <label for="registration-time-hours" class="inline">Hours<br>
@@ -504,7 +504,7 @@ frontpage: no
 
                         <div class="form-group relative" id="confirm-time">
                             <a name="confirm-time-link"></a>
-                            <span class="required-icon">*</span><legend>Confirm time of session</legend>
+                            <span class="required-icon">*</span><legend>Confirm allocated time slot</legend>
 
                             <div class="input-wrapper">
                             <label for="confirm-time-hours" class="inline">Hours<br>

@@ -144,6 +144,8 @@ form select {
 
 .create-select__arrow {
   display: inline-block;
+  width: inherit;
+  min-width: 85px;
 }
 
 

@@ -131,7 +131,12 @@ registrationForm.init = function () {
     if (window.innerWidth < 360) {
         var monthDropdown = document.getElementById('birthdate-month');
         for (var i = 0; i < monthDropdown.children.length; i++) {
-            monthDropdown.children[i].innerText = monthDropdown.children[i].value;
+            var monthNum = monthDropdown.children[i].value;
+            // Months need to have a value of "05" etc for validations to work, this strips the leading "0" for display.
+            if (monthNum[0] === "0"){
+                monthNum = monthNum.slice(1,2);
+            }
+            monthDropdown.children[i].innerText = monthNum;
         }
     }
 
