@@ -137,7 +137,7 @@ var FormValidations = [{
 {
 	id: '#confirm-date',
 	errorName: 'Confirm date of session',
-	fields: ['#registration-date-year'],
+	fields: ['#registration-date-day', '#registration-date-month', '#registration-date-year'],
 	validations: [_.partialRight(requiredInputs, 'Please enter a full date'), todaysDateSplit],
 	neutralEvent: 'blur change',
 	invalidEvent: 'keyup change'	

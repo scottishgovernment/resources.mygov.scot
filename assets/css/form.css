@@ -5,7 +5,7 @@
 }
 
 .input__datepicker {
-  width: calc(100% - 56px);
+  width: calc(100% - 60px);
   display: inline-block;
 }
 
@@ -160,7 +160,7 @@ form select {
 }
 
 #registration-time label[for="registration-time-minutes"] {
-  margin-right: 11px;
+  margin-right: 5px;
 }
 
 #confirm-time label[for="confirm-time-hours"] {
@@ -549,7 +549,7 @@ form h2:before {
   margin-left: 0;
 }
 
-.current-errors li {
+.current-errors li, .server-side-errors li {
   padding-top: 0px;
 }
 
@@ -651,7 +651,7 @@ div .form-message--error .form-errors ul {
 
 }
 
-div .form-message--error .form-errors ul, ul.current-errors {
+div .form-message--error .form-errors ul, ul.current-errors, ul.server-side-errors {
   list-style: none;
   margin-left: 0;
   list-style-position: outside;
@@ -659,7 +659,7 @@ div .form-message--error .form-errors ul, ul.current-errors {
   padding-left: 15px;
 }
 
-.form-errors ul li:before, .current-errors li:before {
+.form-errors ul li:before, .current-errors li:before, .server-side-errors li:before {
   content: '\f111';
   font-family: FontAwesome;
   font-size: 12px;

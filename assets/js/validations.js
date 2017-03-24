@@ -597,7 +597,7 @@ var handleServerSideErrors = function (field, valid, message) {
     }
 
     if (!valid) {
-        errorContainer.html('<span class="fa-circle error-circle"></span>' + message);
+        errorContainer.html('<li>' + message + '</li>');
         errorContainer.removeClass('server-side-neutral');
     } else {
         errorContainer.html('');

@@ -129,11 +129,11 @@ frontpage: no
 		                <p>Your application has now been submitted. An email summary has been sent to the address provided.</p>
                     </div>
 
-                    <p>Your test facilitator will now ask you to <a href="/guidelines/forms-prototype/">complete another form</a>. If you have any
+                    <p>Your test facilitator will now ask you to <a href="/prototypes/forms-prototype/">complete another form</a>. If you have any
 					questions then now is a good time to ask. If you’d like to know how we use your
 					information then you can read our <a href="https://www.mygov.scot/privacy/">Privacy policy</a>.</p>
 
-					<h3><a href="/guidelines/forms-prototype/">Go to next form</a></h3>
+					<h3><a href="/prototypes/forms-prototype/">Go to next form</a></h3>
                 </div>
 
             </article>

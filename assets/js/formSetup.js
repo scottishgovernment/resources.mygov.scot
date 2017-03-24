@@ -92,7 +92,7 @@ registrationForm.init = function () {
             });
 
             field.on(item.invalidEvent, function(){
-                if ($(this).hasClass('input-error')){
+                if ($(this).hasClass('input-error') || $(this).parent().hasClass('input-error')){
                     validateField($(item.id), true, item.validations);
                 }
             });

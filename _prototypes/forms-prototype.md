@@ -342,7 +342,7 @@ frontpage: no
                             <span class="required-icon">*</span><label for="email">Email address</label>
                             <input id="email" class="grey form-control" type="text">
                             <ul class="current-errors"></ul>
-                            <p class="server-side-errors"></p>
+                            <ul class="server-side-errors"></ul>
                         </div>
 
                         <div class="form-group relative">
