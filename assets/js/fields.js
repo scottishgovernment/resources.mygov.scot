@@ -8,7 +8,7 @@
 
 	id - HTML ID of the field
 	errorName - name of the field, not currently used but helps when reading this file
-	fields - an array of IDs of the fields that make up this field, which may just be one element or 
+	fields - an array of IDs of the fields that make up this field, which may just be one element or
 	may be several for a fieldset of checkboxes etc
 	validations - an array of which validation functions should be used to check the contents of the field
 	serverSideValidations - an array of any server side validations that need to be done
@@ -62,7 +62,7 @@ var FormValidations = [{
 	id: '#email',
 	errorName: 'Email address',
 	fields: ['#email'],
-	validations: [_.partialRight(requiredField, 'Please enter an email address, for example joe@gov.scot'), 
+	validations: [_.partialRight(requiredField, 'Please enter an email address, for example joe@gov.scot'),
         validateEmail, _.partialRight(maxCharacters, 300)],
     serverSideValidations: [isGovScotEmail],
 	neutralEvent: 'blur',
@@ -103,7 +103,7 @@ var FormValidations = [{
 {
 	id: '#time-online',
 	errorName: 'Daily time spent online?',
-	fields: ['#time-online-social', '#time-online-news', '#time-online-youtube', 
+	fields: ['#time-online-social', '#time-online-news', '#time-online-youtube',
 			'#time-online-work', '#time-online-gaming', '#time-online-other'],
 	validations: [requiredTimeSpent, validateNumberInput],
 	neutralEvent: 'textchange input',
@@ -112,7 +112,7 @@ var FormValidations = [{
 {
 	id: '#time-online',
 	errorName: 'Daily time spent online?',
-	fields: ['#time-online-social', '#time-online-news', '#time-online-youtube', 
+	fields: ['#time-online-social', '#time-online-news', '#time-online-youtube',
 			'#time-online-work', '#time-online-gaming', '#time-online-other'],
 	validations: [validateTotalTime],
 	neutralEvent: 'textchange input',
@@ -130,7 +130,7 @@ var FormValidations = [{
 	id: '#comments',
 	errorName: 'Any other comments',
 	fields: ['#comments'],
-	validations: [_.partialRight(maxCharacters, 700)],
+	validations: [_.partialRight(maxCharacters, 50)],
 	neutralEvent: 'textchange keyup blur paste',
 	invalidEvent: 'textchange keyup blur'
 },
@@ -140,7 +140,7 @@ var FormValidations = [{
 	fields: ['#registration-date-day', '#registration-date-month', '#registration-date-year'],
 	validations: [_.partialRight(requiredInputs, 'Please enter a date, for example 06/02/2017'), todaysDateSplit],
 	neutralEvent: 'blur change',
-	invalidEvent: 'keyup change'	
+	invalidEvent: 'keyup change'
 },
 {
 	id: '#confirm-time',
@@ -158,4 +158,3 @@ var FormValidations = [{
 	neutralEvent: 'change',
 	invalidEvent: 'change'
 }]
-

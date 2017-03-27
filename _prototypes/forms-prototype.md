@@ -248,10 +248,10 @@ frontpage: no
                                     </select>
                                 </div>
                             </label>  
-                            
+
                             <input type="radio" name="reg-time" id="registration-time-am" class="grey form-control fancy-radio" value="AM">
                             <label for="registration-time-am" class="vertical-label fancy-radio">AM</label>
-                            
+
                             <input type="radio" name="reg-time" id="registration-time-pm" class="grey form-control fancy-radio" value="PM">
                             <label for="registration-time-pm" class="vertical-label fancy-radio">PM</label>
                             </div>
@@ -350,7 +350,7 @@ frontpage: no
                             <label for="telephone-number">Phone number <span class="optional">(optional)</span></label>
                             <p>We will use this if there are any problems with your form and we need to contact you.<br />
                             If overseas, include International dialling code e.g. +34.</p>
-                            <input id="telephone-number" class="grey form-control input--medium" type="text">
+                            <input id="telephone-number" class="grey form-control input--medium" type="tel">
                             <ul class="current-errors"></ul>
                         </div>
 
@@ -416,27 +416,27 @@ frontpage: no
                                 <div class="input-wrapper time-online">
                                     <div>
                                         <input id="time-online-social" class="grey form-control" type="text" placeholder="0">
-                                        <label for="time-online-social" class="inline">Social networking sites</label> 
+                                        <label for="time-online-social" class="inline">Social networking sites</label>
                                     </div>
                                     <div>
-                                        <input id="time-online-news" class="grey form-control" type="text" placeholder="0"> 
-                                        <label for="time-online-news" class="inline">News sites</label> 
+                                        <input id="time-online-news" class="grey form-control" type="text" placeholder="0">
+                                        <label for="time-online-news" class="inline">News sites</label>
                                     </div>
                                     <div>
                                         <input id="time-online-youtube" class="grey form-control" type="text" placeholder="0">
-                                        <label for="time-online-youtube" class="inline">YouTube</label> 
+                                        <label for="time-online-youtube" class="inline">YouTube</label>
                                     </div>
                                     <div>
-                                        <input id="time-online-work" class="grey form-control" type="text" placeholder="0"> 
-                                        <label for="time-online-work" class="inline">Work-related</label> 
+                                        <input id="time-online-work" class="grey form-control" type="text" placeholder="0">
+                                        <label for="time-online-work" class="inline">Work-related</label>
                                     </div>
                                     <div>
                                         <input id="time-online-gaming" class="grey form-control" type="text" placeholder="0">
-                                        <label for="time-online-gaming" class="inline">Gaming</label> 
+                                        <label for="time-online-gaming" class="inline">Gaming</label>
                                     </div>
                                     <div>
-                                        <input id="time-online-other" class="grey form-control" type="text" placeholder="0"> 
-                                        <label for="time-online-other" class="inline">Other</label> 
+                                        <input id="time-online-other" class="grey form-control" type="text" placeholder="0">
+                                        <label for="time-online-other" class="inline">Other</label>
                                     </div>
                                 </div>
                             </fieldset>
@@ -477,7 +477,7 @@ frontpage: no
                             <div class="input-wrapper">
                                 <textarea rows="4" id="comments"
                                           class="grey form-control"></textarea>
-                                <p class="word-count"><span>700</span> characters remaining</p>
+                                <p class="word-count"><span>50</span> characters remaining</p>
                                 <ul class="current-errors"></ul>
                             </div>
                         </div>
@@ -489,11 +489,11 @@ frontpage: no
                             <span class="required-icon">*</span><label
                                 for="confirm-date" class="filters_">Confirm date of session</label>
                             <div class="date-entry__input-group input-group input-wrapper" id="confirm-date">
-                                <input type="number" pattern="[0-9]*" id="registration-date-day" placeholder="DD" class="grey form-control input__datepicker--day" />                            
+                                <input maxlength="2" type="number" pattern="[0-9]*" id="registration-date-day" placeholder="DD" class="grey form-control input__datepicker--day" />                            
                                 <span class="time-slash">/</span>                              
-                                <input type="number" pattern="[0-9]*" id="registration-date-month" placeholder="MM" class="grey form-control input__datepicker--month" />                            
+                                <input maxlength="2" type="number" pattern="[0-9]*" id="registration-date-month" placeholder="MM" class="grey form-control input__datepicker--month" />                            
                                 <span class="time-slash">/</span>
-                                <input type="number" pattern="[0-9]*" id="registration-date-year" placeholder="YYYY" class="grey form-control input__datepicker--year" />
+                                <input maxlength="4" type="number" pattern="[0-9]*" id="registration-date-year" placeholder="YYYY" class="grey form-control input__datepicker--year" />
                                 <button id="date-start-trigger" type="button" class="date-entry__trigger button button--primary js-show-calendar">Choose date</button>
                                 <ul class="current-errors"></ul>
                             </div>
@@ -508,18 +508,18 @@ frontpage: no
 
                             <div class="input-wrapper">
                             <label for="confirm-time-hours" class="inline">Hours<br>
-                                <input type="number" pattern="[0-9]*" id="confirm-time-hours" class="grey" placeholder="HH">
+                                <input maxlength="2" type="number" pattern="[0-9]*" id="confirm-time-hours" class="grey" placeholder="HH">
                             </label>
 
                             <span class="time-colon">:</span>
 
                             <label for="confirm-time-minutes" class="inline">Minutes<br>
-                                <input type="number" pattern="[0-9]*" id="confirm-time-minutes" class="grey" placeholder="MM">
+                                <input maxlength="2" type="number" pattern="[0-9]*" id="confirm-time-minutes" class="grey" placeholder="MM">
                             </label>  
-                            
+
                             <input type="radio" name="confirm-time" id="confirm-time-am" class="grey form-control fancy-radio">
                             <label for="confirm-time-am" class="vertical-label fancy-radio">AM</label>
-                            
+
                             <input type="radio" name="confirm-time" id="confirm-time-pm" class="grey form-control fancy-radio">
                             <label for="confirm-time-pm" class="vertical-label fancy-radio">PM</label>
                             </div>
@@ -531,7 +531,7 @@ frontpage: no
                             <a name="consent-checkbox-link"></a>
                             <fieldset id="consent">
                                 <input type="checkbox" id="consent-checkbox" class="fancy-checkbox">
-                                <label class="consent inline fancy-checkbox" for="consent-checkbox">By ticking the attached box you’re consenting to your data being used as laid out in the <a class="js-toggle-expand expandable-item__link-trigger" href="#consent-statement" data-toggle="collapse" data-gtm="panel-opened" aria-expanded="false" aria-controls="consent-statement">consent statement.</a></label> 
+                                <label class="consent inline fancy-checkbox" for="consent-checkbox">By ticking the attached box you’re consenting to your data being used as laid out in the <a class="js-toggle-expand expandable-item__link-trigger" href="#consent-statement" data-toggle="collapse" data-gtm="panel-opened" aria-expanded="false" aria-controls="consent-statement">consent statement.</a></label>
                                 <ul class="current-errors"></ul>
 
                                 <div class="expandable-item__body expandable-item__body--disclaimer" id="consent-statement">

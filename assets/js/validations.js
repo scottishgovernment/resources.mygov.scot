@@ -80,7 +80,7 @@ var requiredTimeGroup = function($field){
     for (var i = 0; i < radioButtons.length; i++) {
         if ($(radioButtons[i]).is(':checked')) {
             radioButtonsValid = true;
-        } 
+        }
     }
 
     if (dropdownsValid && textInputsValid && radioButtonsValid) {
@@ -89,7 +89,7 @@ var requiredTimeGroup = function($field){
 
     addOrRemoveFormErrors($field, valid, 'required', label, message);
     showOrHideCurrentErrors($field, valid, message);
-    
+
     return valid;
 }
 
@@ -105,7 +105,7 @@ var requiredRadio = function($field){
     for (var i = 0; i < radioButtons.length; i++) {
         if ($(radioButtons[i]).is(':checked')) {
             valid = true;
-        } 
+        }
     }
 
     addOrRemoveFieldSetErrors($field, valid);
@@ -129,7 +129,7 @@ var requiredCheckbox = function($field){
 }
 
 
-// required Time Spent boxes 
+// required Time Spent boxes
 
 var requiredTimeSpent = function($field){
     var boxes = $field.find('input:text');
@@ -171,17 +171,17 @@ var validateNumberInput = function($field){
 
         if (!inputIsValid){
             if($(boxes[i]).next().next('.field-errors').length === 0){
-                $(boxes[i]).next().after('<p class="field-errors"><span class="fa-circle error-circle"></span>Please only enter numbers.</p>');
+                $(boxes[i]).next().after('<p class="field-errors"><span class="fa fa-circle error-circle"></span> Please only enter numbers.</p>');
                 $(boxes[i]).addClass('input-error');
-            } 
-            valid = false;  
+            }
+            valid = false;
         } else {
             $(boxes[i]).next().next('.field-errors').remove();
             $(boxes[i]).removeClass('input-error');
-        } 
+        }
     }
 
-    addOrRemoveFormErrors($field, valid, 'invalid-time-spent', title, 'Please only enter numbers.');    
+    addOrRemoveFormErrors($field, valid, 'invalid-time-spent', title, 'Please only enter numbers.');
 
     return valid;
 }
@@ -199,7 +199,7 @@ var validateTotalTime = function($field){
     for (var i = 0; i < boxes.length; i++) {
         var value = $.trim($(boxes[i]).val());
         if ( !isNaN(parseFloat(value)) ){
-            total = total + parseFloat(value); 
+            total = total + parseFloat(value);
         }
     }
 
@@ -280,7 +280,7 @@ var minimumAge = function($field, minimumAge){
     if (m < 0 || (m === 0 && today.getDate() < birthdate.getDate())) {
         age--;
     }
-    
+
     var valid = age >= minimumAge;
 
     if (!valid) {
@@ -346,7 +346,7 @@ var time24Hours = function($field){
 //     return valid;
 // }
 
-// regex for emails 
+// regex for emails
 
 var validateEmail = function ($field) {
     var trimmedValue = $.trim($field.val());
@@ -465,7 +465,7 @@ var matchesField = function($field, $compareField){
     return valid;
 }
 
-// valid postcode 
+// valid postcode
 
 var validatePostcode = function($field){
     var message = 'Please enter a valid postcode, for example EH6 6QQ';
@@ -483,7 +483,7 @@ var validatePostcode = function($field){
     return valid;
 }
 
-// valid phone number 
+// valid phone number
 
 var validatePhone = function($field){
     var trimmedValue = $.trim($field.val()).replace(/\s+/g, '');
@@ -552,7 +552,7 @@ var maxCharacters = function($field, maxLength) {
         }
     } else {
         if ($('.form-message--error').hasClass('hidden')) {
-            $(errorName).remove();            
+            $(errorName).remove();
         } else {
             $(errorName).addClass('error-grey');
         }
@@ -591,7 +591,7 @@ var showOrHideCurrentErrors = function (field, valid, message) {
     }
 }
 
-// 'Server side' error handling 
+// 'Server side' error handling
 
 var handleServerSideErrors = function (field, valid, message) {
     var errorContainer;

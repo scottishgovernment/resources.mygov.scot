@@ -58,7 +58,7 @@
 
 
 
-/**** Extra things to make the grey background extend out so that 
+/**** Extra things to make the grey background extend out so that
       form text is aligned with rest of page text  ****/
 div.form-box {
   padding: 15px;
@@ -306,7 +306,7 @@ form select {
   .create-select__arrow:after {
     background: url('../../assets/images/icons/arrows/dd_arrows_@2x.png');
     background-size: cover;
-  } 
+  }
 
 }
 
@@ -314,7 +314,7 @@ input[type="number"]::-webkit-outer-spin-button, input[type="number"]::-webkit-i
     -webkit-appearance: none;
     margin: 0;
 }
- 
+
 input[type="number"] {
     -moz-appearance: textfield;
 }
@@ -466,6 +466,11 @@ input:checked + label.fancy-radio:before {
   content: '\f111';
 }
 
+input:focus + label.fancy-radio:before {
+    background-color: #e5f0f8;
+    border-color: #0065bd;
+}
+
 .input-error label.fancy-checkbox:before {
   border-color: #d32205;
   border-width: 2px;
@@ -507,6 +512,7 @@ form .vertical-label {
 
 form h2 {
   display: inline-block;
+  font-size: 22px;
   font-weight: 500;
   padding-top: 21px;
   position: relative;
@@ -515,6 +521,10 @@ form h2 {
 }
 
 @media (max-width: 767px) {
+  form h2 {
+    font-size: 26px;
+  }
+
   form h2:first-child {
     margin-top: 28px;
   }
@@ -558,6 +568,10 @@ form h2:before {
   color: #727272;
 }
 
+.form-message {
+    position: relative;
+}
+
 .form-message--error a {
   color: #d32205;
 }
@@ -576,9 +590,9 @@ div .form-message--error .form-errors ul {
   display: inline-block;
   content: " ";
   background: url('../../assets/images/icons/error_triangle.png');
-  position: relative;
-  bottom: -43px;
-  left: 20px;
+  position: absolute;
+  bottom: -38px;
+  left: 50px;
   height: 38px;
   width: 73px;
 }
@@ -588,9 +602,9 @@ div .form-message--error .form-errors ul {
   content: " ";
   background: url('../../assets/images/icons/success_triangle.png');
   background-size: cover;
-  position: relative;
-  bottom: -43px;
-  left: 20px;
+  position: absolute;
+  bottom: -38px;
+  left: 50px;
   height: 38px;
   width: 73px;
 }
@@ -608,13 +622,13 @@ div .form-message--error .form-errors ul {
 
 @media(min-width: 768px) {
   .form-message--error:after {
-    bottom: -46px;
-    left: 20px;
+    bottom: -38px;
+    left: 50px;
   }
 
   .form-message--successful:after {
-    bottom: -46px;
-    left: 20px;
+    bottom: -38px;
+    left: 50px;
   }
 
   .form-message--error {
@@ -713,11 +727,13 @@ fieldset .input-wrapper.input-error {
   padding-bottom: 14px;
 }
 
+.time-online.input-error input:not(:placeholder-shown) {
+    border: 2px solid #d32205 !important;
+}
+
 .time-online div:first-of-type input {
   margin-top: 14px;
 }
-
-
 
 
 
@@ -745,7 +761,7 @@ input[type=text].grey:focus, input[type="number"].grey:focus, textarea.grey:focu
   outline: none;
 }
 
-/* Color settings in mygov-assets - change color__placeholder to color__grey--medium 
+/* Color settings in mygov-assets - change color__placeholder to color__grey--medium
 - This will change all placeholders in all browsers */
 ::-webkit-input-placeholder { /* Chrome/Opera/Safari */
   color: #b3b3b3;
@@ -754,7 +770,7 @@ input[type=text].grey:focus, input[type="number"].grey:focus, textarea.grey:focu
 
 /**** Additions ****/
 
-input[type="text"].input-error, textarea.input-error, select.input-error { 
+input[type="text"].input-error, textarea.input-error, select.input-error {
   color: #000;
   border: 2px solid #d32205;
   background: #fff;
@@ -781,7 +797,7 @@ p.asterisk-note {
   margin-top: 28px;
   margin-bottom: 14px;
   height: initial;
-  font-size: 16px; 
+  font-size: 16px;
 }
 
 @media(min-width: 768px) {
@@ -848,5 +864,3 @@ label.consent.inline {
 .in-article-form label {
   max-width: calc(100% - 20px);
 }
-
-
