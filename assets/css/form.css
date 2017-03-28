@@ -67,7 +67,7 @@ div.form-box {
 
 /* General margin for all text inputs */
 
-input[type=text] {
+input[type=text], input[type=tel] {
   margin-top: 7px;
 }
 
@@ -741,7 +741,7 @@ fieldset .input-wrapper.input-error {
 
 /* line 64, ../../../node_modules/mygov-assets/scss/base/_base.forms.scss */
 /* replace color from color__grey--medium to color__grey--base */
-input[type=text].grey, textarea.grey, select.grey {
+input[type=text].grey, textarea.grey, select.grey, input[type=tel].grey {
   border: 1px solid #727272;
 }
 
