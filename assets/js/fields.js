@@ -30,7 +30,8 @@ var FormValidations = [{
 	id: '#registration-time',
 	errorName: 'Time of session',
 	fields: ['#registration-time'],
-	validations: [requiredTimeGroup],
+	validations: [requiredTimeGroup, _.partialRight(timeRange, '#registration-time-hours', '#registration-time-minutes',
+		 new Date(0,0,0,9,0), new Date(0,0,0,17,0))],
 	neutralEvent: 'blur',
 	invalidEvent: 'keyup change'
 },
@@ -146,7 +147,8 @@ var FormValidations = [{
 	id: '#confirm-time',
 	errorName: 'Confirm time of session',
 	fields: ['#confirm-time'],
-	validations: [requiredTimeGroup],
+	validations: [requiredTimeGroup, _.partialRight(timeRange, '#confirm-time-hours', '#confirm-time-minutes',
+		 new Date(0,0,0,9,0), new Date(0,0,0,17,0))],
 	neutralEvent: 'blur',
 	invalidEvent: 'keyup change'
 },

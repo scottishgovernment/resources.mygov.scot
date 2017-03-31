@@ -87,7 +87,7 @@ label.disabled, span.disabled {
 /**** Select (dropdown) styling ****/
 form select {
     display: inline-block;
-    margin-right: -46px;
+    margin-right: -37px;
     text-align: left;
     height: 42px;
     line-height: 21px;
@@ -132,9 +132,9 @@ form select {
 
 .create-select__arrow:after {
   content: " ";
-  background: url('../../assets/images/icons/arrows/dd_arrows.png');
+  background: url('../../assets/images/icons/arrows/dd_arrows_35px.png');
   display: inline-block;
-  width: 42px;
+  width: 35px;
   height: 42px;
   position: relative;
   right: 0px;
@@ -206,6 +206,12 @@ form select {
 
 /**** Fixed widths - to be added to for mobile ****/
 
+
+#birthdate.input-wrapper {
+  /* This is a quick fix as reason for extra space at top of element can't be found */
+  margin-top: -10px;
+}
+
 @media(min-width: 360px) {
 
   #birthdate-month {
@@ -213,7 +219,7 @@ form select {
   }
 
   .birthdate select {
-    margin-right: -42px;
+    margin-right: -36px;
     line-height: 21px;
   }
 
@@ -222,8 +228,8 @@ form select {
   }
 
   .create-select__arrow:after {
-    background: url('../../assets/images/icons/arrows/dd_arrows.png');
-    width: 42px;
+    background: url('../../assets/images/icons/arrows/dd_arrows_35px.png');
+    width: 35px;
     height: 42px;
     right: 0px;
     bottom: -17px;
@@ -258,6 +264,10 @@ form select {
 
   .birthdate select {
     margin-right: -30px;
+  }
+
+  form select {
+    margin-right: -46px;
   }
 
   .create-select__arrow:after {
@@ -304,6 +314,15 @@ form select {
 @media only screen and (min--moz-device-pixel-ratio: 1.3), only screen and (-o-min-device-pixel-ratio: 2.6 / 2), only screen and (-webkit-min-device-pixel-ratio: 1.3), only screen and (min-device-pixel-ratio: 1.3), only screen and (min-resolution: 1.3dppx) {
 
   .create-select__arrow:after {
+    background: url('../../assets/images/icons/arrows/dd_arrows_35px_@2x.png');
+    background-size: cover;
+  }
+
+}
+
+@media only screen and (min--moz-device-pixel-ratio: 1.3), only screen and (-o-min-device-pixel-ratio: 2.6 / 2), only screen and (-webkit-min-device-pixel-ratio: 1.3), only screen and (min-device-pixel-ratio: 1.3), only screen and (min-resolution: 1.3dppx), (min-width: 768px) {
+
+  .create-select__arrow:after {
     background: url('../../assets/images/icons/arrows/dd_arrows_@2x.png');
     background-size: cover;
   }
@@ -348,8 +367,8 @@ legend, label {
   font-size: 16px;
 }
 
-.required-icon + legend {
-  margin-left: 14px;
+.required-icon + legend, .in-article-form .required-icon + label {
+  margin-left: 10px;
 }
 
 .optional {
@@ -367,6 +386,10 @@ legend, label {
   legend, label {
     font-size: 19px;
     line-height: 28px;
+  }
+
+  .required-icon + legend, .in-article-form .required-icon + label {
+    margin-left: 14px;
   }
 
   .optional {
@@ -417,7 +440,7 @@ input + label.fancy-checkbox:before {
   font-size: 18px;
   height: 28px;
   left: 0;
-  line-height: 26px;
+  line-height: 25px;
   position: absolute;
   text-align: center;
   top: 0;
@@ -445,15 +468,17 @@ input + label.fancy-radio:before, label.fancy-radio:before {
 /* line 162, ../../../src/scss/base/_base.forms.scss */
 input:focus + label.fancy-checkbox:before {
   background-color: #e5f0f8;
+  border: 2px solid #0065bd;
 }
 
 input:focus + label.fancy-radio:before {
   background-color: #e5f0f8;
+  border-color: #0065bd;
 }
 
 /* line 166, ../../../src/scss/base/_base.forms.scss */
 input:checked + label.fancy-checkbox:before {
-  border: 1px solid #0065bd;
+  border: 2px solid #0065bd;
   color: #0065bd;
   background-color: #e5f0f8;
   content: '\f00c';
@@ -464,11 +489,6 @@ input:checked + label.fancy-radio:before {
   color: #0065bd;
   background-color: #e5f0f8;
   content: '\f111';
-}
-
-input:focus + label.fancy-radio:before {
-    background-color: #e5f0f8;
-    border-color: #0065bd;
 }
 
 .input-error label.fancy-checkbox:before {
@@ -556,12 +576,16 @@ form h2:before {
   margin-left: 0;
 }
 
+.form-errors {
+  margin-bottom: 21px;
+}
+
 .current-errors li, .server-side-errors li {
   padding-top: 0px;
 }
 
-.field-errors {
-  margin: 7px 0 0 12px;
+.form-group .field-errors {
+  margin-left: 12px;
 }
 
 .server-side-errors.server-side-neutral {
@@ -639,7 +663,7 @@ div .form-message--error .form-errors ul {
   }
 
   .form-message--error, .form-message--successful {
-    padding: 21px 30px 0px 30px;
+    padding: 21px 30px 14px 30px;
   }
 
   .form-message--error li {
@@ -662,7 +686,7 @@ div .form-message--error .form-errors ul {
 
 }
 
-div .form-message--error .form-errors ul, form ul.current-errors, ul.server-side-errors {
+div .form-message--error .form-errors ul, form ul.current-errors, ul.server-side-errors, ul.field-errors {
   list-style: none;
   margin-left: 0;
   list-style-position: outside;
@@ -670,7 +694,7 @@ div .form-message--error .form-errors ul, form ul.current-errors, ul.server-side
   padding-left: 15px;
 }
 
-.form-errors ul li:before, .current-errors li:before, .server-side-errors li:before {
+.form-errors ul li:before, .current-errors li:before, .server-side-errors li:before, .field-errors li:before {
   content: '\f111';
   font-family: FontAwesome;
   font-size: 12px;

@@ -171,7 +171,7 @@ var validateNumberInput = function($field){
 
         if (!inputIsValid){
             if($(boxes[i]).next().next('.field-errors').length === 0){
-                $(boxes[i]).next().after('<p class="field-errors"><span class="fa fa-circle error-circle"></span> Please only enter numbers.</p>');
+                $(boxes[i]).next().after('<ul class="field-errors"><li>Please only enter numbers.</li></ul>');
                 $(boxes[i]).addClass('input-error');
             }
             valid = false;
@@ -316,35 +316,30 @@ var time24Hours = function($field){
 
 // Time between time ranges
 
-// var timeRange = function($field, startTime, endTime){
-//     var dropdowns = $field.find('select');
-//     var textInputs = $field.find('input');
-//     var radioButtonChecked = $field.find('input:radio:checked');
+var timeRange = function($field, hourField, minuteField, startTime, endTime){
+    var fieldName = $field.find('legend').text();
+    var message = 'Times must be after ' + startTime.toTimeString().slice(0,5)
+                     + ' and before ' + endTime.toTimeString().slice(0,5) + '.';
 
-//     var timePeriod = $(radioButtonChecked).val();
+    var radioButtonChecked = $field.find('input:radio:checked');
+    var timePeriod = $(radioButtonChecked).val();
 
-//     var hours = parseInt(dropdowns[0].value);
-//     var minutes = parseInt(dropdowns[1].value);
+    var hours = parseInt($(hourField).val());
+    var minutes = parseInt($(minuteField).val());
 
-//     if (timePeriod === "PM") {
-//         hours = hours + 12;
-//     }
+    if (timePeriod === "PM") {
+        hours = hours + 12;
+    }
 
-//     // var fieldName = $('label[for="' + $field.attr('id') + '"]').text();
-//     // var message = 'Times must be after ' + startTime.toTimeString().slice(0,5)
-//     //                  + ' and before ' + endTime.toTimeString().slice(0,5) + '.';
+    var timeEntered = new Date(0, 0, 0, hours, minutes);
 
-//     var timeEntered = new Date(0, 0, 0, hours, minutes);
-//     console.log(timeEntered)
+    var valid = (timeEntered >= startTime) && (timeEntered <= endTime);
 
-//     var valid = (timeEntered >= startTime) && (timeEntered <= endTime);
+    addOrRemoveFormErrors($field, valid, 'invalid-time-range', fieldName, message);
+    showOrHideCurrentErrors($field, valid, message);
 
-//     // addOrRemoveFormErrors($field, valid, 'invalid-time-range', fieldName, message);
-//     // showOrHideCurrentErrors($field, valid, message);
-
-//     console.log(valid)
-//     return valid;
-// }
+    return valid;
+}
 
 // regex for emails
 

@@ -517,10 +517,10 @@ frontpage: no
                                 <input maxlength="2" type="number" pattern="[0-9]*" id="confirm-time-minutes" class="grey" placeholder="MM">
                             </label>  
 
-                            <input type="radio" name="confirm-time" id="confirm-time-am" class="grey form-control fancy-radio">
+                            <input type="radio" name="confirm-time" id="confirm-time-am" class="grey form-control fancy-radio" value="AM">
                             <label for="confirm-time-am" class="vertical-label fancy-radio">AM</label>
 
-                            <input type="radio" name="confirm-time" id="confirm-time-pm" class="grey form-control fancy-radio">
+                            <input type="radio" name="confirm-time" id="confirm-time-pm" class="grey form-control fancy-radio" value="PM">
                             <label for="confirm-time-pm" class="vertical-label fancy-radio">PM</label>
                             </div>
                             <ul class="current-errors"></ul>
