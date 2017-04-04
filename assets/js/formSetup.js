@@ -103,15 +103,22 @@ registrationForm.init = function () {
         addEventListeners(FormValidations[i]);
     }
 
-    // Have now set these with CSS, but input may need to be upper or lower cased when saved to database.
+    // Restrict number of characters in fields
 
-    // $('#postcode').on('keyup', function(){
-    //     $(this).val($(this).val().toUpperCase());
-    // });
+    var restrictCharacters = function(elementId, maxlength){
+        $('#' + elementId).on('input', function(event){
+            if ($(this).val().length > maxlength){
+                var value = $(this).val();
+                $(this).val(value.slice(0, maxlength))
+            }
+        });
+    }
 
-    // $('#email').on('keyup', function(){
-        // $(this).val($(this).val().toLowerCase());
-    // });
+    restrictCharacters('registration-date-day', 2);
+    restrictCharacters('registration-date-month', 2);
+    restrictCharacters('registration-date-year', 4);
+    restrictCharacters('confirm-time-hours', 2);
+    restrictCharacters('confirm-time-minutes', 2);
 
     // Textarea expands when text is too long for it, and shrinks when too short (minimum height 84px)
 
