@@ -33,7 +33,6 @@
     
 
 var testSettings = { maxDate: '2019-01-20', minDate: '2008-01-01'}
-// var toPickerOptions = new PickerOptions(document.getElementById('registration-date'), $('#registration-date').closest('.date-entry').find('.date-entry__calendar')[0], testSettings, 'tst-date-to'); //NOSONAR
 
 var day = document.getElementById('registration-date-day');
 var month = document.getElementById('registration-date-month');
@@ -52,10 +51,29 @@ $('.js-show-calendar').on('click', function () {
             //     'event': 'date-picker'
             // });
 
-            // close any other open calendars
+    // close any other open calendars
     $(this).closest('.date-entry').siblings().find('.date-entry__calendar').removeClass('date-entry__calendar--open');
     calendar.toggleClass('date-entry__calendar--open');
+
+    // scroll calendar into view on mobile
+    scrollCalendarIntoView(calendar);
+
 });
+
+var scrollCalendarIntoView = function(calendar){
+    if (window.innerWidth < 768 && calendar.hasClass('date-entry__calendar--open')) {
+        var calendarTop = calendar.offset().top;
+        var positionToShowCalendar = calendarTop - $(window).height() + 270; // 270 is the max height of the calendar + 10px
+
+        // if the window's current scroll position is less than 
+        // the position needed to show the whole calendar, scroll to that position
+        if ($(window).scrollTop() < positionToShowCalendar){
+            $('html, body').animate({
+                scrollTop: positionToShowCalendar
+            });
+        }
+    }
+}
 
 $('#registration-time').on('focus', function () {
     var calendar = $('.date-entry').find('.date-entry__calendar').get(0);
@@ -67,8 +85,4 @@ $('#registration-date').on('blur', function () {
     calendar.removeClass('date-entry__calendar--open');
 });
 
-$('.js-show-calendar').on('blur', function () {
-    var calendar = $($(this).closest('.date-entry').find('.date-entry__calendar').get(0));
-    calendar.removeClass('date-entry__calendar--open');
-});
 

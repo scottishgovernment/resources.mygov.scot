@@ -1,4 +1,8 @@
+/* Override of main site for tables */
 
+thead+tbody tr:first-child td {
+  padding: 0;
+}
 
 /*------------------------------------*\
     #LIST CONTROLS
