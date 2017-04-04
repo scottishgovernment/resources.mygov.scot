@@ -156,11 +156,11 @@ frontpage: no
                             </div>
                         </div>
 
-                        <div class="form-group relative" id="registration-time">
+                        <div class="form-group relative">
                             <a name="registration-time-link"></a>
                             <span class="required-icon">*</span><legend>Allocated time slot</legend>
 
-                            <div class="input-wrapper">
+                            <div class="input-wrapper" id="registration-time">
                             <label for="registration-time-hours" class="inline">Hours<br>
                                 <div class="create-select__arrow">
                                     <select id="registration-time-hours" class="create-select">
