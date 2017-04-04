@@ -139,7 +139,7 @@ frontpage: no
                         </div>
                     </div>
 
-                    <form class="in-article-form main-content body-content" id="registration-form">
+                    <form class="in-article-form main-content body-content" id="registration-form" novalidate>
 
                         <h2>Date and time</h2>
                         <div class="form-group relative date-entry">
