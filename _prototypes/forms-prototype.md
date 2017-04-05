@@ -152,7 +152,6 @@ frontpage: no
                                 <ul class="current-errors"></ul>
                             </div>
                             <div class="date-entry__calendar">
-                                <button class="date-entry__close filters-container__close hidden-xsmall js-close-calendar" type="button">Close</button>
                             </div>
                         </div>
 
