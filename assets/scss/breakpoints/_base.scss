@@ -702,7 +702,7 @@ ol.nav {
 figure.example {
 
   // margin: ($base-line-height * 2 - 2) 0 ($base-line-height * 2 + 2);
-  margin-top: 42px;
+  margin-top: 28px;
   margin-bottom: 77px;
 
   &:before {
@@ -741,8 +741,9 @@ figure.example {
   }
 
   figcaption {
-    font-size: 0.9em;
-    text-align: center;
+    color: #727272;
+    font-size: 17px;
+    text-align: left;
   }
 }
 
