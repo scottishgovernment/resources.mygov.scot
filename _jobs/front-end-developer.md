@@ -53,13 +53,13 @@ The Front End Developer will have broad and deep software development expertise 
 
 * Significant professional experience designing, implementing and scaling high traffic web applications and web services.
 * Experience of web development using the following stack:
- - HTML5, CSS3, CSS pre-processors (i.e. SASS) and JavaScript
- - HTTP, XML and JSON
- - AngularJS, NodeJS and NPM
- - Exposure to modern JavaScript frameworks such as: RequireJS, jQuery, React etc.
- - RESTful web services
- - Microservices architecture
- - Linux or Mac OS X operating system
+  - HTML5, CSS3, CSS pre-processors (i.e. SASS) and JavaScript
+  - HTTP, XML and JSON
+  - AngularJS, NodeJS and NPM
+  - Exposure to modern JavaScript frameworks such as: RequireJS, jQuery, React etc.
+  - RESTful web services
+  - Microservices architecture
+  - Linux or Mac OS X operating system
 
 * Awareness of standard technical practices including unit testing, version control, continuous integration, coding standards, design patterns and refactoring.
 * Familiar with design work and graphics manipulation as well as realising static mock-ups in CSS and HTML with high fidelity.
@@ -78,7 +78,7 @@ The Front End Developer will have broad and deep software development expertise 
 
 ### To apply
 
-Please send your CV and covering email (including a link to this post) to: <a href="mailto:alex.cunningham@gov.scot">alex.cunningham@gov.scot</a>. Please ensure that the subject line contains "Front End Developer Job".
+Please send your CV and covering email (including a link to this post) to: <a href="mailto:alex.cunningham@gov.scot">alex.cunningham@gov.scot</a>. Please ensure that the subject line contains "MyGov Front End Developer".
 
 ### Information about the Branch/Unit/Team
 

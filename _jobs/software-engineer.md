@@ -12,7 +12,7 @@ index: 0
 ### Location: Edinburgh
 ### Closing date: 4/05/17
 
-The Scottish Government National Outcome to which the job contributes directly is "Our public services are high quality, continually improving, efficient and responsive to local people's needs". More information about Scottish Government National Outcomes is available on this website.
+The Scottish Government National Outcome to which the job contributes directly is "Our public services are high quality, continually improving, efficient and responsive to local people's needs". More information about Scottish Government National Outcomes is available on [this](http://www.gov.scot/About/Performance/scotPerforms/outcome) website.
 
 ### Overview
 
@@ -31,7 +31,7 @@ The Software Engineer will have broad and deep software development expertise an
 * Contribute to the software engineering technology radar and support the introduction of new tools, techniques and platforms through a hold, assess, trial, adopt lifecycle.
 * Maintain the highest professional standards and deliver intelligently.
 
-**Operational (70%)**
+**Operational (80%)**
 
 * Contribute to the design and implementation of robust, scalable, open and secure web-based applications ensuring delivery to the highest standard.
 * Collaborate with delivery teams and partners to break technical requirements down into appropriate pieces and to identify key API requirements for integration with internal and external systems.
@@ -73,7 +73,7 @@ The Software Engineer will have broad and deep software development expertise an
 
 ### To apply
 
-Please send your CV and covering email (including a link to this post) to: <a href="mailto:alex.cunningham@gov.scot">alex.cunningham@gov.scot</a>. Please ensure that the subject line contains "Software Engineer Job".
+Please send your CV and covering email (including a link to this post) to: <a href="mailto:alex.cunningham@gov.scot">alex.cunningham@gov.scot</a>. Please ensure that the subject line contains "MyGov Software Engineer".
 
 ### Information about the Branch/Unit/Team
 

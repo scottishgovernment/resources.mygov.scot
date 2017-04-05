@@ -12,7 +12,7 @@ index: 0
 ### Location: Edinburgh
 ### Closing date: 4/05/17
 
-The Scottish Government National Outcome to which the job contributes directly is "Our public services are high quality, continually improving, efficient and responsive to local people's needs". More information about Scottish Government National Outcomes is available on this website.
+The Scottish Government National Outcome to which the job contributes directly is "Our public services are high quality, continually improving, efficient and responsive to local people's needs". More information about Scottish Government National Outcomes is available on [this](http://www.gov.scot/About/Performance/scotPerforms/outcome) website.
 
 ### Overview
 
@@ -20,11 +20,18 @@ Digital technology offers the opportunity to transform the way public services a
 
 Digital Public Services and Business Transformation works with the wider public sector to deliver a range of technical products. These include mygov.scot, which is a single point of entry to government services for citizens and businesses; beta.gov.scot, which is the nation-state website; and Rubric, which is the publishing system that underpins both of these .scot sites.
 
-The Infrastructure Engineer will make a critical contribution to the successful operation of all systems delivered as a part of the mygov.scot programme. This will include the design, implementation and administration of the production, test and development environments for mygov.scot systems. It will include support to the team on major operational challenges such as ensuring these systems are secure, highly available and operate with exemplary performance.
+The Infrastructure Engineer will make a critical contribution to the successful operation of all systems delivered as a part of the MyGov programme. This will include the design, implementation and administration of the production, test and development environments for mygov.scot systems. It will include support to the team on major operational challenges such as ensuring these systems are secure, highly available and operate with exemplary performance.
 
 Note: The successful candidate(s) will be required to participate in a collaborative schedule for 24 hour support and maintenance of the web infrastructure. Remuneration will be based upon existing Scottish Government schedules for call-out and overtime payments.
 
 ### Main Duties
+
+**Strategic (20%)**
+
+* Remain up to date with best practice as well as new developments and trends within the web infrastructure industry/communities.
+* Regularly reflect on the capabilities and maturity of the infrastructure team and contribute to the process of continuous improvement.
+* Engage with stakeholders to ensure the role of the team is well understood.
+* Contribute to the infrastructure technology radar and support the introduction of new tools, techniques and platforms through a hold, assess, trial, adopt lifecycle.
 
 **Operational (80%)**
 
@@ -47,13 +54,6 @@ Note: The successful candidate(s) will be required to participate in a collabora
 * Install, maintain and leverage appropriate tooling to support web operations and infrastructure activities.
 * Provide consultation/education/support to other public bodies as a part of the transformation activities that form part of the division’s remit.
 
-**Strategic (20%)**
-
-* Remain up to date with best practice as well as new developments and trends within the web infrastructure industry/communities.
-* Regularly reflect on the capabilities and maturity of the infrastructure team and contribute to the process of continuous improvement.
-* Engage with stakeholders to ensure the role of the team is well understood.
-* Contribute to the infrastructure technology radar and support the introduction of new tools, techniques and platforms through a hold, assess, trial, adopt lifecycle.
-
 ### Competencies and Experience Required
 
 ***Communications and Engagement*** - You will contribute to and develop clear, creative and detailed policy communication strategies to achieve Scottish Government outcomes. You will manage internal and external relationships, creating positive networks and maintaining trust and credibility. You will know when to engage with communications specialists and consider the impact on other policies and programmes across Scottish Government & wider system. You will communicate complex information clearly, presenting strategic ideas in a clear and positive way.
@@ -66,10 +66,10 @@ Note: The successful candidate(s) will be required to participate in a collabora
 
 * Significant senior professional experience of web infrastructure as well as the operation and support of high traffic web applications and platforms.
 * Familiarity with web systems architecture, deployment and operation in traditional data centres and using cloud computing delivery models. This should include:
- * Web servers, web accelerators and reverse proxy caches
- * Linux operating system
- * Java web applications
- * Relational database servers
+  - Web servers, web accelerators and reverse proxy caches
+  - Linux operating system
+  - Java web applications
+  - Relational database servers
 * Demonstrable experience in automation of tasks and the use of declarative provisioning tools, for example Puppet.
 * Proficient in administering, securing and optimising computer networks including the following technologies:
   - TCP/IP
@@ -92,7 +92,7 @@ Note: The successful candidate(s) will be required to participate in a collabora
 
 ### To apply
 
-Please send your CV and covering email (including a link to this post) to: <a href="mailto:alex.cunningham@gov.scot">alex.cunningham@gov.scot</a>. Please ensure that the subject line contains "Infrastructure Engineer Job".  
+Please send your CV and covering email (including a link to this post) to: <a href="mailto:alex.cunningham@gov.scot">alex.cunningham@gov.scot</a>. Please ensure that the subject line contains "MyGov Infrastructure Engineer".  
 
 ### Information about the Branch/Unit/Team
 
