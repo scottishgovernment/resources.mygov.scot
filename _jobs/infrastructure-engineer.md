@@ -12,15 +12,15 @@ index: 0
 ### Location: Edinburgh
 ### Closing date: 4/05/17
 
-The Scottish Government National Outcome to which the job contributes directly is "Our public services are high quality, continually improving, efficient and responsive to local people's needs". More information about Scottish Government National Outcomes is available on this website
+The Scottish Government National Outcome to which the job contributes directly is "Our public services are high quality, continually improving, efficient and responsive to local people's needs". More information about Scottish Government National Outcomes is available on this website.
 
 ### Overview
 
 Digital technology offers the opportunity to transform the way public services are delivered, both in the cost of their delivery and in improving the user-experience of those services.
 
-Digital Public Services and Business Transformation, working with the wider public sector, is responsible for delivery of mygov.scot, a single point of entry to all citizen and business facing public services, beta.gov.scot the nation state website and of Rubric the publishing system that underpins both.
+Digital Public Services and Business Transformation works with the wider public sector to deliver a range of technical products. These include mygov.scot, which is a single point of entry to government services for citizens and businesses; beta.gov.scot, which is the nation-state website; and Rubric, which is the publishing system that underpins both of these .scot sites.
 
-The Infrastructure Engineer will make a critical contribution to the successful operation of all systems delivered as a part of the mygov.scot programme. This will include the design, implementation, and administration of the production, test and development environments for mygov.scot systems. It will include support to the team on major operational challenges such as ensuring these systems are secure, highly available and operate with exemplary performance.
+The Infrastructure Engineer will make a critical contribution to the successful operation of all systems delivered as a part of the mygov.scot programme. This will include the design, implementation and administration of the production, test and development environments for mygov.scot systems. It will include support to the team on major operational challenges such as ensuring these systems are secure, highly available and operate with exemplary performance.
 
 Note: The successful candidate(s) will be required to participate in a collaborative schedule for 24 hour support and maintenance of the web infrastructure. Remuneration will be based upon existing Scottish Government schedules for call-out and overtime payments.
 
@@ -28,11 +28,11 @@ Note: The successful candidate(s) will be required to participate in a collabora
 
 **Operational (80%)**
 
-* Implement, administer and optimise production, test & development web infrastructure for each of the mygov.scot systems.
+* Implement, administer and optimise production, test and development web infrastructure for each of the mygov.scot systems.
 * Implement monitoring for the mygov.scot infrastructure and systems to ensure early detection of events including unusual activity, reduced capacity or system failure.
 * Collaborate with release engineers to operate a robust and efficient release management process that enables continuous delivery.
 * Operate a reporting solution that allows the recording, analysis and reporting of operational data for mygov.scot systems at both application and business scope.
-* Work alongside stakeholders to define appropriate service level targets for mygov.scot systems, then monitor, maintain and report on the agreed service targets on an on-going basis.
+* Work alongside stakeholders to define appropriate service-level targets for mygov.scot systems, then monitor, maintain and report on the agreed service targets on an on-going basis.
 * Follow appropriate processes and procedures to ensure the high availability, business continuity and security of mygov.scot systems.
 * Follow appropriate measures and processes to ensure exemplary performance, from the perspective of the end-user, for all mygov.scot systems
 * Actively identify risks, impediments and inefficiencies within the mygov.scot infrastructure and suggest improvements to mitigate or resolve them.
@@ -45,11 +45,11 @@ Note: The successful candidate(s) will be required to participate in a collabora
 * Leverage automation, where appropriate, to improve usability, productivity and consistency of the web operations function.
 * Follow appropriate checklists, frameworks and other artefacts to enable a consistent approach to web operations.
 * Install, maintain and leverage appropriate tooling to support web operations and infrastructure activities.
-* Provide consultation / education / support to other public bodies as a part of the transformation activities that form part of the division’s remit.
+* Provide consultation/education/support to other public bodies as a part of the transformation activities that form part of the division’s remit.
 
 **Strategic (20%)**
 
-* Remain up to date with best practice as well as new developments and trends within the web infrastructure industry / communities.
+* Remain up to date with best practice as well as new developments and trends within the web infrastructure industry/communities.
 * Regularly reflect on the capabilities and maturity of the infrastructure team and contribute to the process of continuous improvement.
 * Engage with stakeholders to ensure the role of the team is well understood.
 * Contribute to the infrastructure technology radar and support the introduction of new tools, techniques and platforms through a hold, assess, trial, adopt lifecycle.
@@ -65,7 +65,7 @@ Note: The successful candidate(s) will be required to participate in a collabora
 ### Essential Criteria
 
 * Significant senior professional experience of web infrastructure as well as the operation and support of high traffic web applications and platforms.
-* Familiarity with web systems architecture, deployment & operation in traditional data centres and using cloud computing delivery models. This should include:
+* Familiarity with web systems architecture, deployment and operation in traditional data centres and using cloud computing delivery models. This should include:
  * Web servers, web accelerators and reverse proxy caches
  * Linux operating system
  * Java web applications
@@ -77,7 +77,7 @@ Note: The successful candidate(s) will be required to participate in a collabora
   - DNS
   - SSL / TLS
 * Experience in the delivery and maintenance of system quality attributes, in particular availability, security, performance, resilience and scalability. This should be evidenced by proficiency in monitoring, capacity planning, business continuity, system support and failure diagnosis.
-* Experience of both waterfall and Agile methods of project management, with proficiency in iterative software development - including an understanding of the associated responsibilities, practices and artefacts and the ability to communicate clearly on these and other elements of the software development lifecycle.
+* Experience of both waterfall and agile methods of project management, with proficiency in iterative software development including an understanding of the associated responsibilities, practices and artefacts and the ability to communicate clearly on these and other elements of the software development lifecycle.
 
 ### Desirable Criteria
 
@@ -92,10 +92,10 @@ Note: The successful candidate(s) will be required to participate in a collabora
 
 ### To apply
 
-Please send a your CV and covering email (including the link to this post) to: <a href="mailto:alex.cunningham@gov.scot">alex.cunningham@gov.scot</a>. Please ensure that the subject line contains "Infrastructure Engineer Job".  
+Please send your CV and covering email (including a link to this post) to: <a href="mailto:alex.cunningham@gov.scot">alex.cunningham@gov.scot</a>. Please ensure that the subject line contains "Infrastructure Engineer Job".  
 
 ### Information about the Branch/Unit/Team
 
-The Digital Public Services and Business Transformation division is headed by Colin Cook, Deputy Director and aims to deliver digital public services that meet ‘digital first’ principles. These commitments are set out in the national strategy, “Scotland’s Digital Future – Delivery of Public Services.”
+The Digital Public Services and Business Transformation division is headed by Colin Cook, Deputy Director, and aims to deliver digital public services that meet ‘digital first’ principles. These commitments are set out in the national strategy, “Scotland’s Digital Future – Delivery of Public Services.”
 
 The post holder will be managed by the Infrastructure Manager and will have no direct line management responsibilities.
