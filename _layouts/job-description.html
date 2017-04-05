@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+
+{% include head.html %}
+
+<body class="article {{ page.type }}">
+
+{% include header_new_breadcrumbs.html %}
+
+<header>
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                <h1>{{ page.title }}</h1>
+            </div>
+        </div>
+    </div>
+    <!-- /end .container -->
+</header>
+
+<div class="container">
+    <div class="row">
+        {% if page.headings %}
+        <div class="col-md-3">
+            <ul id="in-page-nav">
+                {% for heading in page.headings %}
+                <li><a href="#{{heading | replace:'.', '' | slugify}}">{{ heading }} <span class="glyphicon glyphicon-chevron-down"></span></a></li>
+                {% endfor %}
+            </ul>
+        </div>
+        {% endif %}
+
+        <div class="col-md-9">
+            {{ content }}
+        </div>
+    </div>
+</div>
+<!-- /end .container -->
+
+{% include footer.html %}
+
+</body>
+
+</html>
