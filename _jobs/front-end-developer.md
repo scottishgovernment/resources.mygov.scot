@@ -16,7 +16,7 @@ index: 0
 
 Digital technology offers the opportunity to transform the way public services are delivered, both in the cost of their delivery and in improving the user-experience of those services.
 
-Digital Public Services and Business Transformation, working with the wider public sector, is responsible for delivery of mygov.scot, a single point of entry to all citizen and business facing public services, beta.gov.scot the nation state website and of Rubric the publishing system that underpins both.
+Digital Public Services and Business Transformation works with the wider public sector to deliver a range of technical products. These include mygov.scot, which is a single point of entry to government services for citizens and businesses; beta.gov.scot, which is the nation-state website; and Rubric, which is the publishing system that underpins both of these .scot sites.
 
 The Front End Developer will have broad and deep software development expertise and will understand the goals and strategy behind each project from conception through completion. This will involve providing technical leadership at the project level and responsibility for successful delivery of individual web applications or components. The Front End Developer will work in collaboration with the team as well as the test, infrastructure and release management functions to ensure successful delivery of the overall mygov.scot and gov.scot programme of work.
 
@@ -34,12 +34,12 @@ The Front End Developer will have broad and deep software development expertise 
 * Contribute to the design and implementation of robust, scalable, open and secure web front-ends ensuring delivery to the highest standard.
 * Collaborate with delivery teams and partners to break technical requirements down into appropriate pieces.
 * Consume web APIs, using RESTful principles, which are usable, scalable and forwards compatible.
-* Contribute to the development of new features and products, and work alongside the test team to ensure that new and updated platforms, products and transactions are thoroughly tested for performance & quality, are able to handle specified load, robust and can be supported & maintained over the long-term.
-* Work with the design & UX team to deliver usable, accessible solutions that meet users’ needs and excel user expectations.
+* Contribute to the development of new features and products and work alongside the test team to ensure that new and updated platforms, products and transactions are thoroughly tested for performance and quality, are able to handle specified load, are robust and can be supported and maintained over the long-term.
+* Work with the design and UX team to deliver usable, accessible solutions that meet users’ needs and excel user expectations.
 * Adopt the use of agile technical practices including refactoring, unit testing and continuous integration.
 * Leverage automation and continuous delivery practices to produce high quality applications on a consistent schedule.
 * Integrate key cross-product systems such as identity assurance and operational monitoring.
-* Collaborate with external suppliers to ensure that their system architectures meet our requirements, including: application design and integration points/APIs.
+* Collaborate with external suppliers to ensure that their system architectures meet our requirements, including application design and integration points/APIs.
 
 ### Competencies and Experience Required
 
@@ -53,35 +53,35 @@ The Front End Developer will have broad and deep software development expertise 
 
 * Significant professional experience designing, implementing and scaling high traffic web applications and web services.
 * Experience of web development using the following stack:
- - HTML5, CSS3, CSS pre-processors (i.e. SASS) and JavaScript;
- - HTTP, XML and JSON;
- - AngularJS, NodeJS and NPM;
- - Exposure to modern JavaScript frameworks such as: RequireJS, jQuery, React etc.;
- - RESTful web services;
- - Microservices architecture;
- - Linux or Mac OSX operating system.
+ - HTML5, CSS3, CSS pre-processors (i.e. SASS) and JavaScript
+ - HTTP, XML and JSON
+ - AngularJS, NodeJS and NPM
+ - Exposure to modern JavaScript frameworks such as: RequireJS, jQuery, React etc.
+ - RESTful web services
+ - Microservices architecture
+ - Linux or Mac OS X operating system
 
-* Awareness of standard technical practices including unit testing, version control, continuous integration, coding standards, design patterns & refactoring.
+* Awareness of standard technical practices including unit testing, version control, continuous integration, coding standards, design patterns and refactoring.
 * Familiar with design work and graphics manipulation as well as realising static mock-ups in CSS and HTML with high fidelity.
 * Familiar with front-end web development methods including:
-  - Progressive enhancement;
-  - Responsive design;
-  - Mobile first;
-  - Cross-browser compatibility;
-  - Unit, integration and layout testing;
-  - JavaScript dependency management.
+  - Progressive enhancement
+  - Responsive design
+  - Mobile first
+  - Cross-browser compatibility
+  - Unit, integration and layout testing
+  - JavaScript dependency management
 * Experience of working under both waterfall and agile methods of project management. In particular you must be proficient in iterative software development and understand the associated responsibilities, practices and artefacts. The ability to communicate clearly and consistently on these, and other elements of the software development lifecycle, with the wider team, is also important.
 
 ### Desirable Criteria
-* Awareness with the realisation of system quality attributes. Particularly, security, performance, compatibility, resilience and scalability. Familiarity with the principles of web accessibility and how to realise these in HTML and CSS is advantageous.
-* Awareness of open source software, including operation of open source solutions, integration of open source libraries or contribution to open source projects.
+* Awareness with the realisation of system quality attributes. Particularly security, performance, compatibility, resilience and scalability. Familiarity with the principles of web accessibility and how to realise these in HTML and CSS is advantageous.
+* Awareness of open source software including operation of open source solutions, integration of open source libraries or contribution to open source projects.
 
 ### To apply
 
-Please send a your CV and covering email (including the link to this post) to: <a href="mailto:alex.cunningham@gov.scot">alex.cunningham@gov.scot</a>. Please ensure that the subject line contains "Front End Developer Job".
+Please send your CV and covering email (including a link to this post) to: <a href="mailto:alex.cunningham@gov.scot">alex.cunningham@gov.scot</a>. Please ensure that the subject line contains "Front End Developer Job".
 
 ### Information about the Branch/Unit/Team
 
-The Digital Public Services and Business Transformation division is headed by Colin Cook, Deputy Director and aims to deliver digital public services that meet ‘digital first’ principles. These commitments are set out in the national strategy, “Scotland’s Digital Future – Delivery of Public Services.”
+The Digital Public Services and Business Transformation division is headed by Colin Cook, Deputy Director, and aims to deliver digital public services that meet ‘digital first’ principles. These commitments are set out in the national strategy, “Scotland’s Digital Future – Delivery of Public Services.”
 
 The post holder will be managed by the Infrastructure Manager and will have no direct line management responsibilities.
