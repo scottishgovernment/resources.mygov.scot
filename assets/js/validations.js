@@ -401,6 +401,25 @@ var dateRegex = function($field){
     return valid;
 }
 
+// time is dd/mm/yyyy from split date fields
+
+
+var dateFormatSplit = function($field, dayField, monthField, yearField){
+    var fieldName = $field.find('legend').text();
+    var message = 'Please enter the date as DD/MM/YYYY';
+    
+    var dayValue = $.trim($(dayField).val());
+    var monthValue = $.trim($(monthField).val());
+    var yearValue = $.trim($(yearField).val());
+
+    var valid = (dayValue.length === 2) && (monthValue.length === 2) && (yearValue.length === 4);
+
+    addOrRemoveFormErrors($field, valid, 'invalid-date-format', fieldName, message);
+    showOrHideCurrentErrors($field, valid, message);
+
+    return valid;
+}
+
 // check date is today's date
 
 var todaysDate = function($field){
