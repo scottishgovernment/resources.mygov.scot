@@ -12,8 +12,6 @@ index: 0
 ### Location: Edinburgh
 ### Closing date: 4/05/17
 
-The Scottish Government National Outcome to which the job contributes directly is "Our public services are high quality, continually improving, efficient and responsive to local people's needs". More information about Scottish Government National Outcomes is available on [this](http://www.gov.scot/About/Performance/scotPerforms/outcome) website.
-
 ### Overview
 
 Digital technology offers the opportunity to transform the way public services are delivered, both in the cost of their delivery and in improving the user-experience of those services.
