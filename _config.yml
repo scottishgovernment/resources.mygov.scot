@@ -52,6 +52,10 @@ collections:
     output: true
     permalink: /prototypes/:name/
     parent: home
+  jobs:
+    output: true
+    permalink: /jobs/:name/
+    parent: home
   examples:
     output: true
 
@@ -85,6 +89,11 @@ defaults:
   - scope:
       path: ""
       type: prototypes
+    values:
+      parent: home
+  - scope:
+      path: ""
+      type: jobs
     values:
       parent: home
   - scope:
