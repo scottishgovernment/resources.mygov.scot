@@ -122,7 +122,7 @@ frontpage: no
                 </header>
 
                 <div class="body-content">
-                    <p>To get started we just need some contact information from you as well as an indication of how you like to use the internet. If you’d like to know how we use your information then you can read our <a href="https://www.mygov.scot/privacy/">Privacy policy</a>. Your test facilitator can help you if you have any queries.</p>
+                    <p>To get started we need your contact details and to know how you like to use the internet. If you’d like to know how we use your information then you can read our <a href="https://www.mygov.scot/privacy/">Privacy policy</a>. Your test facilitator can help you if you have any queries.</p>
                 </div>
 
 
@@ -146,8 +146,9 @@ frontpage: no
                             <a name="registration-date-link"></a>
                             <span class="required-icon">*</span><label
                                 for="registration-date" class="filters_">Date of session</label>
+                            <p>Use DD/MM/YYYY format.</p>
                             <div class="date-entry__input-group input-group input-wrapper registration-date">
-                                <input type="text" id="registration-date" placeholder="DD/MM/YYYY" class="grey form-control input__datepicker" />
+                                <input type="text" id="registration-date" placeholder="e.g. 01/02/2017" class="grey form-control input__datepicker" />
                                 <button id="date-start-trigger" type="button" class="date-entry__trigger button button--primary js-show-calendar">Choose date</button>
                                 <ul class="current-errors"></ul>
                             </div>
@@ -157,7 +158,7 @@ frontpage: no
 
                         <div class="form-group relative" id="registration-time">
                             <a name="registration-time-link"></a>
-                            <span class="required-icon">*</span><legend>Allocated time slot</legend>
+                            <span class="required-icon">*</span><legend>Your time slot</legend>
 
                             <div class="input-wrapper">
                             <label for="registration-time-hours" class="inline">Hours<br>
@@ -248,7 +249,7 @@ frontpage: no
                                 </div>
                             </label>  
 
-                            <input type="radio" name="reg-time" id="registration-time-am" class="grey form-control fancy-radio" value="AM">
+                            <input type="radio" name="reg-time" id="registration-time-am" class="grey form-control fancy-radio" value="AM" checked="true">
                             <label for="registration-time-am" class="vertical-label fancy-radio">AM</label>
 
                             <input type="radio" name="reg-time" id="registration-time-pm" class="grey form-control fancy-radio" value="PM">
@@ -347,8 +348,9 @@ frontpage: no
                         <div class="form-group relative">
                             <a name="telephone-number-link"></a>
                             <label for="telephone-number">Phone number <span class="optional">(optional)</span></label>
-                            <p>We will use this if there are any problems with your form and we need to contact you.<br />
-                            If overseas, include International dialling code e.g. +34.</p>
+                            <p>We will use the contact details  if there are any problems with your form and we need to contact you. <br>
+                            If you live overseas, include the international dialling code e.g. +34.
+                            </p>
                             <input id="telephone-number" class="grey form-control input--medium" type="tel">
                             <ul class="current-errors"></ul>
                         </div>
@@ -502,7 +504,7 @@ frontpage: no
 
                         <div class="form-group relative" id="confirm-time">
                             <a name="confirm-time-link"></a>
-                            <span class="required-icon">*</span><legend>Confirm allocated time slot</legend>
+                            <span class="required-icon">*</span><legend>Confirm your time slot</legend>
 
                             <div class="input-wrapper">
                             <label for="confirm-time-hours" class="inline">Hours<br>
@@ -515,7 +517,7 @@ frontpage: no
                                 <input maxlength="2" type="number" pattern="[0-9]*" id="confirm-time-minutes" class="grey" placeholder="MM">
                             </label>  
 
-                            <input type="radio" name="confirm-time" id="confirm-time-am" class="grey form-control fancy-radio" value="AM">
+                            <input type="radio" name="confirm-time" id="confirm-time-am" class="grey form-control fancy-radio" value="AM" checked="true">
                             <label for="confirm-time-am" class="vertical-label fancy-radio">AM</label>
 
                             <input type="radio" name="confirm-time" id="confirm-time-pm" class="grey form-control fancy-radio" value="PM">

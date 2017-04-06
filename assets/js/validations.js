@@ -317,10 +317,8 @@ var time24Hours = function($field){
 
 // Time between time ranges
 
-var timeRange = function($field, hourField, minuteField, startTime, endTime){
+var timeRange = function($field, hourField, minuteField, startTime, endTime, message){
     var fieldName = $field.find('legend').text();
-    var message = 'Times must be after ' + startTime.toTimeString().slice(0,5)
-                     + ' and before ' + endTime.toTimeString().slice(0,5) + '.';
 
     var radioButtonChecked = $field.find('input:radio:checked');
     var timePeriod = $(radioButtonChecked).val();

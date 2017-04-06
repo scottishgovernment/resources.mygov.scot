@@ -33,7 +33,7 @@ var FormValidations = [{
 	errorName: 'Time of session',
 	fields: ['#registration-time'],
 	validations: [requiredTimeGroup, _.partialRight(timeRange, '#registration-time-hours', '#registration-time-minutes',
-		 new Date(0,0,0,9,0), new Date(0,0,0,17,0))],
+		 new Date(0,0,0,9,0), new Date(0,0,0,17,0), 'Time must be after 9:00am and before 5:00pm')],
 	invalidEvent: 'keyup change'
 },
 {
@@ -138,7 +138,7 @@ var FormValidations = [{
 	errorName: 'Confirm time of session',
 	fields: ['#confirm-time'],
 	validations: [requiredTimeGroup, _.partialRight(timeRange, '#confirm-time-hours', '#confirm-time-minutes',
-		 new Date(0,0,0,9,0), new Date(0,0,0,17,0))],
+		 new Date(0,0,0,9,0), new Date(0,0,0,17,0), 'Time must be after 9:00am and before 5:00pm')],
 	invalidEvent: 'keyup change'
 },
 {
