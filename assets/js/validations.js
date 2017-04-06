@@ -132,7 +132,7 @@ var requiredCheckbox = function($field){
 // required Time Spent boxes
 
 var requiredTimeSpent = function($field){
-    var boxes = $field.find('input:text');
+    var boxes = $field.find('input');
     var title = $field.find('legend').text();
     var message = 'Please enter a number in at least one box';
 
@@ -158,15 +158,16 @@ var requiredTimeSpent = function($field){
 // validate number input into text boxes
 
 var validateNumberInput = function($field){
-    var boxes = $field.find('input:text');
+    var boxes = $field.find('input');
     var title = $field.find('legend').text();
-    var message = 'Please give only enter numbers.';
+    var message = 'Please only enter numbers.';
 
     var valid = true;
     var regex = new RegExp('^[0-9.]{0,}$');
 
     for (var i = 0; i < boxes.length; i++) {
         var value = $.trim($(boxes[i]).val());
+        console.log(value)
         var inputIsValid = value.match(regex);
 
         if (!inputIsValid){
@@ -189,7 +190,7 @@ var validateNumberInput = function($field){
 // validates total time from all time boxes - could be refactored to be more reusable?
 
 var validateTotalTime = function($field){
-    var boxes = $field.find('input:text');
+    var boxes = $field.find('input');
     var title = $field.find('legend').text();
     var message = 'Please give answers totalling under 24 hours.';
 
@@ -411,6 +412,17 @@ var dateFormatSplit = function($field, dayField, monthField, yearField){
     var dayValue = $.trim($(dayField).val());
     var monthValue = $.trim($(monthField).val());
     var yearValue = $.trim($(yearField).val());
+
+    // Add a leading 0 to numbers below 10 for day and month
+    if (dayValue.length == 1 && parseInt(dayValue) < 10) {
+        dayValue = '0' + dayValue;
+        $(dayField).val('0' + $(dayField).val());
+    }
+
+    if (monthValue.length == 1 && parseInt(monthValue) < 10) {
+        monthValue = '0' + monthValue;
+        $(monthField).val('0' + $(monthField).val());
+    }
 
     var valid = (dayValue.length === 2) && (monthValue.length === 2) && (yearValue.length === 4);
 

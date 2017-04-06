@@ -339,7 +339,7 @@ frontpage: no
                         <div class="form-group relative">
                             <a name="email-link"></a>
                             <span class="required-icon">*</span><label for="email">Email address</label>
-                            <input id="email" class="grey form-control" type="text">
+                            <input id="email" class="grey form-control" type="email">
                             <ul class="current-errors"></ul>
                             <ul class="server-side-errors"></ul>
                         </div>
@@ -414,27 +414,27 @@ frontpage: no
                                 <ul class="current-errors"></ul>
                                 <div class="input-wrapper time-online">
                                     <div>
-                                        <input id="time-online-social" class="grey form-control" type="text" placeholder="0">
+                                        <input id="time-online-social" class="grey form-control" type="number" step="0.5" placeholder="0">
                                         <label for="time-online-social" class="inline">Social networking sites</label>
                                     </div>
                                     <div>
-                                        <input id="time-online-news" class="grey form-control" type="text" placeholder="0">
+                                        <input id="time-online-news" class="grey form-control" type="number" step="0.5" placeholder="0">
                                         <label for="time-online-news" class="inline">News sites</label>
                                     </div>
                                     <div>
-                                        <input id="time-online-youtube" class="grey form-control" type="text" placeholder="0">
+                                        <input id="time-online-youtube" class="grey form-control" type="number" step="0.5" placeholder="0">
                                         <label for="time-online-youtube" class="inline">YouTube</label>
                                     </div>
                                     <div>
-                                        <input id="time-online-work" class="grey form-control" type="text" placeholder="0">
+                                        <input id="time-online-work" class="grey form-control" type="number" step="0.5" placeholder="0">
                                         <label for="time-online-work" class="inline">Work-related</label>
                                     </div>
                                     <div>
-                                        <input id="time-online-gaming" class="grey form-control" type="text" placeholder="0">
+                                        <input id="time-online-gaming" class="grey form-control" type="number" step="0.5" placeholder="0">
                                         <label for="time-online-gaming" class="inline">Gaming</label>
                                     </div>
                                     <div>
-                                        <input id="time-online-other" class="grey form-control" type="text" placeholder="0">
+                                        <input id="time-online-other" class="grey form-control" type="number" step="0.5" placeholder="0">
                                         <label for="time-online-other" class="inline">Other</label>
                                     </div>
                                 </div>
@@ -497,7 +497,6 @@ frontpage: no
                                 <ul class="current-errors"></ul>
                             </div>
                             <div class="date-entry__calendar">
-                                <button class="date-entry__close filters-container__close hidden-xsmall js-close-calendar" type="button">Close</button>
                             </div>
                         </div>
 

@@ -153,7 +153,7 @@ form select {
   line-height: 0px;
 }
 
-#registration-time.input-wrapper, #confirm-time .input-wrapper {
+#registration-time .input-wrapper, #confirm-time .input-wrapper {
   margin-top: 7px;
 }
 
@@ -240,7 +240,7 @@ form select {
   }
 }
 
-.time-online input[type="text"], .time-online input[type="number"] {
+.time-online input[type="number"].grey {
   width: 45px;
   display: inline-block;
   margin: 21px 10px 0px 10px;
@@ -250,7 +250,7 @@ form select {
 
 @media(min-width: 768px) {
 
-  .time-online input[type="text"], .time-online input[type="number"] {
+.time-online input[type="number"].grey {
     margin: 21px 15px 0px 10px;
   }
 
@@ -407,7 +407,7 @@ legend, label {
 
 input[type="radio"], input[type="checkbox"] {
     display: inline-block;
-    width: 0px;
+    width: 1px; /* having them 0px wide causes Safari to not tab through them */
     font-size: 40px;
     margin: 21px 0 0px 10px;
 }
@@ -804,10 +804,20 @@ input[type="text"].input-error, textarea.input-error, select.input-error, .input
 input[type="text"].input-error:focus, textarea.input-error:focus, select.input-error:focus .input-error select:focus, 
 .input-error input[type=number]:focus {
   border: 2px solid #d32205;
-  background: #e5f0f8;
+  background-color: #e5f0f8;
+}
+
+.input-error select:focus {
+  background-color: #e5f0f8;
+  
 }
 
 .input-error label.fancy-radio:before {
+  border-color: #d32205;
+}
+
+.input-error input:checked + label.fancy-radio:before {
+  color: #0065bd;
   border-color: #d32205;
 }
 
