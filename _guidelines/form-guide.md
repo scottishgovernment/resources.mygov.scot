@@ -12,6 +12,7 @@ headings:
 - Common elements
 - Field types
 - User notifications
+contentclass: has-leaders
 
 ---
 
@@ -69,7 +70,6 @@ There should be a button that finalises and submits the user input. When submitt
 {% include example-form-guidance.html file="forms_submit" caption="Users will pause before pressing this button. They will read the text. And after pressing they will want to know that something is happening." height="180" %}
 
 ## Common elements
-
 The area around the field is just as important as the field itself.
 
 Each form field is supported with a range of common elements that helps the user understand what is required of them. They should answer the questions ‘Do I need to fill this in?’ and ‘How should I fill this in?’.
@@ -141,7 +141,6 @@ When a field input is compared with something else and is deemed correct (for ex
 {% include example-form-guidance.html file="forms_validated_state" caption="An example of a field in validated state when not in focus." height="180" %}
 
 ## Field types
-
 Users know forms fields better than they think they do.
 
 Fields are where the user inputs their information. Many users are familiar with field types that have a specific purpose. Therefore it is important to choose the right type of field that meets user expectations and avoids confusion.
@@ -247,7 +246,7 @@ Field: A plain text field that allows the user to directly enter the date. Alter
 
 Date picker: A date picker should be an addition and not a replacement for the input fields. This can make it easier for users to find the right date if within a year of the current date. For example the user knows it was last Saturday but doesn’t know the exact date. The date picker will allow them to pick the date rather than force them to work it out (they might not even know what today's date is).
 
-Today’s date should be highlighted when the datepicker is selected. If it is a date range, then the first date selected should show while the second date is being selected. (If it’s likely that the dates are yesterday, today or tomorrow then buttons allow automatic selection.)
+Today’s date should be highlighted when the date picker is selected. If it is a date range, then the first date selected should show while the second date is being selected. (If it’s likely that the dates are yesterday, today or tomorrow then buttons allow automatic selection.)
 
 Dropdown for day, month, year: This reduces thinking time for the user. Note: Individual labels are not displayed for each dropdown field in this case. ‘Day’, ‘Month’ and ‘Year’ should be used for the Placeholder.
 
@@ -259,9 +258,9 @@ Legend: Clearly title each fieldset appropriately.
 
 {% include example-form-guidance.html file="forms_related" caption="Labels are by default positioned to the right of fields within fieldsets. This allows fields within a form to be left-aligned making it easy for the user to scan the page and to navigate from one field to the next. Fieldset error box is used to encapsulate all fields that an error message applies to." height="440" %}
 
-Fieldset: Group related dependant fields together. For example grouping of Radio buttons, Checkboxes and Date fields. Grouping enables error messages to be associated with several closely related fields.
+Fieldset: Group related dependent fields together. For example grouping of Radio buttons, Checkboxes and Date fields. Grouping enables error messages to be associated with several closely related fields.
 
-Legend: Each title must be clear (usually a question). In a fieldset of dependant fields the legend adopts the default label styling, with the labels for each dependent field being given less prominent styling.
+Legend: Each title must be clear (usually a question). In a fieldset of dependent fields the legend adopts the default label styling, with the labels for each dependent field being given less prominent styling.
 
 Label: Doesn’t look like a regular label. Sits to the right of the field by default. In cases where this doesn’t work, it can be placed above the field.
 
@@ -303,13 +302,13 @@ Text box: Default is full width of main pane and 4 line height. Height, should r
 * ‘Main duties’ might be Medium (10 lines)
 * Personal statement might be Large (20 lines)
 
-Maximum input is approx double the initial set line height ie 10, 20 and 40 lines.
+Maximum input is approximately double the initial set line height i.e. 10, 20 and 40 lines.
 
 As the user enters text beyond the set height, the box expands. If the input box is bigger than the viewport then the cursor should align to the bottom of the viewport (above the keyboard on touch devices, and react when the keyboard is deactivated).
 
 Validation: When the character count is exceeded, it displays negative numbers and turns red. When focus is lost on the box and character count is still exceeded the border turns 2px red and a red error message is shown.
 
-{% include example-form-guidance.html file="forms_text_box" caption="Examples of Small, Medium and Large text boxes. If the expected input is to be long then use a Large text box to set expectation and avoid unnecessary masking of content. Initial views are set at 4, 10 and 20 lines respectively. Maximum input is approx double this ie 10, 20 and 40 lines." height="600" %}
+{% include example-form-guidance.html file="forms_text_box" caption="Examples of Small, Medium and Large text boxes. If the expected input is to be long then use a Large text box to set expectation and avoid unnecessary masking of content. Initial views are set at 4, 10 and 20 lines respectively. Maximum input is approximately double this i.e. 10, 20 and 40 lines." height="600" %}
 
 ### Dropdown (select box)
 
@@ -349,10 +348,9 @@ Validation: Error messages are positioned above the first radio button supported
 
 * [GDS advice on forms](https://gdstechnology.blog.gov.uk/2016/12/13/improving-forms-with-new-radios-and-checkboxes/)
 
-{% include example-form-guidance.html file="forms_radio" caption="If there are only 2 short options then they can be presented side by side. In this instance, error messaging is handled as it is on standard one line fields ie no encapsulating box and message apears below the fields." height="550" %}
+{% include example-form-guidance.html file="forms_radio" caption="If there are only 2 short options then they can be presented side by side. In this instance, error messaging is handled as it is on standard one line fields ie no encapsulating box and message appears below the fields." height="550" %}
 
 ## User Notifications
-
 Keeping the user informed is a vital aspect of forms.
 
 The aim is to create a dialogue with the user and support them by reacting to their input. Helpful validation messaging and feedback builds trust and helps reassure the user. Getting this right relies on the user being at the heart of the form design, and can have a huge impact on the success of the form and consequently the service.
