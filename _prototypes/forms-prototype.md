@@ -155,11 +155,11 @@ frontpage: no
                             </div>
                         </div>
 
-                        <div class="form-group relative">
+                        <div class="form-group relative" id="registration-time">
                             <a name="registration-time-link"></a>
                             <span class="required-icon">*</span><legend>Allocated time slot</legend>
 
-                            <div class="input-wrapper" id="registration-time">
+                            <div class="input-wrapper">
                             <label for="registration-time-hours" class="inline">Hours<br>
                                 <div class="create-select__arrow">
                                     <select id="registration-time-hours" class="create-select">
@@ -310,7 +310,7 @@ frontpage: no
 
                                 <div class="create-select__arrow">
                                     <select id="birthdate-month" class="create-select">
-                                        <option selected disabled value="Month">Month</option>
+                                        <option selected disabled value="">Month</option>
                                         <option value="01">January</option>
                                         <option value="02">February</option>
                                         <option value="03">March</option>
@@ -390,7 +390,7 @@ frontpage: no
                                 </div>
                         </div>
 
-                        <div class="form-group relative">
+                        <div class="form-group relative" id="devices">
                             <fieldset>
                                 <legend>If so, what kind of device(s) do you have? <span class="optional">(optional)</span></legend>
                                 <div class="input-wrapper">

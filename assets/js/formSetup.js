@@ -81,15 +81,28 @@ var formIsValid = function (highlightField) {
  */
 registrationForm.init = function () {
 
-    // textchange is a shim to allow us to use the input event in IE8 & IE9
+    // add 'dirty' class to fields once they have been focused on 
 
-    var addEventListeners = function(item){
+    $('input, select, textarea').on('focus', function(){
+        $(this).addClass('dirty');
+    })
+
+    // add listeners to run validations for fields at the correct times
+
+    var addEventListeners = function(item, index){
+
+        // when item or its children are focused, run validations for all 'dirty' fields before it
+        $('' + item.id + ', ' + item.id + ' *').on('focus', function() {
+            for (var i = 0; i < index; i++) {
+                if ($(FormValidations[i].id).hasClass('dirty') || $(FormValidations[i].id).find('.dirty').length > 0) {   
+                    validateField($(FormValidations[i].id), true, FormValidations[i].validations);
+                }
+            }
+        });
+
+        // add event listeners for when a field is invalid and is being corrected
         for (var i = 0; i < item.fields.length; i++) {
-            var field = $(item.fields[i])
-
-            field.on(item.neutralEvent, function(){
-                validateField($(item.id), true, item.validations);
-            });
+            var field = $(item.fields[i]);
 
             field.on(item.invalidEvent, function(){
                 if ($(this).hasClass('input-error') || $(this).parent().hasClass('input-error')){
@@ -100,7 +113,7 @@ registrationForm.init = function () {
     }
 
     for (var i = 0; i < FormValidations.length; i++) {
-        addEventListeners(FormValidations[i]);
+        addEventListeners(FormValidations[i], i);
     }
 
     // Restrict number of characters in fields
@@ -145,6 +158,7 @@ registrationForm.init = function () {
             }
             monthDropdown.children[i].innerText = monthNum;
         }
+        monthDropdown.children[0].innerText = "Month";
     }
 
     // Submit actions

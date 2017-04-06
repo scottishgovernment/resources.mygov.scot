@@ -407,7 +407,7 @@ var dateRegex = function($field){
 var dateFormatSplit = function($field, dayField, monthField, yearField){
     var fieldName = $field.find('legend').text();
     var message = 'Please enter the date as DD/MM/YYYY';
-    
+
     var dayValue = $.trim($(dayField).val());
     var monthValue = $.trim($(monthField).val());
     var yearValue = $.trim($(yearField).val());
@@ -579,9 +579,9 @@ var maxCharacters = function($field, maxLength) {
 
 var addOrRemoveFieldSetErrors = function($field, valid){
      if (!valid){
-        $field.find('.input-wrapper').addClass('input-error');
+        $field.find('.input-wrapper, input').addClass('input-error');
     } else {
-        $field.find('.input-wrapper').removeClass('input-error');
+        $field.find('.input-wrapper, input').removeClass('input-error');
     }
 }
 
