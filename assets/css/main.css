@@ -1280,31 +1280,30 @@ figure.example:before {
 /* line 728, ../scss/breakpoints/_base.scss */
 figure.example iframe, figure.example img {
   border: 1px solid #ddd;
-  padding: 15px;
 }
-/* line 733, ../scss/breakpoints/_base.scss */
+/* line 732, ../scss/breakpoints/_base.scss */
 figure.example iframe {
   width: 100%;
   overflow: hidden;
 }
-/* line 739, ../scss/breakpoints/_base.scss */
+/* line 738, ../scss/breakpoints/_base.scss */
 figure.example img {
   display: none;
 }
-/* line 743, ../scss/breakpoints/_base.scss */
+/* line 742, ../scss/breakpoints/_base.scss */
 figure.example figcaption {
   color: #727272;
   font-size: 17px;
   text-align: left;
 }
 
-/* line 750, ../scss/breakpoints/_base.scss */
+/* line 749, ../scss/breakpoints/_base.scss */
 pre {
   margin-bottom: 24px;
   padding: 10px;
 }
 
-/* line 757, ../scss/breakpoints/_base.scss */
+/* line 756, ../scss/breakpoints/_base.scss */
 footer {
   background: #fcfcfc;
   border-top: 2px solid #ebebeb;
@@ -1312,48 +1311,48 @@ footer {
   line-height: 14px;
   padding: 21px 0 35px;
 }
-/* line 764, ../scss/breakpoints/_base.scss */
+/* line 763, ../scss/breakpoints/_base.scss */
 footer a {
   text-decoration: underline;
 }
-/* line 768, ../scss/breakpoints/_base.scss */
+/* line 767, ../scss/breakpoints/_base.scss */
 footer h3 {
   font-size: 12px;
   line-height: 21px;
   margin: -4px 0 8px;
 }
-/* line 774, ../scss/breakpoints/_base.scss */
+/* line 773, ../scss/breakpoints/_base.scss */
 footer .footer-links {
   list-style: none;
   margin-left: 0;
 }
-/* line 778, ../scss/breakpoints/_base.scss */
+/* line 777, ../scss/breakpoints/_base.scss */
 footer .footer-links li {
   margin-bottom: 7px;
 }
-/* line 781, ../scss/breakpoints/_base.scss */
+/* line 780, ../scss/breakpoints/_base.scss */
 footer .footer-links li a {
   background: transparent url() no-repeat 0 center;
   color: #000000;
   padding-left: 30px;
 }
-/* line 786, ../scss/breakpoints/_base.scss */
+/* line 785, ../scss/breakpoints/_base.scss */
 footer .footer-links li a.email {
   background-image: url(../images/footer_icons/envelope_mobile_standard_14.png);
 }
-/* line 790, ../scss/breakpoints/_base.scss */
+/* line 789, ../scss/breakpoints/_base.scss */
 footer .footer-links li a.blog {
   background-image: url(../images/footer_icons/speech_mobile_standard_14.png);
 }
-/* line 794, ../scss/breakpoints/_base.scss */
+/* line 793, ../scss/breakpoints/_base.scss */
 footer .footer-links li a.twitter {
   background-image: url(../images/footer_icons/twit_mobile_standard_14.png);
 }
-/* line 798, ../scss/breakpoints/_base.scss */
+/* line 797, ../scss/breakpoints/_base.scss */
 footer .footer-links li a.github {
   background-image: url(../images/footer_icons/code_mobile_standard_14.png);
 }
-/* line 805, ../scss/breakpoints/_base.scss */
+/* line 804, ../scss/breakpoints/_base.scss */
 footer .scotgov-logo {
   background: url(../images/scotgov_logos/sg_logo_mobile_standard_64.png) no-repeat 0 0 transparent;
   display: block;
@@ -1361,15 +1360,16 @@ footer .scotgov-logo {
   text-indent: -999em;
   width: 64px;
 }
-/* line 813, ../scss/breakpoints/_base.scss */
+/* line 812, ../scss/breakpoints/_base.scss */
 footer .footer-logo {
   float: right;
   padding-left: 2em;
 }
 
-/* line 819, ../scss/breakpoints/_base.scss */
-.lead {
+/* line 818, ../scss/breakpoints/_base.scss */
+.lead, .has-leaders h2 + p {
   font-size: 32px;
+  font-weight: 300;
   line-height: 42px;
 }
 
@@ -1703,59 +1703,5 @@ footer .footer-logo {
   .guidelines .summary-block .inner,
   .standard .summary-block .inner {
     background-size: 203px;
-  }
-}
-/*------------------------------------*\
-    #LEADER TEXT
-    Oversized text for leader paragraphs or sections
-\*------------------------------------*/
-/* line 15, ../scss/mygov-assets/base/type/_type.leader.scss */
-.leader, .leader--first-para > :first-child, .has-leaders h2 + p {
-  color: #333333;
-  font-size: 19px;
-  line-height: 28px;
-  font-weight: 300;
-  margin: 0 0 28px 0;
-}
-
-/* line 26, ../scss/mygov-assets/base/type/_type.leader.scss */
-.leader--first-para {
-  color: inherit;
-  font-size: inherit;
-  font-weight: inherit;
-  line-height: inherit;
-  margin: inherit;
-}
-/* line 37, ../scss/mygov-assets/base/type/_type.leader.scss */
-.leader--first-para h2:first-child {
-  font-size: 21px;
-  line-height: 28px;
-  margin: 49px 0 14px 0;
-  font-weight: 500;
-}
-
-@media only screen and (min-width: 768px) {
-  /* line 53, ../scss/mygov-assets/base/type/_type.leader.scss */
-  .leader, .leader--first-para > :first-child, .has-leaders h2 + p {
-    font-size: 22px;
-    line-height: 35px;
-    font-weight: 300;
-    margin: 0 0 35px 0;
-  }
-
-  /* line 63, ../scss/mygov-assets/base/type/_type.leader.scss */
-  .leader--first-para {
-    color: inherit;
-    font-size: inherit;
-    font-weight: inherit;
-    line-height: inherit;
-    margin: inherit;
-  }
-  /* line 74, ../scss/mygov-assets/base/type/_type.leader.scss */
-  .leader--first-para h2:first-child {
-    font-size: 26px;
-    line-height: 35px;
-    margin: 56px 0 14px 0;
-    font-weight: 500;
   }
 }

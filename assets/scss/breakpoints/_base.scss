@@ -727,7 +727,6 @@ figure.example {
 
   iframe, img {
     border: 1px solid #ddd;
-    padding: 15px;
   }
 
   iframe {
@@ -818,5 +817,12 @@ footer {
 
 .lead {
   font-size: 32px;
+  font-weight: 300;
   line-height: 42px;
+}
+
+.has-leaders {
+    h2 + p {
+        @extend .lead;
+    }
 }
