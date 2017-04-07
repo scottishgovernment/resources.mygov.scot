@@ -29,6 +29,9 @@ var requiredInputs = function($field, optionalMessage) {
     for (var i = 0; i < inputs.length; i++) {
         if ($(inputs[i]).val() == '') {
             valid = false;
+            $(inputs[i]).addClass('input-error');
+        } else {
+            $(inputs[i]).removeClass('input-error');
         }
     }
 
@@ -47,6 +50,14 @@ var requiredDropdown = function($field, optionalMessage) {
 
     var valid = _.every(dropdowns, function(element){
         return element.value !== '';
+    });
+
+    dropdowns.toArray().forEach(function(element){
+        if (element.value === ''){
+            $(element).addClass('input-error');
+        } else {
+            $(element).removeClass('input-error');
+        }
     });
 
     addOrRemoveFormErrors($field, valid, 'required', label, message);
@@ -75,16 +86,18 @@ var requiredTimeGroup = function($field){
         return element.value !== '';
     });
 
-    var radioButtonsValid = false;
-
-    for (var i = 0; i < radioButtons.length; i++) {
-        if ($(radioButtons[i]).is(':checked')) {
-            radioButtonsValid = true;
-        }
+    if (dropdownsValid && textInputsValid) {
+        valid = true;
     }
 
-    if (dropdownsValid && textInputsValid && radioButtonsValid) {
-        valid = true;
+    var allInputs = dropdowns.toArray().concat(textInputs.toArray());
+
+    for (var i = 0; i < allInputs.length; i++) {
+        if (allInputs[i].value === ''){
+            $(allInputs[i]).addClass('input-error');
+        } else {
+            $(allInputs[i]).removeClass('input-error');
+        }
     }
 
     addOrRemoveFormErrors($field, valid, 'required', label, message);
@@ -107,6 +120,16 @@ var requiredRadio = function($field){
             valid = true;
         }
     }
+    
+    radioButtons.each(function(button){
+        if (!valid){
+            console.log('not valid')
+            $(button).addClass('input-error');
+        } else {
+            console.log('valid')
+            $(button).removeClass('input-error');
+        }
+    });
 
     addOrRemoveFieldSetErrors($field, valid);
     addOrRemoveFormErrors($field, valid, 'required', title, message);

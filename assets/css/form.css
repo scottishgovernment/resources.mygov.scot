@@ -67,8 +67,10 @@ div.form-box {
 
 /* General margin for all text inputs */
 
-input[type=text], input[type=tel] {
+input[type=text], input[type=tel], input[type=email] {
   margin-top: 7px;
+  font-size: 16px;
+  height: 42px;
 }
 
 .header-bar input {
@@ -765,7 +767,7 @@ fieldset .input-wrapper.input-error {
 
 /* line 64, ../../../node_modules/mygov-assets/scss/base/_base.forms.scss */
 /* replace color from color__grey--medium to color__grey--base */
-input[type=text].grey, textarea.grey, select.grey, input[type=tel].grey {
+input[type=text].grey, textarea.grey, select.grey, input[type=tel].grey, input[type=email].grey {
   border: 1px solid #727272;
 }
 
@@ -779,7 +781,8 @@ input[type="number"].grey {
 }
 
 /* line 68, ../../../node_modules/mygov-assets/scss/base/_base.forms.scss */
-input[type=text].grey:focus, input[type="number"].grey:focus, textarea.grey:focus, select.grey:focus, select:focus {
+input[type=text].grey:focus, input[type="number"].grey:focus, input[type=tel].grey:focus, input[type=email].grey:focus,
+ textarea.grey:focus, select.grey:focus, select:focus {
   border: 2px solid #0065bd;
   background: #e5f0f8;
   outline: none;
@@ -794,29 +797,24 @@ input[type=text].grey:focus, input[type="number"].grey:focus, textarea.grey:focu
 
 /**** Additions ****/
 
-input[type="text"].input-error, textarea.input-error, select.input-error, .input-error select, 
-.input-error input[type=number] {
+input[type="text"].input-error, textarea.input-error, select.input-error, 
+input[type=number].input-error, input[type=tel].input-error, input[type=email].input-error {
   color: #000;
   border: 2px solid #d32205;
   background: #fff;
 }
 
-input[type="text"].input-error:focus, textarea.input-error:focus, select.input-error:focus .input-error select:focus, 
-.input-error input[type=number]:focus {
+input[type="text"].input-error:focus, textarea.input-error:focus, select.input-error:focus, 
+input[type=number].input-error:focus, input[type=tel].input-error:focus, input[type=email].input-error:focus {
   border: 2px solid #d32205;
   background-color: #e5f0f8;
 }
 
-.input-error select:focus {
-  background-color: #e5f0f8;
-  
-}
-
-.input-error label.fancy-radio:before {
+.input-error + label.fancy-radio:before {
   border-color: #d32205;
 }
 
-.input-error input:checked + label.fancy-radio:before {
+.input-error.input:checked + label.fancy-radio:before {
   color: #0065bd;
   border-color: #d32205;
 }
