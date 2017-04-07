@@ -133,6 +133,20 @@ registrationForm.init = function () {
     restrictCharacters('confirm-time-hours', 2);
     restrictCharacters('confirm-time-minutes', 2);
 
+    // Automatically skip to the following field when character limit reached
+
+    var skipToNextField = function(elementId, maxlength, nextElementId){
+        $('#' + elementId).on('input', function(){
+            if ($(this).val().length === maxlength){
+                $('#' + nextElementId).focus();
+            }
+        })
+    }
+
+    skipToNextField('registration-date-day', 2, 'registration-date-month');
+    skipToNextField('registration-date-month', 2, 'registration-date-year');
+    skipToNextField('confirm-time-hours', 2, 'confirm-time-minutes');
+
     // Textarea expands when text is too long for it, and shrinks when too short (minimum height 84px)
 
     $('textarea').on('paste input', function () {
