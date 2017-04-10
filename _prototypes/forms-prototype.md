@@ -489,6 +489,7 @@ frontpage: no
                             <a name="confirm-date-link"></a>
                             <span class="required-icon">*</span><label
                                 for="confirm-date" class="filters_">Confirm date of session</label>
+                            <p>Use DD/MM/YYYY format.</p>
                             <div class="date-entry__input-group input-group input-wrapper" id="confirm-date">
                                 <input maxlength="2" type="number" pattern="[0-9]*" id="registration-date-day" placeholder="DD" class="grey form-control input__datepicker--day" />                            
                                 <span class="time-slash">/</span>                              
