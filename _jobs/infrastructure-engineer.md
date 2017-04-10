@@ -10,8 +10,8 @@ index: 0
 ### Grade: C1
 ### Salary: &pound;46,424 - &pound;55,275
 ### Location: Edinburgh
+### Type: 23 month fixed term contract
 ### Closing date: 4/05/17
-
 
 ### Overview
 
