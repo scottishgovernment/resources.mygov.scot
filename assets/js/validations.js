@@ -21,7 +21,7 @@ var requiredField = function($field, optionalMessage) {
 
 var requiredInputs = function($field, optionalMessage) {
     var inputs = $field.find('input');
-    var label = $('label[for="' + $field.attr('id') + '"]');
+    var label = $field.find('legend').text();
     var message = optionalMessage || 'Please complete all fields';
 
     var valid = true;
@@ -35,7 +35,7 @@ var requiredInputs = function($field, optionalMessage) {
         }
     }
 
-    addOrRemoveFormErrors($field, valid, 'required', label.text(), message);
+    addOrRemoveFormErrors($field, valid, 'required', label, message);
     showOrHideCurrentErrors($field, valid, message);
 
     return valid;
@@ -123,7 +123,6 @@ var requiredRadio = function($field){
     
     radioButtons.each(function(button){
         if (!valid){
-            console.log('not valid')
             $(button).addClass('input-error');
         } else {
             console.log('valid')

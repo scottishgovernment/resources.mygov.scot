@@ -902,3 +902,7 @@ label.consent.inline {
 .in-article-form label {
   max-width: calc(100% - 20px);
 }
+
+#consent legend {
+  display: none;
+}
