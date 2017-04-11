@@ -109,7 +109,15 @@ registrationForm.init = function () {
                     validateField($(item.id), true, item.validations);
                 }
             });
+
+            // add validations on keyup in certain fields
+            if (item.validateOnKeyup === true){
+                field.on('keyup', function(){
+                    validateField($(item.id), true, item.validations);
+                });
+            }
         }
+
     }
 
     for (var i = 0; i < FormValidations.length; i++) {

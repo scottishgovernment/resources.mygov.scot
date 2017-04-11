@@ -152,7 +152,7 @@ frontpage: no
                                 <button id="date-start-trigger" type="button" class="date-entry__trigger button button--primary js-show-calendar">Choose date</button>
                                 <ul class="current-errors"></ul>
                             </div>
-                            <div class="date-entry__calendar">
+                            <div id="registration-date-calendar" class="date-entry__calendar">
                             </div>
                         </div>
 
@@ -499,7 +499,7 @@ frontpage: no
                                 <button id="confirm-date-start-trigger" type="button" class="date-entry__trigger button button--primary js-show-calendar">Choose date</button>
                                 <ul class="current-errors"></ul>
                             </div>
-                            <div class="date-entry__calendar">
+                            <div id="confirm-date-calendar" class="date-entry__calendar">
                             </div>
                         </div>
 

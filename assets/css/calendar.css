@@ -4,6 +4,10 @@ thead+tbody tr:first-child td {
   padding: 0;
 }
 
+form input[type=text].input__datepicker, #confirm-date input {
+  margin-top: 0px;
+}
+
 /*------------------------------------*\
     #LIST CONTROLS
 \*------------------------------------*/
@@ -176,7 +180,7 @@ thead+tbody tr:first-child td {
   }
   /* line 442, ../../../src/scss/components/_component.list-controls.scss */
   .date-entry__calendar--open {
-    left: 268px;
+    left: 263px;
     display: block;
     opacity: 1;
     /*filter: alpha(opacity=100);*/
@@ -187,16 +191,16 @@ thead+tbody tr:first-child td {
     -o-transition: max-height 0.2s;
     transition: max-height 0.2s;
   }
+
+  #confirm-date-calendar.date-entry__calendar--open {
+    left: 276px;
+  }
 }
 
 @media (min-width: 991px) {
 
   .date-entry__calendar--open {
-    left: 252px;
-  }
-
-  #confirm-date + .date-entry__calendar--open {
-    left: 267px;
+    left: 256px;
   }
   
 }
@@ -204,7 +208,7 @@ thead+tbody tr:first-child td {
 @media (min-width: 1200px) {
 
   .date-entry__calendar--open {
-    left: 287px;
+    left: 305px;
   }
 
   /* line 455, ../../../src/scss/components/_component.list-controls.scss */

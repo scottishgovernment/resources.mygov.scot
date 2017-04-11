@@ -125,7 +125,6 @@ var requiredRadio = function($field){
         if (!valid){
             $(button).addClass('input-error');
         } else {
-            console.log('valid')
             $(button).removeClass('input-error');
         }
     });
@@ -189,7 +188,6 @@ var validateNumberInput = function($field){
 
     for (var i = 0; i < boxes.length; i++) {
         var value = $.trim($(boxes[i]).val());
-        console.log(value)
         var inputIsValid = value.match(regex);
 
         if (!inputIsValid){

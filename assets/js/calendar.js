@@ -25,7 +25,6 @@
             //     'interaction': 'select',
             //     'event': 'date-picker'
             // });
-
             $(this._o.container).removeClass('date-entry__calendar--open');
             $(this._o.field).trigger('blur');
             }
@@ -50,6 +49,11 @@ $('.js-show-calendar').on('click', function () {
             //     'interaction': calendar.hasClass('date-entry__calendar--open') ? 'close': 'open',
             //     'event': 'date-picker'
             // });
+
+    // add 'dirty' class to related input element(s) so field will be picked up for validation
+    $(this).prevAll('input').each(function(){
+        $(this).addClass('dirty');
+    });
 
     // close any other open calendars
     $(this).closest('.date-entry').siblings().find('.date-entry__calendar').removeClass('date-entry__calendar--open');
@@ -85,4 +89,13 @@ $('#registration-date').on('blur', function () {
     calendar.removeClass('date-entry__calendar--open');
 });
 
+$(document).on('click', function(event){
+    var dateInputIDs = ['date-start-trigger', 'confirm-date-start-trigger', 'registration-date', 
+    'registration-date-day', 'registration-date-month', 'registration-date-year', ''];
 
+    if (dateInputIDs.indexOf(event.target.id) < 0){
+        $('.date-entry__calendar').each(function(){
+            $(this).removeClass('date-entry__calendar--open');
+        });
+    }
+});
