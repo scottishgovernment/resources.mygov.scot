@@ -123,7 +123,7 @@ Neutral state of the field before the user has interacted with it or if the inpu
 #### Inactive
 The user cannot interact with the field. Can become active depending on selection in other fields. Indicated by being greyed out.
 
-{% include example-form-guidance.html file="forms_inactive_state" caption="If it is necessary to show inactive fields then it is important that users can identify between these and active fields." height="172" %}
+{% include example-form-guidance.html file="forms_inactive_state" caption="If it is necessary to show inactive fields then it is important that users can identify between these and active fields." height="172" width="800" %}
 
 #### Selected
 Used for dropdowns, checkboxes and radio buttons to show what has been selected.
