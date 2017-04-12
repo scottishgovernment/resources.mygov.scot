@@ -108,7 +108,8 @@ var FormValidations = [{
 	fields: ['#time-online-social', '#time-online-news', '#time-online-youtube',
 			'#time-online-work', '#time-online-gaming', '#time-online-other'],
 	validations: [requiredTimeSpent, validateNumberInput, validateTotalTime],
-	invalidEvent: 'keyup'
+	invalidEvent: 'keyup',
+	validateOnKeyup: true
 },
 {
 	id: '#form-difficulty',
@@ -122,7 +123,8 @@ var FormValidations = [{
 	errorName: 'Any other comments',
 	fields: ['#comments'],
 	validations: [_.partialRight(maxCharacters, 50)],
-	invalidEvent: 'textchange keyup blur'
+	invalidEvent: 'textchange keyup blur',
+	validateOnKeyup: true
 },
 {
 	id: '#confirm-date',

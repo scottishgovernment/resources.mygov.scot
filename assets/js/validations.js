@@ -21,7 +21,7 @@ var requiredField = function($field, optionalMessage) {
 
 var requiredInputs = function($field, optionalMessage) {
     var inputs = $field.find('input');
-    var label = $('label[for="' + $field.attr('id') + '"]');
+    var label = $field.find('legend').text();
     var message = optionalMessage || 'Please complete all fields';
 
     var valid = true;
@@ -35,7 +35,7 @@ var requiredInputs = function($field, optionalMessage) {
         }
     }
 
-    addOrRemoveFormErrors($field, valid, 'required', label.text(), message);
+    addOrRemoveFormErrors($field, valid, 'required', label, message);
     showOrHideCurrentErrors($field, valid, message);
 
     return valid;
@@ -123,10 +123,8 @@ var requiredRadio = function($field){
     
     radioButtons.each(function(button){
         if (!valid){
-            console.log('not valid')
             $(button).addClass('input-error');
         } else {
-            console.log('valid')
             $(button).removeClass('input-error');
         }
     });
@@ -190,7 +188,6 @@ var validateNumberInput = function($field){
 
     for (var i = 0; i < boxes.length; i++) {
         var value = $.trim($(boxes[i]).val());
-        console.log(value)
         var inputIsValid = value.match(regex);
 
         if (!inputIsValid){
@@ -568,7 +565,7 @@ var maxCharacters = function($field, maxLength) {
     if (!valid) {
         $field.next().find('span').css('color', '#d32205');
     } else {
-        $field.next().find('span').css('color', 'grey');
+        $field.next().find('span').css('color', '#727272');
     }
 
     addOrRemoveFormErrors($field, valid, 'too-many', label.text(), message);
