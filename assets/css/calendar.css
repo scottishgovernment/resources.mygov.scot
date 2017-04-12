@@ -4,6 +4,14 @@ thead+tbody tr:first-child td {
   padding: 0;
 }
 
+tr:first-child td:last-child {
+  padding-right: 0px;
+}
+
+thead+tbody tr:first-child td button {
+  padding: 8px 4px;
+}
+
 form input[type=text].input__datepicker, #confirm-date input {
   margin-top: 0px;
 }
@@ -184,7 +192,7 @@ form input[type=text].input__datepicker, #confirm-date input {
     display: block;
     opacity: 1;
     /*filter: alpha(opacity=100);*/
-    top: 63px;
+    top: 56px;
     max-height: 260px;
     -webkit-transition: max-height 0.2s;
     -moz-transition: max-height 0.2s;

@@ -565,7 +565,7 @@ var maxCharacters = function($field, maxLength) {
     if (!valid) {
         $field.next().find('span').css('color', '#d32205');
     } else {
-        $field.next().find('span').css('color', 'grey');
+        $field.next().find('span').css('color', '#727272');
     }
 
     addOrRemoveFormErrors($field, valid, 'too-many', label.text(), message);
