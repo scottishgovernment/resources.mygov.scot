@@ -40,7 +40,7 @@ The Test Engineer will have broad and deep testing expertise and will understand
 * Follow the defect lifecycle and defect management process, in conjunction with software and infrastructure engineers, to both minimise time to fix and to reduce the mygov.scot defect rate over time.
 * Identify innovative testing techniques, methods and tools and share these with the testing team.
 * Work in collaboration with software engineers, infrastructure engineers and business analysts to contribute to the overall assurance of delivery from the mygov.scot program.
-* Leverage automation, where appropriate, to increase the rate at which the testing process can provide feedback on defects, etc.
+* Leverage automation, where appropriate, to increase the rate at which the testing process can provide feedback on defects, to help detecting any regression that may have been introduced as part of the development of new features.
 * Follow appropriate checklists, frameworks and other artefacts to enable a consistent approach to testing.
 * Leverage provided tooling to support system testing activities.
 * Provide consultation / education / support to other public bodies as a part of the transformation activities that form part of the division’s remit.
