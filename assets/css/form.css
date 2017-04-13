@@ -892,7 +892,7 @@ input {
 
 label.consent.inline {
   font-size: 16px;
-  white-space: initial;
+  white-space: normal;
   max-width: 100%;
   margin-right: 10px;
 }
