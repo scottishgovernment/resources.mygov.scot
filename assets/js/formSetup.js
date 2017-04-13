@@ -112,7 +112,11 @@ registrationForm.init = function () {
 
             // add validations on keyup in certain fields
             if (item.validateOnKeyup === true){
-                field.on('keyup', function(){
+                field.on('keyup', function(event){
+                    if (event.keyCode === 9){
+                        // 9 is the 'tab' key which can trigger an error on entering the field for the first time so ignore
+                        return;
+                    }
                     validateField($(item.id), true, item.validations);
                 });
             }

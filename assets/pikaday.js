@@ -273,7 +273,7 @@
                 arr.push('is-endrange');
             }
             return '<td data-day="' + opts.day + '" class="' + arr.join(' ') + '">' +
-                '<button class="pika-button pika-day" type="button" ' +
+                '<button class="pika-button pika-day" type="button" tabindex="-1" ' +
                 'data-pika-year="' + opts.year + '" data-pika-month="' + opts.month + '" data-pika-day="' + opts.day + '">' +
                 opts.day +
                 '</button>' +
@@ -359,10 +359,10 @@
             }
 
             if (c === 0) {
-                html += '<button class="pika-prev' + (prev ? '' : ' is-disabled') + '" type="button">' + opts.i18n.previousMonth + '</button>';
+                html += '<button class="pika-prev' + (prev ? '' : ' is-disabled') + '" type="button" tabindex="-1">' + opts.i18n.previousMonth + '</button>';
             }
             if (c === (instance._o.numberOfMonths - 1) ) {
-                html += '<button class="pika-next' + (next ? '' : ' is-disabled') + '" type="button">' + opts.i18n.nextMonth + '</button>';
+                html += '<button class="pika-next' + (next ? '' : ' is-disabled') + '" type="button" tabindex="-1">' + opts.i18n.nextMonth + '</button>';
             }
 
             return html += '</div>';
@@ -390,6 +390,11 @@
                 e = e || window.event;
                 var target = e.target || e.srcElement;
                 if (!target) {
+                    return;
+                }
+
+                // only continue firing event on keyup if keycode is 32 (space) or 13 (enter)
+                if (e.keyCode !== 32 && e.keyCode !== 13 && e.keyCode){
                     return;
                 }
 
@@ -521,6 +526,7 @@
 
             addEvent(self.el, 'mousedown', self._onMouseDown, true);
             addEvent(self.el, 'touchend', self._onMouseDown, true);
+            addEvent(self.el, 'keyup', self._onMouseDown, true);
             addEvent(self.el, 'change', self._onChange);
 
             if (opts.field) {

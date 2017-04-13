@@ -474,6 +474,7 @@ var todaysDate = function($field){
 //  check that date is today's date - split fields
 
 var todaysDateSplit = function($field){
+    console.log('todays date split run')
     var inputs = $field.find('input');
     var fieldName = $('label[for="' + $field.attr('id') + '"]').text();
     var message = 'Your session date must be today\'s date';

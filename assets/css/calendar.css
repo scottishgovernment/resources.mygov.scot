@@ -16,6 +16,18 @@ form input[type=text].input__datepicker, #confirm-date input {
   margin-top: 0px;
 }
 
+/* Focus properties for tabbing through the calendar */
+
+button.pika-button.pika-day:focus {
+  background-color: #e5f0f8;
+  box-shadow: inset 0px 0px 0px 2px #0065bd;
+}
+
+.pika-next:focus, .pika-prev:focus {
+  background-color: #00437e;
+}
+
+
 /*------------------------------------*\
     #LIST CONTROLS
 \*------------------------------------*/
@@ -585,7 +597,7 @@ form input[type=text].input__datepicker, #confirm-date input {
 /* line 108, ../../../src/scss/components/_plugin.pikaday.scss */
 .pika-prev,
 .pika-next {
-  height: 42px;
+  height: 41px;
   opacity: 1;
   position: absolute;
   text-indent: 42px;

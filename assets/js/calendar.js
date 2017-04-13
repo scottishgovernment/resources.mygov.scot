@@ -13,10 +13,6 @@
         this.bound = false;
         // this.yearRange = [1980, settings.maxDate.getFullYear()];
         this.theme = theme;
-        this.onDraw = function() {
-            $(this.el).find('select > option:disabled').prop('disabled', false);
-            $(this.el).find('button, a, select').attr('tabindex', '-1');
-        };
 
         this.onSelect = function () {
 
@@ -27,8 +23,17 @@
             // });
             $(this._o.container).removeClass('date-entry__calendar--open');
             $(this._o.field).trigger('blur');
+            $(this.el).find('button, a').attr('tabindex', '-1');
+        }
+
+        this.onDraw = function(){
+            if (!$(this.el.parentNode).hasClass('date-entry__calendar--open')){
+                $(this.el).find('button, a').attr('tabindex', '-1');
+            } else {
+                $(this.el).find('button, a').attr('tabindex', '0');
             }
-        };
+        }
+    };
     
 
 var testSettings = { maxDate: '2019-01-20', minDate: '2008-01-01'}
@@ -50,6 +55,13 @@ $('.js-show-calendar').on('click', function () {
             //     'event': 'date-picker'
             // });
 
+    // make calendar elements tabbable        
+    if (!calendar.hasClass('date-entry__calendar--open')){
+        calendar.find('button, a').attr('tabindex', '0');
+    } else {
+        calendar.find('button, a').attr('tabindex', '-1');
+    }
+
     // add 'dirty' class to related input element(s) so field will be picked up for validation
     $(this).prevAll('input').each(function(){
         $(this).addClass('dirty');
@@ -61,7 +73,6 @@ $('.js-show-calendar').on('click', function () {
 
     // scroll calendar into view on mobile
     scrollCalendarIntoView(calendar);
-
 });
 
 var scrollCalendarIntoView = function(calendar){
