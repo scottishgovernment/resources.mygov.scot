@@ -354,6 +354,16 @@ var timeRange = function($field, hourField, minuteField, startTime, endTime, mes
 
     var valid = (timeEntered >= startTime) && (timeEntered <= endTime);
 
+    if (!valid) {
+        $(hourField).addClass('input-error');
+        $(minuteField).addClass('input-error');
+        $field.find('input:radio').addClass('input-error');
+    } else {
+        $(hourField).removeClass('input-error');
+        $(minuteField).removeClass('input-error');
+        $field.find('input:radio').removeClass('input-error');
+    }
+
     addOrRemoveFormErrors($field, valid, 'invalid-time-range', fieldName, message);
     showOrHideCurrentErrors($field, valid, message);
 
@@ -474,7 +484,6 @@ var todaysDate = function($field){
 //  check that date is today's date - split fields
 
 var todaysDateSplit = function($field){
-    console.log('todays date split run')
     var inputs = $field.find('input');
     var fieldName = $('label[for="' + $field.attr('id') + '"]').text();
     var message = 'Your session date must be today\'s date';

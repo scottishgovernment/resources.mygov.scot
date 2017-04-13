@@ -105,7 +105,7 @@ registrationForm.init = function () {
             var field = $(item.fields[i]);
 
             field.on(item.invalidEvent, function(){
-                if ($(this).hasClass('input-error') || $(this).parent().hasClass('input-error')){
+                if ($(item.id).hasClass('input-error')){
                     validateField($(item.id), true, item.validations);
                 }
             });
@@ -114,7 +114,7 @@ registrationForm.init = function () {
             if (item.validateOnKeyup === true){
                 field.on('keyup', function(event){
                     if (event.keyCode === 9){
-                        // 9 is the 'tab' key which can trigger an error on entering the field for the first time so ignore
+                        // 9 is the 'tab' key which can trigger an error on entering the field for the first time so ignore it
                         return;
                     }
                     validateField($(item.id), true, item.validations);
