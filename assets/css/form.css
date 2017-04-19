@@ -478,8 +478,9 @@ input:focus + label.fancy-checkbox:before {
 }
 
 input:focus + label.fancy-radio:before {
-  background-color: #e5f0f8;
-  border-color: #0065bd;
+    border-color: #0065bd !important;
+    color: #0065bd !important;
+    background-color: #e5f0f8 !important;
 }
 
 /* line 166, ../../../src/scss/base/_base.forms.scss */
@@ -491,9 +492,9 @@ input:checked + label.fancy-checkbox:before {
 }
 
 input:checked + label.fancy-radio:before {
-  border-color: #0065bd;
-  color: #0065bd;
-  background-color: #e5f0f8;
+  border-color: #333;
+  color: #333;
+  background-color: #fff;
   content: '\f111';
 }
 
@@ -801,14 +802,14 @@ input[type=text].grey:focus, input[type="number"].grey:focus, input[type=tel].gr
 
 /**** Additions ****/
 
-input[type="text"].input-error, textarea.input-error, select.input-error, 
+input[type="text"].input-error, textarea.input-error, select.input-error,
 input[type=number].input-error, input[type=tel].input-error, input[type=email].input-error {
   color: #000;
   border: 2px solid #d32205;
   background: #fff;
 }
 
-input[type="text"].input-error:focus, textarea.input-error:focus, select.input-error:focus, 
+input[type="text"].input-error:focus, textarea.input-error:focus, select.input-error:focus,
 input[type=number].input-error:focus, input[type=tel].input-error:focus, input[type=email].input-error:focus {
   border: 2px solid #d32205;
   background-color: #e5f0f8;

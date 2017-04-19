@@ -8,38 +8,6 @@ summary:
 index: 1
 frontpage: no
 ---
-<body class="article" data-uuid="MYGOV-1493">
-    <!-- sticky notices -->
-
-    <span id="page-top"></span>
-
-    <!-- other notices -->
-    <div id="browser-notice" class="notification hidden strong">
-        <div class="wrapper">
-            <p>You appear to be using an unsupported browser, and it may not be able to display this site properly.</p>
-            <p>You may wish to <a href="https://mygovv.scot/browsers/">upgrade your browser</a>.</p>
-
-            <button title="Close this notification" id="close-unsupported-browser-notification" class="button button--close close-notification"><span>Close</span></button>
-        </div>
-    </div>
-    <div id="cookie-notice" class="notification hidden" aria-describedby="cookieinfo">
-        <div class="wrapper">
-            <p tabindex="0" id="cookieinfo" class="cookieinfo">This site uses cookies to make the site simpler. <a href="/cookies/">Find out more about cookies</a></p>
-            <button title="Close this notification" id="close-cookie-notification" class="button button--close close-notification">Close</button>
-        </div>
-    </div>
-    <div id="decommissioned-site-notice" class="notification strong hidden" aria-describedby="decommissionedinfo">
-        <div class="wrapper">
-            <p tabindex="0" class="decommissionedinfo" id="decommissionedinfo">
-                You've been redirected from a site that no longer exists
-                (<span id="decomissioned-site-host"></span>).
-
-                Find what you're looking for on mygov.scot.
-            </p>
-            <button title="Close this notification" id="close-decommissioned-site-notification" class="button button--close close-notification"><span>Close</span></button>
-        </div>
-    </div>
- <div class="div-spacer"></div>
 
 <div class="wrapper header-bar">
     <div class="header-with-search-container clearfix">
@@ -81,7 +49,7 @@ frontpage: no
                                 />
                                 <circle class="blue-base" cx="264.81" cy="53.41" r="6.19" />
                             </g>
-                            <foreignObject>
+                            <foreignObject height="0" width="0">
                                 <!-- <img src="{{ "assets/images/mygov-logos/mygovscot_195px.png" | prepend: site.url }}" alt="mygov.scot logo"> -->
                           </foreignObject>
                         </switch>
@@ -143,9 +111,11 @@ frontpage: no
 
                         <h2>Date and time</h2>
                         <div class="form-group relative date-entry">
-                            <a name="registration-date-link"></a>
-                            <span class="required-icon">*</span><label
-                                for="registration-date" class="filters_">Date of session</label>
+                            <a id="registration-date-link"></a>
+                            <label for="registration-date" class="filters_">
+                              <span>*</span>
+                              Date of session
+                            </label>
                             <p>Use DD/MM/YYYY format.</p>
                             <div class="date-entry__input-group input-group input-wrapper registration-date">
                                 <input type="text" id="registration-date" placeholder="e.g. 01/02/2017" class="grey form-control input__datepicker" />
@@ -157,196 +127,210 @@ frontpage: no
                         </div>
 
                         <div class="form-group relative" id="registration-time">
-                            <a name="registration-time-link"></a>
-                            <span class="required-icon">*</span><legend>Your time slot</legend>
+                            <fieldset id="registration-time-link">
+                                <legend>
+                                  <span>*</span>
+                                  Your time slot
+                                </legend>
 
-                            <div class="input-wrapper">
-                            <label for="registration-time-hours" class="inline">Hours<br>
-                                <div class="create-select__arrow">
-                                    <select id="registration-time-hours" class="create-select">
-                                        <option selected disabled value="">HH</option>
-                                        <option>01</option>
-                                        <option>02</option>
-                                        <option>03</option>
-                                        <option>04</option>
-                                        <option>05</option>
-                                        <option>06</option>
-                                        <option>07</option>
-                                        <option>08</option>
-                                        <option>09</option>
-                                        <option>10</option>
-                                        <option>11</option>
-                                        <option>12</option>
-                                    </select>
+                                <div class="input-wrapper">
+                                <label for="registration-time-hours" class="inline">Hours<br>
+                                    <span class="create-select__arrow">
+                                        <select id="registration-time-hours" class="create-select">
+                                            <option selected disabled value="">HH</option>
+                                            <option>01</option>
+                                            <option>02</option>
+                                            <option>03</option>
+                                            <option>04</option>
+                                            <option>05</option>
+                                            <option>06</option>
+                                            <option>07</option>
+                                            <option>08</option>
+                                            <option>09</option>
+                                            <option>10</option>
+                                            <option>11</option>
+                                            <option>12</option>
+                                        </select>
+                                    </span>
+                                </label>
+
+                                <label for="registration-time-minutes" class="inline">Minutes<br>
+                                    <span class="create-select__arrow">
+                                        <select id="registration-time-minutes" class="create-select">
+                                            <option selected disabled value="">MM</option>
+                                            <option>00</option>
+                                            <option>01</option>
+                                            <option>02</option>
+                                            <option>03</option>
+                                            <option>04</option>
+                                            <option>05</option>
+                                            <option>06</option>
+                                            <option>07</option>
+                                            <option>08</option>
+                                            <option>09</option>
+                                            <option>10</option>
+                                            <option>11</option>
+                                            <option>12</option>
+                                            <option>13</option>
+                                            <option>14</option>
+                                            <option>15</option>
+                                            <option>16</option>
+                                            <option>17</option>
+                                            <option>18</option>
+                                            <option>19</option>
+                                            <option>20</option>
+                                            <option>21</option>
+                                            <option>22</option>
+                                            <option>23</option>
+                                            <option>24</option>
+                                            <option>25</option>
+                                            <option>26</option>
+                                            <option>27</option>
+                                            <option>28</option>
+                                            <option>29</option>
+                                            <option>30</option>
+                                            <option>31</option>
+                                            <option>32</option>
+                                            <option>33</option>
+                                            <option>34</option>
+                                            <option>35</option>
+                                            <option>36</option>
+                                            <option>37</option>
+                                            <option>38</option>
+                                            <option>39</option>
+                                            <option>40</option>
+                                            <option>41</option>
+                                            <option>42</option>
+                                            <option>43</option>
+                                            <option>44</option>
+                                            <option>45</option>
+                                            <option>46</option>
+                                            <option>47</option>
+                                            <option>48</option>
+                                            <option>49</option>
+                                            <option>50</option>
+                                            <option>51</option>
+                                            <option>52</option>
+                                            <option>53</option>
+                                            <option>54</option>
+                                            <option>55</option>
+                                            <option>56</option>
+                                            <option>57</option>
+                                            <option>58</option>
+                                            <option>59</option>
+                                        </select>
+                                    </span>
+                                </label>
+
+                                <input type="radio" name="reg-time" id="registration-time-am" class="grey form-control fancy-radio" value="AM" checked="checked">
+                                <label for="registration-time-am" class="vertical-label fancy-radio">AM</label>
+
+                                <input type="radio" name="reg-time" id="registration-time-pm" class="grey form-control fancy-radio" value="PM">
+                                <label for="registration-time-pm" class="vertical-label fancy-radio">PM</label>
                                 </div>
-                            </label>
 
-                            <label for="registration-time-minutes" class="inline">Minutes<br>
-                                <div class="create-select__arrow">
-                                    <select id="registration-time-minutes" class="create-select">
-                                        <option selected disabled value="">MM</option>
-                                        <option>00</option>
-                                        <option>01</option>
-                                        <option>02</option>
-                                        <option>03</option>
-                                        <option>04</option>
-                                        <option>05</option>
-                                        <option>06</option>
-                                        <option>07</option>
-                                        <option>08</option>
-                                        <option>09</option>
-                                        <option>10</option>
-                                        <option>11</option>
-                                        <option>12</option>
-                                        <option>13</option>
-                                        <option>14</option>
-                                        <option>15</option>
-                                        <option>16</option>
-                                        <option>17</option>
-                                        <option>18</option>
-                                        <option>19</option>
-                                        <option>20</option>
-                                        <option>21</option>
-                                        <option>22</option>
-                                        <option>23</option>
-                                        <option>24</option>
-                                        <option>25</option>
-                                        <option>26</option>
-                                        <option>27</option>
-                                        <option>28</option>
-                                        <option>29</option>
-                                        <option>30</option>
-                                        <option>31</option>
-                                        <option>32</option>
-                                        <option>33</option>
-                                        <option>34</option>
-                                        <option>35</option>
-                                        <option>36</option>
-                                        <option>37</option>
-                                        <option>38</option>
-                                        <option>39</option>
-                                        <option>40</option>
-                                        <option>41</option>
-                                        <option>42</option>
-                                        <option>43</option>
-                                        <option>44</option>
-                                        <option>45</option>
-                                        <option>46</option>
-                                        <option>47</option>
-                                        <option>48</option>
-                                        <option>49</option>
-                                        <option>50</option>
-                                        <option>51</option>
-                                        <option>52</option>
-                                        <option>53</option>
-                                        <option>54</option>
-                                        <option>55</option>
-                                        <option>56</option>
-                                        <option>57</option>
-                                        <option>58</option>
-                                        <option>59</option>
-                                    </select>
-                                </div>
-                            </label>  
-
-                            <input type="radio" name="reg-time" id="registration-time-am" class="grey form-control fancy-radio" value="AM" checked="true">
-                            <label for="registration-time-am" class="vertical-label fancy-radio">AM</label>
-
-                            <input type="radio" name="reg-time" id="registration-time-pm" class="grey form-control fancy-radio" value="PM">
-                            <label for="registration-time-pm" class="vertical-label fancy-radio">PM</label>
-                            </div>
-
-                            <ul class="current-errors"></ul>
+                                <ul class="current-errors"></ul>
+                            </fieldset>
                         </div>
 
                         <h2>Your details</h2>
                         <div class="form-group relative">
-                            <a name="name-link"></a>
-                            <span class="required-icon">*</span><label for="name">Full name</label>
+                            <a id="name-link"></a>
+                            <label for="name">
+                              <span>*</span> Full name
+                            </label>
                             <input id="name" class="grey form-control input--large" type="text">
                             <ul class="current-errors"></ul>
                         </div>
 
                         <div class="form-group relative">
-                            <a name="birthdate-link"></a>
-                            <span class="required-icon">*</span><label for="birthdate">Date of birth</label>
+                            <fieldset id="birthdate-link">
+                                <legend>
+                                  <span>*</span>
+                                  Date of birth
+                                </legend>
 
-                            <div class="input-wrapper birthdate" id="birthdate">
-                                <div class="create-select__arrow">
-                                    <select id="birthdate-day" class="create-select" title="Day">
-                                        <option selected disabled value="">Day</option>
-                                        <option value="01">1</option>
-                                        <option value="02">2</option>
-                                        <option value="03">3</option>
-                                        <option value="04">4</option>
-                                        <option value="05">5</option>
-                                        <option value="06">6</option>
-                                        <option value="07">7</option>
-                                        <option value="08">8</option>
-                                        <option value="09">9</option>
-                                        <option>10</option>
-                                        <option>11</option>
-                                        <option>12</option>
-                                        <option>13</option>
-                                        <option>14</option>
-                                        <option>15</option>
-                                        <option>16</option>
-                                        <option>17</option>
-                                        <option>18</option>
-                                        <option>19</option>
-                                        <option>20</option>
-                                        <option>21</option>
-                                        <option>22</option>
-                                        <option>23</option>
-                                        <option>24</option>
-                                        <option>25</option>
-                                        <option>26</option>
-                                        <option>27</option>
-                                        <option>28</option>
-                                        <option>29</option>
-                                        <option>30</option>
-                                        <option>31</option>
-                                    </select>
-                                </div>
+                                <div class="input-wrapper birthdate" id="birthdate">
+                                    <div class="create-select__arrow">
+                                        <select id="birthdate-day" class="create-select" title="Day">
+                                            <option selected disabled value="">Day</option>
+                                            <option value="01">1</option>
+                                            <option value="02">2</option>
+                                            <option value="03">3</option>
+                                            <option value="04">4</option>
+                                            <option value="05">5</option>
+                                            <option value="06">6</option>
+                                            <option value="07">7</option>
+                                            <option value="08">8</option>
+                                            <option value="09">9</option>
+                                            <option>10</option>
+                                            <option>11</option>
+                                            <option>12</option>
+                                            <option>13</option>
+                                            <option>14</option>
+                                            <option>15</option>
+                                            <option>16</option>
+                                            <option>17</option>
+                                            <option>18</option>
+                                            <option>19</option>
+                                            <option>20</option>
+                                            <option>21</option>
+                                            <option>22</option>
+                                            <option>23</option>
+                                            <option>24</option>
+                                            <option>25</option>
+                                            <option>26</option>
+                                            <option>27</option>
+                                            <option>28</option>
+                                            <option>29</option>
+                                            <option>30</option>
+                                            <option>31</option>
+                                        </select>
+                                    </div>
 
-                                <div class="create-select__arrow">
-                                    <select id="birthdate-month" class="create-select" title="Month">
-                                        <option selected disabled value="">Month</option>
-                                        <option value="01">January</option>
-                                        <option value="02">February</option>
-                                        <option value="03">March</option>
-                                        <option value="04">April</option>
-                                        <option value="05">May</option>
-                                        <option value="06">June</option>
-                                        <option value="07">July</option>
-                                        <option value="08">August</option>
-                                        <option value="09">September</option>
-                                        <option value="10">October</option>
-                                        <option value="11">November</option>
-                                        <option value="12">December</option>
-                                    </select>
-                                </div>
+                                    <div class="create-select__arrow">
+                                        <select id="birthdate-month" class="create-select" title="Month">
+                                            <option selected disabled value="">Month</option>
+                                            <option value="01">January</option>
+                                            <option value="02">February</option>
+                                            <option value="03">March</option>
+                                            <option value="04">April</option>
+                                            <option value="05">May</option>
+                                            <option value="06">June</option>
+                                            <option value="07">July</option>
+                                            <option value="08">August</option>
+                                            <option value="09">September</option>
+                                            <option value="10">October</option>
+                                            <option value="11">November</option>
+                                            <option value="12">December</option>
+                                        </select>
+                                    </div>
 
-                                <div class="create-select__arrow">                            
-                                    <select id="birthdate-year" class="create-select" title="Year">                                    
-                                        <option selected disabled value="">Year</option>
-                                        <option>2017</option><option>2016</option><option>2015</option><option>2014</option><option>2013</option><option>2012</option><option>2011</option><option>2010</option><option>2009</option><option>2008</option><option>2007</option><option>2006</option><option>2005</option><option>2004</option><option>2003</option><option>2002</option><option>2001</option><option>2000</option><option>1999</option><option>1998</option><option>1997</option><option>1996</option><option>1995</option><option>1994</option><option>1993</option><option>1992</option><option>1991</option><option>1990</option><option>1989</option><option>1988</option><option>1987</option><option>1986</option><option>1985</option><option>1984</option><option>1983</option><option>1982</option><option>1981</option><option>1980</option><option>1979</option><option>1978</option><option>1977</option><option>1976</option><option>1975</option><option>1974</option><option>1973</option><option>1972</option><option>1971</option><option>1970</option><option>1969</option><option>1968</option><option>1967</option><option>1966</option><option>1965</option><option>1964</option><option>1963</option><option>1962</option><option>1961</option><option>1960</option><option>1959</option><option>1958</option><option>1957</option><option>1956</option><option>1955</option><option>1954</option><option>1953</option><option>1952</option><option>1951</option><option>1950</option><option>1949</option><option>1948</option><option>1947</option><option>1946</option><option>1945</option><option>1944</option><option>1943</option><option>1942</option><option>1941</option><option>1940</option><option>1939</option><option>1938</option><option>1937</option><option>1936</option><option>1935</option><option>1934</option><option>1933</option><option>1932</option><option>1931</option><option>1930</option><option>1929</option><option>1928</option><option>1927</option><option>1926</option><option>1925</option><option>1924</option><option>1923</option><option>1922</option><option>1921</option><option>1920</option><option>1919</option><option>1918</option><option>1917</option><option>1916</option><option>1915</option><option>1914</option><option>1913</option><option>1912</option><option>1911</option><option>1910</option><option>1909</option><option>1908</option><option>1907</option><option>1906</option><option>1905</option><option>1904</option><option>1903</option><option>1902</option><option>1901</option>
-                                    </select>
+                                    <div class="create-select__arrow">
+                                        <select id="birthdate-year" class="create-select" title="Year">
+                                            <option selected disabled value="">Year</option>
+                                            <option>2017</option><option>2016</option><option>2015</option><option>2014</option><option>2013</option><option>2012</option><option>2011</option><option>2010</option><option>2009</option><option>2008</option><option>2007</option><option>2006</option><option>2005</option><option>2004</option><option>2003</option><option>2002</option><option>2001</option><option>2000</option><option>1999</option><option>1998</option><option>1997</option><option>1996</option><option>1995</option><option>1994</option><option>1993</option><option>1992</option><option>1991</option><option>1990</option><option>1989</option><option>1988</option><option>1987</option><option>1986</option><option>1985</option><option>1984</option><option>1983</option><option>1982</option><option>1981</option><option>1980</option><option>1979</option><option>1978</option><option>1977</option><option>1976</option><option>1975</option><option>1974</option><option>1973</option><option>1972</option><option>1971</option><option>1970</option><option>1969</option><option>1968</option><option>1967</option><option>1966</option><option>1965</option><option>1964</option><option>1963</option><option>1962</option><option>1961</option><option>1960</option><option>1959</option><option>1958</option><option>1957</option><option>1956</option><option>1955</option><option>1954</option><option>1953</option><option>1952</option><option>1951</option><option>1950</option><option>1949</option><option>1948</option><option>1947</option><option>1946</option><option>1945</option><option>1944</option><option>1943</option><option>1942</option><option>1941</option><option>1940</option><option>1939</option><option>1938</option><option>1937</option><option>1936</option><option>1935</option><option>1934</option><option>1933</option><option>1932</option><option>1931</option><option>1930</option><option>1929</option><option>1928</option><option>1927</option><option>1926</option><option>1925</option><option>1924</option><option>1923</option><option>1922</option><option>1921</option><option>1920</option><option>1919</option><option>1918</option><option>1917</option><option>1916</option><option>1915</option><option>1914</option><option>1913</option><option>1912</option><option>1911</option><option>1910</option><option>1909</option><option>1908</option><option>1907</option><option>1906</option><option>1905</option><option>1904</option><option>1903</option><option>1902</option><option>1901</option>
+                                        </select>
+                                    </div>
+                                    <ul class="current-errors"></ul>
+
                                 </div>
-                                <ul class="current-errors"></ul>
-                            </div>
+                            </fieldset>
                         </div>
 
                         <div class="form-group relative">
-                            <a name="email-link"></a>
-                            <span class="required-icon">*</span><label for="email">Email address</label>
+                            <a id="email-link"></a>
+                            <label for="email">
+                              <span>*</span>
+                              Email address
+                            </label>
                             <input id="email" class="grey form-control" type="email">
                             <ul class="current-errors"></ul>
                             <ul class="server-side-errors"></ul>
                         </div>
 
                         <div class="form-group relative">
-                            <a name="telephone-number-link"></a>
+                            <a id="telephone-number-link"></a>
                             <label for="telephone-number">Phone number <span class="optional">(optional)</span></label>
                             <p>We will use the contact details  if there are any problems with your form and we need to contact you. <br>
                             If you live overseas, include the international dialling code e.g. +34.
@@ -356,8 +340,11 @@ frontpage: no
                         </div>
 
                         <div class="form-group relative">
-                            <a name="address-1-link"></a>                            
-                            <span class="required-icon">*</span><label for="address-1">Address line 1</label>
+                            <a id="address-1-link"></a>
+                            <label for="address-1">
+                              <span>*</span>
+                              Address line 1
+                            </label>
                             <input id="address-1" class="grey form-control" type="text">
                             <ul class="current-errors"></ul>
                         </div>
@@ -373,16 +360,22 @@ frontpage: no
                         </div>
 
                         <div class="form-group relative">
-                            <a name="postcode-link"></a>
-                            <span class="required-icon">*</span> <label for="postcode">Postcode</label>
+                            <a id="postcode-link"></a>
+                            <label for="postcode">
+                              <span>*</span>
+                              Postcode
+                            </label>
                             <input id="postcode" class="grey form-control input--small" type="text">
                             <ul class="current-errors"></ul>
                         </div>
 
                         <h2>Online activity</h2>
                         <div class="form-group relative" id="smartphone-radio">
-                            <a name="smartphone-radio-link"></a>
-                                <span class="required-icon">*</span><legend>Do you use a smartphone or tablet to access the internet?</legend>
+                            <fieldset id="smartphone-radio-link">
+                                <legend>
+                                  <span>*</span>
+                                  Do you use a smartphone or tablet to access the internet?
+                                </legend>
                                 <div class="input-wrapper">
                                     <input id="smartphone-yes" name="smartphone" class="grey form-control fancy-radio" type="radio">
                                     <label for="smartphone-yes" class="inline fancy-radio">Yes</label>
@@ -390,6 +383,7 @@ frontpage: no
                                     <label for="smartphone-no" class="inline fancy-radio" >No</label>
                                     <ul class="current-errors"></ul>
                                 </div>
+                            </fieldset>
                         </div>
 
                         <div class="form-group relative" id="devices">
@@ -409,9 +403,10 @@ frontpage: no
                         </div>
 
                         <div class="form-group relative">
-                            <a name="time-online-link"></a>
                             <fieldset id="time-online">
-                                <span class="required-icon">*</span><legend>Daily time spent online?</legend>
+                                <legend>
+                                  <span>*</span> Daily time spent online?
+                                </legend>
                                 <p>Please indicate number of hours spent in each area.</p>
                                 <ul class="current-errors"></ul>
                                 <div class="input-wrapper time-online">
@@ -446,9 +441,11 @@ frontpage: no
                         <h2>Feedback</h2>
 
                         <div class="form-group relative">
-                            <a name="form-difficulty-link"></a>
                             <fieldset id="form-difficulty">
-                                <span class="required-icon">*</span><legend>Tell us how you have found this form so far</legend>
+                                <legend>
+                                  <span>*</span>
+                                  Tell us how you have found this form so far
+                                </legend>
                                 <ul class="current-errors"></ul>
                                 <div class="input-wrapper">
                                     <input name="form-difficulty" id="very-difficult" class="fancy-radio" type="radio">
@@ -470,7 +467,6 @@ frontpage: no
                         </div>
 
                         <div class="form-group relative">
-                        <a name="comments-link"></a>
                             <label for="comments">Any other comments <span class="optional">(optional)</span></label>
                             <p>
                                 If you’ve had any frustrations or the experience has been a pleasure throughout, then tell us here.
@@ -486,50 +482,56 @@ frontpage: no
                         <h2>Confirmation</h2>
 
                         <div class="form-group relative date-entry" id="confirm-date">
-                            <a name="confirm-date-link"></a>
-                            <span class="required-icon">*</span><legend
-                                class="filters_">Confirm date of session</legend>
-                            <p>Use DD/MM/YYYY format.</p>
-                            <div class="date-entry__input-group input-group input-wrapper">
-                                <input maxlength="2" type="number" pattern="[0-9]*" id="registration-date-day" title="Day" placeholder="DD" class="grey form-control input__datepicker--day" />                            
-                                <span class="time-slash">/</span>                              
-                                <input maxlength="2" type="number" pattern="[0-9]*" id="registration-date-month" title="Month" placeholder="MM" class="grey form-control input__datepicker--month" />                            
-                                <span class="time-slash">/</span>
-                                <input maxlength="4" type="number" pattern="[0-9]*" id="registration-date-year" title="Year" placeholder="YYYY" class="grey form-control input__datepicker--year" />
-                                <button id="confirm-date-start-trigger" type="button" class="date-entry__trigger button button--primary js-show-calendar">Choose date</button>
-                                <ul class="current-errors"></ul>
-                            </div>
-                            <div id="confirm-date-calendar" class="date-entry__calendar">
-                            </div>
+                            <fieldset id="confirm-date-link">
+                                <legend class="filters_">
+                                  <span>*</span>
+                                  Confirm date of session
+                                </legend>
+                                <p>Use DD/MM/YYYY format.</p>
+                                <div class="date-entry__input-group input-group input-wrapper">
+                                    <input maxlength="2" type="text" pattern="[0-9]*" id="registration-date-day" title="Day" placeholder="DD" class="grey form-control input__datepicker--day" />
+                                    <span class="time-slash">/</span>
+                                    <input maxlength="2" type="text" pattern="[0-9]*" id="registration-date-month" title="Month" placeholder="MM" class="grey form-control input__datepicker--month" />
+                                    <span class="time-slash">/</span>
+                                    <input maxlength="4" type="text" pattern="[0-9]*" id="registration-date-year" title="Year" placeholder="YYYY" class="grey form-control input__datepicker--year" />
+                                    <button id="confirm-date-start-trigger" type="button" class="date-entry__trigger button button--primary js-show-calendar">Choose date</button>
+                                    <ul class="current-errors"></ul>
+                                </div>
+                                <div id="confirm-date-calendar" class="date-entry__calendar">
+                                </div>
+                            </fieldset>
                         </div>
 
                         <div class="form-group relative" id="confirm-time">
-                            <a name="confirm-time-link"></a>
-                            <span class="required-icon">*</span><legend>Confirm your time slot</legend>
+                            <fieldset id="confirm-time-link">
+                                <legend>
+                                  <span>*</span>
+                                  Confirm your time slot
+                                </legend>
 
-                            <div class="input-wrapper">
-                            <label for="confirm-time-hours" class="inline">Hours<br>
-                                <input maxlength="2" type="number" pattern="[0-9]*" id="confirm-time-hours" class="grey" placeholder="HH">
-                            </label>
+                                <div class="input-wrapper">
+                                <label for="confirm-time-hours" class="inline">Hours<br>
+                                    <input maxlength="2" type="text" pattern="[0-9]*" id="confirm-time-hours" class="grey" placeholder="HH">
+                                </label>
 
-                            <span class="time-colon">:</span>
+                                <span class="time-colon">:</span>
 
-                            <label for="confirm-time-minutes" class="inline">Minutes<br>
-                                <input maxlength="2" type="number" pattern="[0-9]*" id="confirm-time-minutes" class="grey" placeholder="MM">
-                            </label>  
+                                <label for="confirm-time-minutes" class="inline">Minutes<br>
+                                    <input maxlength="2" type="text" pattern="[0-9]*" id="confirm-time-minutes" class="grey" placeholder="MM">
+                                </label>
 
-                            <input type="radio" name="confirm-time" id="confirm-time-am" class="grey form-control fancy-radio" value="AM" checked="true">
-                            <label for="confirm-time-am" class="vertical-label fancy-radio">AM</label>
+                                <input type="radio" name="confirm-time" id="confirm-time-am" class="grey form-control fancy-radio" value="AM" checked="checked">
+                                <label for="confirm-time-am" class="vertical-label fancy-radio">AM</label>
 
-                            <input type="radio" name="confirm-time" id="confirm-time-pm" class="grey form-control fancy-radio" value="PM">
-                            <label for="confirm-time-pm" class="vertical-label fancy-radio">PM</label>
-                            </div>
-                            <ul class="current-errors"></ul>
+                                <input type="radio" name="confirm-time" id="confirm-time-pm" class="grey form-control fancy-radio" value="PM">
+                                <label for="confirm-time-pm" class="vertical-label fancy-radio">PM</label>
+                                </div>
+                                <ul class="current-errors"></ul>
+                            </fieldset>
                         </div>
 
 
                         <div class="expandable-item expandable-item--disclaimer">
-                            <a name="consent-link"></a>
                             <fieldset id="consent">
                                 <legend>Accept Consent Statement</legend>
                                 <input type="checkbox" id="consent-checkbox" class="fancy-checkbox">
