@@ -411,27 +411,27 @@ frontpage: no
                                 <ul class="current-errors"></ul>
                                 <div class="input-wrapper time-online">
                                     <div>
-                                        <input id="time-online-social" class="grey form-control" type="number" step="0.5" placeholder="0">
+                                        <input id="time-online-social" class="grey form-control" type="text" pattern="[0-9]*" placeholder="0">
                                         <label for="time-online-social" class="inline">Social networking sites</label>
                                     </div>
                                     <div>
-                                        <input id="time-online-news" class="grey form-control" type="number" step="0.5" placeholder="0">
+                                        <input id="time-online-news" class="grey form-control" type="text" pattern="[0-9]*" placeholder="0">
                                         <label for="time-online-news" class="inline">News sites</label>
                                     </div>
                                     <div>
-                                        <input id="time-online-youtube" class="grey form-control" type="number" step="0.5" placeholder="0">
+                                        <input id="time-online-youtube" class="grey form-control" type="text" pattern="[0-9]*" placeholder="0">
                                         <label for="time-online-youtube" class="inline">YouTube</label>
                                     </div>
                                     <div>
-                                        <input id="time-online-work" class="grey form-control" type="number" step="0.5" placeholder="0">
+                                        <input id="time-online-work" class="grey form-control" type="text" pattern="[0-9]*" placeholder="0">
                                         <label for="time-online-work" class="inline">Work-related</label>
                                     </div>
                                     <div>
-                                        <input id="time-online-gaming" class="grey form-control" type="number" step="0.5" placeholder="0">
+                                        <input id="time-online-gaming" class="grey form-control" type="text" pattern="[0-9]*" placeholder="0">
                                         <label for="time-online-gaming" class="inline">Gaming</label>
                                     </div>
                                     <div>
-                                        <input id="time-online-other" class="grey form-control" type="number" step="0.5" placeholder="0">
+                                        <input id="time-online-other" class="grey form-control" type="text" pattern="[0-9]*" placeholder="0">
                                         <label for="time-online-other" class="inline">Other</label>
                                     </div>
                                 </div>
