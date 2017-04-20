@@ -246,7 +246,7 @@ form select {
   }
 }
 
-.time-online input[type="number"].grey {
+.time-online input.grey {
   width: 45px;
   display: inline-block;
   margin: 21px 10px 0px 10px;
@@ -256,7 +256,7 @@ form select {
 
 @media(min-width: 768px) {
 
-.time-online input[type="number"].grey {
+.time-online input.grey {
     margin: 21px 15px 0px 10px;
   }
 
@@ -446,7 +446,7 @@ input + label.fancy-checkbox:before {
   font-size: 18px;
   height: 28px;
   left: 0;
-  line-height: 25px;
+  line-height: 26px;
   position: absolute;
   text-align: center;
   top: 0;
@@ -461,39 +461,42 @@ input + label.fancy-radio:before, label.fancy-radio:before {
   content: '';
   float: left;
   font-size: 10px;
-  height: 22px;
+  height: 28px;
   left: 0;
   line-height: 22px;
   position: absolute;
   text-align: center;
-  width: 22px;
+  width: 28px;
   font-family: 'FontAwesome';
-  box-sizing: content-box;
+  box-sizing: border-box;
 }
 
 /* line 162, ../../../src/scss/base/_base.forms.scss */
 input:focus + label.fancy-checkbox:before {
-  background-color: #e5f0f8;
-  border: 2px solid #0065bd;
+  background-color: #e5f0f8 !important;
+  border: 2px solid #0065bd !important;
+  line-height: 24px !important;
 }
 
 input:focus + label.fancy-radio:before {
     border-color: #0065bd !important;
     color: #0065bd !important;
     background-color: #e5f0f8 !important;
+    border-width: 4px;
+    line-height: 20px !important;
 }
 
 /* line 166, ../../../src/scss/base/_base.forms.scss */
 input:checked + label.fancy-checkbox:before {
-  border: 2px solid #0065bd;
+  border: 1px solid #0065bd;
   color: #0065bd;
-  background-color: #e5f0f8;
+  background-color: #fff;
   content: '\f00c';
 }
 
 input:checked + label.fancy-radio:before {
-  border-color: #333;
-  color: #333;
+  border-color: #0065bd;
+  color: #0065bd;
   background-color: #fff;
   content: '\f111';
 }
