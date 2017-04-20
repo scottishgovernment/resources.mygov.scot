@@ -1,12 +1,12 @@
 ---
 layout: article
-title:  "Forms Guidance (alpha)"
+title:  "Forms Guidance (beta)"
 categories: documentation
-summary: The standard for the look and feel of forms available on mygov.scot.
+summary: Recommended design and build standards for creating forms.
 imperative: Guideline
 type: design
-index: 2
-frontpage: no
+index: 1
+frontpage: yes
 headings:
 - Form structure
 - Common elements
