@@ -133,30 +133,25 @@ form select {
   border: 1px solid #727272;
   border-radius: 5px;
   color: #333;
+  margin-right: 0;
   padding-left: 7px;
 }
 
 .create-select__arrow:after {
   content: " ";
   background: url('../../assets/images/icons/arrows/dd_arrows_35px.png');
-  display: inline-block;
   width: 35px;
   height: 42px;
-  position: relative;
-  right: 0px;
-  bottom: -17px;
   pointer-events: none;
+  position: absolute;
+  right: 0px;
+  top: 0;
 }
 
 .create-select__arrow {
   display: inline-block;
-/*  width: inherit;
-  min-width: 85px;
-*/}
-
-
-#registration-time label, #confirm-time label {
-  line-height: 0px;
+  margin-right: 20px;
+  position: relative;
 }
 
 #registration-time .input-wrapper, #confirm-time .input-wrapper {
@@ -186,7 +181,6 @@ form select {
 #confirm-time-hours, #confirm-time-minutes {
   width: 48px;
   height: 42px;
-  margin-top: 17px;
 }
 
 .time-colon {
@@ -212,12 +206,6 @@ form select {
 
 /**** Fixed widths - to be added to for mobile ****/
 
-
-#birthdate.input-wrapper {
-  /* This is a quick fix as reason for extra space at top of element can't be found */
-  margin-top: -10px;
-}
-
 @media(min-width: 360px) {
 
   #birthdate-month {
@@ -225,7 +213,6 @@ form select {
   }
 
   .birthdate select {
-    margin-right: -36px;
     line-height: 21px;
   }
 
@@ -237,8 +224,6 @@ form select {
     background: url('../../assets/images/icons/arrows/dd_arrows_35px.png');
     width: 35px;
     height: 42px;
-    right: 0px;
-    bottom: -17px;
   }
 
   #registration-time label[for="registration-time-minutes"] {
@@ -268,10 +253,6 @@ form select {
     width: 155px;
   }
 
-  .birthdate select {
-    margin-right: -30px;
-  }
-
   form select {
     margin-right: -46px;
   }
@@ -280,8 +261,6 @@ form select {
     background: url('../../assets/images/icons/arrows/dd_arrows.png');
     width: 42px;
     height: 42px;
-    right: 0px;
-    bottom: -17px;
   }
 
   #registration-time label[for="registration-time-hours"] {
@@ -310,10 +289,6 @@ form select {
 
   #confirm-date .time-slash {
     margin: 1px;
-  }
-
-  .birthdate .create-select__arrow:after {
-    right: 16px;
   }
 }
 
@@ -521,7 +496,6 @@ form .vertical-label {
 
 .vertical-label.fancy-radio:before {
   left: -1px;
-  top: 23px;
 }
 
 @media (min-width: 768px) {
@@ -532,7 +506,6 @@ form .vertical-label {
 
   .vertical-label.fancy-radio:before {
     left: -40px;
-    top: -15px;
   }
 }
 
