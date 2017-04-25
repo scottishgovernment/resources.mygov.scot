@@ -496,6 +496,7 @@ form .vertical-label {
 
 .vertical-label.fancy-radio:before {
   left: -1px;
+  top: 37px;
 }
 
 @media (min-width: 768px) {
@@ -505,6 +506,7 @@ form .vertical-label {
   }
 
   .vertical-label.fancy-radio:before {
+    top: 0;
     left: -40px;
   }
 }
