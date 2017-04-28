@@ -793,12 +793,8 @@ input[type=number].input-error:focus, input[type=tel].input-error:focus, input[t
 }
 
 .input-error + label.fancy-radio:before {
-  border-color: #d32205;
-}
-
-.input-error.input:checked + label.fancy-radio:before {
-  color: #0065bd;
-  border-color: #d32205;
+  border-color: #d32205 !important;
+  color: #d32205 !important;
 }
 
 textarea.grey {

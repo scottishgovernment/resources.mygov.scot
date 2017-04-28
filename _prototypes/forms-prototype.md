@@ -376,7 +376,7 @@ frontpage: no
                                   <span>*</span>
                                   Do you use a smartphone or tablet to access the internet?
                                 </legend>
-                                <div class="input-wrapper">
+                                <div>
                                     <input id="smartphone-yes" name="smartphone" class="grey form-control fancy-radio" type="radio">
                                     <label for="smartphone-yes" class="inline fancy-radio">Yes</label>
                                     <input id="smartphone-no" name="smartphone" class="grey form-control fancy-radio" type="radio">
