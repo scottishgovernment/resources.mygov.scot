@@ -1,6 +1,6 @@
 ---
 layout: digital-first-criteria
-title:  "12. Usable and Accessible"
+title:  "02. Usable and Accessible"
 summary:
 category: standard
 imperative: Standard

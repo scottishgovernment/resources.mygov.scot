@@ -1,6 +1,6 @@
 ---
 layout: digital-first-criteria
-title:  "14. Channel Shift"
+title:  "03. Channel Shift"
 summary:
 category: standard
 imperative: Standard

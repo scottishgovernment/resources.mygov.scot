@@ -1,6 +1,6 @@
 ---
 layout: digital-first-criteria
-title:  "18. Open Data"
+title:  "13. Open Data"
 category: standard
 imperative: Standard
 index: 0

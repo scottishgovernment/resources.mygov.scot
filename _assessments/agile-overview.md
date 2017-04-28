@@ -21,7 +21,7 @@ The principles behind agile delivery are set out in the [Agile Manifesto (2001)]
 
 Agile delivery is split into 4 different phases: Discovery, Alpha, Beta and Live. There is more information about each of these stages below.
 
-Digital First Service Standard assessments take place during the Discovery, Alpha and Beta phases of a project.
+If a project is being delivered using agile methods Digital First Service Standard assessments take place during the Discovery, Alpha and Beta phases.
 
 Further information on Agile can be found on the [gov.uk website](https://www.gov.uk/service-manual/agile-delivery/agile-government-services-introduction).
 
@@ -31,9 +31,9 @@ Further information on Agile can be found on the [gov.uk website](https://www.go
 
 Future public services in Scotland need to be flexible. When services are delivered using agile methods, it allows them to be changed quickly and improved regularly.
 
-Service teams across Scotland must use the agile approach to delivering a service as part of the [Digital First Service Standard](standards/digital-first).
+If you're not using agile to deliver your service, please raise this in your first conversation with the Digital First team.
 
-If you think you can’t use agile to deliver your service, please raise this in your first conversation with the Digital First team, contact them at <a href="mailto:OCIOAssurance@gov.scot">OCIOAssurance@gov.scot</a>.
+You can contact them at <a href="mailto:OCIOAssurance@gov.scot">OCIOAssurance@gov.scot</a>.
 
 ## Discovery
 

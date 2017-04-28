@@ -1,6 +1,6 @@
 ---
 layout: digital-first-criteria
-title:  "03. Cross Functional Team"
+title:  "07. Cross-functional Team"
 category: standard
 imperative: Standard
 index: 0

@@ -1,6 +1,6 @@
 ---
 layout: digital-first-criteria
-title:  "19. Green ICT"
+title:  "17. Green ICT"
 summary:
 category: standard
 imperative: Standard

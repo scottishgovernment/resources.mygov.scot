@@ -1,6 +1,6 @@
 ---
 layout: digital-first-criteria
-title:  "15. Data Driven"
+title:  "06. Data Driven"
 summary:
 category: standard
 imperative: Standard

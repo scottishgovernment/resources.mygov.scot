@@ -84,3 +84,7 @@ Performance Assessors  look at how the service team understand and are improving
 
 * collecting and presenting performance data and analysis for their service
 * using data to improve the service
+
+## Becoming an assessor
+
+We are always looking to recruit new assessors. If you are interested is becoming a Digital First Assessor or would like to find out more about the assessor roles please contact the Digital First Team at <a href="mailto:OCIOAssurance@gov.scot">OCIOAssurance@gov.scot</a>.

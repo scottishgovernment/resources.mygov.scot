@@ -1,6 +1,6 @@
 ---
 layout: digital-first-criteria
-title:  "06. Technology Appraisal"
+title:  "11. Technology Appraisal"
 summary:
 category: standard
 imperative: Standard

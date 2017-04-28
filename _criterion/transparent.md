@@ -1,6 +1,6 @@
 ---
 layout: digital-first-criteria
-title:  "17. Transparent"
+title:  "20. Transparent"
 summary:
 category: standard
 imperative: Standard
@@ -25,11 +25,11 @@ The Performance Platform collects their service’s data and presents it in a co
 
 Their assessment and the questions the assessors ask them will vary depending on their service and what it does.
 
-###In the discovery assessment
+### In the discovery assessment
 
 To pass the discovery assessment, the service team usually needs to show that they have spoken with the Performance Platform Team
 
-###In the alpha assessment
+### In the alpha assessment
 
 To pass they usually need to show they’ve:
 

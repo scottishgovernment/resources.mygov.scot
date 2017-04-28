@@ -1,6 +1,6 @@
 ---
 layout: digital-first-criteria
-title:  "09. Open Standards"
+title:  "16. Open Standards"
 summary:
 category: standard
 imperative: Standard

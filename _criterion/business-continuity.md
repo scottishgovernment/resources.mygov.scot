@@ -1,6 +1,6 @@
 ---
 layout: digital-first-criteria
-title:  "11. Business Continuity"
+title:  "10. Business Continuity"
 category: standard
 imperative: Standard
 index: 0

@@ -29,6 +29,7 @@ The Scottish Government’s Digital Transformation Service works with organisati
 
 The Digital First team are looking for assessors from the following specialisms:
 
+* assisted digital
 * product management
 * user research
 * technical

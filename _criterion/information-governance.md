@@ -1,6 +1,6 @@
 ---
 layout: digital-first-criteria
-title:  "07. Information Governance"
+title:  "12. Information Governance"
 summary:
 category: standard
 imperative: Standard

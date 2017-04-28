@@ -12,7 +12,7 @@ index: 0
 {:toc}
 <!--TOC max3-->
 
-After the assessment, the panel will produce a report. This will give feedback to the Service Manager and Service Team including whether they have met the standard or not met it.
+After the assessment, the panel will produce a report and submit it to the Office of the Chief Information Officer. The report will be checked and sent to the service team, giving  feedback including whether they have met the standard or not met it.
 
 There is a [template](/Assessment_report_template.docx) you should use for the report.
 
@@ -41,7 +41,7 @@ The [report template](/Assessment_report_template.docx) should always be used.
 
 ## Report style guide
 
-You should follow the GOV.UK style guide for the report.
+You should follow the [GOV.UK style guide](https://www.gov.uk/guidance/style-guide) for the report.
 
 This includes:
 
@@ -71,13 +71,13 @@ This should include examples of good practice so that other service teams workin
 
 ### Not met the standard
 
-For services that have not met the Digital First Service Standard the report should explain why the service hasn’t reached the standard in a practical way. It should help the service team learn how to resolve any issues  for the next assessment.
+For services that have not met the Digital First Service Standard the report should explain why the service hasn’t reached the standard in a practical way. It should help the service team learn how to resolve any issues.
 
 ## Recommendations and requirements
 
-Recommendations can be provided by the assessment panel for the points in the standard that have been met. The aim of recommendations is to give the service team points to consider during the next stage of development.
+Recommendations can be provided by the assessment panel for the points in the standard that have been met. The aim of recommendations is to give the service team further points to consider during the next stage of development.
 
-Requirements should be provided by the assessment panel for the points that were not met. It will be mandatory for the service team to meet these requirements before they sit the re-assessment. The panel should set a fixed amount of time for when the requirement should be met.
+Requirements should be provided by the assessment panel for the points that were not met. It will be mandatory for the service team to meet these requirements.
 
 ### How to write recommendations and requirements
 
@@ -95,6 +95,12 @@ Further information is provided by the [Scottish Information Commissioner]( http
 
 Within the report, any commercial partner on the service should be referenced as either the “supplier” or “3rd party”.
 
-The report will be sent to the service team for fact checking before it is published.
-
 If you’re a Lead Assessor and would like some support with this, contact the Digital First Team at <a href="mailto:OCIOAssurance@gov.scot">OCIOAssurance@gov.scot</a>.
+
+## Examples
+
+Assessment report structured by:
+
+* area of expertise - [DVLA Webchat](/Example_1_-_DVLA_webchat.docx)
+* individual criteria - [HM Passport Office online booking appointment](/Example_2_HMPO_Online_Appointment_Booking_(CHAMP).docx)
+* service capability - [Check Your State Pension](/Example_3_check_your_state_pension.docx)

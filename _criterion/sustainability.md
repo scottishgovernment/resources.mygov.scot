@@ -1,6 +1,6 @@
 ---
 layout: digital-first-criteria
-title:  "05. Sustainability"
+title:  "08. Sustainability"
 summary:
 category: standard
 imperative: Standard

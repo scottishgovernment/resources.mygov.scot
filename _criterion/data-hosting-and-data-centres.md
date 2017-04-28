@@ -1,6 +1,6 @@
 ---
 layout: digital-first-criteria
-title:  "20. Data Hosting and Data Centres"
+title:  "18. Data Hosting and Data Centres"
 summary:
 category: standard
 imperative: Standard

@@ -1,6 +1,6 @@
 ---
 layout: digital-first-criteria
-title:  "04. Continuous Improvement"
+title:  "09. Continuous Improvement"
 category: standard
 imperative: Standard
 index: 0

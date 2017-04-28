@@ -1,6 +1,6 @@
 ---
 layout: digital-first-criteria
-title:  "10. Operational Acceptance"
+title:  "21. Operational Acceptance"
 summary:
 category: standard
 imperative: Standard
