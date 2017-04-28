@@ -14,7 +14,7 @@ index: 0
 
 ## Contacting the Digital First Team
 
-If you are launching a new digital public service or redesigning an existing service, it needs to go through the different stages of the [Digital First Service Standard] (https://resources.mygov.scot/standards/digital-first/) assessment.
+If you are launching a new digital public service or redesigning an existing service, it needs to go through the different stages of the [Digital First Service Standard](https://resources.mygov.scot/standards/digital-first/) assessment.
 
 The Digital First team are there to support you whenever you need it.
 
@@ -22,7 +22,7 @@ Contact them at <a href="mailto:OCIOAssurance@gov.scot">OCIOAssurance@gov.scot</
 
 ## Before the Assessment
 
-The service team needs to consider all [22 criteria] (https://resources.mygov.scot/standards/digital-first/) and present evidence in the presentation.
+The service team needs to consider all [22 criteria](https://resources.mygov.scot/standards/digital-first/) and present evidence in the presentation.
 
 Assessors should get in touch with the service team before the assessment.
 
