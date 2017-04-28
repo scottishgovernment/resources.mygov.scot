@@ -14,7 +14,7 @@ index: 0
 
 Identify how your service aligns with Scotland’s digital ecosystem.
 
-## How point 21 improves the service
+## How point 14 improves the service
 
 The Digital Ecosystem allows for knowledge transfer and the reuse of capabilities developed across a variety of service patterns.
 

@@ -15,7 +15,7 @@ index: 0
 
 Evaluate what technology, tools and systems will be used to build, host, operate and measure the service and how to procure them.
 
-## How point 6 improves their service
+## How point 11 improves their service
 
 Evaluating the tools and systems they use to build their service helps they to:
 

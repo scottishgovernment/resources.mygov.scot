@@ -15,7 +15,7 @@ index: 0
 
 Use open standards and common government platforms where available.
 
-## How point 9 improves their service
+## How point 16 improves their service
 
 Using open standards and common government platforms means they:
 

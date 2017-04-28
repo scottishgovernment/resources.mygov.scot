@@ -15,7 +15,7 @@ index: 0
 
 Put a plan in place for on-going user research and usability testing to continuously seek feedback and input from users to improve the service.
 
-## How point 2 improves their service
+## How point 5 improves their service
 
 Doing ongoing user research means they can:
 

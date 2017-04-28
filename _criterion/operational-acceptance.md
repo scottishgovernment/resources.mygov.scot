@@ -15,7 +15,7 @@ index: 0
 
 Regularly test the end-to-end services in an environment identical to that of the live version, including on all common browsers and devices, and using dummy accounts and a representative sample of users.
 
-## How point 10 improves their service
+## How point 21 improves their service
 
 Testing the end-to-end service allows them to:
 

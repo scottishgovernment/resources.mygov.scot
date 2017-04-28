@@ -15,7 +15,7 @@ index: 0
 
 Adopt cloud computing or virtualisation for data hosting for the service. If not, give a strong argument for why one of the above hasn’t been used.
 
-## How point 20 improves their service
+## How point 18 improves their service
 
 * the adoption of cloud computing or virtualisation will reduce the cost of infrastructure – this reduces the cost of digital public services
 * it will provide a reduction in Scotland’s carbon footprint through the procurement, evaluation and utilisation of data hosting and data centres with proven track records in carbon savings

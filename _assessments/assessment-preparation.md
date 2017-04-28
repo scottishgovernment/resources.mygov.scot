@@ -27,10 +27,11 @@ The service team needs to consider all [22 criteria] (https://resources.mygov.sc
 Assessors should get in touch with the service team before the assessment.
 
 Assessors will learn about the service by speaking to the service team about:
-•	the context of the service
-•	the makeup of the team
-•	what’s went well so far
-•	future challenges
+
+* the context of the service
+* the makeup of the team
+* what’s went well so far
+* future challenges
 
 ## At the Assessment
 
@@ -95,12 +96,10 @@ Assessors cover:
 
 ## After the assessment
 
-The Lead Assessor will send the assessment report to the Digital First team one working week after the assessment. This will be reviewed and then sent to the service team.
+All assessors will provide feedback for the report and the Lead Assessor will send it to the Digital First team shortly after the assessment. In the report, the assessors will make a recommendation for the outcome of the assessment.
 
-All assessors will provide feedback for the report and they will decide together about whether the service meets the standard or not.
+This will be reviewed by the Office of the Chief Information Officer (OCIO) and then the report will be sent to the service team.
 
-If the service meets the standard, the project can proceed.
-
-If the service does not meet the standard, there will be actions in the report that need to be followed. The team will also have to sit a re-assessment of the unmet criteria before the project can go on to the next phase.
+The implications of the outcome of the assessment will be explained to the service team.
 
 There is a [template report](/Assessment_report_template.docx) and guidance on how to [write the report](/assessments/assessment-guide-to-writing-the-report). 			

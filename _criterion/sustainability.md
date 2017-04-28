@@ -15,7 +15,7 @@ index: 0
 
 Build a service that can be iterated and improved on a frequent basis and make sure that you have the capability, resources and technical flexibility.
 
-## How point 5 improves their service
+## How point 8 improves their service
 
 They need to build a service which they can iterate and keep improving so that they can:
 

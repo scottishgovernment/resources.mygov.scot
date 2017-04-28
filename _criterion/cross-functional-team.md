@@ -14,7 +14,7 @@ index: 0
 
 Put in place a sustainable multi-disciplinary team that can design, build and operate the service. This team will be led by a suitably skilled senior manager with decision-making responsibility.
 
-## How point 3 improves their service
+## How point 7 improves their service
 
 A multidisciplinary team helps them to:
 
