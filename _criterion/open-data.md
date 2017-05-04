@@ -14,7 +14,7 @@ index: 0
 
 Make all non-personal, non-commercially sensitive data from the service available for re-use by others under an appropriate licence.
 
-## How point 13 improves their service
+## How point 13 improves the service
 
 Making data open will support:
 

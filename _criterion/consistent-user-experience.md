@@ -14,7 +14,7 @@ index: 0
 
 Build a service consistent with the user experience of the rest of mygov.scot, including using the mygov.scot design style guide and the GOV.UK content style guide.
 
-## How point 4 improves their service
+## How point 4 improves the service
 
 Using consistent language and design patterns means:
 

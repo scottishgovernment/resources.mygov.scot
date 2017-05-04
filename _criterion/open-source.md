@@ -15,7 +15,7 @@ index: 0
 
 Make all new source code open and reusable, and publish it under appropriate licences (or provide a convincing explanation as to why this cannot be done for specific subsets of the source code).
 
-## How point 15 improves their service
+## How point 15 improves the service
 
 Making their source code open means:
 

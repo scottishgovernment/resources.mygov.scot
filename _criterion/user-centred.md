@@ -15,18 +15,18 @@ index: 0
 
 Understand user needs. Research to develop a deep knowledge of who the service users are and what that means for the design of the service.
 
-## How point 1 improves the service (1.1)
+## How point 1 improves the service
 
 The needs of the users must be understood so that a service can be built that:
 
 * helps users do the thing they want to do at the first attempt without having to understand government
 * is built on their users’ real needs, not their assumptions
 
-## How they’ll be assessed (1.2)
+## How they’ll be assessed
 
 Their assessment and the questions the assessors ask them will vary depending on their service and what it does.
 
-### In the discovery assessment (1.2.1)
+### In the discovery assessment
 
 To pass the discovery assessment, the service team usually needs to show:
 
@@ -36,7 +36,7 @@ To pass the discovery assessment, the service team usually needs to show:
 * how the user needs can influence policy
 * how the user researcher will ensure compliance with ethics requirements throughout the service team
 
-### In the alpha assessment (1.2.2)
+### In the alpha assessment
 
 To pass the alpha assessment, the service team usually needs to show:
 
@@ -49,7 +49,7 @@ To pass the alpha assessment, the service team usually needs to show:
 * discuss how they received active consent and maintained data protection for users
 * show how the have sought and received permission for ethical research if they have included vulnerable participants within their user groups
 
-### In the beta assessment (1.2.3)
+### In the beta assessment
 
 To pass the beta assessment, the service team usually needs to:
 

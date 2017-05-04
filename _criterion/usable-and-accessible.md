@@ -15,7 +15,7 @@ index: 0
 
 Create a service that is usable, accessible and intuitive enough that users succeed first time.
 
-## How point 2 improves their service
+## How point 2 improves the service
 
 All users should be able to complete the task their service provides the first time they try, as quickly and easily as possible. This includes user with disabilities or those who need assisted digital support.
 If users find it difficult to complete the task the first time, they may avoid using their service or contact their organisation to get help.

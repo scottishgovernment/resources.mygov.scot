@@ -13,7 +13,7 @@ index: 0
 {:toc}
 <!--TOC max3-->
 
-## How point 20 improves their service
+## How point 20 improves the service
 
 The Performance Platform collects their service’s data and presents it in a consistent, structured and easily digestible format. This helps them to:
 

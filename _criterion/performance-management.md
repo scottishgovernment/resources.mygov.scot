@@ -14,7 +14,7 @@ index: 0
 
 Identify performance indicators for the service, including the 4 mandatory key performance indicators (KPI) defined in the GDS service manual. Establish a benchmark for each metric and make a plan to enable improvements.
 
-## How point 19 improves their service
+## How point 19 improves the service
 
 Setting performance indicators allows they to continuously improve their service by:
 

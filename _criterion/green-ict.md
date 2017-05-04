@@ -15,7 +15,7 @@ index: 0
 
 Understand the impact of the digital service on the environment over its whole lifecycle. Plan to reduce the environmental impact of the service over time.
 
-## How point 17 improves their service
+## How point 17 improves the service
 
 By meeting Green ICT standards:
 

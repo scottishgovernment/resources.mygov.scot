@@ -14,7 +14,7 @@ index: 0
 
 Build the service incrementally, releasing early and often, using the iterative and user-centred methods set out in the Government Digital Service Manual.
 
-## How point 9 improves their service
+## How point 9 improves the service
 
 Using agile methods helps them to build services that:
 

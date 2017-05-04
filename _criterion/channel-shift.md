@@ -16,7 +16,7 @@ index: 0
 
 Identify and, wherever possible, remove impediments that prevent users from using the digital service, clearly establishing it as the primary channel. Plan to provide appropriate assisted digital support if necessary.
 
-## How point 3 improves their service
+## How point 3 improves the service
 
 Encouraging people to use their digital service allows they to:
 

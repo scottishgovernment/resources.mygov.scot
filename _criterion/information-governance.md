@@ -15,7 +15,7 @@ index: 0
 
 Evaluate what user data and information the digital service will be providing or storing, and address the security level, legal responsibilities, privacy issues and risks associated with the service (consulting with experts where appropriate).
 
-## How point 12 improves their service
+## How point 12 improves the service
 
 Users won’t use their service unless they can guarantee:
 

@@ -15,7 +15,7 @@ index: 0
 
 Define, document and regularly test a plan to handle disasters and other incidents that may cause the digital service to be taken temporarily offline.
 
-## How point 10 improves their service
+## How point 10 improves the service
 
 Users may expect that an online service is available 24 hours a day, 365 days a year. This means they need to have a plan for what to do if their service goes offline so that they know how users will be affected and how to get it back online.
 
