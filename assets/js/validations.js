@@ -45,7 +45,7 @@ var requiredInputs = function($field, optionalMessage) {
 
 var requiredDropdown = function($field, optionalMessage) {
     var dropdowns = $field.find('select');
-    var label = $('label[for="' + $field.attr('id') + '"]').text() || $field.find('legend').text();
+    var label = $field.find('legend').text();
     var message = optionalMessage || 'Please make a selection for all fields';
 
     var valid = _.every(dropdowns, function(element){
@@ -243,7 +243,7 @@ var validateTotalTime = function($field){
 
 var validDateFromDropdown = function($field){
     var dropdowns = $field.find('select');
-    var fieldName = $('label[for="' + $field.attr('id') + '"]').text();
+    var fieldName = $field.find('legend').text();
     var message = 'Please check you\'ve entered the correct date';
 
     var day = dropdowns[0].value;
@@ -285,7 +285,7 @@ var isValidDate = function(day, month, year){
 
 var minimumAge = function($field, minimumAge){
     var dropdowns = $field.find('select');
-    var fieldName = $('label[for="' + $field.attr('id') + '"]').text();
+    var fieldName = $field.find('legend').text();
     var day = dropdowns[0].value;
     var month = dropdowns[1].value;
     var year = dropdowns[2].value;
@@ -639,7 +639,7 @@ var showOrHideCurrentErrors = function (field, valid, message) {
     }
 
     if (!valid) {
-        errorContainer.html('<li>' + message + '</li>');
+        errorContainer.html('<li tabindex="0">' + message + '</li>');
     } else {
         errorContainer.html('');
     }
@@ -657,7 +657,7 @@ var handleServerSideErrors = function (field, valid, message) {
     }
 
     if (!valid) {
-        errorContainer.html('<li>' + message + '</li>');
+        errorContainer.html('<li tabindex="0">' + message + '</li>');
         errorContainer.removeClass('server-side-neutral');
     } else {
         errorContainer.html('');

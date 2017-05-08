@@ -100,7 +100,7 @@ frontpage: no
 
                     <div id='feedback-box'>
                         <div class="client-error hidden form-message form-message--error">
-                            <h2>Oops, there's a problem... </h2>
+                            <h2 tabindex="-1">Oops, there's a problem... </h2>
                             <h3>There were some errors found on this form: </h3>
                             <div class="form-errors">
                             </div>
@@ -244,13 +244,14 @@ frontpage: no
                         </div>
 
                         <div class="form-group relative">
-                            <fieldset id="birthdate-link">
+                            <a id="birthdate-link"></a>
+                            <fieldset id="birthdate">
                                 <legend>
                                   <span>*</span>
                                   Date of birth
                                 </legend>
 
-                                <div class="birthdate" id="birthdate">
+                                <div class="birthdate">
                                     <div class="create-select__arrow">
                                         <select id="birthdate-day" class="create-select" title="Day">
                                             <option selected disabled value="">Day</option>

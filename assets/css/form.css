@@ -524,6 +524,10 @@ form h2 {
   margin-top: 70px;
 }
 
+h2:focus {
+  outline: none;
+}
+
 @media (max-width: 767px) {
   form h2 {
     font-size: 26px;

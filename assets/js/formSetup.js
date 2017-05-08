@@ -200,7 +200,7 @@ registrationForm.init = function () {
             var feedbackTop = $('#feedback-box').position().top;
             $('html, body').animate({scrollTop : feedbackTop}, 1000);
 
-            $('#feedback-box a:first').focus();
+            $('#feedback-box h2:first').focus();
             return;
         } else {
             window.location.href = ('/prototypes/forms-prototype-complete/');
