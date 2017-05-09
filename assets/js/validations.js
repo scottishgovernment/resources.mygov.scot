@@ -639,7 +639,7 @@ var showOrHideCurrentErrors = function (field, valid, message) {
     }
 
     if (!valid) {
-        errorContainer.html('<li tabindex="0">' + message + '</li>');
+        errorContainer.html('<li tabindex="-1">' + message + '</li>');
     } else {
         errorContainer.html('');
     }
@@ -657,7 +657,7 @@ var handleServerSideErrors = function (field, valid, message) {
     }
 
     if (!valid) {
-        errorContainer.html('<li tabindex="0">' + message + '</li>');
+        errorContainer.html('<li tabindex="-1">' + message + '</li>');
         errorContainer.removeClass('server-side-neutral');
     } else {
         errorContainer.html('');
