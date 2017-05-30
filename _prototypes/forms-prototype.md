@@ -96,11 +96,12 @@ frontpage: no
 
                 <div class="form-box">
 
-                    <p class="asterisk-note">All fields marked with an asterisk must be filled in (<span class="asterisk">*</span>)</p>
+                    <p class="asterisk-note">All fields marked with an asterisk (<span class="asterisk">*</span>) must be filled in</p>
 
-                    <div id='feedback-box'>
-                        <div class="client-error hidden form-message form-message--error">
+                    <div id="feedback-box" aria-live="assertive">
+                        <div aria-hidden="true" class="client-error hidden form-message form-message--error">
                             <h2 tabindex="-1">Oops, there's a problem... </h2>
+
                             <h3>There were some errors found on this form: </h3>
                             <div class="form-errors">
                             </div>
@@ -118,11 +119,11 @@ frontpage: no
                             </label>
                             <p>Use DD/MM/YYYY format.</p>
                             <div class="date-entry__input-group input-group input-wrapper registration-date">
-                                <input type="text" id="registration-date" placeholder="e.g. 01/02/2017" class="grey form-control input__datepicker" />
+                                <input aria-required="true" required type="text" id="registration-date" placeholder="e.g. 01/02/2017" class="grey form-control input__datepicker" />
                                 <button id="date-start-trigger" type="button" class="date-entry__trigger button button--primary js-show-calendar">Choose date</button>
                                 <ul class="current-errors"></ul>
                             </div>
-                            <div id="registration-date-calendar" class="date-entry__calendar">
+                            <div aria-hidden="true" id="registration-date-calendar" class="date-entry__calendar">
                             </div>
                         </div>
 
@@ -136,7 +137,7 @@ frontpage: no
                                 <div class="input-wrapper">
                                 <label for="registration-time-hours" class="inline">Hours<br>
                                     <span class="create-select__arrow">
-                                        <select id="registration-time-hours" class="create-select">
+                                        <select aria-required="true" required id="registration-time-hours" class="create-select">
                                             <option selected disabled value="">HH</option>
                                             <option>1</option>
                                             <option>2</option>
@@ -239,7 +240,7 @@ frontpage: no
                             <label for="name">
                               <span>*</span> Full name
                             </label>
-                            <input id="name" class="grey form-control input--large" type="text">
+                            <input aria-required="true" required id="name" class="grey form-control input--large" type="text">
                             <ul class="current-errors"></ul>
                         </div>
 
@@ -253,7 +254,7 @@ frontpage: no
 
                                 <div class="birthdate">
                                     <div class="create-select__arrow">
-                                        <select id="birthdate-day" class="create-select" title="Day">
+                                        <select aria-required="true" required id="birthdate-day" class="create-select" title="Day">
                                             <option selected disabled value="">Day</option>
                                             <option value="01">1</option>
                                             <option value="02">2</option>
@@ -325,7 +326,7 @@ frontpage: no
                               <span>*</span>
                               Email address
                             </label>
-                            <input id="email" class="grey form-control" type="email">
+                            <input aria-required="true" required id="email" class="grey form-control" type="email">
                             <ul class="current-errors"></ul>
                             <ul class="server-side-errors"></ul>
                         </div>
@@ -346,7 +347,7 @@ frontpage: no
                               <span>*</span>
                               Address line 1
                             </label>
-                            <input id="address-1" class="grey form-control" type="text">
+                            <input aria-required="true" required id="address-1" class="grey form-control" type="text">
                             <ul class="current-errors"></ul>
                         </div>
 
@@ -366,21 +367,21 @@ frontpage: no
                               <span>*</span>
                               Postcode
                             </label>
-                            <input id="postcode" class="grey form-control input--small" type="text">
+                            <input aria-required="true" required id="postcode" class="grey form-control input--small" type="text">
                             <ul class="current-errors"></ul>
                         </div>
 
                         <h2>Online activity</h2>
                         <div class="form-group relative" id="smartphone-radio">
-                            <fieldset id="smartphone-radio-link">
+                            <fieldset aria-required="true" id="smartphone-radio-link">
                                 <legend>
                                   <span>*</span>
                                   Do you use a smartphone or tablet to access the internet?
                                 </legend>
                                 <div>
-                                    <input id="smartphone-yes" name="smartphone" class="grey form-control fancy-radio" type="radio">
+                                    <input required="true" id="smartphone-yes" name="smartphone" class="grey form-control fancy-radio" type="radio">
                                     <label for="smartphone-yes" class="inline fancy-radio">Yes</label>
-                                    <input id="smartphone-no" name="smartphone" class="grey form-control fancy-radio" type="radio">
+                                    <input required="true" id="smartphone-no" name="smartphone" class="grey form-control fancy-radio" type="radio">
                                     <label for="smartphone-no" class="inline fancy-radio" >No</label>
                                     <ul class="current-errors"></ul>
                                 </div>
@@ -391,22 +392,30 @@ frontpage: no
                             <fieldset>
                                 <legend>If so, what kind of device(s) do you have? <span class="optional">(optional)</span></legend>
                                 <div class="input-wrapper">
-                                    <input name="device" id="device-ios" class="fancy-checkbox" type="checkbox">
-                                    <label for="device-ios" class="inline fancy-checkbox">iOS (Apple)</label> <br>
-                                    <input name="device" id="device-android" class="fancy-checkbox" type="checkbox">
-                                    <label for="device-android" class="inline fancy-checkbox">Android</label> <br>
-                                    <input name="device" id="device-windows" class="fancy-checkbox" type="checkbox">
-                                    <label for="device-windows" class="inline fancy-checkbox">Windows</label> <br>
-                                    <input name="device" id="device-other" class="fancy-checkbox" type="checkbox">
-                                    <label for="device-other" class="inline fancy-checkbox">Other</label> <br>
+                                    <div>
+                                        <input name="device" id="device-ios" class="fancy-checkbox" type="checkbox">
+                                        <label for="device-ios" class="inline fancy-checkbox">iOS (Apple)</label>
+                                    </div>
+                                    <div>
+                                        <input name="device" id="device-android" class="fancy-checkbox" type="checkbox">
+                                        <label for="device-android" class="inline fancy-checkbox">Android</label>
+                                    </div>
+                                    <div>
+                                        <input name="device" id="device-windows" class="fancy-checkbox" type="checkbox">
+                                        <label for="device-windows" class="inline fancy-checkbox">Windows</label>
+                                    </div>
+                                    <div>
+                                        <input name="device" id="device-other" class="fancy-checkbox" type="checkbox">
+                                        <label for="device-other" class="inline fancy-checkbox">Other</label>
+                                    </div>
                                 </div>
                             </fieldset>
                         </div>
 
                         <div class="form-group relative">
-                            <fieldset id="time-online">
+                            <fieldset role="group" id="time-online">
                                 <legend>
-                                  <span>*</span> Daily time spent online?
+                                  <span id="time-online-label">*</span> Daily time spent online?
                                 </legend>
                                 <p>Please indicate number of hours spent in each area.</p>
                                 <ul class="current-errors"></ul>
@@ -448,21 +457,23 @@ frontpage: no
                                   Tell us how you have found this form so far
                                 </legend>
                                 <ul class="current-errors"></ul>
-                                <div class="input-wrapper">
-                                    <input name="form-difficulty" id="very-difficult" class="fancy-radio" type="radio">
-                                    <label for="very-difficult" class="fancy-radio">Very difficult</label> <br>
+                                <div class="input-wrapper" aria-required="true">
+                                    <div>
+                                        <input required="true" name="form-difficulty" id="very-difficult" class="fancy-radio" type="radio">
+                                        <label for="very-difficult" class="fancy-radio">Very difficult</label>
 
-                                    <input name="form-difficulty" id="difficult" class="fancy-radio" type="radio">
-                                    <label for="difficult" class="fancy-radio">Difficult</label> <br>
+                                        <input required="true" name="form-difficulty" id="difficult" class="fancy-radio" type="radio">
+                                        <label for="difficult" class="fancy-radio">Difficult</label>
 
-                                    <input name="form-difficulty" id="ok" class="fancy-radio" type="radio">
-                                    <label for="ok" class="fancy-radio">OK</label> <br>
+                                        <input required="true" name="form-difficulty" id="ok" class="fancy-radio" type="radio">
+                                        <label for="ok" class="fancy-radio">OK</label>
 
-                                    <input name="form-difficulty" id="easy" class="fancy-radio" type="radio">
-                                    <label for="easy" class="fancy-radio">Easy</label> <br>
+                                        <input required="true" name="form-difficulty" id="easy" class="fancy-radio" type="radio">
+                                        <label for="easy" class="fancy-radio">Easy</label>
 
-                                    <input name="form-difficulty" id="very-easy" class="fancy-radio" type="radio">
-                                    <label for="very-easy" class="fancy-radio">Very easy</label> <br>
+                                        <input required="true" name="form-difficulty" id="very-easy" class="fancy-radio" type="radio">
+                                        <label for="very-easy" class="fancy-radio">Very easy</label>
+                                    </div>
                                 </div>
                             </fieldset>
                         </div>
@@ -483,13 +494,13 @@ frontpage: no
                         <h2>Confirmation</h2>
 
                         <div class="form-group relative date-entry" id="confirm-date">
-                            <fieldset id="confirm-date-link">
+                            <fieldset id="confirm-date-link" aria-required="true">
                                 <legend class="filters_">
                                   <span>*</span>
                                   Confirm date of session
                                 </legend>
                                 <p>Use DD/MM/YYYY format.</p>
-                                <div class="date-entry__input-group input-group input-wrapper">
+                                <div role="group" class="date-entry__input-group input-group input-wrapper">
                                     <input maxlength="2" type="text" pattern="[0-9]*" id="registration-date-day" title="Day" placeholder="DD" class="grey form-control input__datepicker--day" />
                                     <span class="time-slash">/</span>
                                     <input maxlength="2" type="text" pattern="[0-9]*" id="registration-date-month" title="Month" placeholder="MM" class="grey form-control input__datepicker--month" />
@@ -498,7 +509,7 @@ frontpage: no
                                     <button id="confirm-date-start-trigger" type="button" class="date-entry__trigger button button--primary js-show-calendar">Choose date</button>
                                     <ul class="current-errors"></ul>
                                 </div>
-                                <div id="confirm-date-calendar" class="date-entry__calendar">
+                                <div aria-hidden="true" id="confirm-date-calendar" class="date-entry__calendar">
                                 </div>
                             </fieldset>
                         </div>
@@ -510,22 +521,22 @@ frontpage: no
                                   Confirm your time slot
                                 </legend>
 
-                                <div class="input-wrapper">
-                                <label for="confirm-time-hours" class="inline">Hours<br>
-                                    <input maxlength="2" type="text" pattern="[0-9]*" id="confirm-time-hours" class="grey" placeholder="HH">
-                                </label>
+                                <div class="input-wrapper" role="group" aria-required="true">
+                                    <label for="confirm-time-hours" class="inline">Hours<br>
+                                        <input maxlength="2" type="text" pattern="[0-9]*" id="confirm-time-hours" class="grey" placeholder="HH">
+                                    </label>
 
-                                <span class="time-colon">:</span>
+                                    <span class="time-colon">:</span>
 
-                                <label for="confirm-time-minutes" class="inline">Minutes<br>
-                                    <input maxlength="2" type="text" pattern="[0-9]*" id="confirm-time-minutes" class="grey" placeholder="MM">
-                                </label>
+                                    <label for="confirm-time-minutes" class="inline">Minutes<br>
+                                        <input maxlength="2" type="text" pattern="[0-9]*" id="confirm-time-minutes" class="grey" placeholder="MM">
+                                    </label>
 
-                                <input type="radio" name="confirm-time" id="confirm-time-am" class="grey form-control fancy-radio" value="AM" checked="checked">
-                                <label for="confirm-time-am" class="vertical-label fancy-radio">AM</label>
+                                    <input type="radio" name="confirm-time" id="confirm-time-am" class="grey form-control fancy-radio" value="AM" checked="checked">
+                                    <label for="confirm-time-am" class="vertical-label fancy-radio">AM</label>
 
-                                <input type="radio" name="confirm-time" id="confirm-time-pm" class="grey form-control fancy-radio" value="PM">
-                                <label for="confirm-time-pm" class="vertical-label fancy-radio">PM</label>
+                                    <input type="radio" name="confirm-time" id="confirm-time-pm" class="grey form-control fancy-radio" value="PM">
+                                    <label for="confirm-time-pm" class="vertical-label fancy-radio">PM</label>
                                 </div>
                                 <ul class="current-errors"></ul>
                             </fieldset>

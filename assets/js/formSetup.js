@@ -81,7 +81,7 @@ var formIsValid = function (highlightField) {
  */
 registrationForm.init = function () {
 
-    // add 'dirty' class to fields once they have been focused on 
+    // add 'dirty' class to fields once they have been focused on
 
     $('input, select, textarea').on('focus', function(){
         $(this).addClass('dirty');
@@ -94,7 +94,7 @@ registrationForm.init = function () {
         // when item or its children are focused, run validations for all 'dirty' fields before it
         $('' + item.id + ', ' + item.id + ' *').on('focus', function() {
             for (var i = 0; i < index; i++) {
-                if ($(FormValidations[i].id).hasClass('dirty') || $(FormValidations[i].id).find('.dirty').length > 0) {   
+                if ($(FormValidations[i].id).hasClass('dirty') || $(FormValidations[i].id).find('.dirty').length > 0) {
                     validateField($(FormValidations[i].id), true, FormValidations[i].validations);
                 }
             }
@@ -195,6 +195,7 @@ registrationForm.init = function () {
 
         if(!formIsValid(true)) {
             $clientError.removeClass('hidden');
+            $clientError.attr('aria-hidden', false);
 
             //Click event to scroll to top
             var feedbackTop = $('#feedback-box').position().top;
@@ -212,7 +213,7 @@ registrationForm.init = function () {
 
 window.format = registrationForm;
 
-// Prevent form from being submitted if 'return' key is pressed, unless focus is on submit button. 
+// Prevent form from being submitted if 'return' key is pressed, unless focus is on submit button.
 $('html').bind('keypress', function(e){
     var submitButton = document.getElementById('form-submit');
 
