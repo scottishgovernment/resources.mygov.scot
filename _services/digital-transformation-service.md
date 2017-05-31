@@ -38,23 +38,23 @@ DTS continues to iterate its services.  Currently it provides the following supp
 
 ***"work collaboratively with Organisations to deliver business transformation which puts users at the heart of the services"***
 
-| Strategy Development & Review | Business Case Development | Talent |
+| Strategy Development & Review | Business Case Development | 
 | - | - | - |
-| Digital Maturity  Assessment | Concepts to full project design | Skills |
-| Vision & Strategy | Options appraisal & Technical Specification | Graduates |
-| Transformation business case | Implementation planning | Modern apprentices |
-| Roadmap for Delivery | Requirements engineering | Digital Academy |
-| User Research | | |
-| Service design | | |
-| Value Chain Mapping | | |
+| Digital Maturity  Assessment | Concepts to full project design | 
+| Vision & Strategy | Options appraisal & Technical Specification | 
+| Transformation business case | Implementation planning | 
+| Roadmap for Delivery | Requirements engineering | 
+| User Research | | 
+| Service design | | 
+| Value Chain Mapping | | 
 
 <br />
 
-| Agile Coaching | Technical Architecture | Recruitment |
+| Agile Coaching | Technical Architecture | 
 | - | - | - |
-| Introduction to Agile | Lightweight Technical Survey | Interviews |
-| Product Ownership | Target Technical Architecture | Panels |
-| Coaching Agile Teams | | Sifts |
+| Introduction to Agile | Lightweight Technical Survey | 
+| Product Ownership | Target Technical Architecture | 
+| Coaching Agile Teams | | 
 
 <br />
 
@@ -191,14 +191,6 @@ It is often useful to create an Architecture Roadmap that shows the clear steps 
 ### Technical Governance Support
 
 We have already worked with some organisations to help define and implement technical governance processes.  One of the key goals of our service is to share good ways of working and this is an example of where we can put this into practice.
-
-## Talent and recruitment
-
-DTS supports our partner organisations in recruiting and developing digital talent, by offering a range of products to help organisations to buy, build or borrow digital talent.
-
-For instance we now lead the delivery of the Digital Academy in Scotland which provides training in a range of digital approaches to Scottish Government. The Academy will deliver a range of courses throughout the year with the longer term aim of up-skilling our workforce in digital methods and improving digital capability .
-
-In terms of recruitment, DTS is able to partner with organisations to address their needs for instance by advising on the best approach to filling vacancies and how to approach the external recruitment market. We have good relationships with the interim agencies and use innovative procurement routes to secure the best talent where we can.
 
 ## Agile Coaching
 
