@@ -37,8 +37,6 @@ The assessment report is a written record of the discussions and recommendations
 
 There is flexibility in how the report can be structured – the Lead Assessor decides the best structure to use.
 
-The [report template](/Assessment_report_template.docx) should always be used.
-
 ## Report style guide
 
 You should follow the [GOV.UK style guide](https://www.gov.uk/guidance/style-guide) for the report.

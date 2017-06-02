@@ -86,13 +86,12 @@ They will also identify any constraints or dependencies that may impact on the n
 
 Assessors cover:
 
-* technology
-* design
-* user research
-* content design
-* performance
-* product
-* business transformation
+* Technology
+* User research
+* Assisted digital
+* Product
+* Content design
+* Performance
 
 ## After the assessment
 
@@ -101,5 +100,4 @@ All assessors will provide feedback for the report and the Lead Assessor will se
 This will be reviewed by the Office of the Chief Information Officer (OCIO) and then the report will be sent to the service team.
 
 The implications of the outcome of the assessment will be explained to the service team.
-
-There is a [template report](/Assessment_report_template.docx) and guidance on how to [write the report](/assessments/assessment-guide-to-writing-the-report). 			
+		
