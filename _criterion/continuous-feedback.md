@@ -27,28 +27,29 @@ Doing ongoing user research means they can:
 Their assessment and the questions the assessors ask them will vary depending on their service and what it does.
 
 ### In the discovery assessment
-To pass the discovery assessment, the service team usually needs to show:
+
+To pass, the service team usually need to:
 
 * a plan for continuing engagement and research with users, including those needing assisted digital support, in alpha
 
 ### In the alpha assessment
 
-To pass the alpha assessment, they usually need to show:
+To pass, the service team usually need to:
 
-* what their private beta will look like and how they’ll use what they find to improve the service
-* they will pay for user research, service design and usability tests throughout the design of the service and after it’s built
-* how often they’ll carry out research and usability tests and how they’ll use the results to improve the design of their service
-* a user research plan for private beta and a plan for carrying out user research on the live service
+* show what their private beta will look like and how they’ll use what they find to improve the service
+* show that they will pay for user research, service design and usability tests throughout the design of the service and after it’s built
+* show how often they’ll carry out research and usability tests and how they’ll use the results to improve the design of their service
+* show a user research plan for private beta and a plan for carrying out user research on the live service
 
 ### In the beta assessment
 
-To pass the beta assessment, they usually need to show:
+To pass, the service team usually need to:
 
-* they will pay for user research, service design and usability tests throughout the design of the service and they’ll be able to pay after the service is built
-* how often they’ll carry out research and usability tests and how the results will affect the way they design the service
-* a user research plan for the service at the next phase and a plan for carrying out user research on the live service
-* how they’ve done user research with people who have accessibility needs from the time they started designing the service
-* how they’ve tested with users who need assisted digital support
-* how they’re using analytics data in their user research plan for the service
-* any problems they’ve found through testing and how they solved them
-* any problems they haven’t been able to solve in beta and how they’ll handle them in public beta
+* show that they will pay for user research, service design and usability tests throughout the design of the service and they’ll be able to pay after the service is built
+* show how often they’ll carry out research and usability tests and how the results will affect the way they design the service
+* show a user research plan for the service at the next phase and a plan for carrying out user research on the live service
+* show how they’ve done user research with people who have accessibility needs from the time they started designing the service
+* show how they’ve tested with users who need assisted digital support
+* show how they’re using analytics data in their user research plan for the service
+* show any problems they’ve found through testing and how they solved them
+* show any problems they haven’t been able to solve in beta and how they’ll handle them in public beta

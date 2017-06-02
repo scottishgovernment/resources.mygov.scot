@@ -28,15 +28,15 @@ Their assessment and the questions the assessors ask them will vary depending on
 
 ### In the discovery assessment
 
-To pass the discovery assessment, the service team usually needs to show that they:
+To pass, the service team usually need to:
 
-* know what data they will capture from their service, how it will be captured and how it will be analysed
+* show that they know what data they will capture from their service, how it will be captured and how it will be analysed
 * explain the output from business analysis including process maps
-* have capacity within the team to make identify and make use of data during alpha
+* show that they have capacity within the team to make identify and make use of data during alpha
 
 ### In the alpha and beta assessment
 
-To pass the alpha and beta assessments, they usually need to:
+To pass, the service team usually need to:
 
 * explain how they decided which data they need to capture, where they need to capture it from and how they’ll capture it based on the projected size and shape of the service
 * show they have an ongoing roadmap for performance analysis and someone in the team responsible for identifying actionable data insights during alpha, including assisted digital support

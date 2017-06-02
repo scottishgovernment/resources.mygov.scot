@@ -28,14 +28,15 @@ Their assessment and the questions assessors ask them will vary depending on the
 
 ### In the discovery assessment
 
-To pass the discovery assessment, the service team usually needs to:
+To pass, the service team usually need to:
+
 * an understanding of what they are planning to build in alpha
 * that what is built in alpha will meet prioritised user needs identified in discovery
 * understand any risks or problems associated with the technology chosen for alpha and have a plan in place for how they’ll solve them
 
 ### In the alpha and beta assessments
 
-To pass the alpha and beta assessments, they usually need to:
+To pass, the service team usually need to:
 
 * explain what they’ve built in that phase and why they built it
 *	describe the lifecycle of a user story from user research to production
@@ -50,6 +51,6 @@ To pass the alpha and beta assessments, they usually need to:
 At the beta assessment, they also need to explain:
 
 * how long they expect their service to be in beta and why
-* their way of deploying software, ie how they can deploy frequently with minimum impact on users
+* their way of deploying software, i.e. how they can deploy frequently with minimum impact on users
 * how they plan to practice zero downtime deployments in a way that doesn’t stop users using the service when in live
 * how they plan to have enough staff to keep improving the service when in live

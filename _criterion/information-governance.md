@@ -28,23 +28,23 @@ Their assessment and the questions the assessors ask them will vary depending on
 
 ### In the discovery assessment
 
-To pass the discovery assessment, the service team usually needs to show:
+To pass, the service team usually need to:
 
-* they’ve identified what user data they’ll be collecting and storing during alpha
-* that they’re aware of legislation, guidance, and policy that is applicable to their service
-* they’ve a plan in place to identify threats to the service
+* show they’ve identified what user data they’ll be collecting and storing during alpha
+* show that they’re aware of legislation, guidance, and policy that is applicable to their service
+* show they’ve a plan in place to identify threats to the service
 
 ### In the alpha assessment
 
-To pass the alpha assessment for point 7 they usually need to explain:
+To pass, the service team usually need to:
 
-* how they’ve identified threats to their service, including potential pathways for hackers, and tested ways of reducing them
-* how they plan to keep up to date about threats to their service and how to deal with them
-* any threats of fraud (fraud vectors) which exist and the controls they’re prototyping
+* explain how they’ve identified threats to their service, including potential pathways for hackers, and tested ways of reducing them
+* explain how they plan to keep up to date about threats to their service and how to deal with them
+* explain any threats of fraud (fraud vectors) which exist and the controls they’re prototyping
 
 ### In the beta assessment
 
-To pass the beta assessment for point 7 they usually need to:
+To pass, the service team usually need to:
 
 * describe their team’s approach to security and risk management
 * describe the security and privacy threats to their service, how they keep their understanding of them up to date and how their understanding of them has changed.

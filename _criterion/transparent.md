@@ -27,19 +27,19 @@ Their assessment and the questions the assessors ask them will vary depending on
 
 ### In the discovery assessment
 
-To pass the discovery assessment, the service team usually needs to show that they have spoken with the Performance Platform Team
+To pass, the service team usually need to show that they have spoken with the Performance Platform Team
 
 ### In the alpha assessment
 
-To pass they usually need to show they’ve:
+To pass, the service team usually need to:
 
-* registered their service with the Performance Platform
-* checked that it can support the metrics they want to present on their dashboard
+* show they've registered their service with the Performance Platform
+* show they've checked that it can support the metrics they want to present on their dashboard
 
 ### In the Beta assessment
 
-To pass they usually need to show:
+To pass, the service team usually need to:
 
-* their beta dashboard with baseline data, explain their audience for beta and describe how they’ve been using the dashboard during beta, including metrics for the 4 key performance indicators (KPIs), and other metrics
-* the metrics that are uploading to the Performance Platform and whether they’re being uploaded manually or automatically
-* their published performance dashboard
+* show their beta dashboard with baseline data, explain their audience for beta and describe how they’ve been using the dashboard during beta, including metrics for the 4 key performance indicators (KPIs), and other metrics
+* show the metrics that are uploading to the Performance Platform and whether they’re being uploaded manually or automatically
+* show their published performance dashboard

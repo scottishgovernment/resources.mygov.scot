@@ -29,7 +29,7 @@ Their assessment and the questions the assessors ask them will vary depending on
 
 ### In the discovery assessment
 
-To pass the discovery assessment, the service team usually needs to show:
+To pass, the service team usually need to:
 
 * that a well-resourced team with the needed skill set is in place for alpha
 * they can describe and show the resource mix is appropriate and if there are plans to bring in any skills that are missing
@@ -38,7 +38,7 @@ To pass the discovery assessment, the service team usually needs to show:
 
 ### In the alpha and beta assessments
 
-To pass the alpha and beta assessments, they usually need to:
+To pass, the service team usually need to:
 
 * describe their delivery team – the team should consist of roles like: service manager, product manager, delivery manager, technical architect, assisted digital lead, designer, user researcher, developer, content designer, web operations engineer, performance analyst, front-end developer
 * show they have a service manager with the knowledge and power to make day-to-day decisions to improve the service

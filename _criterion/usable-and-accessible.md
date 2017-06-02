@@ -26,16 +26,17 @@ Their assessment and the questions the assessors ask them will vary depending on
 
 ### In the discovery assessment
 
-To pass the discovery assessment, the service team usually needs to show that they:
+To pass, the service team usually need to:
 
-* can explain their service in a simple and accessible manner
-* have thought about how they will assess the success rate of users
-* have a plan in place to support users with assisted digital needs
+* show that they can explain their service in a simple and accessible manner
+* show that they have thought about how they will assess the success rate of users
+* show that they have a plan in place to support users with assisted digital needs
 
 ### In the alpha assessment
 
-To pass the alpha they usually need to:
-* can explain their service in a simple and accessible manner
+To pass, the service team usually need to:
+
+* explain their service in a simple and accessible manner
 * show the majority of users of their service are succeeding the first time they try to use it
 * explain how they used research, testing and analytics to make substantial iterations to their service, including the assisted digital support model
 * explain all end-to-end user journeys, including assisted digital journeys, demonstrate that they work and how they tested them
@@ -45,7 +46,7 @@ To pass the alpha they usually need to:
 
 ### In the beta assessment
 
-At the beta assessment they also need to:
+To pass, the service team usually need to:
 
 * show their service is accessible
 * explain how they’ve done usability testing, including users with the lowest level of digital skills

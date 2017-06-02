@@ -27,26 +27,26 @@ Their assessment and the questions the assessors ask them will vary depending on
 
 ### In the discovery assessment
 
-To pass the discovery assessment, the service team usually needs to show that they:
+To pass, the service team usually need to:
 
-* have thought about how their service will interact with Scotland’s digital ecosystem
-* are aware of their service pattern
-* have considered where common capabilities from the digital ecosystem fit in with their service
-* have undertaken value chain mapping
+* show that they have thought about how their service will interact with Scotland’s digital ecosystem
+* show that they are aware of their service pattern
+* show that they have considered where common capabilities from the digital ecosystem fit in with their service
+* show that they have undertaken value chain mapping
 
 ### In the alpha assessment
 
-To pass the alpha assessment, the service team usually needs to show that they:
+To pass, the service team usually need to:
 
-* have an understanding of the digital ecosystem and which service patterns they align with
-* can demonstrate a knowledge of where common capabilities sit within their service and how they can make use of or contribute to the digital ecosystem
+* show that they have an understanding of the digital ecosystem and which service patterns they align with
+* show that they can demonstrate a knowledge of where common capabilities sit within their service and how they can make use of or contribute to the digital ecosystem
 
 ### In the beta assessment
 
-To pass the beta assessment, the service team usually needs to show that they:
+To pass, the service team usually need to:
 
-* can show awareness of the principles of the digital ecosystem approach and demonstrate their service pattern
+* show that they can show awareness of the principles of the digital ecosystem approach and demonstrate their service pattern
 * show what value chain mapping has been undertaken by the service
-* can demonstrate an understanding of where common capabilities sit within their service
-* have considered other organisations that may be partners with which they can share common knowledge and capabilities
-* can hold discussions with the Digital Ecosystems Unit on how they can use capabilities from, or contribute to, the digital ecosystem
+* show that they can demonstrate an understanding of where common capabilities sit within their service
+* show that they have considered other organisations that may be partners with which they can share common knowledge and capabilities
+* show that they can hold discussions with the Digital Ecosystems Unit on how they can use capabilities from, or contribute to, the digital ecosystem

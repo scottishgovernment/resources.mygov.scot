@@ -25,8 +25,8 @@ Their assessment and the questions the assessors ask them will vary depending on
 
 ### In the discovery and alpha assessments
 
-To pass the alpha assessment, they need to confirm that the minister and/or senior sponsor responsible for the service will test it before it goes live.
+To pass, the service team usually need to confirm that the minister and/or senior sponsor responsible for the service will test it before it goes live.
 
 ### In the beta assessment
 
-To pass the beta assessment they need to explain how they’ll test the service with the minister and senior sponsor responsible for it from beginning to end, including any legacy or offline parts.
+To pass, the service team usually need to explain how they’ll test the service with the minister and senior sponsor responsible for it from beginning to end, including any legacy or offline parts.

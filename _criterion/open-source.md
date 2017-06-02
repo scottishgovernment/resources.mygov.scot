@@ -29,11 +29,11 @@ Their assessment and the questions the assessors ask them will vary depending on
 
 ### In the discovery assessment
 
-To pass the discovery assessment, the service team usually needs to show they will make their source code open and reusable
+To pass, the service team usually need to show they will make their source code open and reusable
 
 ### In the alpha assessment
 
-To pass, they usually need to:
+To pass, the service team usually need to:
 
 * explain how they plan to make all new source code open and reusable
 * confirm that they own the intellectual property
@@ -41,7 +41,7 @@ To pass, they usually need to:
 
 ### In the beta assessment
 
-To pass, they usually need to:
+To pass, the service team usually need to:
 
 * explain how they’re making new source code open and reusable
 * show their code in an open internet source code repository

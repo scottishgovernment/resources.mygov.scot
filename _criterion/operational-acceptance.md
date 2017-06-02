@@ -28,22 +28,22 @@ Their assessment and the questions the assessors ask them will vary depending on
 
 ### In the discovery assessment
 
-To pass the discovery assessment, the service team usually needs to show that they:
+To pass, the service team usually need to:
 
-* have a plan for testing their alpha and have identified how they’ll perform automated testing
-* the plan for testing should include development testing and after acceptance testing for bug capture
-* have an approach to capturing the end user experience and taking action on feedback
-* have shown any non-functional requirements they are planning to test during alpha
+* show that they have a plan for testing their alpha and have identified how they’ll perform automated testing
+* show that the plan for testing includes development testing and after acceptance testing for bug capture
+* show that they have an approach to capturing the end user experience and taking action on feedback
+* show any non-functional requirements they are planning to test during alpha
 
 ### In the alpha and beta assessment
 
-To pass the alpha and beta assessments, they usually need to show that they:
+To pass, the service team usually need to:
 
-* have an effective deployment environment
-* can create new environments quickly and easily
-* know the data that exists in their pre-production environments
-* are designing and testing their service to work with the devices and browsers their users use - find out the browsers they must test with
-* are testing their service in an environment that’s as similar to live as possible
-* know that their service can keep working when the number of expected users try to use it, including for users who need assisted digital support
-* understand the systems they need and the testing environments for non-digital parts of the service
-* are testing their service frequently - they’ll have to explain how they’ve decided how often to test
+* show that they have an effective deployment environment
+* show that they can create new environments quickly and easily
+* show that they know the data that exists in their pre-production environments
+* show that they are designing and testing their service to work with the devices and browsers their users use - find out the browsers they must test with
+* show that they are testing their service in an environment that’s as similar to live as possible
+* show that they know that their service can keep working when the number of expected users try to use it, including for users who need assisted digital support
+* show that they understand the systems they need and the testing environments for non-digital parts of the service
+* show that they are testing their service frequently - they’ll have to explain how they’ve decided how often to test

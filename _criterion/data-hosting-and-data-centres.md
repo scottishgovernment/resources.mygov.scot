@@ -28,7 +28,7 @@ Their assessment and the questions the assessors ask them will vary depending on
 
 ### In the discovery assessment
 
-To pass, they’ll usually need to:
+To pass, the service team usually need to:
 
 * explain current ICT data centre and hosting arrangements, if applicable
 * confirm that total cost of running data centres and hosting is known, if applicable
@@ -38,7 +38,7 @@ To pass, they’ll usually need to:
 
 ### In the alpha assessment
 
-To pass, they’ll usually need to:
+To pass, the service team usually need to:
 
 * demonstrate consideration of cloud computing when assessing current arrangements and future investment plans
 * explain reasoning for shift to/not shifting to cloud
@@ -47,7 +47,7 @@ To pass, they’ll usually need to:
 
 ### In the beta assessment
 
-To pass, they’ll usually need to:
+To pass, the service team usually need to:
 
 * explain plans to measure and improve on data centre’s power usage effectiveness.
 * demonstration consideration of co-location in existing data centres where cloud options not considered appropriate

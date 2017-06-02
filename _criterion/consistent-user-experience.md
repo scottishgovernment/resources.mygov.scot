@@ -28,14 +28,14 @@ Their assessment and the questions the assessors ask them will vary depending on
 
 ### In the discovery assessment
 
-To pass the discovery assessment, the service team usually needs to show that they are using the mygov.scot or GDS design patterns, toolkit and style guide
+To pass, the service team usually need to show that they are using the mygov.scot or GDS design patterns, toolkit and style guide
 
 ### In the alpha and beta assessment
 
-To pass their alpha and beta assessments they usually need to explain:
+To pass, the service team usually need to:
 
-* how their team has included designers, content designers and front-end developers
-* how the service has used the mygov.scot or GDS design patterns, front-end tool kit and style guide
+* explain how their team has included designers, content designers and front-end developers
+* explain how the service has used the mygov.scot or GDS design patterns, front-end tool kit and style guide
 * show they’ve got a start and end page on mygov.scot and that both are optimised for users
 
 To pass the beta assessment they also need to show:

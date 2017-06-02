@@ -35,7 +35,7 @@ Their assessment and the questions the assessors ask them will vary depending on
 
 ### In the discovery assessment
 
-To pass, they usually need to:
+To pass, the service team usually need to:
 
 * show consideration of how data is to be made open and available for re-use
 * explain how data can support delivery of better public services and improved governance
@@ -43,7 +43,7 @@ To pass, they usually need to:
 
 ### In the alpha assessment
 
-To pass, they usually need to:
+To pass, the service team usually need to:
 
 * show a plan of how data is made open and available for re-use.
 * show justification of why data, if any, will not be published
@@ -55,7 +55,7 @@ To pass, they usually need to:
 
 ### In the beta assessment
 
-To pass, they usually need to:
+To pass, the service team usually need to:
 
 * show how data is being made open and available for re-use.
 * show justification of why data, if any, has not been published

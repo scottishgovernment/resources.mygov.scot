@@ -27,21 +27,21 @@ Their assessment and the questions the assessors ask them will vary depending on
 
 ### In the discovery assessment
 
-To pass the discovery assessment, the service team usually needs to show:
+To pass, the service team usually need to:
 
-* how they will set a baseline from the existing service, if applicable
-* they’ve investigated means by which to improve on the KPIs
-* they’ve considered any other metrics they may wish to measure
+* show how they will set a baseline from the existing service, if applicable
+* show they’ve investigated means by which to improve on the KPIs
+* show they’ve considered any other metrics they may wish to measure
 
 ### In the alpha and beta assessments
 
-To pass the alpha and beta assessments, they usually need to explain:
+To pass, the service team usually need to:
 
-* how they’ve set a performance baseline for the old service, if there was one
-* their plan to lower [cost per transaction](https://www.gov.uk/service-manual/measuring-success/measuring-cost-per-transaction) or equivalent, for non-transactional user journeys
-* their plan to [improve user satisfaction](https://www.gov.uk/service-manual/measuring-success/measuring-user-satisfaction)
-* their plan to [increase completion rate](https://www.gov.uk/service-manual/measuring-success/measuring-completion-rate) or equivalent, for non-transactional user journeys
-* their plan to [increase digital take-up](https://www.gov.uk/service-manual/helping-people-to-use-your-service/encouraging-people-to-use-your-digital-service) and reduce reliance on assisted digital
+* explain how they’ve set a performance baseline for the old service, if there was one
+* explain their plan to lower [cost per transaction](https://www.gov.uk/service-manual/measuring-success/measuring-cost-per-transaction) or equivalent, for non-transactional user journeys
+* explain their plan to [improve user satisfaction](https://www.gov.uk/service-manual/measuring-success/measuring-user-satisfaction)
+* explain their plan to [increase completion rate](https://www.gov.uk/service-manual/measuring-success/measuring-completion-rate) or equivalent, for non-transactional user journeys
+* explain their plan to [increase digital take-up](https://www.gov.uk/service-manual/helping-people-to-use-your-service/encouraging-people-to-use-your-digital-service) and reduce reliance on assisted digital
 
 They also need to explain:
 
