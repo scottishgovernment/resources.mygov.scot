@@ -9,6 +9,7 @@ headings:
 - The grid
 - Typography
 - Link and button language
+- Colour palette
 
 ---
 
@@ -197,3 +198,294 @@ Active states are affirming. In the case of buttons the hover state is maintaine
 ### 11. Notifications
 
 {% include example.html file="notifications" height="300" %}
+
+## Colour palette
+
+<p class="lead">Users will see, process and react to colour instantly and will learn patterns quickly.</p>
+
+The colour palette is predominantly comprised of blues and greys and is reflected in the branding of the Scottish Government and its sub-brands.
+
+As a general rule Blue is used for links, Dark greys for text, Light greys for layout and Light blues for active/selected states. Red represents error, Green validation and Yellow warning/notifications.
+
+<div class="palette-sample darker-blue">
+    <span>
+        Darker blue
+        <p class="colour-name">#002d54</p>
+        (rgb: 0, 45, 84)
+    </span>
+</div>
+
+<div class="palette-sample dark-blue">
+    <span>
+        Dark blue
+        <p class="colour-name">#00437e</p>
+        (rgb: 0, 67, 126)
+    </span>
+</div>
+
+<div class="palette-sample primary-blue">
+    <span>
+        Primary blue
+        <p class="colour-name">#0065bd</p>
+        (rgb: 0, 101, 189)
+    </span>
+</div>
+
+<div class="palette-sample light-blue">
+    <span>
+        Light blue
+        <p class="colour-name">#d9effc</p>
+        (rgb: 217, 239, 252)
+    </span>
+</div>
+
+<div class="palette-sample lighter-blue">
+    <span>
+        Lighter blue
+        <p class="colour-name">#e5f0f8</p>
+        (rgb: 229, 240, 248)
+    </span>
+</div>
+
+<!-- empty block -->
+<div class="palette-sample"></div>
+
+<div class="palette-sample dark-grey">
+    <span>
+        Dark grey
+        <p class="colour-name">#333</p>
+        (rgb: 51, 51, 51)
+    </span>
+</div>
+
+<div class="palette-sample base-grey">
+    <span>
+        Base grey
+        <p class="colour-name">#727272</p>
+        (rgb: 114, 114, 114)
+    </span>
+</div>
+
+<div class="palette-sample mid-grey">
+    <span>
+        Mid grey
+        <p class="colour-name">#b3b3b3</p>
+        (rgb: 179, 179, 179)
+    </span>
+</div>
+
+<div class="palette-sample pale-grey">
+    <span>
+        Pale grey
+        <p class="colour-name">#e3e3e3</p>
+        (rgb: 227, 227, 227)
+    </span>
+</div>
+
+<div class="palette-sample light-grey">
+    <span>
+        Light grey
+        <p class="colour-name">#ebebeb</p>
+        (rgb: 235, 235, 235)
+    </span>
+</div>
+
+<div class="palette-sample lighter-grey">
+    <span>
+        Lighter grey
+        <p class="colour-name">#f8f8f8</p>
+        (rgb: 248, 248, 248)
+    </span>
+</div>
+
+<div class="palette-sample error-red">
+    <span>
+        Error red
+        <p class="colour-name">#d32205</p>
+        (rgb: 211, 34, 5)
+    </span>
+</div>
+
+<div class="palette-sample error-red-tint">
+    <span>
+        Error red tint
+        <p class="colour-name">#f4e2df</p>
+        (rgb: 244, 226, 223)
+    </span>
+</div>
+
+<!-- empty block -->
+<div class="palette-sample tablet-up"></div>
+
+<div class="palette-sample validation-green">
+    <span>
+        Validation green
+        <p class="colour-name">#4e9d52</p>
+        (rgb: 78, 157, 82)
+    </span>
+</div>
+
+<div class="palette-sample validation-green-tint">
+    <span>
+        Validation green tint
+        <p class="colour-name">#edf5ee</p>
+        (rgb: 237, 245, 238)
+    </span>
+</div>
+
+<!-- empty block -->
+<div class="palette-sample tablet-up"></div>
+
+<div class="palette-sample notification-yellow">
+    <span>
+        Notification yellow
+        <p class="colour-name">#ffb644</p>
+        (rgb: 255, 182, 68)
+    </span>
+</div>
+
+<div class="palette-sample notification-yellow-tint">
+    <span>
+        Notification yellow tint
+        <p class="colour-name">#fff8ec</p>
+        (rgb: 255, 248, 236)
+    </span>
+</div>
+
+
+### Blues
+
+<div class="palette-list__colour-block primary-blue"></div>
+<div class="palette-list">
+    <strong>Primary Blue: #0065bd (rgb: 0, 101, 189)</strong><br>
+    Use: Default link colour e.g.
+    <ul>
+        <li>Text links</li>
+        <li>CTA/Primary button</li>
+        <li>Secondary button outline</li>
+        <li>Accompanying icons (arrows/numbers/graphics)</li>
+        <li>Form field focus border</li>
+        <li>Heading emphasis border above</li>
+        <li>Blockquote / address vertical left border</li>
+        <li>Footer background</li>
+    </ul>
+</div>
+
+<br>
+
+<div class="palette-list__colour-block dark-blue"></div>
+<div class="palette-list">
+    <strong>Dark blue: #00437e (rgb: 0, 67, 126)</strong><br>
+    Use: Link:hover state
+</div>
+
+<br>
+
+<div class="palette-list__colour-block darker-blue"></div>
+<div class="palette-list">
+    <strong>Darker blue: #002d54 (rgb: 0, 45, 84)</strong><br>
+    Use: May be used for graphical display text
+</div>
+
+<br>
+
+<div class="palette-list__colour-block light-blue"></div>
+<div class="palette-list">
+<strong>Light blue: #d9effc (rgb: 217, 239, 252)</strong><br>
+Use: Link:active state background
+</div>
+
+<br>
+
+<div class="palette-list__colour-block lighter-blue"></div>
+<div class="palette-list">
+<strong>Lighter blue: #e5f0f8 (rgb: 229, 240, 248)</strong><br>
+Use: Navigational selected state background / Form field focus background
+</div>
+
+### Greys
+
+**Dark grey: #333333 (rgb: 51, 51, 51)**
+
+Use: Default all text (para and headings) / Call-off / Cancel buttons
+
+**Base grey: #727272 (rgb: 114, 114, 114)**
+
+Use: Secondary text and form element borders
+* Search field placeholder (Mid-grey to be used for all other form field placeholder)
+* Form field character count
+* Form field border
+* Drop down select border
+* Checkbox / Radio button border
+* List items date / time
+
+**Mid grey: #b3b3b3 (rgb: 179, 179, 179)**
+
+Use: Form field placeholder text / Secondary text reversal out of Dark grey
+* Info and Caution Notes top and bottom border
+
+**Pale grey: #e3e3e3 (rgb: 227, 227, 227)**
+
+Use: Subtle borders / lines e.g.
+* Search results divider
+* Sub-nav items divider
+* Inactive field border
+
+**Light grey: #ebebeb (rgb: 235, 235, 235)**
+
+Use: Background grey hover
+* Hover state for ‘Lighter grey’ block element
+
+**Lighter grey: #f8f8f8 (rgb: 248, 248, 248)**
+
+Use: Block backgrounds
+* White background button/nav/search results hover state
+* Block element background e.g. optional inline form background
+* Aside / filter background
+
+
+### Reds
+
+**Error red: #d32205 (rgb: 211, 34, 5)**
+
+Use: Error messages / Attention e.g.
+* ‘This fund is currently closed’ / ‘Please enter your name’
+* Error playback border and text
+* Form field border in error state
+* Supporting error message
+* Fieldset border in error state
+
+**Error red tint: #f4e2df (rgb: 244, 226, 223)**
+Use: Error messages / Attention e.g.
+
+* Fieldset background in error state
+
+
+### Greens
+
+**Validation green: #4e9d52 (rgb: 78, 157, 82)**
+
+Use: Validation / Success messages / Attention (friendly) e.g.
+* ‘Hide this page’ button
+* Success message border and heading text
+* Form field border in validated state
+* Fieldset border in validation state
+
+**Validation green tint: #edf5ee (rgb: 237, 245, 238)**
+
+Use: Validation / Success messages / Attention (friendly) e.g.
+* Fieldset background in validation state
+
+
+### Yellows
+
+**Notification yellow: #ffb644 (rgb: 255, 182, 68)**
+
+Use: Amber state / Notification background (accompanied by Dark grey text) i.e.
+‘Beta banner’ or ‘You have been redirected from a site which no longer exists’
+
+**Notification yellow tint: #fff8ec (rgb: 255, 248, 236)**
+
+Use: Can be used in instances where solid Notification yellow isn’t suitable.
+
+

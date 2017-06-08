@@ -4,3 +4,4 @@ _site
 scottishgovernment.github.io.iml
 Gemfile*
 .DS_Store
+node_modules
