@@ -19,6 +19,22 @@
 		line-height: 21px;
 	}
 
+	a {
+		color: inherit;
+
+		&:hover {
+			text-decoration: none;
+		}
+
+		&:active {
+			opacity: 0.6;
+		}
+
+		p:active {
+			opacity: 0.6;
+		}
+	}
+
 	.colour-name {
 		font-size: 32px;
 		line-height: 42px;
@@ -29,10 +45,6 @@
 	&.spacer-tablet {
 		width: 0;
 		height: 0;
-
-		&:hover {
-			outline: none;
-		}
 	}
 
 	&:hover {
@@ -42,13 +54,14 @@
 	}
 }
 
-.palette-sample.spacer:hover {
+.palette-sample.spacer:hover, .palette-sample.spacer-tablet:hover {
 	outline: none;
 }
 
 .palette-list {
 	display: inline-block;
-    max-width: calc(100% - 60px);
+    width: calc(100% - 60px);
+    margin-bottom: 28px;
 
     strong {
     	margin-bottom: 7px;
@@ -57,6 +70,7 @@
 
     ul {
 		margin-top: 7px;
+		margin-bottom: 0px;
     } 
 
     li {
@@ -99,18 +113,18 @@
 	width: 240px;
 	height: 240px;
 	margin-right: -5px;
-	padding-top: 68px;
+	padding-top: 61px;
 	font-size: 14px;
 
 	.colour-name {
 		font-size: 45px;
 		line-height: 56px;
-		/*margin-bottom: 14px;*/
+		margin: 14px 0;
 	}
   }
 
   .palette-list {
-    max-width: calc(100% - 80px);
+    width: calc(100% - 80px);
 
 	&__colour-block {
 		width: 49px;
@@ -125,7 +139,7 @@
   .palette-sample, .palette-sample.spacer-tablet {
 	width: 205.5px;
 	height: 205.5px;
-	padding-top: 48.75px;
+	padding-top: 41.75px;
   }
 }
 
@@ -135,7 +149,7 @@
 	width: 250px;
 	height: 250px;
 	margin-right: -5px;
-	padding-top: 71.5px;
+	padding-top: 64.5px;
   }
 
   .rgb {
@@ -143,7 +157,7 @@
   }
 }
 
-
+/* Classes for colour swatches */
 
 .primary-blue {
 	background-color: #0065bd;

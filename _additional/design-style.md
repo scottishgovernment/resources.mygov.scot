@@ -209,41 +209,51 @@ As a general rule Blue is used for links, Dark greys for text, Light greys for l
 
 <div class="palette-sample darker-blue">
     <span>
-        Darker blue
-        <p class="colour-name">#002d54</p>
-        (rgb: 0, 45, 84)
+        <a href="#darker-blue">
+            Darker blue
+            <p class="colour-name">#002d54</p>
+            (rgb: 0, 45, 84)
+        </a>
     </span>
 </div>
 
 <div class="palette-sample dark-blue">
     <span>
-        Dark blue
-        <p class="colour-name">#00437e</p>
-        (rgb: 0, 67, 126)
+        <a href="#dark-blue">
+            Dark blue
+            <p class="colour-name">#00437e</p>
+            (rgb: 0, 67, 126)
+        </a>
     </span>
 </div>
 
 <div class="palette-sample primary-blue">
     <span>
-        Primary blue
-        <p class="colour-name">#0065bd</p>
-        (rgb: 0, 101, 189)
+        <a href="#primary-blue">
+            Primary blue
+            <p class="colour-name">#0065bd</p>
+            (rgb: 0, 101, 189)
+        </a>
     </span>
 </div>
 
 <div class="palette-sample light-blue">
     <span>
-        Light blue
-        <p class="colour-name">#d9effc</p>
-        (rgb: 217, 239, 252)
+        <a href="#light-blue">
+            Light blue
+            <p class="colour-name">#d9effc</p>
+            (rgb: 217, 239, 252)
+        </a>
     </span>
 </div>
 
 <div class="palette-sample lighter-blue">
     <span>
-        Lighter blue
-        <p class="colour-name">#e5f0f8</p>
-        (rgb: 229, 240, 248)
+        <a href="#lighter-blue">
+            Lighter blue
+            <p class="colour-name">#e5f0f8</p>
+            (rgb: 229, 240, 248)
+        </a>
     </span>
 </div>
 
@@ -252,65 +262,81 @@ As a general rule Blue is used for links, Dark greys for text, Light greys for l
 
 <div class="palette-sample dark-grey">
     <span>
-        Dark grey
-        <p class="colour-name">#333</p>
-        (rgb: 51, 51, 51)
+        <a href="#dark-grey">
+            Dark grey
+            <p class="colour-name">#333</p>
+            (rgb: 51, 51, 51)
+        </a>
     </span>
 </div>
 
 <div class="palette-sample base-grey">
     <span>
-        Base grey
-        <p class="colour-name">#727272</p>
-        (rgb: 114, 114, 114)
+        <a href="#base-grey">
+            Base grey
+            <p class="colour-name">#727272</p>
+            (rgb: 114, 114, 114)
+        </a>
     </span>
 </div>
 
 <div class="palette-sample mid-grey">
     <span>
-        Mid grey
-        <p class="colour-name">#b3b3b3</p>
-        (rgb: 179, 179, 179)
+        <a href="#mid-grey">
+            Mid grey
+            <p class="colour-name">#b3b3b3</p>
+            (rgb: 179, 179, 179)
+        </a>
     </span>
 </div>
 
 <div class="palette-sample pale-grey">
     <span>
-        Pale grey
-        <p class="colour-name">#e3e3e3</p>
-        (rgb: 227, 227, 227)
+        <a href="#pale-grey">
+            Pale grey
+            <p class="colour-name">#e3e3e3</p>
+            (rgb: 227, 227, 227)
+        </a>
     </span>
 </div>
 
 <div class="palette-sample light-grey">
     <span>
-        Light grey
-        <p class="colour-name">#ebebeb</p>
-        (rgb: 235, 235, 235)
+        <a href="#light-grey">
+            Light grey
+            <p class="colour-name">#ebebeb</p>
+            (rgb: 235, 235, 235)
+        </a>
     </span>
 </div>
 
 <div class="palette-sample lighter-grey">
     <span>
-        Lighter grey
-        <p class="colour-name">#f8f8f8</p>
-        (rgb: 248, 248, 248)
+        <a href="#lighter-grey">
+            Lighter grey
+            <p class="colour-name">#f8f8f8</p>
+            (rgb: 248, 248, 248)
+        </a>
     </span>
 </div>
 
 <div class="palette-sample error-red">
     <span>
-        Error red
-        <p class="colour-name">#d32205</p>
-        (rgb: 211, 34, 5)
+        <a href="#error-red">
+            Error red
+            <p class="colour-name">#d32205</p>
+            (rgb: 211, 34, 5)
+        </a>
     </span>
 </div>
 
 <div class="palette-sample error-red-tint">
     <span>
-        Error red tint
-        <p class="colour-name">#f4e2df</p>
-        (rgb: 244, 226, 223)
+        <a href="#error-red-tint">
+            Error red tint
+            <p class="colour-name">#f4e2df</p>
+            (rgb: 244, 226, 223)
+        </a>
     </span>
 </div>
 
@@ -319,17 +345,21 @@ As a general rule Blue is used for links, Dark greys for text, Light greys for l
 
 <div class="palette-sample validation-green">
     <span>
-        Validation green
-        <p class="colour-name">#4e9d52</p>
-        (rgb: 78, 157, 82)
+        <a href="#validation-green">
+            Validation green
+            <p class="colour-name">#4e9d52</p>
+            (rgb: 78, 157, 82)
+        </a>
     </span>
 </div>
 
 <div class="palette-sample validation-green-tint">
     <span>
-        Validation green tint
-        <p class="colour-name">#edf5ee</p>
-        (rgb: 237, 245, 238)
+        <a href="#validation-green-tint">
+            Validation green tint
+            <p class="colour-name">#edf5ee</p>
+            (rgb: 237, 245, 238)
+        </a>
     </span>
 </div>
 
@@ -338,17 +368,21 @@ As a general rule Blue is used for links, Dark greys for text, Light greys for l
 
 <div class="palette-sample notification-yellow">
     <span>
-        Notification yellow
-        <p class="colour-name">#ffb644</p>
-        (rgb: 255, 182, 68)
+        <a href="#notification-yellow">
+            Notification yellow
+            <p class="colour-name">#ffb644</p>
+            (rgb: 255, 182, 68)
+        </a>
     </span>
 </div>
 
 <div class="palette-sample notification-yellow-tint">
     <span>
-        Notification yellow tint
-        <p class="colour-name">#fff8ec</p>
-        (rgb: 255, 248, 236)
+        <a href="#notification-yellow-tint">
+            Notification yellow tint
+            <p class="colour-name">#fff8ec</p>
+            (rgb: 255, 248, 236)
+        </a>
     </span>
 </div>
 
@@ -357,6 +391,7 @@ As a general rule Blue is used for links, Dark greys for text, Light greys for l
 
 <div class="palette-list__colour-block primary-blue"></div>
 <div class="palette-list">
+    <a name="primary-blue"></a>
     <strong>Primary Blue: #0065bd <span class="rgb">(rgb: 0, 101, 189)</span></strong><br>
     Use: Default link colour e.g.
     <ul>
@@ -371,34 +406,30 @@ As a general rule Blue is used for links, Dark greys for text, Light greys for l
     </ul>
 </div>
 
-<br>
-
 <div class="palette-list__colour-block dark-blue"></div>
 <div class="palette-list">
+    <a name="dark-blue"></a>
     <strong>Dark blue: #00437e <span class="rgb">(rgb: 0, 67, 126)</span></strong><br>
     Use: Link:hover state
 </div>
 
-<br>
-
 <div class="palette-list__colour-block darker-blue"></div>
 <div class="palette-list">
+    <a name="darker-blue"></a>
     <strong>Darker blue: #002d54 <span class="rgb">(rgb: 0, 45, 84)</span></strong><br>
     Use: May be used for graphical display text
 </div>
 
-<br>
-
 <div class="palette-list__colour-block light-blue"></div>
 <div class="palette-list">
+    <a name="light-blue"></a>
     <strong>Light blue: #d9effc <span class="rgb">(rgb: 217, 239, 252)</span></strong><br>
     Use: Link:active state background
 </div>
 
-<br>
-
 <div class="palette-list__colour-block lighter-blue"></div>
 <div class="palette-list">
+    <a name="lighter-blue"></a>
     <strong>Lighter blue: #e5f0f8 <span class="rgb">(rgb: 229, 240, 248)</span></strong><br>
     Use: Navigational selected state background / Form field focus background
 </div>
@@ -407,14 +438,14 @@ As a general rule Blue is used for links, Dark greys for text, Light greys for l
 
 <div class="palette-list__colour-block dark-grey"></div>
 <div class="palette-list">
+    <a name="dark-grey"></a>
     <strong>Dark grey: #333333 <span class="rgb">(rgb: 51, 51, 51)</span></strong><br>
     Use: Default all text (para and headings) / Call-off / Cancel buttons
 </div>
 
-<br>
-
 <div class="palette-list__colour-block base-grey"></div>
 <div class="palette-list">
+    <a name="base-grey"></a>
     <strong>Base grey: #727272 <span class="rgb">(rgb: 114, 114, 114)</span></strong><br>
     Use: Secondary text and form element borders
     <ul>
@@ -427,10 +458,9 @@ As a general rule Blue is used for links, Dark greys for text, Light greys for l
     </ul>
 </div>
 
-<br>
-
 <div class="palette-list__colour-block mid-grey"></div>
 <div class="palette-list">
+    <a name="mid-grey"></a>
     <strong>Mid grey: #b3b3b3 <span class="rgb">(rgb: 179, 179, 179)</span></strong><br>
     Use: Form field placeholder text / Secondary text reversal out of Dark grey
     <ul>
@@ -438,10 +468,9 @@ As a general rule Blue is used for links, Dark greys for text, Light greys for l
     </ul>
 </div>
 
-<br>
-
 <div class="palette-list__colour-block pale-grey"></div>
 <div class="palette-list">
+    <a name="pale-grey"></a>
     <strong>Pale grey: #e3e3e3 <span class="rgb">(rgb: 227, 227, 227)</span></strong><br>
     Use: Subtle borders / lines e.g.
     <ul>
@@ -451,10 +480,9 @@ As a general rule Blue is used for links, Dark greys for text, Light greys for l
     </ul>
 </div>
 
-<br>
-
 <div class="palette-list__colour-block light-grey"></div>
 <div class="palette-list">
+    <a name="light-grey"></a>
     <strong>Light grey: #ebebeb <span class="rgb">(rgb: 235, 235, 235)</span></strong><br>
     Use: Background grey hover
     <ul>
@@ -462,10 +490,9 @@ As a general rule Blue is used for links, Dark greys for text, Light greys for l
     </ul>
 </div>
 
-<br>
-
 <div class="palette-list__colour-block lighter-grey"></div>
 <div class="palette-list">
+    <a name="lighter-grey"></a>
     <strong>Lighter grey: #f8f8f8 <span class="rgb">(rgb: 248, 248, 248)</span></strong><br>
     Use: Block backgrounds
     <ul>
@@ -479,6 +506,7 @@ As a general rule Blue is used for links, Dark greys for text, Light greys for l
 
 <div class="palette-list__colour-block error-red"></div>
 <div class="palette-list">
+    <a name="error-red"></a>
     <strong>Error red: #d32205 <span class="rgb">(rgb: 211, 34, 5</span></strong><br>
     Use: Error messages / Attention e.g.
     <ul>
@@ -490,10 +518,9 @@ As a general rule Blue is used for links, Dark greys for text, Light greys for l
     </ul>
 </div>
 
-<br>
-
 <div class="palette-list__colour-block error-red-tint"></div>
 <div class="palette-list">
+    <a name="error-red-tint"></a>
     <strong>Error red tint: #f4e2df <span class="rgb">(rgb: 244, 226, 223)</span></strong><br>
     Use: Error messages / Attention e.g.
     <ul>
@@ -505,6 +532,7 @@ As a general rule Blue is used for links, Dark greys for text, Light greys for l
 
 <div class="palette-list__colour-block validation-green"></div>
 <div class="palette-list">
+    <a name="validation-green"></a>
     <strong>Validation green: #4e9d52 <span class="rgb">(rgb: 78, 157, 82)</span></strong><br>
     Use: Validation / Success messages / Attention (friendly) e.g.
     <ul>
@@ -515,10 +543,9 @@ As a general rule Blue is used for links, Dark greys for text, Light greys for l
     </ul>
 </div>
 
-<br>
-
 <div class="palette-list__colour-block validation-green-tint"></div>
 <div class="palette-list">
+    <a name="validation-green-tint"></a>
     <strong>Validation green tint: #edf5ee <span class="rgb">(rgb: 237, 245, 238)</span></strong><br>
     Use: Validation / Success messages / Attention (friendly) e.g.
     <ul>
@@ -530,14 +557,14 @@ As a general rule Blue is used for links, Dark greys for text, Light greys for l
 
 <div class="palette-list__colour-block notification-yellow"></div>
 <div class="palette-list">
+    <a name="notification-yellow"></a>
     <strong>Notification yellow: #ffb644 <span class="rgb">(rgb: 255, 182, 68)</span></strong><br>
     Use: Amber state / Notification background (accompanied by Dark grey text) i.e. ‘Beta banner’ or ‘You have been redirected from a site which no longer exists’
 </div>
 
-<br>
-
 <div class="palette-list__colour-block notification-yellow-tint"></div>
 <div class="palette-list">
+    <a name="notification-yellow-tint"></a>
     <strong>Notification yellow tint: #fff8ec <span class="rgb">(rgb: 255, 248, 236)</span></strong><br>
     Use: Can be used in instances where solid Notification yellow isn’t suitable.
 </div>
