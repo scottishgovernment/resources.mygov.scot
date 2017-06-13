@@ -216,186 +216,188 @@ As a general rule use:
 * green – for messages of success or validation 
 * yellow – for warning or notifications.
 
+<div class="palette-sample-container">
 
-<div class="palette-sample darker-blue">
-    <span>
-        <a href="#darker-blue">
-            Darker blue
-            <p class="colour-name">#002d54</p>
-            (rgb: 0, 45, 84)
-        </a>
-    </span>
+    <div class="palette-sample darker-blue">
+        <span>
+            <a href="#darker-blue">
+                Darker blue
+                <p class="colour-name">#002d54</p>
+                (rgb: 0, 45, 84)
+            </a>
+        </span>
+    </div>
+
+    <div class="palette-sample dark-blue">
+        <span>
+            <a href="#dark-blue">
+                Dark blue
+                <p class="colour-name">#00437e</p>
+                (rgb: 0, 67, 126)
+            </a>
+        </span>
+    </div>
+
+    <div class="palette-sample primary-blue">
+        <span>
+            <a href="#primary-blue">
+                Primary blue
+                <p class="colour-name">#0065bd</p>
+                (rgb: 0, 101, 189)
+            </a>
+        </span>
+    </div>
+
+    <div class="palette-sample light-blue">
+        <span>
+            <a href="#light-blue">
+                Light blue
+                <p class="colour-name">#d9effc</p>
+                (rgb: 217, 239, 252)
+            </a>
+        </span>
+    </div>
+
+    <div class="palette-sample lighter-blue">
+        <span>
+            <a href="#lighter-blue">
+                Lighter blue
+                <p class="colour-name">#e5f0f8</p>
+                (rgb: 229, 240, 248)
+            </a>
+        </span>
+    </div>
+
+    <!-- empty block -->
+    <div class="palette-sample spacer"></div>
+
+    <div class="palette-sample dark-grey">
+        <span>
+            <a href="#dark-grey">
+                Dark grey
+                <p class="colour-name">#333</p>
+                (rgb: 51, 51, 51)
+            </a>
+        </span>
+    </div>
+
+    <div class="palette-sample base-grey">
+        <span>
+            <a href="#base-grey">
+                Base grey
+                <p class="colour-name">#727272</p>
+                (rgb: 114, 114, 114)
+            </a>
+        </span>
+    </div>
+
+    <div class="palette-sample mid-grey">
+        <span>
+            <a href="#mid-grey">
+                Mid grey
+                <p class="colour-name">#b3b3b3</p>
+                (rgb: 179, 179, 179)
+            </a>
+        </span>
+    </div>
+
+    <div class="palette-sample pale-grey">
+        <span>
+            <a href="#pale-grey">
+                Pale grey
+                <p class="colour-name">#e3e3e3</p>
+                (rgb: 227, 227, 227)
+            </a>
+        </span>
+    </div>
+
+    <div class="palette-sample light-grey">
+        <span>
+            <a href="#light-grey">
+                Light grey
+                <p class="colour-name">#ebebeb</p>
+                (rgb: 235, 235, 235)
+            </a>
+        </span>
+    </div>
+
+    <div class="palette-sample lighter-grey">
+        <span>
+            <a href="#lighter-grey">
+                Lighter grey
+                <p class="colour-name">#f8f8f8</p>
+                (rgb: 248, 248, 248)
+            </a>
+        </span>
+    </div>
+
+    <div class="palette-sample error-red">
+        <span>
+            <a href="#error-red">
+                Error red
+                <p class="colour-name">#d32205</p>
+                (rgb: 211, 34, 5)
+            </a>
+        </span>
+    </div>
+
+    <div class="palette-sample error-red-tint">
+        <span>
+            <a href="#error-red-tint">
+                Error red tint
+                <p class="colour-name">#f4e2df</p>
+                (rgb: 244, 226, 223)
+            </a>
+        </span>
+    </div>
+
+    <!-- empty block -->
+    <div class="palette-sample spacer-tablet"></div>
+
+    <div class="palette-sample validation-green">
+        <span>
+            <a href="#validation-green">
+                Validation green
+                <p class="colour-name">#4e9d52</p>
+                (rgb: 78, 157, 82)
+            </a>
+        </span>
+    </div>
+
+    <div class="palette-sample validation-green-tint">
+        <span>
+            <a href="#validation-green-tint">
+                Validation green tint
+                <p class="colour-name">#edf5ee</p>
+                (rgb: 237, 245, 238)
+            </a>
+        </span>
+    </div>
+
+    <!-- empty block -->
+    <div class="palette-sample spacer-tablet"></div>
+
+    <div class="palette-sample notification-yellow">
+        <span>
+            <a href="#notification-yellow">
+                Notification yellow
+                <p class="colour-name">#ffb644</p>
+                (rgb: 255, 182, 68)
+            </a>
+        </span>
+    </div>
+
+    <div class="palette-sample notification-yellow-tint">
+        <span>
+            <a href="#notification-yellow-tint">
+                Notification yellow tint
+                <p class="colour-name">#fff8ec</p>
+                (rgb: 255, 248, 236)
+            </a>
+        </span>
+    </div>
+
 </div>
-
-<div class="palette-sample dark-blue">
-    <span>
-        <a href="#dark-blue">
-            Dark blue
-            <p class="colour-name">#00437e</p>
-            (rgb: 0, 67, 126)
-        </a>
-    </span>
-</div>
-
-<div class="palette-sample primary-blue">
-    <span>
-        <a href="#primary-blue">
-            Primary blue
-            <p class="colour-name">#0065bd</p>
-            (rgb: 0, 101, 189)
-        </a>
-    </span>
-</div>
-
-<div class="palette-sample light-blue">
-    <span>
-        <a href="#light-blue">
-            Light blue
-            <p class="colour-name">#d9effc</p>
-            (rgb: 217, 239, 252)
-        </a>
-    </span>
-</div>
-
-<div class="palette-sample lighter-blue">
-    <span>
-        <a href="#lighter-blue">
-            Lighter blue
-            <p class="colour-name">#e5f0f8</p>
-            (rgb: 229, 240, 248)
-        </a>
-    </span>
-</div>
-
-<!-- empty block -->
-<div class="palette-sample spacer"></div>
-
-<div class="palette-sample dark-grey">
-    <span>
-        <a href="#dark-grey">
-            Dark grey
-            <p class="colour-name">#333</p>
-            (rgb: 51, 51, 51)
-        </a>
-    </span>
-</div>
-
-<div class="palette-sample base-grey">
-    <span>
-        <a href="#base-grey">
-            Base grey
-            <p class="colour-name">#727272</p>
-            (rgb: 114, 114, 114)
-        </a>
-    </span>
-</div>
-
-<div class="palette-sample mid-grey">
-    <span>
-        <a href="#mid-grey">
-            Mid grey
-            <p class="colour-name">#b3b3b3</p>
-            (rgb: 179, 179, 179)
-        </a>
-    </span>
-</div>
-
-<div class="palette-sample pale-grey">
-    <span>
-        <a href="#pale-grey">
-            Pale grey
-            <p class="colour-name">#e3e3e3</p>
-            (rgb: 227, 227, 227)
-        </a>
-    </span>
-</div>
-
-<div class="palette-sample light-grey">
-    <span>
-        <a href="#light-grey">
-            Light grey
-            <p class="colour-name">#ebebeb</p>
-            (rgb: 235, 235, 235)
-        </a>
-    </span>
-</div>
-
-<div class="palette-sample lighter-grey">
-    <span>
-        <a href="#lighter-grey">
-            Lighter grey
-            <p class="colour-name">#f8f8f8</p>
-            (rgb: 248, 248, 248)
-        </a>
-    </span>
-</div>
-
-<div class="palette-sample error-red">
-    <span>
-        <a href="#error-red">
-            Error red
-            <p class="colour-name">#d32205</p>
-            (rgb: 211, 34, 5)
-        </a>
-    </span>
-</div>
-
-<div class="palette-sample error-red-tint">
-    <span>
-        <a href="#error-red-tint">
-            Error red tint
-            <p class="colour-name">#f4e2df</p>
-            (rgb: 244, 226, 223)
-        </a>
-    </span>
-</div>
-
-<!-- empty block -->
-<div class="palette-sample spacer-tablet"></div>
-
-<div class="palette-sample validation-green">
-    <span>
-        <a href="#validation-green">
-            Validation green
-            <p class="colour-name">#4e9d52</p>
-            (rgb: 78, 157, 82)
-        </a>
-    </span>
-</div>
-
-<div class="palette-sample validation-green-tint">
-    <span>
-        <a href="#validation-green-tint">
-            Validation green tint
-            <p class="colour-name">#edf5ee</p>
-            (rgb: 237, 245, 238)
-        </a>
-    </span>
-</div>
-
-<!-- empty block -->
-<div class="palette-sample spacer-tablet"></div>
-
-<div class="palette-sample notification-yellow">
-    <span>
-        <a href="#notification-yellow">
-            Notification yellow
-            <p class="colour-name">#ffb644</p>
-            (rgb: 255, 182, 68)
-        </a>
-    </span>
-</div>
-
-<div class="palette-sample notification-yellow-tint">
-    <span>
-        <a href="#notification-yellow-tint">
-            Notification yellow tint
-            <p class="colour-name">#fff8ec</p>
-            (rgb: 255, 248, 236)
-        </a>
-    </span>
-</div>
-
 
 ### Blues
 
@@ -529,7 +531,7 @@ As a general rule use:
 <div class="palette-list__colour-block error-red"></div>
 <div class="palette-list">
     <a name="error-red"></a>
-    <strong>Error red: #d32205 <span class="rgb">(rgb: 211, 34, 5</span></strong><br>
+    <strong>Error red: #d32205 <span class="rgb">(rgb: 211, 34, 5)</span></strong><br>
     Use: error messages / attention <br><br>
 
     Other examples:
