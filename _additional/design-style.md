@@ -203,9 +203,19 @@ Active states are affirming. In the case of buttons the hover state is maintaine
 
 <p class="lead">Users will see, process and react to colour instantly and will learn patterns quickly.</p>
 
-The colour palette is predominantly comprised of blues and greys and is reflected in the branding of the Scottish Government and its sub-brands.
+Purpose of this palette: This is the colour palette we use for mygov.scot and gov.scot. Any services being created in line with mygov.scot will need to follow this palette to meet the Digital First Service ‘consistent user experience’ standard.
 
-As a general rule Blue is used for links, Dark greys for text, Light greys for layout and Light blues for active/selected states. Red represents error, Green validation and Yellow warning/notifications.
+The colours reflect the branding of the Scottish Government.
+
+As a general rule use:
+* blue – for links
+* dark grey – for text
+* light greys – for layout
+* light blues – for active/selected states
+* red – for error
+* green – for messages of success or validation 
+* yellow – for warning or notifications.
+
 
 <div class="palette-sample darker-blue">
     <span>
@@ -393,16 +403,18 @@ As a general rule Blue is used for links, Dark greys for text, Light greys for l
 <div class="palette-list">
     <a name="primary-blue"></a>
     <strong>Primary Blue: #0065bd <span class="rgb">(rgb: 0, 101, 189)</span></strong><br>
-    Use: Default link colour e.g.
+    Use: default link colour <br><br>
+
+    Other examples:
     <ul>
-        <li>Text links</li>
-        <li>CTA/Primary button</li>
-        <li>Secondary button outline</li>
-        <li>Accompanying icons (arrows/numbers/graphics)</li>
-        <li>Form field focus border</li>
-        <li>Heading emphasis border above</li>
-        <li>Blockquote / address vertical left border</li>
-        <li>Footer background</li>
+        <li>text links</li>
+        <li>CTA / primary button</li>
+        <li>secondary button outline</li>
+        <li>accompanying icons (arrows/numbers/graphics)</li>
+        <li>form field focus border</li>
+        <li>heading emphasis border above</li>
+        <li>blockquote / address vertical left border</li>
+        <li>footer background</li>
     </ul>
 </div>
 
@@ -410,28 +422,28 @@ As a general rule Blue is used for links, Dark greys for text, Light greys for l
 <div class="palette-list">
     <a name="dark-blue"></a>
     <strong>Dark blue: #00437e <span class="rgb">(rgb: 0, 67, 126)</span></strong><br>
-    Use: Link:hover state
+    Use: link hover state
 </div>
 
 <div class="palette-list__colour-block darker-blue"></div>
 <div class="palette-list">
     <a name="darker-blue"></a>
     <strong>Darker blue: #002d54 <span class="rgb">(rgb: 0, 45, 84)</span></strong><br>
-    Use: May be used for graphical display text
+    Use: currently undefined
 </div>
 
 <div class="palette-list__colour-block light-blue"></div>
 <div class="palette-list">
     <a name="light-blue"></a>
     <strong>Light blue: #d9effc <span class="rgb">(rgb: 217, 239, 252)</span></strong><br>
-    Use: Link:active state background
+    Use: link active state background
 </div>
 
 <div class="palette-list__colour-block lighter-blue"></div>
 <div class="palette-list">
     <a name="lighter-blue"></a>
     <strong>Lighter blue: #e5f0f8 <span class="rgb">(rgb: 229, 240, 248)</span></strong><br>
-    Use: Navigational selected state background / Form field focus background
+    Use: navigational selected state background / form field focus background
 </div>
 
 ### Greys
@@ -440,21 +452,23 @@ As a general rule Blue is used for links, Dark greys for text, Light greys for l
 <div class="palette-list">
     <a name="dark-grey"></a>
     <strong>Dark grey: #333333 <span class="rgb">(rgb: 51, 51, 51)</span></strong><br>
-    Use: Default all text (para and headings) / Call-off / Cancel buttons
+    Use: default all text (para and headings) / call-off / cancel buttons
 </div>
 
 <div class="palette-list__colour-block base-grey"></div>
 <div class="palette-list">
     <a name="base-grey"></a>
     <strong>Base grey: #727272 <span class="rgb">(rgb: 114, 114, 114)</span></strong><br>
-    Use: Secondary text and form element borders
+    Use: secondary text and form element borders <br><br>
+
+    Other examples:
     <ul>
-        <li>Search field placeholder (Mid-grey to be used for all other form field placeholder)</li>
-        <li>Form field character count</li>
-        <li>Form field border</li>
-        <li>Drop down select borde</li>
-        <li>Checkbox / Radio button border</li>
-        <li>List items date / time</li>
+        <li>search field placeholder (Mid-grey to be used for all other form field placeholders)</li>
+        <li>form field character count</li>
+        <li>form field border</li>
+        <li>drop down select border</li>
+        <li>checkbox / radio button border</li>
+        <li>list items date / time</li>
     </ul>
 </div>
 
@@ -462,9 +476,11 @@ As a general rule Blue is used for links, Dark greys for text, Light greys for l
 <div class="palette-list">
     <a name="mid-grey"></a>
     <strong>Mid grey: #b3b3b3 <span class="rgb">(rgb: 179, 179, 179)</span></strong><br>
-    Use: Form field placeholder text / Secondary text reversal out of Dark grey
+    Use: form field placeholder text / secondary text reversal out of dark grey <br><br>
+
+    Other examples:
     <ul>
-        <li>Info and Caution Notes top and bottom border</li>
+        <li>info and caution notes top and bottom border</li>
     </ul>
 </div>
 
@@ -472,11 +488,13 @@ As a general rule Blue is used for links, Dark greys for text, Light greys for l
 <div class="palette-list">
     <a name="pale-grey"></a>
     <strong>Pale grey: #e3e3e3 <span class="rgb">(rgb: 227, 227, 227)</span></strong><br>
-    Use: Subtle borders / lines e.g.
+    Use: subtle borders / lines <br><br>
+
+    Other examples:
     <ul>
-        <li>Search results divider</li>
-        <li>Sub-nav items divider</li>
-        <li>Inactive field border</li>
+        <li>search results divider</li>
+        <li>sub-nav items divider</li>
+        <li>inactive field border</li>
     </ul>
 </div>
 
@@ -484,9 +502,11 @@ As a general rule Blue is used for links, Dark greys for text, Light greys for l
 <div class="palette-list">
     <a name="light-grey"></a>
     <strong>Light grey: #ebebeb <span class="rgb">(rgb: 235, 235, 235)</span></strong><br>
-    Use: Background grey hover
+    Use: background grey hover <br><br>
+    
+    Other examples:
     <ul>
-        <li>Hover state for ‘Lighter grey’ block element</li>
+        <li>hover state for ‘lighter grey’ block element</li>
     </ul>
 </div>
 
@@ -494,11 +514,13 @@ As a general rule Blue is used for links, Dark greys for text, Light greys for l
 <div class="palette-list">
     <a name="lighter-grey"></a>
     <strong>Lighter grey: #f8f8f8 <span class="rgb">(rgb: 248, 248, 248)</span></strong><br>
-    Use: Block backgrounds
+    Use: block backgrounds <br><br>
+    
+    Other examples:
     <ul>
-        <li>White background button/nav/search results hover state</li>
-        <li>Block element background e.g. optional inline form background</li>
-        <li>Aside / filter background</li>
+        <li>white background button/nav/search results hover state</li>
+        <li>block element background</li>
+        <li>aside / filter background</li>
     </ul>
 </div>
 
@@ -508,13 +530,15 @@ As a general rule Blue is used for links, Dark greys for text, Light greys for l
 <div class="palette-list">
     <a name="error-red"></a>
     <strong>Error red: #d32205 <span class="rgb">(rgb: 211, 34, 5</span></strong><br>
-    Use: Error messages / Attention e.g.
+    Use: error messages / attention <br><br>
+
+    Other examples:
     <ul>
-        <li>‘This fund is currently closed’ / ‘Please enter your name’</li>
-        <li>Error playback border and text</li>
-        <li>Form field border in error state</li>
-        <li>Supporting error message</li>
-        <li>Fieldset border in error state</li>
+        <li>messages like ‘This fund is currently closed’ / ‘Please enter your name’</li>
+        <li>error playback border and text</li>
+        <li>form field border in error state</li>
+        <li>supporting error message</li>
+        <li>fieldset border in error state</li>
     </ul>
 </div>
 
@@ -522,9 +546,11 @@ As a general rule Blue is used for links, Dark greys for text, Light greys for l
 <div class="palette-list">
     <a name="error-red-tint"></a>
     <strong>Error red tint: #f4e2df <span class="rgb">(rgb: 244, 226, 223)</span></strong><br>
-    Use: Error messages / Attention e.g.
+    Use: error messages / attention <br><br>
+
+    Other examples:
     <ul>
-        <li>Fieldset background in error state</li>
+        <li>fieldset background in error state</li>
     </ul>
 </div>
 
@@ -534,12 +560,14 @@ As a general rule Blue is used for links, Dark greys for text, Light greys for l
 <div class="palette-list">
     <a name="validation-green"></a>
     <strong>Validation green: #4e9d52 <span class="rgb">(rgb: 78, 157, 82)</span></strong><br>
-    Use: Validation / Success messages / Attention (friendly) e.g.
+    Use: validation / success messages / attention (friendly) <br><br>
+
+    Other examples:
     <ul>
         <li>‘Hide this page’ button</li>
-        <li>Success message border and heading text</li>
-        <li>Form field border in validated state</li>
-        <li>Fieldset border in validation state</li>
+        <li>success message border and heading text</li>
+        <li>form field border in validated state</li>
+        <li>fieldset border in validation state</li>
     </ul>
 </div>
 
@@ -547,9 +575,11 @@ As a general rule Blue is used for links, Dark greys for text, Light greys for l
 <div class="palette-list">
     <a name="validation-green-tint"></a>
     <strong>Validation green tint: #edf5ee <span class="rgb">(rgb: 237, 245, 238)</span></strong><br>
-    Use: Validation / Success messages / Attention (friendly) e.g.
+    Use: validation / success messages / attention (friendly) <br><br>
+
+    Other examples:
     <ul>
-        <li>Fieldset background in validation state</li>
+        <li>fieldset background in validation state</li>
     </ul>
 </div>
 
@@ -559,14 +589,19 @@ As a general rule Blue is used for links, Dark greys for text, Light greys for l
 <div class="palette-list">
     <a name="notification-yellow"></a>
     <strong>Notification yellow: #ffb644 <span class="rgb">(rgb: 255, 182, 68)</span></strong><br>
-    Use: Amber state / Notification background (accompanied by Dark grey text) i.e. ‘Beta banner’ or ‘You have been redirected from a site which no longer exists’
+    Use: amber state / notification background (accompanied by dark grey text) <br><br>
+
+    Other examples:
+    <ul>
+        <li>‘Beta banner’ or ‘You have been redirected from a site which no longer exists’</li>
+    </ul>
 </div>
 
 <div class="palette-list__colour-block notification-yellow-tint"></div>
 <div class="palette-list">
     <a name="notification-yellow-tint"></a>
     <strong>Notification yellow tint: #fff8ec <span class="rgb">(rgb: 255, 248, 236)</span></strong><br>
-    Use: Can be used in instances where solid Notification yellow isn’t suitable.
+    Use: can be used in instances where solid notification yellow isn’t suitable.
 </div>
 
 <br>
