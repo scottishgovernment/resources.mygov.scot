@@ -21,6 +21,14 @@ Setting performance indicators allows they to continuously improve their service
 * learning its strengths and weaknesses
 * using data to support improvements they make
 
+## Prerequisites
+
+To meet this standard you must collect performance data for your website, your service and your organisation. This could be achieved through a web analytics setup. For more information check out our [web analytics documentation](http://scottishgovernment.github.io/guidelines/analytics/).
+
+You must also have staff who are able to interpret performance data. This understanding will be explored during the assessment.
+
+Finally you must report your performance publicly. This could be shown through publishing monthly data on the Performance Platform.
+
 ## How they’ll be assessed
 
 Their assessment and the questions the assessors ask them will vary depending on their service and what it does.

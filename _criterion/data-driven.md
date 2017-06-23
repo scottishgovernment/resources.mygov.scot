@@ -22,6 +22,14 @@ Collecting performance data means they can continuously improve their service by
 * learning its strengths and weaknesses
 * using the data to support improvements they make
 
+## Prerequisites
+
+To meet this standard you must be able to show that you collect performance data for your website, your service and your organisation. This could be achieved through a web analytics setup. For more information check out our [web analytics documentation](http://scottishgovernment.github.io/guidelines/analytics/).
+
+You must also have staff who are able to interpret performance data. This understanding will be explored during the assessment.
+
+Finally you must show evidence of using performance data to make informed organisational and service design decisions. This could be shown through the use of support tickets telling a story of iteration based on data.
+
 ## How they’ll be assessed
 
 Their assessment and the questions the assessors ask them will vary depending on their service and what it does.
