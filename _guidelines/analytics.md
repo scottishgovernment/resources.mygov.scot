@@ -66,17 +66,17 @@ Once GTM has been deployed to all pages, it lets you deploy your analytics tool/
 
 Some basic event tracking examples:
 * Each time a user clicks a link to open a PDF document
-  * PDF tracking tag - the tag is used to set the dimensions that you will see in Google Analytics following a PDF link click. Set the category as `PDF`, the action as `Download` and the label using the pre-defined macro `{{Click URL}}` (this sets the label as the URL of the HTML link element)
-  * PDF firing rule - the tag should fire when a link has been clicked AND that the HTML `{{Click URL}}` contains a directory structure of `/PDFs/`: `{{event}} equals gtm.linkClick` and `{{Click URL}} contains /PDFs/`
+  * PDF tracking tag - the tag is used to set the dimensions that you will see in Google Analytics following a PDF link click. Set the category as `PDF`, the action as `Download` and the label using the pre-defined macro `{% raw %}{{Click URL}}{% endraw %}` (this sets the label as the URL of the HTML link element)
+  * PDF firing rule - the tag should fire when a link has been clicked AND that the HTML `{% raw %}{{Click URL}}{% endraw %}` contains a directory structure of `/PDFs/`: `{% raw %}{{event}}{% endraw %} equals gtm.linkClick` and `{% raw %}{{Click URL}}{% endraw %} contains /PDFs/`
 * each time a user clicks an email link
-  * Email tracking tag - set the category as `Email`, the action as `{{Click Text}}` and the label as `{{Click URL}}`
-  * Email firing rule - the tag should fire when an email address has been clicked: trigger on `Some Link Clicks` when `{{Click URL}} starts with mailto:`
+  * Email tracking tag - set the category as `Email`, the action as `{% raw %}{{Click Text}}{% endraw %}` and the label as `{% raw %}{{Click URL}}{% endraw %}`
+  * Email firing rule - the tag should fire when an email address has been clicked: trigger on `Some Link Clicks` when `{% raw %}{{Click URL}}{% endraw %} starts with mailto:`
 * each time a user clicks a phone number link
-  * Phone tracking tag - set the category as `Phone number`, the action as `{{Click Text}}` and the label as `{{Click URL}}`
-  * Phone firing rule - the tag should fire when a telephone number has been clicked: trigger on `Some Link Clicks` when `{{Click URL}} starts with tel:`
+  * Phone tracking tag - set the category as `Phone number`, the action as `{% raw %}{{Click Text}}{% endraw %}` and the label as `{% raw %}{{Click URL}}{% endraw %}`
+  * Phone firing rule - the tag should fire when a telephone number has been clicked: trigger on `Some Link Clicks` when `{% raw %}{{Click URL}}{% endraw %} starts with tel:`
 * each time a user clicks an external link
-  * External link tracking tag - set the category as `External link`, the action as `Click` and the label as `{{Click URL}}`
-  * External link firing rule - the tag should fire when an external link has been clicked: when `{{Click URL}} does not starts with https://www.yourdomain.com` and when `{{Click URL}} does not starts with tel:` and when `{{Click URL}} does not starts with mailto:`
+  * External link tracking tag - set the category as `External link`, the action as `Click` and the label as `{% raw %}{{Click URL}}{% endraw %}`
+  * External link firing rule - the tag should fire when an external link has been clicked: when `{% raw %}{{Click URL}}{% endraw %} does not start with https://www.yourdomain.com` and when `{% raw %}{{Click URL}}{% endraw %} does not start with tel:` and when `{% raw %}{{Click URL}}{% endraw %} does not start with mailto:`
 
 
 ### Google Tag Manager - additional reading
