@@ -64,6 +64,21 @@ To access and configure GTM:
 
 Once GTM has been deployed to all pages, it lets you deploy your analytics tool/Google Analytics, enhanced tracking capability and any other tags where applicable, e.g. [Mouseflow](https://mouseflow.com/), advertising floodlight tags/pixels, etc.
 
+Some basic event tracking examples:
+* Each time a user clicks a link to open a PDF document
+  * PDF tracking tag - the tag is used to set the dimensions that you will see in Google Analytics following a PDF link click. Set the category as `PDF`, the action as `Download` and the label using the pre-defined macro `{{Click URL}}` (this sets the label as the URL of the HTML link element)
+  * PDF firing rule - the tag should fire when a link has been clicked AND that the HTML `{{Click URL}}` contains a directory structure of `/PDFs/`: `{{event}} equals gtm.linkClick` and `{{Click URL}} contains /PDFs/`
+* each time a user clicks an email link
+  * Email tracking tag - set the category as `Email`, the action as `{{Click Text}}` and the label as `{{Click URL}}`
+  * Email firing rule - the tag should fire when an email address has been clicked: trigger on `Some Link Clicks` when `{{Click URL}} starts with mailto:`
+* each time a user clicks a phone number link
+  * Phone tracking tag - set the category as `Phone number`, the action as `{{Click Text}}` and the label as `{{Click URL}}`
+  * Phone firing rule - the tag should fire when a telephone number has been clicked: trigger on `Some Link Clicks` when `{{Click URL}} starts with tel:`
+* each time a user clicks an external link
+  * External link tracking tag - set the category as `External link`, the action as `Click` and the label as `{{Click URL}}`
+  * External link firing rule - the tag should fire when an external link has been clicked: when `{{Click URL}} does not starts with https://www.yourdomain.com` and when `{{Click URL}} does not starts with tel:` and when `{{Click URL}} does not starts with mailto:`
+
+
 ### Google Tag Manager - additional reading
 
 * [http://www.simoahava.com/analytics/awesome-google-tag-manager-resources/](http://www.simoahava.com/analytics/awesome-google-tag-manager-resources/)
