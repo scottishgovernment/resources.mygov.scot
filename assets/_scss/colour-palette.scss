@@ -24,6 +24,7 @@
 
 	a {
 		color: inherit;
+        text-decoration: none;
 
 		&:hover {
 			text-decoration: none;
@@ -74,7 +75,7 @@
     ul {
 		margin-top: 7px;
 		margin-bottom: 0px;
-    } 
+    }
 
     li {
     	margin-bottom: 7px;
@@ -111,7 +112,7 @@
 }
 
 /* tablet size and up */
-@media only screen and (min-width: $screen-sm) {
+@media only screen and (min-width: 768px) {
   .palette-sample, .palette-sample.spacer-tablet {
 	width: 240px;
 	height: 240px;
@@ -247,7 +248,7 @@
 	outline-color: #fff8ec;
 }
 
-.light-blue, .lighter-blue, .mid-grey, .pale-grey, 
+.light-blue, .lighter-blue, .mid-grey, .pale-grey,
 .light-grey, .lighter-grey, .error-red-tint, .validation-green-tint,
 .notification-yellow, .notification-yellow-tint {
 	color: #333;

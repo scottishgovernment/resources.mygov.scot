@@ -1,5 +1,5 @@
 ---
-layout: digital-first-criteria
+layout: digital-first-criterion
 title:  "15. Open Source"
 summary:
 category: standard

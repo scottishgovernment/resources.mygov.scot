@@ -1,5 +1,5 @@
 ---
-layout: digital-first-criteria
+layout: digital-first-criterion
 title:  "11. Technology Appraisal"
 summary:
 category: standard
@@ -7,13 +7,13 @@ imperative: Standard
 index: 0
 ---
 
+<p class="leader">Evaluate what technology, tools and systems will be used to build, host, operate and measure the service and how to procure them.</p>
+
 ## Contents
 {:.no_toc}
 * TOC
 {:toc}
 <!--TOC max3-->
-
-Evaluate what technology, tools and systems will be used to build, host, operate and measure the service and how to procure them.
 
 ## How point 11 improves the service
 

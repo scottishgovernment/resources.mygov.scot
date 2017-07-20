@@ -1,6 +1,6 @@
 ---
-layout: digital-first-criteria
-title:  "Guide To Writing The Assessment Report"
+layout: digital-first-criterion
+title:  "Guide to writing the assessment report"
 category: standard
 imperative: Standard
 index: 0

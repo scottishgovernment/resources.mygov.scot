@@ -113,10 +113,10 @@
 {% endif %}
 
 <div class="container">
-    <ol class="breadcrumb">
+    <ol role="navigation" class="breadcrumbs">
         {% if level6 %}
-        <li>
-            <a href="{{ site.baseurl }}{{level6.url | replace:'index.html',''}}">
+        <li class="breadcrumbs__item">
+            <a class="breadcrumbs__link" href="{{ site.baseurl }}{{level6.url | replace:'index.html',''}}">
                 {% if level6.thispage == 'home' %}
                     Home
                 {% else %}
@@ -126,8 +126,8 @@
         </li>
         {% endif %}
         {% if level5 %}
-        <li>
-            <a href="{{ site.baseurl }}{{level5.url | replace:'index.html',''}}">
+        <li class="breadcrumbs__item">
+            <a class="breadcrumbs__link" href="{{ site.baseurl }}{{level5.url | replace:'index.html',''}}">
                 {% if level5.thispage == 'home' %}
                     Home
                 {% else %}
@@ -137,8 +137,8 @@
         </li>
         {% endif %}
         {% if level4 %}
-        <li>
-            <a href="{{ site.baseurl }}{{level4.url | replace:'index.html',''}}">
+        <li class="breadcrumbs__item">
+            <a class="breadcrumbs__link" href="{{ site.baseurl }}{{level4.url | replace:'index.html',''}}">
                 {% if level4.thispage == 'home' %}
                     Home
                 {% else %}
@@ -148,8 +148,8 @@
         </li>
         {% endif %}
         {% if level3 %}
-        <li>
-            <a href="{{ site.baseurl }}{{level3.url | replace:'index.html',''}}">
+        <li class="breadcrumbs__item">
+            <a class="breadcrumbs__link" href="{{ site.baseurl }}{{level3.url | replace:'index.html',''}}">
                 {% if level3.thispage == 'home' %}
                     Home
                 {% else %}
@@ -159,8 +159,8 @@
         </li>
         {% endif %}
         {% if level2 %}
-        <li>
-            <a href="{{ site.baseurl }}{{ level2.url | replace:'index.html',''}}">
+        <li class="breadcrumbs__item">
+            <a class="breadcrumbs__link" href="{{ site.baseurl }}{{ level2.url | replace:'index.html',''}}">
                 {% if level2.thispage == 'home' %}
                     Home
                 {% else %}
@@ -169,7 +169,7 @@
             </a>
         </li>
         {% endif %}
-        <li>
+        <li class="breadcrumbs__item">
             {% if page.thispage == 'home' %}
                 Home
             {% else %}

@@ -8,40 +8,51 @@
 {% include header.html %}
 
 <header>
-    <div class="container">
-        <div class="row">
-            <div class="col-sm-12">
-                <h1>{{ page.title }}</h1>
-            </div>
-        </div>
+    <div class="wrapper">
+        <div class="grid"><!--
+        --><div class="grid__item  medium--eight-twelfths">
+                <div class="article-header">
+                    {% if page.imperative %}
+                        <p class="article-header__prefix">{{ page.imperative }}</p>
+                    {% endif %}
+                    <h1 class="article-header__title">{{ page.title }}</h1>
+                </div>
+            </div><!--
+        --></div>
     </div>
-    <!-- /end .container -->
+    <!-- /end .wrapper -->
 </header>
 
-<div class="container">
-    <div class="row">
+<div class="wrapper">
+    <div class="grid"><!--
 
-        {% if page.headings %}
-        <div class="col-md-3">
-            <ul id="in-page-nav">
-                {% for heading in page.headings %}
-                <li><a href="#{{heading | replace:'.', '' | slugify}}">{{ heading }} <span class="glyphicon glyphicon-chevron-down"></span></a></li>
-                {% endfor %}
-            </ul>
-        </div>
-        {% endif %}
+    --><div class="grid__item  medium--three-twelfths">
+            {% if page.headings %}
+            <div class="page-group page-group--section-nav">
+                <ul class="page-group__list">
+                    {% for heading in page.headings %}
+                        <li class="page-group__item">
+                            <a class="page-group__link  page-group__link--condensed" href="#{{heading | replace:'.', '' | slugify}}">{{ heading }}</a>
+                        </li>
+                    {% endfor %}
+                </ul>
+            </div>
+            {% endif %}
+        </div><!--
 
-        <div class="col-md-8">
+        --><div class="grid__item  medium--eight-twelfths">
+
             <h2>Summary</h2>
             <p class="introduction">
                 {{ page.summary }}
             </p>
-
+            <div class="{{page.contentclass}}">
             {{ content }}
-        </div>
-    </div>
+            </div>
+        </div><!--
+    --></div>
 </div>
-<!-- /end .container -->
+<!-- /end .wrapper -->
 
 {% include footer_dts.html %}
 

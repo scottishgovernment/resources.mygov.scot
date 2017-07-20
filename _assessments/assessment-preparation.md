@@ -1,6 +1,6 @@
 ---
-layout: digital-first-criteria
-title:  "Preparing for a Digital First Assessment"
+layout: digital-first-criterion
+title:  "Preparing for a Digital First assessment"
 category: assessment
 imperative: Assessment
 index: 0
@@ -20,7 +20,7 @@ The Digital First team are there to support you whenever you need it.
 
 Contact them at <a href="mailto:OCIOAssurance@gov.scot">OCIOAssurance@gov.scot</a> before you start work on the new service to let them know what you are planning.
 
-## Before the Assessment
+## Before the assessment
 
 The service team needs to consider all [22 criteria](https://resources.mygov.scot/standards/digital-first/) and present evidence in the presentation.
 
@@ -33,7 +33,7 @@ Assessors will learn about the service by speaking to the service team about:
 * what’s went well so far
 * future challenges
 
-## At the Assessment
+## At the assessment
 
 ### How they work
 
@@ -100,4 +100,3 @@ All assessors will provide feedback for the report and the Lead Assessor will se
 This will be reviewed by the Office of the Chief Information Officer (OCIO) and then the report will be sent to the service team.
 
 The implications of the outcome of the assessment will be explained to the service team.
-		

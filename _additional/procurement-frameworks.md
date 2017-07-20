@@ -1,17 +1,17 @@
 ---
 layout: default
-title: Procurement Frameworks Catalogue
+title: Procurement frameworks catalogue
 summary: Guidance on procurement frameworks that can be used as a part of delivering online public services.
 imperative: Guideline
 ---
 
 ## Purpose
+{:.no_toc}
 
 This catalogue lists procurement frameworks let by the Scottish Government and the Crown Commercial Service that may be useful when delivering public services online. Frameworks will be added, updated and removed over time in order to reflect changes.
 
-<div style="color: #9F6000; background-color: #FEEFB3; font-size: 26px; border-style: solid; border-width: 2px; padding: 5px;">&#10148; Please note: it is the responsibility of any buying organisation wishing to use a Framework Agreement to satisfy itself that it is eligible to do so.</div>
+<div class="info-note caution">Please note: it is the responsibility of any buying organisation wishing to use a Framework Agreement to satisfy itself that it is eligible to do so.</div>
 
-<br>
 For more detailed information on the Scottish government frameworks listed, you should refer to:
 <http://www.gov.scot/Topics/Government/Procurement/directory>.
 
@@ -19,6 +19,7 @@ For more detailed information on the Crown commercial Services framework you sho
 <http://ccs-agreements.cabinetoffice.gov.uk/>.
 
 ## Contents
+{:.no_toc}
 
 * TOC
 {:toc}

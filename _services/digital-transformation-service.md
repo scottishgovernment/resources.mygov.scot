@@ -38,25 +38,21 @@ DTS continues to iterate its services.  Currently it provides the following supp
 
 ***"work collaboratively with Organisations to deliver business transformation which puts users at the heart of the services"***
 
-| Strategy Development & Review | Business Case Development | 
+| Strategy Development & Review | Business Case Development |
 | - | - | - |
-| Digital Maturity  Assessment | Concepts to full project design | 
-| Vision & Strategy | Options appraisal & Technical Specification | 
-| Transformation business case | Implementation planning | 
-| Roadmap for Delivery | Requirements engineering | 
-| User Research | | 
-| Service design | | 
-| Value Chain Mapping | | 
+| Digital Maturity  Assessment | Concepts to full project design |
+| Vision & Strategy | Options appraisal & Technical Specification |
+| Transformation business case | Implementation planning |
+| Roadmap for Delivery | Requirements engineering |
+| User Research | |
+| Service design | |
+| Value Chain Mapping | |
 
-<br />
-
-| Agile Coaching | Technical Architecture | 
+| Agile Coaching | Technical Architecture |
 | - | - | - |
-| Introduction to Agile | Lightweight Technical Survey | 
-| Product Ownership | Target Technical Architecture | 
-| Coaching Agile Teams | | 
-
-<br />
+| Introduction to Agile | Lightweight Technical Survey |
+| Product Ownership | Target Technical Architecture |
+| Coaching Agile Teams | |
 
 Other services currently being considered are Project Management, Digital First Service Standard Mock Assessments, Data & Analytics, Governance Modelling, Content Design and Website Analysis.  
 
@@ -162,7 +158,7 @@ Business cases are developed over time. The three key stages are:
 
 * 1 - Strategic
 * 2 - Outline business case
-* 3 - Full Business Case.
+* 3 - Full business case
 
 We support organisations to procure in an agile way. This includes going to market with desired outcomes and working with suppliers to address these. This often dramatically reduces the time taken to procure and enables fast delivery.
 
@@ -194,7 +190,7 @@ We have already worked with some organisations to help define and implement tech
 
 ## Agile Coaching
 
-In Agile Coaching,  an experienced coach observes the team to understand what attitudes, practices and communication problems are keeping them from being more effective.
+In Agile Coaching, an experienced coach observes the team to understand what attitudes, practices and communication problems are keeping them from being more effective.
 
 Throughout the process, the Agile Coach will work with staff members to identify issues that are disrupting workflow, causing duplication of work or wasted effort.  The coach will identify patterns of behaviour that are negatively impacting the team and offer potential solutions.
 

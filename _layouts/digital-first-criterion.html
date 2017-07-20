@@ -10,7 +10,7 @@
 <header>
     <div class="wrapper">
         <div class="grid"><!--
-        --><div class="grid__item  medium--eight-twelfths">
+            --><div class="grid__item  medium--ten-twelfths">
                 <div class="article-header">
                     {% if page.imperative %}
                         <p class="article-header__prefix">{{ page.imperative }}</p>
@@ -26,25 +26,24 @@
 <div class="wrapper">
     <div class="grid"><!--
 
-    --><div class="grid__item  medium--three-twelfths">
-            {% if page.headings %}
-            <div class="page-group page-group--section-nav">
-                <ul class="page-group__list">
-                    {% for heading in page.headings %}
-                        <li class="page-group__item">
-                            <a class="page-group__link  page-group__link--condensed" href="#{{heading | replace:'.', '' | slugify}}">{{ heading }}</a>
-                        </li>
-                    {% endfor %}
-                </ul>
-            </div>
-            {% endif %}
+        {% if page.headings %}
+        --><div class="grid__item  medium--three-twelfths">
+            <ul id="in-page-nav">
+                {% for heading in page.headings %}
+                <li><a href="#{{heading | replace:'.', '' | slugify}}">{{ heading }} <span class="glyphicon glyphicon-chevron-down"></span></a></li>
+                {% endfor %}
+            </ul>
         </div><!--
+        {% endif %}
 
         --><div class="grid__item  medium--eight-twelfths">
             <div class="main-content">
-                <div class="{{page.contentclass}}">
+                <!--<h2>Summary</h2>
+                <p class="introduction">
+                    {{ page.summary }}
+                </p>
+              -->
                 {{ content }}
-                </div>
             </div>
         </div><!--
     --></div>

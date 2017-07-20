@@ -1,5 +1,5 @@
 ---
-layout: digital-first-criteria
+layout: digital-first-criterion
 title:  "22. Sponsor Acceptance"
 summary:
 category: standard

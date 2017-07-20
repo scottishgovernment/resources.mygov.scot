@@ -1,5 +1,5 @@
 ---
-layout: digital-first-criteria
+layout: digital-first-criterion
 title:  "09. Continuous Improvement"
 category: standard
 imperative: Standard

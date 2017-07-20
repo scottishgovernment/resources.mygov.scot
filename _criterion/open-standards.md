@@ -1,5 +1,5 @@
 ---
-layout: digital-first-criteria
+layout: digital-first-criterion
 title:  "16. Open Standards"
 summary:
 category: standard

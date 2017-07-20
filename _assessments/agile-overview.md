@@ -1,6 +1,6 @@
 ---
-layout: digital-first-criteria
-title:  "Agile Delivery For Services"
+layout: digital-first-criterion
+title:  "Agile delivery for services"
 summary: The standard for all digital public services.
 category: standard
 imperative: Standard
@@ -14,7 +14,7 @@ index: 0
 {:toc}
 <!--TOC max3-->
 
-## What is Agile?
+## What is agile?
 Agile delivery encourages teams to build quickly, test what they’ve built regularly and improve (iterate) their work based on regular feedback from users and performance data.
 
 The principles behind agile delivery are set out in the [Agile Manifesto (2001)](http://agilemanifesto.org/principles.html).
@@ -23,9 +23,9 @@ Agile delivery is split into 4 different phases: Discovery, Alpha, Beta and Live
 
 If a project is being delivered using agile methods Digital First Service Standard assessments take place during the Discovery, Alpha and Beta phases.
 
-Further information on Agile can be found on the [gov.uk website](https://www.gov.uk/service-manual/agile-delivery/agile-government-services-introduction).
+Further information on agile can be found on the [gov.uk website](https://www.gov.uk/service-manual/agile-delivery/agile-government-services-introduction).
 
-> The [Scottish Government’s Digital Transformation Team](/services/digital-transformation-service/) offer agile coaching for organisations.
+The [Scottish Government’s Digital Transformation Team](/services/digital-transformation-service/) offer agile coaching for organisations.
 
 ## Why agile?
 

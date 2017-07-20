@@ -1,19 +1,21 @@
 ---
 layout: default
-title: Legislation & Regulation Catalogue
+title: Legislation & regulation catalogue
 summary: Guidance on legislation and regulation with which digital services may be required to comply.
 imperative: Guideline
 ---
 
 ## Purpose
+{:.no_toc}
 
 This catalogue lists legislation and regulation related to the delivery of an online service by or on behalf of Scottish public sector organisations. For each item an introduction is provided as well as links to related guidance and standards.
 
-<div style="color: #9F6000; background-color: #FEEFB3; font-size: 26px; border-style: solid; border-width: 2px; padding: 5px;">&#10148; Please note this document is currently in <strong>draft</strong> status and may be subject to change. We are happy to receive feedback on this document via the channels in the footer.</div><br>
+<div class="info-note caution">Please note this document is currently in <strong>draft</strong> status and may be subject to change. We are happy to receive feedback on this document via the channels in the footer.</div>
 
 This information is provided as a starting point for Scottish public sector organisations who wish to provide services online but they will have to seek their own advice about the risks and other relevant legal considerations as they apply specifically to the services they seek to provide. It is not an exhaustive list of legal considerations relevant to such services and shall not be taken as legal advice.
 
 ## Contents
+{:.no_toc}
 
 * TOC
 {:toc}
@@ -85,7 +87,7 @@ Recorded information includes printed documents, computer files, letters, emails
 
 The Scottish Information Commissioner regulates the Freedom for Information (Scotland) Act 2002. However, the UK Information Commissioner’s Office (ICO) has regulatory power under the Freedom of Information Act 2000 in respect of UK public authorities based in Scotland.
 
-*Related Guidance*:
+*Related guidance*:
 
 - [Scottish Information Commissioner guidance](http://www.itspublicknowledge.info/Law/FOISA.aspx)
 - [Scottish Information Commissioner resources](http://www.itspublicknowledge.info/ScottishPublicAuthorities/ScottishPublicAuthorities.aspx)
@@ -106,7 +108,7 @@ In particular, part 4 of the Act places duties on public bodies relating to clim
 - in the way best calculated to deliver any statutory adaptation programme; and
 - in a way that it considers most sustainable.
 
-*Related Guidance*:
+*Related guidance*:
 
 - [Scottish Government guidance on the Act](http://www.gov.scot/Topics/Environment/climatechange/scotlands-action/climatechangeact)
 - [Low Carbon Scotland: Meeting the Emissions Reduction Targets 2013-2027](http://www.gov.scot/Topics/Environment/climatechange/scotlands-action/lowcarbon/meetingthetargets)
@@ -125,7 +127,7 @@ The WEEE regulations have interdependencies with the Scottish Landfill Tax which
 - [Gov.uk guidance on WEEE](https://www.gov.uk/government/publications/weee-regulations-2013-government-guidance-notes).
 
 
-### Consumer Rights
+### Consumer rights
 
 #### [Consumer Contracts (Information, Cancellation and Additional Charges) Regulations 2013](http://www.legislation.gov.uk/uksi/2013/3134/contents/made)
 
@@ -147,7 +149,6 @@ Related Guidance:
 
 
 ----
-<br>
 
 <!-- Footnotes -->
 

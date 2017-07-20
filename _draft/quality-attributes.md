@@ -8,10 +8,12 @@ index: 0
 ---
 
 ## Purpose
+{:.no_toc}
 
 This document describes our approach to system quality attributes (often called non-functional requirements), what they are and the eighteen we have selected as being important to the software we build for the MyGov programme within the Scottish Government.
 
 ## Contents
+{:.no_toc}
 
 * TOC
 {:toc}

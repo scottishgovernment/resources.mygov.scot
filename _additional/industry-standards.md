@@ -1,16 +1,19 @@
 ---
 layout: default
-title: Industry Standards Catalogue
+title: Industry standards catalogue
 summary: A list of industry standards recommended for the delivery of digital services.
 imperative: Guideline
 ---
 
 ## Purpose
+{:.no_toc}
+
 This catalogue lists industry standards related to the delivery of digital services in Scotland. Standards will be added, updated and removed over time in order to reflect the changing landscape of digital delivery.
 
-<div style="color: #9F6000; background-color: #FEEFB3; font-size: 26px; border-style: solid; border-width: 2px; padding: 5px;">&#10148; Please note this document is currently in <strong>draft</strong> status and may be subject to change. We are happy to receive feedback on this document via the channels in the footer.</div>
+<div class="info-note caution">Please note this document is currently in <strong>draft</strong> status and may be subject to change. We are happy to receive feedback on this document via the channels in the footer.</div>
 
 ## Contents
+{:.no_toc}
 
 * TOC
 {:toc}
@@ -22,8 +25,6 @@ This catalogue lists industry standards related to the delivery of digital servi
 ### [HTML 5](http://www.w3.org/TR/html5/single-page.html)
 
 > HTML5 is a core technology markup language of the Internet used for structuring and presenting content for the World Wide Web. It is the fifth revision of the HTML standard (created in 1990 and standardised as HTML 4 as of 1997) and, as of December 2012, is a candidate recommendation of the World Wide Web Consortium (W3C). Its core aims have been to improve the language with support for the latest multimedia while keeping it easily readable by humans and consistently understood by computers and devices (web browsers, parsers, etc.). HTML5 is intended to subsume not only HTML 4, but also XHTML 1 and DOM Level 2 HTML. ~[Wikipedia](http://en.wikipedia.org/wiki/HTML5)~
-
-<br>
 
 Citizens and businesses must be able to access public sector information online. Access to these documents should be both simple and convenient. This means that viewing such documents should not require the installation of an app or plugin, should not require the purchase of specialist software and should not impede the use of accessibility tools such as screen readers.
 
@@ -46,13 +47,9 @@ HTML is a general purpose standard that can be used to deliver content for displ
 | *Open Standard?*     | &nbsp;Expected Yes[^expect-yes]       |
 | *License*            | &nbsp;[W3C Document Licence][w3c-lic] |
 
-<br>
-
 ### [CSS 3](http://www.w3.org/Style/CSS/current-work.en.html)
 
 > Cascading Style Sheets (CSS) is a style sheet language used for describing the look and formatting of a document written in a markup language. While most often used to change the style web pages and user interfaces written in HTML and XHTML, the language can be applied to any kind of XML document, including plain XML, SVG and XUL. CSS is a cornerstone specification of the web, and almost all web pages use CSS style sheets to describe their presentation. ~[Wikipedia](http://en.wikipedia.org/wiki/Cascading_Style_Sheets)~
-
-<br>
 
 We expect the use of CSS to deliver the following benefits in terms of digital delivery:
 
@@ -73,8 +70,6 @@ CSS is a general purpose standard that can be used for styling HTML & XML docume
 | *Applicability*      | &nbsp;Data Standard                   |
 | *Open Standard?*     | &nbsp;Expected Yes[^expect-yes]       |
 | *License*            | &nbsp;[W3C Document Licence][w3c-lic] |
-
-<br>
 
 ### [Atom Syndication Format](https://tools.ietf.org/html/rfc4287)
 
@@ -104,13 +99,10 @@ Use of Atom should be preferred over use of RSS. See this linked [comparison of 
 | Open Standard?     | Unknown[^unknown]               |
 | License            | [W3C Document Licence][w3c-lic] |
 
-
 ## Glossary
 
 Hypermedia
 : Hypermedia, is a nonlinear medium of information which can include graphics, audio, video, plain text and hyperlinks. This contrasts with the broader term multimedia, which may include non-interactive linear presentations as well as hypermedia. The World Wide Web is a classic example of hypermedia, whereas a non-interactive cinema presentation is an example of standard multimedia due to the absence of hyperlinks. (source: [Wikipedia](https://en.wikipedia.org/wiki/Hypermedia))
-
-<br>
 
 Hypermedia Format
 : A hypermedia format is a data standard that can natively support the delivery of hypermedia. In practice, the key element here is that the standard has support for hyperlinks. Examples of hypermedia formats include HTML and Atom syndication format.

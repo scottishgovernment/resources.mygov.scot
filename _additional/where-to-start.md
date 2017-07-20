@@ -1,6 +1,6 @@
 ---
-layout: digital-first-criteria
-title:  "Digital First Service Standard Assessment"
+layout: digital-first-criterion
+title:  "Digital First Service Standard assessment"
 category: standard
 imperative: Assessment
 summary: Information on the Digital First Service Standard assessment process
@@ -10,6 +10,7 @@ frontpage: yes
 
 ## Contents
 {:.no_toc}
+
 * TOC
 {:toc}
 <!--TOC max3-->

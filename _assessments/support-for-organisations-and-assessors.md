@@ -1,6 +1,6 @@
 ---
-layout: digital-first-criteria
-title:  "Support for Organisations and Assessors"
+layout: digital-first-criterion
+title:  "Support for organisations and assessors"
 summary:
 category: standard
 imperative: Standard

@@ -1,5 +1,5 @@
 ---
-layout: digital-first-criteria
+layout: digital-first-criterion
 title:  "10. Business Continuity"
 category: standard
 imperative: Standard

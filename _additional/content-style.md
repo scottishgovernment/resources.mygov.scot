@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Content Style Guide"
+title:  "Content style guide"
 categories: documentation
 summary: Guidance on content style, based upon the Government Digital Service GOV.UK editorial style guide and suitable for use creating content on mygov.scot.
 imperative: Guideline
@@ -22,7 +22,7 @@ headings:
 
 Guidance on content style for mygov.scot, based upon the Government Digital Service GOV.UK editorial style guide.
 
-<div style="color: #9F6000; background-color: #FEEFB3; font-size: 26px; border-style: solid; border-width: 2px; padding: 5px;">&#10148; Please note this document is currently in <strong>draft</strong> status and may be subject to change. We are happy to receive feedback on this document via the channels in the footer.</div>
+<div class="info-note caution">Please note this document is currently in <strong>draft</strong> status and may be subject to change. We are happy to receive feedback on this document via the channels in the footer.</div>
 
 ## Writing for mygov.scot
 
@@ -57,7 +57,7 @@ Generally, user needs appear in the form of a sentence:
 
 Because this is very large project, this user need is rather general. In fact, the true story of a user is much more personal and probably looks something like this:
 
-> As a `low-income single working mom`, I `need to know how much day care costs` so that `I can figure out how to have my child cared for whilst I am at work`.
+> As a `low-income single working mum`, I `need to know how much day care costs` so that `I can figure out how to have my child cared for whilst I am at work`.
 
 Reading into a user need in this way allows you to empathise with the real people that will be using mygov.scot.
 
@@ -220,7 +220,6 @@ Don’t use formal or long words where easy or short ones will do.
 | terminate | end, stop |
 | utilise | use |
 
-<br />
 Avoid any semblance of jargon, whether in the form of specific words or overly complex sentence structure.
 
 We will also lose trust from users if we write in ‘government speak’.
@@ -321,8 +320,6 @@ Replace a negative form with a positive one wherever possible.
 |not pay attention to|ignore|
 |not possible|unfeasible/impossible|
 |not sure|unsure|
-
-<br />
 
 ### Publishing legal and technical content
 Legal content can still be written in plain English. It’s important that users understand content and that we present complicated information simply.
@@ -1496,5 +1493,4 @@ If you don’t, users will lose trust in your content, and may not visit your pa
 |Working Tax Credit|Named benefit, but generic references to tax credits are lower case.
 |written ministerial statement, written statement|Lower case.|
 
-<br />
 **Contains information from Government Digital Service licensed under the [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).**

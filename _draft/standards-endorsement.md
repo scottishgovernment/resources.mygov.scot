@@ -16,7 +16,7 @@ headings:
 
 This paper documents a process, which could be used within Scottish Government, to suggest and endorse technical standards for the Scottish public sector.
 
-<div style="color: #9F6000; background-color: #FEEFB3; font-size: 26px; border-style: solid; border-width: 2px; padding: 5px;">&#10148; Please note this document is currently in <strong>draft</strong> status and may be subject to change. We are happy to receive feedback on this document via the channels in the footer.</div><br>
+<div class="info-note caution">Please note this document is currently in <strong>draft</strong> status and may be subject to change. We are happy to receive feedback on this document via the channels in the footer.</div>
 
 Use of common standards, and in particular open standards, has significant potential benefits for the Scottish public sector including simplified interoperation & integration, reduced vendor lock-in and more sustainable procurement. The defined process should give organisations within Scottish public sector a suitable level of assurance and guidance.
 

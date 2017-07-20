@@ -1,18 +1,20 @@
 ---
 layout: default
-title: URL Design Guide
+title: URL design guide
 summary: Guidance on the design of URLs on mygov.scot.
 imperative: Guideline
 index: 2
 ---
 
 ## Purpose
+{:.no_toc}
 
 This document describes how URLs are used on mygov.scot, their formatting requirements and why short URLs are sometimes created for promotional purposes. This document is forked from Government Digital Service URL Standards.
 
-<div style="color: #9F6000; background-color: #FEEFB3; font-size: 26px; border-style: solid; border-width: 2px; padding: 5px;">&#10148; Please note this document is currently in <strong>draft</strong> status and may be subject to change. We are happy to receive feedback on this document via the channels in the footer.</div>
+<div class="info-note caution">Please note this document is currently in <strong>draft</strong> status and may be subject to change. We are happy to receive feedback on this document via the channels in the footer.</div>
 
 ## Contents
+{:.no_toc}
 
 * TOC
 {:toc}

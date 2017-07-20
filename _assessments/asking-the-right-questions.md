@@ -1,6 +1,6 @@
 ---
-layout: digital-first-criteria
-title:  "Asking The Right Questions During The Assessment"
+layout: digital-first-criterion
+title:  "Asking the right questions during the assessment"
 category: assessments
 imperative: Assessments
 index: 3

@@ -1,5 +1,5 @@
 ---
-layout: digital-first-criteria
+layout: digital-first-criterion
 title:  "04. Consistent User Experience"
 category: standard
 imperative: Standard

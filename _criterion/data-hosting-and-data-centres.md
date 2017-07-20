@@ -1,5 +1,5 @@
 ---
-layout: digital-first-criteria
+layout: digital-first-criterion
 title:  "18. Data Hosting and Data Centres"
 summary:
 category: standard

@@ -1,5 +1,5 @@
 ---
-layout: digital-first-criteria
+layout: digital-first-criterion
 title:  "07. Cross-functional Team"
 category: standard
 imperative: Standard

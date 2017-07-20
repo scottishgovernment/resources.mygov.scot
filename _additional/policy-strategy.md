@@ -1,18 +1,20 @@
 ---
 layout: default
-title: Digital Public Service Strategy Catalogue
+title: Digital public service strategy catalogue
 summary: A list of Scottish Government policy and strategy related to digital delivery.
 index: 4
 imperative: Policy
 ---
 
 ## Purpose
+{:.no_toc}
 
 This document summarises the key Scottish Government strategies related to the delivery of online services. It's primary purpose is to provide an overview of the strategic context for delivery. Reading this document is not a substitute for reading the documents themselves and the whole team should have an understanding of the digital strategic landscape.
 
-<div style="color: #9F6000; background-color: #FEEFB3; font-size: 26px; border-style: solid; border-width: 2px; padding: 5px;">&#10148; Please note this document is currently in <strong>draft</strong> status and may be subject to change. We are happy to receive feedback on this document via the channels in the footer.</div>
+<div class="info-note caution">Please note this document is currently in <strong>draft</strong> status and may be subject to change. We are happy to receive feedback on this document via the channels in the footer.</div>
 
 ## Contents
+{:.no_toc}
 
 * TOC
 {:toc}
@@ -229,11 +231,11 @@ People want to know that public authorities and other organisations respect thei
 
 The Principles cover the following five topics:
 
-1. Proving Identity and Entitlement;
-2. Governance and Accountability;
-3. Risk Management;
-4. Data and Data Sharing;
-5. Education and Engagement.
+1. Proving identity and entitlement;
+2. Governance and accountability;
+3. Risk management;
+4. Data and data sharing;
+5. Education and engagement.
 
 [Link](http://www.scotland.gov.uk/Resource/Doc/82980/0116729.pdf).
 
@@ -251,12 +253,12 @@ This consultation takes forward our commitment to building cyber resilience amon
 [Link](https://consult.scotland.gov.uk/cyber-resilience-policy-team/cyberconsultation).
 
 
-## Digital Participation: A National Framework for Local Action
+## Digital participation: A National Framework for Local Action
 
 The National Framework for Local Action sets out how Scottish Government is working in partnership with public, private and third sector organisations to ensure that all sections of Scottish society are able to make confident use of digital technologies and the internet.
 
-The document makes it clear that digital technology cannot be allowed to reinforce social and economic inequalities. Actions will remove barriers to digital participation, tackle inequalities, help people to enagage with online public services and provide opportunities to develop skills required for active digital citizens.
+The document makes it clear that digital technology cannot be allowed to reinforce social and economic inequalities. Actions will remove barriers to digital participation, tackle inequalities, help people to engage with online public services and provide opportunities to develop skills required for active digital citizens.
 
-The approach is based on a national colloborative movement with those organisations and agencies closest to the people who need help to get online.
+The approach is based on a national collaborative movement with those organisations and agencies closest to the people who need help to get online.
 
 [Link](http://www.scotland.gov.uk/Resource/Doc/82980/0116729.pdf).

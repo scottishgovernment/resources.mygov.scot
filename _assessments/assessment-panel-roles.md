@@ -1,6 +1,6 @@
 ---
-layout: digital-first-criteria
-title:  "Assessment Panel Roles"
+layout: digital-first-criterion
+title:  "Assessment panel roles"
 category: standard
 imperative: Standard
 index: 0

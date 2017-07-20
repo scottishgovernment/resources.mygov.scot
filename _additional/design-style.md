@@ -1,6 +1,6 @@
 ---
 layout: article
-title:  "Design Style Guide"
+title:  "Design style guide"
 categories: documentation
 summary: The standard for the look and feel of services available via mygov.scot.
 imperative: Standard
@@ -12,6 +12,20 @@ headings:
 - Colour palette
 
 ---
+
+<style>
+@media (min-width: 992px) {
+    div.cp_embed_wrapper {
+        margin-right: -82px;
+    }
+}
+
+@media (min-width: 1200px) {
+    div.cp_embed_wrapper {
+        margin-right: -98px;
+    }
+}
+</style>
 
 ## Purpose
 This document outlines design thinking and approach, covering Grid, Typography and Link language, with inline examples for common elements.
@@ -26,7 +40,7 @@ We make use of a responsive 12 column grid which works across multiple devices. 
 
 This allows us to deliver content optimised for a variety of devices. It means that mobile is loved just as much as desktop. It means that we engrain in our thinking "let's start with mobile" and "let's enhance desktop". The goal is that our users don't notice they are on the mobile version of our site &mdash; they are just on our site. Consistency of design elements and language throughout ensure that the journey is the same.
 
-### HD Desktop (L)
+### HD desktop (L)
 
 For displays &ge; 1200px
 
@@ -66,28 +80,30 @@ Use the baseline grid to inform layout, and use it as a guide, not a constraint.
 
 <p class="lead">Good typography isn’t noticed.</p>
 
-### Accessibilty
+### Accessibility
 
 If you're creating a site to host digital public services that people will rely on then accessibility has to be at the forefront of your thinking. Gone are the days of ‘make it Arial min 12pt’. We now have the luxury of being able to use a much wider range of fonts and are in an age where rendering of fonts are of a much higher standard.
 
 We chose to use Roboto, a Google font, which ticks a lot of boxes in terms of readability and flexibility. Importantly it is a non-serif font which has humanist qualities increasing legibility, particularly with dyslexic viewers in mind. It has a good range of weights which all (except ‘Thin’ at small sizes) render well on modern browsers and still perform on the not-so-modern.
 
 
-### 1. Font-sizing and spacing
+### 1. Font sizing and spacing
 
 Good semantic copy is supported by appropriate styling. Levels of importance are defined by size, weight, and margins. Line-height, padding and margins all adhere to the baseline grid of 7px. Any deviations from this are nested within fixed height blocks which adhere to the grid. Any further deviations from this can be put down to ‘artistic license’.
 
-{% include example.html file="headings" caption="Basic headings and paragraph" height="1000" %}
+<p data-height="600" data-theme-id="light" data-slug-hash="RgxoeB" data-default-tab="result" data-user="jsutcliffe" data-embed-version="2" data-pen-title="Font size and spacing" data-preview="true" class="codepen">See the Pen <a href="https://codepen.io/jsutcliffe/pen/RgxoeB/">Font size and spacing</a> by jonathan sutcliffe (<a href="https://codepen.io/jsutcliffe">@jsutcliffe</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
 
 
 ### 2. Column width
 
 It's tempting to use all the space available. Don’t. Wide columns of text can make it difficult for the reader to keep their place, as the eye has greater distance to travel from end of one line to the start of the next.
 
-*Recommendation: average 14 words per line*
+<div class="info-note note">
+Recommendation: average 14 words per line
+</div>
 
 All the best attention to typographical detail goes out the window if the body copy sits within an uncomfortably wide column. Further reading with [design composition fundamentals](http://inside.mygov.scot/2014/09/08/design-composition-fundamentals/) blog post.
-
 
 ### 3. Font weight treatment
 
@@ -102,38 +118,60 @@ To ensure best font­ weight appearance, use font smoothing. This delivers a tru
 
 ### 4. Typographical variations
 
-Outwith regular article formatting, we have found a need for ‘h2 emphasis’ to jump out within swathes of content that we don’t have as much control over i.e. from external feeds OR to act as a sub-header as in the instance of [business rates calculator](https://www.mygov.scot/business-rates-calculator/#property-address). ‘h2 emphasis’ applies a top border to h2.
+#### 4.1. Emphasis headings
 
-{% include example.html file="h2-emphasis" caption="h2 with emphasis" height="100" %}
+In addition to regular article formatting, we have found a need for ‘h2 emphasis’ to jump out within swathes of content that we don’t have as much control over i.e. from external feeds OR to act as a sub-header as in the instance of [business rates calculator](https://www.mygov.scot/business-rates-calculator/#property-address). ‘h2 emphasis’ applies a top border to h2.
 
-Guide pages display both the guide title (h1) and page/section title (h2) on each page. The standard h2 which is used sitewide does not have enough prominence in this instance to handle the page title, therefore ‘h2 emphasis (guide)’ has been defined to be used solely on guide pages. Can only appear once on a page as in the case of h1. Note: Guide page h3s match styling of regular h2s and similarly guide page h4s match regular h3s. ‘h2 emphasis (guide)’ is larger than standard ‘h2 emphasis’ and applies a blue top border.
+<p data-height="400" data-theme-id="light" data-slug-hash="gRoLEZ" data-default-tab="result" data-user="jsutcliffe" data-embed-version="2" data-pen-title="Emphasis headings" data-preview="true" class="codepen">See the Pen <a href="https://codepen.io/jsutcliffe/pen/gRoLEZ/">Emphasis headings</a> by jonathan sutcliffe (<a href="https://codepen.io/jsutcliffe">@jsutcliffe</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
 
-{% include example.html file="h2-guide" caption="h2 in a guide" height="100" %}
+#### 4.2. Multi-page article subpage headings
+
+Guide pages display both the guide title (h1) and page/section title (h2) on each page. The standard h2 which is used site-wide does not have enough prominence in this instance to handle the page title, therefore ‘h2 emphasis (guide)’ has been defined to be used solely on guide pages. Can only appear once on a page as in the case of h1. Note: Guide page h3s match styling of regular h2s and similarly guide page h4s match regular h3s. ‘h2 emphasis (guide)’ is larger than standard ‘h2 emphasis’ and applies a blue top border.
+
+Example on mygov.scot: [Apply for or renew a disabled parking permit (Blue Badge)](https://www.mygov.scot/apply-blue-badge/apply-for-or-renew-a-blue-badge-in-scotland/)
+
+<p data-height="400" data-theme-id="light" data-slug-hash="GEyNaP" data-default-tab="result" data-user="jsutcliffe" data-embed-version="2" data-pen-title="Guide subpage headings" data-preview="true" class="codepen">See the Pen <a href="https://codepen.io/jsutcliffe/pen/GEyNaP/">Guide subpage headings</a> by jonathan sutcliffe (<a href="https://codepen.io/jsutcliffe">@jsutcliffe</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
 
 ### 5. Breadcrumbs
 
-Currently breadcrumbs appear on all views expcept mobile (320px). They adopt the 'small print' size and line-height styling.
+Currently breadcrumbs appear on all views except mobile (320px). They adopt the 'small print' size and line-height styling.
 
-{% include example.html file="breadcrumbs" caption="Breadcrumbs" height="130" %}
+Example on mygov.scot: [Getting financial support when you're pregnant](https://www.mygov.scot/financial-support-pregnant/)
+
+<p data-height="265" data-theme-id="light" data-slug-hash="mWOEEb" data-default-tab="result" data-user="jsutcliffe" data-embed-version="2" data-pen-title="Mygov Breadcrumbs" data-preview="true" class="codepen">See the Pen <a href="https://codepen.io/jsutcliffe/pen/mWOEEb/">Mygov Breadcrumbs</a> by jonathan sutcliffe (<a href="https://codepen.io/jsutcliffe">@jsutcliffe</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
 
 ### 6. Informational notes
 
 It's not good enough to rely on the html `<blockquote>` element to render all information requiring some kind of highlighting. Here we have a range of ‘informational notes’...
 
+#### 6.1. Note
+Example of a "note" on mygov.scot: [Your limited company's first accounts and Company Tax Return](https://www.mygov.scot/business-first-accounts/)
 
-{% include example.html file="note" caption="Note" height="250" %}
+<p data-height="265" data-theme-id="light" data-slug-hash="Mormwd" data-default-tab="result" data-user="jsutcliffe" data-embed-version="2" data-pen-title="Info note: note" data-preview="true" class="codepen">See the Pen <a href="https://codepen.io/jsutcliffe/pen/Mormwd/">Info note: note</a> by jonathan sutcliffe (<a href="https://codepen.io/jsutcliffe">@jsutcliffe</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
 
-{% include example.html file="note-caution" caption="Note caution" height="250" %}
+#### 6.2. Caution
 
-{% include example.html file="blockquote" caption="Blockquote" height="250" %}
+Example of a "caution" on mygov.scot: [Bereavement benefits and help with money](https://www.mygov.scot/bereavement-benefits/)
 
-{% include example.html file="small-print" caption="Small print" height="150"%}
+<p data-height="265" data-theme-id="light" data-slug-hash="pwpPvY" data-default-tab="result" data-user="jsutcliffe" data-embed-version="2" data-pen-title="Info note: caution" data-preview="true" class="codepen">See the Pen <a href="https://codepen.io/jsutcliffe/pen/pwpPvY/">Info note: caution</a> by jonathan sutcliffe (<a href="https://codepen.io/jsutcliffe">@jsutcliffe</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
+
+#### 6.3. Blockquote
+
+<p data-height="265" data-theme-id="light" data-slug-hash="EXomKV" data-default-tab="result" data-user="jsutcliffe" data-embed-version="2" data-pen-title="Info note: blockquote" data-preview="true" class="codepen">See the Pen <a href="https://codepen.io/jsutcliffe/pen/EXomKV/">Info note: blockquote</a> by jonathan sutcliffe (<a href="https://codepen.io/jsutcliffe">@jsutcliffe</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
 
 ### 7. Ordered lists
 
 {% include example.html file="ordered-list" caption="An ordered list" height="350" %}
 
 ### 8. Unordered lists
+
+Example on mygov.scot: [Guardian's Allowance](https://www.mygov.scot/guardians-allowance/)
 
 {% include example.html file="unordered-list" caption="An unordered list" height="350" %}
 
@@ -151,7 +189,9 @@ Links are by default Primary blue. In the case of text links, underline only app
 
 Hover states are subtle indicators. All text and button links darken on hover.
 
-*Note: Transitions are almost immediate (0.2 secs duration on hover), and ease out at a slower rate on out (1 sec duration).*
+<div class="info-note note">
+Transitions are almost immediate (0.2 secs duration on hover), and ease out at a slower rate (1 sec duration).
+</div>
 
 Active states are affirming. In the case of buttons the hover state is maintained while the reversal text becomes semi-transparent. This maintains a consistency across desktop and mobile devices where hover becomes redundant, while replicating a real-life down-press event. In the case of text links and Category / Content item listings a light blue is applied to the background. This is especially useful to mobile users, as screen size and brightness, smaller text and graphical elements, and poor connectivity can all potentially make it difficult to know whether a link has been pressed.
 
@@ -177,19 +217,27 @@ Active states are affirming. In the case of buttons the hover state is maintaine
 
 ### 6. Navigation button
 
-{% include example.html file="nav-button" height="250" %}
+
+<p data-height="265" data-theme-id="light" data-slug-hash="evBZaE" data-default-tab="result" data-user="jsutcliffe" data-embed-version="2" data-pen-title="Mygov Page Navigation" data-preview="true" class="codepen">See the Pen <a href="https://codepen.io/jsutcliffe/pen/evBZaE/">Mygov Page Navigation</a> by jonathan sutcliffe (<a href="https://codepen.io/jsutcliffe">@jsutcliffe</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
+
 
 ### 7. Sequential guide navigation
 
-{% include example.html file="guide-sequential" height="200" %}
+<p data-height="400" data-theme-id="light" data-slug-hash="bRawzM" data-default-tab="result" data-user="jsutcliffe" data-embed-version="2" data-pen-title="Sequential multi-page navigation" data-preview="true" class="codepen">See the Pen <a href="https://codepen.io/jsutcliffe/pen/bRawzM/">Sequential multi-page navigation</a> by jonathan sutcliffe (<a href="https://codepen.io/jsutcliffe">@jsutcliffe</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
 
 ### 8. Non-sequential guide navigation
 
-{% include example.html file="guide-non-sequential" height="200" %}
+<p data-height="400" data-theme-id="light" data-slug-hash="KqZgJr" data-default-tab="result" data-user="jsutcliffe" data-embed-version="2" data-pen-title="Non-sequential multi-page navigation" data-preview="true" class="codepen">See the Pen <a href="https://codepen.io/jsutcliffe/pen/KqZgJr/">Non-sequential multi-page navigation</a> by jonathan sutcliffe (<a href="https://codepen.io/jsutcliffe">@jsutcliffe</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
 
 ### 9. Accordion
 
-{% include example.html file="accordion" height="400" %}
+Example on mygov.scot: [Help if you're made redundant](https://www.mygov.scot/help-redundancy/)
+
+<p data-height="400" data-theme-id="light" data-slug-hash="mWOrbr" data-default-tab="result" data-user="jsutcliffe" data-embed-version="2" data-pen-title="Mygov Expandable" data-preview="true" class="codepen">See the Pen <a href="https://codepen.io/jsutcliffe/pen/mWOrbr/">Mygov Expandable</a> by jonathan sutcliffe (<a href="https://codepen.io/jsutcliffe">@jsutcliffe</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
 
 ### 10. Tabs
 
@@ -197,7 +245,8 @@ Active states are affirming. In the case of buttons the hover state is maintaine
 
 ### 11. Notifications
 
-{% include example.html file="notifications" height="300" %}
+<p data-height="265" data-theme-id="light" data-slug-hash="XgVMRO" data-default-tab="result" data-user="jsutcliffe" data-embed-version="2" data-pen-title="Notifications" data-preview="true" class="codepen">See the Pen <a href="https://codepen.io/jsutcliffe/pen/XgVMRO/">Notifications</a> by jonathan sutcliffe (<a href="https://codepen.io/jsutcliffe">@jsutcliffe</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
 
 ## Colour palette
 
@@ -213,7 +262,7 @@ As a general rule use:
 * light greys – for layout
 * light blues – for active/selected states
 * red – for error
-* green – for messages of success or validation 
+* green – for messages of success or validation
 * yellow – for warning or notifications.
 
 <div class="palette-sample-container">
@@ -505,7 +554,7 @@ As a general rule use:
     <a name="light-grey"></a>
     <strong>Light grey: #ebebeb <span class="rgb">(rgb: 235, 235, 235)</span></strong><br>
     Use: background grey hover <br><br>
-    
+
     Other examples:
     <ul>
         <li>hover state for ‘lighter grey’ block element</li>
@@ -517,7 +566,7 @@ As a general rule use:
     <a name="lighter-grey"></a>
     <strong>Lighter grey: #f8f8f8 <span class="rgb">(rgb: 248, 248, 248)</span></strong><br>
     Use: block backgrounds <br><br>
-    
+
     Other examples:
     <ul>
         <li>white background button/nav/search results hover state</li>

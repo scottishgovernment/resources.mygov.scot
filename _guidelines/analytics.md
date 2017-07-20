@@ -8,7 +8,7 @@ type: design
 index: 1
 frontpage: yes
 headings:
-- Introduction, Training & Support
+- Introduction, training & support
 - Set up a Google account
 - Set up Google Tag Manager
 - Set up Google Analytics
@@ -18,7 +18,7 @@ headings:
 - Google Account recovery
 
 ---
-## Introduction, training & Support
+## Introduction, training & support
 Every website should have its performance monitored regularly - this allows the service owner to identify issues and use the data to make better decisions as outlined in the Digital First Service Standard's [data driven](http://scottishgovernment.github.io/criterion/data-driven/) and [performance management]( https://scottishgovernment.github.io/criterion/performance-management/) criteria.
 
 To do this you will need to set up certain tools for your website or service. These are:

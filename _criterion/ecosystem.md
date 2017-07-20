@@ -1,5 +1,5 @@
 ---
-layout: digital-first-criteria
+layout: digital-first-criterion
 title:  "14. Ecosystem"
 category: standard
 imperative: Standard

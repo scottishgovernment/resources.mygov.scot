@@ -1,5 +1,5 @@
 ---
-layout: digital-first-criteria
+layout: digital-first-criterion
 title:  "19. Performance Management"
 category: standard
 imperative: Standard

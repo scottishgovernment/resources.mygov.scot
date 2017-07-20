@@ -1,5 +1,5 @@
 ---
-layout: digital-first-criteria
+layout: digital-first-criterion
 title:  "01. User Centred"
 summary: Understanding user needs is critical to any service
 category: standard
