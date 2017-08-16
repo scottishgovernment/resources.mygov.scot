@@ -95,6 +95,8 @@ Some basic event tracking examples:
 
 * [https://www.optimizesmart.com/event-tracking-in-google-tag-manager-v2-complete-guide/](https://www.optimizesmart.com/event-tracking-in-google-tag-manager-v2-complete-guide/)
 
+* [http://www.amazeemetrics.com/en/blog/google-tag-manager-tutorial-part-2-tracking-downloads-in-gtm-version-2](http://www.amazeemetrics.com/en/blog/google-tag-manager-tutorial-part-2-tracking-downloads-in-gtm-version-2 - creating a variable for tracking download filetypes)
+
 ### The Data Layer (dataLayer) - additional reading
 
 * [http://www.simoahava.com/analytics/data-layer/](http://www.simoahava.com/analytics/data-layer/)
