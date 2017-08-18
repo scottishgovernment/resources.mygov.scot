@@ -3162,9 +3162,9 @@ ul, ol, dd {
 /* line 1, ../_scss/base/_base.code.scss */
 .highlighter-rouge {
   background-color: #e5f0f8;
+  box-decoration-break: clone;
   color: #00437e;
-  outline: 3px solid #e5f0f8;
-  margin: 0 3px;
+  padding: 3px;
 }
 
 /*------------------------------------*\

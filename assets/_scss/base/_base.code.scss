@@ -1,6 +1,6 @@
 .highlighter-rouge {
     background-color: $color__blue--lighter;
+    box-decoration-break: clone;
     color: $color__blue--dark;
-    outline: 3px solid $color__blue--lighter;
-    margin: 0 3px;
-}
+    padding: 3px;
+} 
