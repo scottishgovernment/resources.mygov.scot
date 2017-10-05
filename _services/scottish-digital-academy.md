@@ -34,11 +34,11 @@ This development of skills contributes to building capability and culture change
 This may be subject to change depending on demand. 
 
 | Course | Duration | Dates | No. of places (max) | Cost per head |
-| Digital Foundation course | 10 days | 8 - 19 January 2018 | 15 | £800 | 
-| Hands On Agile for Leaders | 3 days | 22 -24 January 2018 | 10 | £400 |
-| Discover Digital and Agile Awareness | 1 day | 25 January 2018 | 15 | £200 |
-| Discover Digital and Agile Awareness | 1 day | 26 January 2018 | 15 | £200 |
-| Agile for Teams | 3 days | 29 -31 January 2018 | 15* | £350 |
+| Digital Foundation course | 10 days | 8 - 19 January 2018 | 15 | £900 | 
+| Hands On Agile for Leaders | 3 days | 22 -24 January 2018 | 10 | £300 |
+| Discover Digital and Agile Awareness | 1 day | 25 January 2018 | 15 | £100 |
+| Discover Digital and Agile Awareness | 1 day | 26 January 2018 | 15 | £100 |
+| Agile for Teams | 3 days | 29 -31 January 2018 | 15* | £300 |
 
 *(must have 3 – 4 members of a team attend)
 
