@@ -169,7 +169,7 @@ $inuit-use-fractions: false;
 /**
  * WHOLE THINGS
  */
-@import "colour-palette.scss";
+@import "components/component.colour-palette.scss";
 .main-content > h2 {
     margin-top: 0 !important;
 }

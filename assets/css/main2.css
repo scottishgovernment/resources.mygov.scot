@@ -2255,7 +2255,7 @@
 /**
  * Font-sizes in pixels.
  */
-/* line 106, ../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-core-1.0.3/stylesheets/compass/typography/_vertical_rhythm.scss */
+/* line 106, ../../../../../Library/Ruby/Gems/2.0.0/gems/compass-core-1.0.3/stylesheets/compass/typography/_vertical_rhythm.scss */
 html {
   font-size: 100%;
   line-height: 0.4375em;
@@ -7213,13 +7213,13 @@ body.home {
 /**
  * WHOLE THINGS
  */
-/* line 1, ../_scss/colour-palette.scss */
+/* line 1, ../_scss/components/_component.colour-palette.scss */
 .palette-sample-container {
   margin-top: 56px;
   margin-bottom: 56px;
 }
 
-/* line 6, ../_scss/colour-palette.scss */
+/* line 6, ../_scss/components/_component.colour-palette.scss */
 .palette-sample {
   display: inline-block;
   margin-right: -4px;
@@ -7233,72 +7233,72 @@ body.home {
   text-align: center;
   vertical-align: top;
 }
-/* line 21, ../_scss/colour-palette.scss */
+/* line 21, ../_scss/components/_component.colour-palette.scss */
 .palette-sample span {
   line-height: 21px;
 }
-/* line 25, ../_scss/colour-palette.scss */
+/* line 25, ../_scss/components/_component.colour-palette.scss */
 .palette-sample a {
   color: inherit;
   text-decoration: none;
 }
-/* line 29, ../_scss/colour-palette.scss */
+/* line 29, ../_scss/components/_component.colour-palette.scss */
 .palette-sample a:hover {
   text-decoration: none;
 }
-/* line 33, ../_scss/colour-palette.scss */
+/* line 33, ../_scss/components/_component.colour-palette.scss */
 .palette-sample a:active {
   opacity: 0.6;
 }
-/* line 37, ../_scss/colour-palette.scss */
+/* line 37, ../_scss/components/_component.colour-palette.scss */
 .palette-sample a p:active {
   opacity: 0.6;
 }
-/* line 42, ../_scss/colour-palette.scss */
+/* line 42, ../_scss/components/_component.colour-palette.scss */
 .palette-sample .colour-name {
   font-size: 32px;
   line-height: 42px;
   font-weight: 100;
   margin: 7px 0;
 }
-/* line 49, ../_scss/colour-palette.scss */
+/* line 49, ../_scss/components/_component.colour-palette.scss */
 .palette-sample.spacer-tablet {
   width: 0;
   height: 0;
 }
-/* line 54, ../_scss/colour-palette.scss */
+/* line 54, ../_scss/components/_component.colour-palette.scss */
 .palette-sample:hover {
   outline-style: solid;
   outline-width: 7px;
   position: relative;
 }
 
-/* line 61, ../_scss/colour-palette.scss */
+/* line 61, ../_scss/components/_component.colour-palette.scss */
 .palette-sample.spacer:hover, .palette-sample.spacer-tablet:hover {
   outline: none;
 }
 
-/* line 65, ../_scss/colour-palette.scss */
+/* line 65, ../_scss/components/_component.colour-palette.scss */
 .palette-list {
   display: inline-block;
   width: calc(100% - 60px);
   margin-bottom: 28px;
 }
-/* line 70, ../_scss/colour-palette.scss */
+/* line 70, ../_scss/components/_component.colour-palette.scss */
 .palette-list strong {
   margin-bottom: 7px;
   display: inline-block;
 }
-/* line 75, ../_scss/colour-palette.scss */
+/* line 75, ../_scss/components/_component.colour-palette.scss */
 .palette-list ul {
   margin-top: 7px;
   margin-bottom: 0px;
 }
-/* line 80, ../_scss/colour-palette.scss */
+/* line 80, ../_scss/components/_component.colour-palette.scss */
 .palette-list li {
   margin-bottom: 7px;
 }
-/* line 85, ../_scss/colour-palette.scss */
+/* line 85, ../_scss/components/_component.colour-palette.scss */
 .palette-list__colour-block {
   width: 35px;
   height: 35px;
@@ -7308,14 +7308,14 @@ body.home {
   vertical-align: top;
 }
 
-/* line 95, ../_scss/colour-palette.scss */
+/* line 95, ../_scss/components/_component.colour-palette.scss */
 .rgb {
   display: none;
 }
 
 /* mobile landscape size and up */
 @media only screen and (min-width: 480px) {
-  /* line 101, ../_scss/colour-palette.scss */
+  /* line 101, ../_scss/components/_component.colour-palette.scss */
   .palette-sample {
     width: 225px;
     height: 225px;
@@ -7323,14 +7323,14 @@ body.home {
   }
 }
 @media only screen and (min-width: 700px) {
-  /* line 109, ../_scss/colour-palette.scss */
+  /* line 109, ../_scss/components/_component.colour-palette.scss */
   .palette-sample.spacer-tablet {
     width: 225px;
   }
 }
 /* tablet size and up */
 @media only screen and (min-width: 768px) {
-  /* line 116, ../_scss/colour-palette.scss */
+  /* line 116, ../_scss/components/_component.colour-palette.scss */
   .palette-sample, .palette-sample.spacer-tablet {
     width: 240px;
     height: 240px;
@@ -7338,18 +7338,18 @@ body.home {
     padding-top: 61px;
     font-size: 14px;
   }
-  /* line 123, ../_scss/colour-palette.scss */
+  /* line 123, ../_scss/components/_component.colour-palette.scss */
   .palette-sample .colour-name, .palette-sample.spacer-tablet .colour-name {
     font-size: 45px;
     line-height: 56px;
     margin: 14px 0;
   }
 
-  /* line 130, ../_scss/colour-palette.scss */
+  /* line 130, ../_scss/components/_component.colour-palette.scss */
   .palette-list {
     width: calc(100% - 80px);
   }
-  /* line 133, ../_scss/colour-palette.scss */
+  /* line 133, ../_scss/components/_component.colour-palette.scss */
   .palette-list__colour-block {
     width: 49px;
     height: 49px;
@@ -7359,7 +7359,7 @@ body.home {
 }
 /* desktop size and up */
 @media only screen and (min-width: 992px) {
-  /* line 143, ../_scss/colour-palette.scss */
+  /* line 143, ../_scss/components/_component.colour-palette.scss */
   .palette-sample, .palette-sample.spacer-tablet {
     width: 205.5px;
     height: 205.5px;
@@ -7368,7 +7368,7 @@ body.home {
 }
 /* HD desktop size and up */
 @media only screen and (min-width: 1200px) {
-  /* line 152, ../_scss/colour-palette.scss */
+  /* line 152, ../_scss/components/_component.colour-palette.scss */
   .palette-sample, .palette-sample.spacer-tablet {
     width: 250px;
     height: 250px;
@@ -7376,115 +7376,115 @@ body.home {
     padding-top: 64.5px;
   }
 
-  /* line 159, ../_scss/colour-palette.scss */
+  /* line 159, ../_scss/components/_component.colour-palette.scss */
   .rgb {
     display: inline;
   }
 }
 /* Classes for colour swatches */
-/* line 166, ../_scss/colour-palette.scss */
+/* line 166, ../_scss/components/_component.colour-palette.scss */
 .primary-blue {
   background-color: #0065bd;
   outline-color: #0065bd;
 }
 
-/* line 171, ../_scss/colour-palette.scss */
+/* line 171, ../_scss/components/_component.colour-palette.scss */
 .dark-blue {
   background-color: #00437e;
   outline-color: #00437e;
 }
 
-/* line 176, ../_scss/colour-palette.scss */
+/* line 176, ../_scss/components/_component.colour-palette.scss */
 .darker-blue {
   background-color: #002d54;
   outline-color: #002d54;
 }
 
-/* line 181, ../_scss/colour-palette.scss */
+/* line 181, ../_scss/components/_component.colour-palette.scss */
 .light-blue {
   background-color: #d9effc;
   outline-color: #d9effc;
 }
 
-/* line 186, ../_scss/colour-palette.scss */
+/* line 186, ../_scss/components/_component.colour-palette.scss */
 .lighter-blue {
   background-color: #e5f0f8;
   outline-color: #e5f0f8;
 }
 
-/* line 191, ../_scss/colour-palette.scss */
+/* line 191, ../_scss/components/_component.colour-palette.scss */
 .dark-grey {
   background-color: #333;
   outline-color: #333;
 }
 
-/* line 196, ../_scss/colour-palette.scss */
+/* line 196, ../_scss/components/_component.colour-palette.scss */
 .base-grey {
   background-color: #727272;
   outline-color: #727272;
 }
 
-/* line 201, ../_scss/colour-palette.scss */
+/* line 201, ../_scss/components/_component.colour-palette.scss */
 .mid-grey {
   background-color: #b3b3b3;
   outline-color: #b3b3b3;
 }
 
-/* line 206, ../_scss/colour-palette.scss */
+/* line 206, ../_scss/components/_component.colour-palette.scss */
 .pale-grey {
   background-color: #e3e3e3;
   outline-color: #e3e3e3;
 }
 
-/* line 211, ../_scss/colour-palette.scss */
+/* line 211, ../_scss/components/_component.colour-palette.scss */
 .light-grey {
   background-color: #ebebeb;
   outline-color: #ebebeb;
 }
 
-/* line 216, ../_scss/colour-palette.scss */
+/* line 216, ../_scss/components/_component.colour-palette.scss */
 .lighter-grey {
   background-color: #f8f8f8;
   outline-color: #f8f8f8;
 }
 
-/* line 221, ../_scss/colour-palette.scss */
+/* line 221, ../_scss/components/_component.colour-palette.scss */
 .error-red {
   background-color: #d32205;
   outline-color: #d32205;
 }
 
-/* line 226, ../_scss/colour-palette.scss */
+/* line 226, ../_scss/components/_component.colour-palette.scss */
 .error-red-tint {
   background-color: #f4e2df;
   outline-color: #f4e2df;
 }
 
-/* line 231, ../_scss/colour-palette.scss */
+/* line 231, ../_scss/components/_component.colour-palette.scss */
 .validation-green {
   background-color: #4e9d52;
   outline-color: #4e9d52;
 }
 
-/* line 236, ../_scss/colour-palette.scss */
+/* line 236, ../_scss/components/_component.colour-palette.scss */
 .validation-green-tint {
   background-color: #edf5ee;
   outline-color: #edf5ee;
 }
 
-/* line 241, ../_scss/colour-palette.scss */
+/* line 241, ../_scss/components/_component.colour-palette.scss */
 .notification-yellow {
   background-color: #ffb644;
   outline-color: #ffb644;
 }
 
-/* line 246, ../_scss/colour-palette.scss */
+/* line 246, ../_scss/components/_component.colour-palette.scss */
 .notification-yellow-tint {
   background-color: #fff8ec;
   outline-color: #fff8ec;
 }
 
-/* line 251, ../_scss/colour-palette.scss */
+/* line 251, ../_scss/components/_component.colour-palette.scss */
 .light-blue, .lighter-blue, .mid-grey, .pale-grey,
 .light-grey, .lighter-grey, .error-red-tint, .validation-green-tint,
 .notification-yellow, .notification-yellow-tint {
