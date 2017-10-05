@@ -1,8 +1,8 @@
 ---
 layout: default
-title:  "Digital Academy"
+title:  "Scottish Digital Academy"
 category: service
-summary: The Scottish Digital Academy’s aim is to grow digital capability and awareness across the public sector, providing courses that range from delivering an overview of digital and agile, to more in-depth learning experiences in user research, user-centred design and the agile lifecycle.
+summary: The Scottish Digital Academy’s purpose is to transform the way government designs services for its users. It provides learning and experience that enables graduates to work on agile digital development projects and build services to meet users' needs.
 ---
 
 The Scottish Digital Academy has been set up in collaboration with GDS Digital Academy, to ensure that Scottish public sector organisations have a coherent programme of activity to develop and grow our own in house capability to build effective digital services as well as transforming how government delivers services that meet users’ needs. We want to equip our own people with digital skills so they can fill key roles in our projects and programmes.
@@ -14,7 +14,7 @@ The Scottish Digital Academy delivers the suite of courses below in January, Mar
 Anyone working for a public sector organisation in Scotland.
 
 ## How long does it take?
-Courses vary, depending on objectives and the level of skills needing developed. Courses range from a one day Discover Digital and Agile course to a 10 day accredited Digital Foundation course.
+Courses vary, depending on objectives and the level of skills needing to be developed. Courses range from a one day Discover Digital and Agile course to a 10 day accredited Digital Foundation course.
 
 ## What are the outcomes of the programmes?
 The [GDS course brochure](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/631314/Digital_Academy_Brochure_V7.5__1_.pdf) contains information on the aims and objectives of each course.
@@ -29,7 +29,7 @@ This development of skills contributes to building capability and culture change
 * consistency in learning, ways of working and the implementation of Digital Transformation programmes across the public sector
 
 <br>
-# Digital Academy courses January 2018
+# Scottish Digital Academy courses January 2018
 
 This may be subject to change depending on demand. 
 
@@ -54,7 +54,7 @@ The Scottish Digital Academy also have access to additional courses, including:
 * Course bookings will need to be paid in full prior to the start of your course, in order for you to attend.
 
 <br>
-## Future Digital Academy courses dates
+## Future Scottish Digital Academy courses dates
 Further dates in 2018 will be confirmed in January 2018. If you would like to be kept informed of upcoming courses please email [DigitalAcademy@gov.scot](mailto: DigitalAcademy@gov.scot).
 
 ## Location
@@ -72,7 +72,7 @@ EH11 3XD<br>
 To book a course please contact [DigitalAcademy@gov.scot](mailto: DigitalAcademy@gov.scot) for a booking form or call 0131 244 0107.
 
 **Cancellations:**
-Please note that any withdrawals from the course, and the Digital Academy are unable to fill the requested space, the course booking will be invoiced as a filled place.
+Please note that in the case of any withdrawals from the course, and the Scottish Digital Academy are unable to fill the requested space, the course booking will be invoiced as a filled place.
 
 ## Contact
-Tai McLennan, Digital Talent Strategy Specialist or Lorraine Lee, Digital Academy Business Manager at [DigitalAcademy@gov.scot](mailto: DigitalAcademy@gov.scot).
+Tai McLennan, Digital Talent Strategy Specialist or Lorraine Lee, Scottish Digital Academy Business Manager at [DigitalAcademy@gov.scot](mailto: DigitalAcademy@gov.scot).
