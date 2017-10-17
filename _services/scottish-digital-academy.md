@@ -5,7 +5,7 @@ category: service
 summary: The Scottish Digital Academy’s purpose is to transform the way government designs services for its users. It provides learning and experience that enables graduates to work on agile digital development projects and build services to meet users' needs.
 ---
 
-The Scottish Digital Academy has been set up in collaboration with GDS Digital Academy, to ensure that Scottish public sector organisations have a coherent programme of activity to develop and grow our own in house capability to build effective digital services as well as transforming how government delivers services that meet users’ needs. We want to equip our own people with digital skills so they can fill key roles in our projects and programmes.
+The Scottish Digital Academy has been set up in collaboration with [GDS Academy](https://www.gov.uk/gdsacademy), to ensure that Scottish public sector organisations have a coherent programme of activity to develop and grow our own in house capability to build effective digital services as well as transforming how government delivers services that meet users’ needs. We want to equip our own people with digital skills so they can fill key roles in our projects and programmes.
 
 The Scottish Digital Academy delivers the suite of courses below in January, March, and September of each year.  This may be subject to change depending on demand. 
 
@@ -17,7 +17,7 @@ Anyone working for a public sector organisation in Scotland.
 Courses vary, depending on objectives and the level of skills needing to be developed. Courses range from a one day Discover Digital and Agile course to a 10 day accredited Digital Foundation course.
 
 ## What are the outcomes of the programmes?
-The [GDS course brochure](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/631314/Digital_Academy_Brochure_V7.5__1_.pdf) contains information on the aims and objectives of each course.
+The [GDS Academy website](https://www.gov.uk/gdsacademy) contains information on the aims and objectives of each course.
 
 The courses deliver an introduction to new ways of working, focussed on user-centred service design. 
 
