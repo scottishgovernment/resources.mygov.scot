@@ -8,12 +8,11 @@
   },
   "author": {
     "name": "mygov.scot Digital Engineering team",
-    "email": "dleepdigmsgb@scotland.gsi.gov.uk",
+    "email": "mygov-tech-team@gov.scot",
     "url": "http://www.mygov.scot/"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
-    "mygov-assets": "latest"
+    "@scottish-government/mygov-assets": "1.0.79"
   }
 }
