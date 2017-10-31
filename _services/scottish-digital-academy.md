@@ -69,7 +69,14 @@ EH11 3XD<br>
 [Location and accessibility details](https://beta.gov.scot/about/contact-information/buildings/#saughton-house).   The venue has a restaurant and Costa café on the first floor where you will be able purchase refreshments and food throughout the duration of the course.
 
 ## How can I book a place?
-To book a course please contact [DigitalAcademy@gov.scot](mailto: DigitalAcademy@gov.scot) for a booking form or call 0131 244 0107.
+To request a booking form, please contact [DigitalAcademy@gov.scot](mailto: DigitalAcademy@gov.scot).
+
+In addition to your request, your email must include:
+* your team name
+* your organisation
+* a short explanation of the work your team is currently doing, and what you hope to gain by attending the course
+
+We can't offer you a place on this course if you don't include this in your email. 
 
 **Cancellations:**
 Please note that in the case of any withdrawals from the course, and the Scottish Digital Academy are unable to fill the requested space, the course booking will be invoiced as a filled place.
