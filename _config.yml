@@ -60,6 +60,10 @@ collections:
     parent: home
   examples:
     output: true
+  patterns:
+    output: true
+    permalink: /patterns/:name/
+    parent: home
 
 # Default values
 defaults:
