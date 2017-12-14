@@ -14,7 +14,7 @@ Its focus is making sure that Scottish public sector organisations have a cohere
 
 We want to equip our people with digital skills, so they can fill key roles in our projects and programmes.
 
-The Scottish Digital Academy delivers the courses in January, March, and September of each year. But this may change depending on demand. 
+The Scottish Digital Academy delivers the courses in January, March, and September of each year. But this may change depending on demand.
 
 <br>
 ## Who can apply for the courses?
@@ -26,7 +26,7 @@ Courses vary, depending on objectives and the level of skills needing to be deve
 ## What are the outcomes of the programmes?
 The [GDS Academy website](https://www.gov.uk/gdsacademy) outlines the aims and objectives of each course.
 
-The courses introduce new ways of working, focussed on user-centred service design. 
+The courses introduce new ways of working, focussed on user-centred service design.
 
 Developing these skills contributes to building capability and creating the culture change needed for digital transformation in government.
 
@@ -38,10 +38,10 @@ Developing these skills contributes to building capability and creating the cult
 <br>
 # Scottish Digital Academy courses January 2018
 
-These may be subject to change depending on demand. 
+These may be subject to change depending on demand.
 
 | Course | Duration | Dates | No. of places (max) | Cost per head |
-| Digital Foundation course | 10 days | 8 - 19 January 2018 | 15 | £900 | 
+| Digital Foundation course | 10 days | 8 - 19 January 2018 | 15 | £900 |
 | Hands On Agile for Leaders | 3 days | 22 -24 January 2018 | 10 | £300 |
 | Discover Digital and Agile Awareness | 1 day | 25 January 2018 | 15 | £100 |
 | Discover Digital and Agile Awareness | 1 day | 26 January 2018 | 15 | £100 |
@@ -62,13 +62,13 @@ The Scottish Digital Academy also have access to additional courses, including:
 
 <br>
 ## Future Scottish Digital Academy courses dates
-Further dates in 2018 will be confirmed in January 2018. 
+Further dates in 2018 will be confirmed in January 2018.
 
 You can register your interest by completing [this short form](/SDA-Interest-Form.docx) and emailing it to [DigitalAcademy@gov.scot](mailto:DigitalAcademy@gov.scot).
 
 ## Location
-All courses will be held at the: 
-    
+All courses will be held at the:
+
 Scottish Government Training Suite<br>
 Saughton House<br>
 Broomhouse Drive<br>

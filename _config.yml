@@ -34,6 +34,10 @@ collections:
     output: true
     permalink: /standards/:name/
     parent: home
+  standards:
+    output: true
+    permalink: /standards/:name/
+    parent: home
   services:
     output: true
     permalink: /services/:name/
