@@ -1,8 +1,8 @@
 ---
 layout: default
-title:  "Typography"
-summary: Typography is an important part of the Mygov brand.
-parent: home
+title:  "Images"
+summary: Guidance on dealing with images
+parent: design-essentials
 ---
 
 Some content here.

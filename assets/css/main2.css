@@ -7524,6 +7524,352 @@ body.home {
   z-index: 10000;
 }
 
+/* line 2, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.category-list.scss */
+.category-item {
+  margin-bottom: 28px;
+  padding: 0 0 0 10px;
+  border-left: 1px solid #aecce6;
+  -moz-transition: border-color 1s;
+  -o-transition: border-color 1s;
+  -webkit-transition: border-color 1s;
+  transition: border-color 1s;
+}
+/* line 9, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.category-list.scss */
+.category-item:hover {
+  border-left-color: #00437e;
+  -moz-transition: border-color 0.2s;
+  -o-transition: border-color 0.2s;
+  -webkit-transition: border-color 0.2s;
+  transition: border-color 0.2s;
+}
+/* line 14, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.category-list.scss */
+.category-item--limelight {
+  border-left: 2px solid #0065bd;
+  padding-bottom: 15px;
+  padding-left: 9px;
+}
+/* line 20, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.category-list.scss */
+.category-item--subcategory {
+  margin-bottom: 20px;
+}
+/* line 24, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.category-list.scss */
+.category-item .category-item__link {
+  position: relative;
+}
+/* line 27, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.category-list.scss */
+.category-item .category-item__link:active {
+  outline: none;
+}
+/* line 32, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.category-list.scss */
+.category-item__link {
+  display: block;
+  line-height: 21px;
+  text-decoration: none;
+}
+/* line 37, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.category-list.scss */
+.category-item__link:hover {
+  text-decoration: none;
+}
+/* line 40, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.category-list.scss */
+.category-item__link:hover .category-item__title {
+  text-decoration: underline;
+}
+/* line 46, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.category-list.scss */
+.category-item__header {
+  margin-bottom: 0;
+}
+/* line 50, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.category-list.scss */
+.category-item__header--group-header {
+  margin: 0 -15px 34px;
+  padding: 7px 15px;
+  text-align: center;
+  -moz-transition: background 0.2s, box-shadow 0.2s;
+  -o-transition: background 0.2s, box-shadow 0.2s;
+  -webkit-transition: background 0.2s, box-shadow 0.2s;
+  transition: background 0.2s, box-shadow 0.2s;
+}
+/* line 57, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.category-list.scss */
+.category-item__header--group-header--sticky {
+  background: #ffffff;
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.1);
+}
+/* line 61, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.category-list.scss */
+.category-item__header--group-header--sticky .title-text {
+  background: #ffffff;
+}
+/* line 67, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.category-list.scss */
+.category-item__title {
+  font-size: 18px;
+  line-height: 23px;
+  margin: 3px 0 13px;
+  position: relative;
+}
+/* line 73, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.category-list.scss */
+.category-item__title .title-text {
+  background: #f8f8f8;
+  padding: 0 15px;
+  -webkit-box-decoration-break: clone;
+  -ms-box-decoration-break: clone;
+  -o-box-decoration-break: clone;
+  box-decoration-break: clone;
+}
+/* line 82, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.category-list.scss */
+.category-item__title .title-text--sticky {
+  background: #ffffff;
+}
+/* line 87, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.category-list.scss */
+.category-item__title--group-title {
+  color: #00437e;
+  display: inline-block;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 21px;
+  margin: 0 auto;
+  padding: 0 20px;
+  position: relative;
+  width: 100%;
+  z-index: 1;
+}
+/* line 99, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.category-list.scss */
+.category-item__title--group-title:before {
+  background: #00437e;
+  content: '';
+  height: 1px;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 10px;
+  z-index: -1;
+}
+/* line 112, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.category-list.scss */
+.category-item__summary {
+  color: #727272;
+  font-size: 14px;
+  line-height: 21px;
+  margin: -5px 0 1px 0;
+  position: relative;
+}
+/* line 121, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.category-list.scss */
+.category-item__title:focus, .category-item__summary:focus {
+  outline: none;
+}
+
+/* line 127, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.category-list.scss */
+.limelit-items {
+  border-bottom: 1px solid #e3e3e3;
+  margin-bottom: 45px;
+}
+/* line 131, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.category-list.scss */
+.limelit-items > :last-child {
+  margin-bottom: 45px;
+}
+
+@media (min-width: 768px) {
+  /* line 138, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.category-list.scss */
+  .js-category-header-ghost {
+    display: block;
+  }
+
+  /* line 142, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.category-list.scss */
+  .category-item {
+    padding-left: 15px;
+    margin-bottom: 40px;
+  }
+  /* line 146, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.category-list.scss */
+  .category-item__header {
+    padding-top: 0;
+    text-align: left;
+  }
+  /* line 150, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.category-list.scss */
+  .category-item__header--group-header {
+    margin-top: 3px;
+  }
+  /* line 157, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.category-list.scss */
+  .category-item--limelight {
+    padding-left: 14px;
+  }
+  /* line 161, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.category-list.scss */
+  .category-item--subcategory {
+    margin-bottom: 48px;
+  }
+  /* line 165, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.category-list.scss */
+  .category-item__link {
+    line-height: 28px;
+  }
+  /* line 169, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.category-list.scss */
+  .category-item__title {
+    font-size: 19px;
+    line-height: 26px;
+  }
+  /* line 173, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.category-list.scss */
+  .category-item__title--group-title {
+    padding: 0;
+    text-align: left;
+  }
+  /* line 177, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.category-list.scss */
+  .category-item__title--group-title:before {
+    content: none;
+  }
+  /* line 182, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.category-list.scss */
+  .category-item__title .title-text {
+    padding: 0;
+  }
+  /* line 185, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.category-list.scss */
+  .category-item__title .title-text--sticky {
+    background: transparent;
+  }
+  /* line 191, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.category-list.scss */
+  .category-item__summary {
+    font-size: 16px;
+    line-height: 23px;
+  }
+
+  /* line 197, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.category-list.scss */
+  .category-item__header--group-header--sticky {
+    background: transparent;
+    box-shadow: none;
+  }
+}
+@media (min-width: 992px) {
+  /* line 205, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.category-list.scss */
+  .category-item__title {
+    font-size: 21px;
+    margin: 0 0 13px;
+  }
+}
+/* extra code - not necessary for this component but needed for page */
+/* line 216, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.category-list.scss */
+.home,
+.category-list-1,
+.category-list-2,
+.category-list-3,
+.jumpoff-with-sub-categories,
+.jumpoff {
+  background-color: #f8f8f8;
+}
+
+/* line 225, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.category-list.scss */
+.header-wrapper {
+  background: #ffffff;
+}
+/* line 228, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.category-list.scss */
+.header-wrapper--border {
+  border-bottom: 1px solid #ebebeb;
+}
+
+/* for home page (top tile nav) */
+/* line 235, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.category-list.scss */
+.category-list-container {
+  padding-bottom: 14px;
+}
+
+/* for category list page (1st level nav) */
+@media (min-width: 768px) {
+  /* line 242, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.category-list.scss */
+  .category-item-container.nth-child-2 {
+    clear: left;
+  }
+}
+@media (min-width: 992px) {
+  /* line 247, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.category-list.scss */
+  .category-item-container.nth-child-2 {
+    clear: none;
+  }
+  /* line 250, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.category-list.scss */
+  .category-item-container.nth-child-3 {
+    clear: left;
+  }
+}
+
+/* line 256, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.category-list.scss */
+.category-list {
+  padding-top: 28px;
+  position: relative;
+}
+/* line 260, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.category-list.scss */
+.category-list--cards {
+  margin: 0 10px;
+  padding-top: 5px;
+}
+
+@media (min-width: 768px) {
+  /* line 268, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.category-list.scss */
+  .category-list-container {
+    padding-bottom: 35px;
+  }
+
+  /* line 272, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.category-list.scss */
+  .category-list--cards {
+    margin: auto;
+  }
+}
+/* code that is not currently used anywhere */
+/* line 281, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.category-list.scss */
+.category-list--subcategories {
+  padding-top: 35px;
+}
+
+/* line 287, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.category-list.scss */
+.category-item__format {
+  color: #727272;
+  margin-bottom: 0;
+  text-transform: uppercase;
+}
+
+/* line 1, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.card.scss */
+.card {
+  background-color: #ffffff;
+  box-shadow: 1px 1px 4px rgba(128, 128, 128, 0.3);
+  line-height: 21px;
+  margin: 5px -10px;
+  padding: 20px 15px 30px;
+  position: relative;
+}
+/* line 9, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.card.scss */
+.card--hover {
+  /* bottom border on card hover */
+}
+/* line 11, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.card.scss */
+.card--hover:active, .card--hover:focus {
+  background: #d9effc;
+  box-shadow: 1px 1px 4px rgba(128, 128, 128, 0.7);
+}
+/* line 16, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.card.scss */
+.card--hover:active a, .card--hover:focus a {
+  color: #00437e;
+}
+/* line 22, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.card.scss */
+.card--hover:after {
+  background: #0065bd;
+  bottom: 0;
+  content: '';
+  height: 0;
+  left: 0;
+  position: absolute;
+  right: 0;
+  -moz-transition: height 0.2s;
+  -o-transition: height 0.2s;
+  -webkit-transition: height 0.2s;
+  transition: height 0.2s;
+}
+/* line 34, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.card.scss */
+.card--hover:hover:after {
+  height: 5px;
+}
+/* line 38, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.card.scss */
+.card--hover:hover {
+  box-shadow: 1px 1px 4px rgba(128, 128, 128, 0.5);
+  /* remove underline from link contents */
+}
+/* line 42, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.card.scss */
+.card--hover:hover a * {
+  text-decoration: none !important;
+}
+/* line 49, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.card.scss */
+.card--small {
+  height: 186px;
+}
+
 /**
  * TRUMPS
  */
@@ -7913,7 +8259,7 @@ body.home {
   color: #333;
 }
 
-/* line 173, ../_scss/main2.scss */
+/* line 175, ../_scss/main2.scss */
 .main-content > h2 {
   margin-top: 0 !important;
 }

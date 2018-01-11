@@ -64,6 +64,18 @@ collections:
     output: true
     permalink: /patterns/:name/
     parent: home
+  design-standards:
+    output: true
+    permalink: /patterns/design-standards/:name/
+    parent: patterns
+  design-essentials:
+    output: true
+    permalink: /patterns/design-standards/design-essentials/:name/
+    parent: design-standards
+  pattern-library:
+    output: true
+    permalink: /patterns/design-standards/pattern-library/:name/
+    parent: design-standards
 
 # Default values
 defaults:
