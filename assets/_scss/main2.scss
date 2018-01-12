@@ -139,6 +139,8 @@ $inuit-use-fractions: false;
  */
 @import "../../node_modules/@scottish-government/mygov-assets/scss/components/component.article-header";
 @import "../../node_modules/@scottish-government/mygov-assets/scss/components/component.breadcrumbs";
+@import "../../node_modules/@scottish-government/mygov-assets/scss/components/component.card";
+@import "../../node_modules/@scottish-government/mygov-assets/scss/components/component.category-item";
 @import "components/component.embedded";
 @import "../../node_modules/@scottish-government/mygov-assets/scss/components/component.expand";
 @import "../../node_modules/@scottish-government/mygov-assets/scss/components/component.expandable";
@@ -157,8 +159,7 @@ $inuit-use-fractions: false;
 @import "components/component.site-footer";
 @import "../../node_modules/@scottish-government/mygov-assets/scss/components/component.skip-links";
 
-@import "../../node_modules/@scottish-government/mygov-assets/scss/components/component.category-list";
-@import "../../node_modules/@scottish-government/mygov-assets/scss/components/component.card";
+
 
 
 
