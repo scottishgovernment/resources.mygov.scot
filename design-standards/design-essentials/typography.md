@@ -1,17 +1,17 @@
 ---
 layout: default
 title:  "Typography"
-categories: documentation
-summary: The typography used on https://www.mygov.scot and https://www.beta.gov.scot. We are currently reviewing our typography styles to consider percentage terms as opposed to px sizing for improved responsive rendering of content.
-imperative: Standard
-index: 2
+summary: Typography is an important part of the Mygov brand.
+parent: design-essentials
+category: design-essentials
+permalink: /design-standards/design-essentials/typography/
 ---
 
 The font we use is Roboto, which is an open source, cost-free typeface developed by Google. Roboto is specifically designed for use on screen and has been designed to balance content density with reading comfort.
 
 As a web-friendly font Roboto renders well on modern browsers and also performs on older versions to ensure maximum quality in the display of text for users.
 
-##Download the latest version of Roboto here: [https://material.io/guidelines/resources/roboto-noto-fonts.html](https://material.io/guidelines/resources/roboto-noto-fonts.html)
+**Download the latest version of Roboto here: [https://material.io/guidelines/resources/roboto-noto-fonts.html](https://material.io/guidelines/resources/roboto-noto-fonts.html)**
 
 
 ## Design Theory
@@ -63,6 +63,6 @@ A comprehensive list of our typography styles including lists, notes, forms and 
 
 ## Accessibility
 
-As a Sans Serif font, Roboto uses simplified characters which stand apart from each other and appear easier to read for users with dyslexia and visual impairment.
+As a Sans Serif font, Roboto uses simplified characters which stand apart from each other and appear easier to read for users with dyslexia and visual impairment.      
 
 The typographic styles we have developed include a minimum size of 16pxls on main page content to ensure legibility and enable users to zoom content as per the WC3 standards (up to 200%). Type styles also adhere to additional accessibility guidance including maximum line length, the use of standard leading (space between lines of text) and kerning (space between characters). See the Accessibility section of this guidance for further information on this topic.
