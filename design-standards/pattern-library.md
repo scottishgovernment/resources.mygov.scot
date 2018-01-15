@@ -6,6 +6,8 @@ summary: "Includes tested and reusable design patterns for common UI/Web require
 index: 1
 navitems: pattern-library
 thispage: pattern-library
+category: design-standards
+permalink: /design-standards/pattern-library/
 ---
 
 Welcome to the **Pattern Library**.

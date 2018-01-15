@@ -34,7 +34,7 @@
         <div class="wrapper main category-list">
             <div class="grid"><!--
                 {% assign navitems = page.navitems %}
-                {% assign indexed = site[page.navitems] %}
+                {% assign indexed = site.pages | where:"category", page.navitems | sort: 'index', 'first' %}
                 {% for item in indexed %}
                  --><div class="grid__item medium--six-twelfths large--four-twelfths">
                         <article class="category-item">
