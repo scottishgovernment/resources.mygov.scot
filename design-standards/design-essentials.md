@@ -1,7 +1,7 @@
 ---
 layout: tiles-2
 title:  "Design Essentials"
-summary: "Includes core elements such as palette, typography and grid formations."
+summary: "This section provides guidance on core elements of digital design such as typography, colour palette and grid formations."
 index: 0
 parent: design-standards
 category: design-standards
@@ -9,5 +9,3 @@ navitems: design-essentials
 thispage: design-essentials
 permalink: /design-standards/design-essentials/
 ---
-
-
