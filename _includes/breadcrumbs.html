@@ -16,18 +16,6 @@
     {% endif %}
 {% endfor %}
 
-{% for item in site.patterns %}
-    {% if item.thispage == page.parent %}
-        {% assign level2 = item %}
-    {% endif %}
-{% endfor %}
-
-{% for item in site.design-standards %}
-    {% if item.thispage == page.parent %}
-        {% assign level2 = item %}
-    {% endif %}
-{% endfor %}
-
 {% if level2.thispage == 'home' %}
     {% assign homefound = true %}
 {% endif %}
@@ -46,18 +34,6 @@
     {% endfor %}
 
     {% for item in site.guidelines %}
-        {% if item.thispage == level2.parent %}
-            {% assign level3 = item %}
-        {% endif %}
-    {% endfor %}
-
-    {% for item in site.patterns %}
-        {% if item.thispage == level2.parent %}
-            {% assign level3 = item %}
-        {% endif %}
-    {% endfor %}
-
-    {% for item in site.design-standards %}
         {% if item.thispage == level2.parent %}
             {% assign level3 = item %}
         {% endif %}
@@ -82,18 +58,6 @@
     {% endfor %}
 
     {% for item in site.guidelines %}
-        {% if item.thispage == level3.parent %}
-            {% assign level4 = item %}
-        {% endif %}
-    {% endfor %}
-
-    {% for item in site.patterns %}
-        {% if item.thispage == level3.parent %}
-            {% assign level4 = item %}
-        {% endif %}
-    {% endfor %}
-
-    {% for item in site.design-standards %}
         {% if item.thispage == level3.parent %}
             {% assign level4 = item %}
         {% endif %}
