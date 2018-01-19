@@ -10,7 +10,7 @@ permalink: /design-standards/accessibility/
 
 **There are a number of considerations that must be made in the application of text to ensure that content is accessible, these include:**
 
-* Using Sans Serif fonts (Robto is one)
+* Using sans-serif fonts (Roboto is one)
 * Using fonts that are compatible with screen readers
 * Adhering to minimum sizing (WC3 standards)
 * Using optimum line length and character count
@@ -21,46 +21,30 @@ permalink: /design-standards/accessibility/
 
 For further information see each of the relevant sections below.
 
-<br>
+## Sans-serif fonts
+Sans-serif fonts are made up of simple characters which are grouped into words but stand apart in appearance, this makes it easier to read for users with dyslexia and some forms of visual impairment to read them. Serif-based fonts include embellishments on the letters which can make them appear to join together when grouped and this makes them harder to read.
 
-## Sans Serif Fonts
-Sans serif fonts are made up of simple characters which are grouped into words but stand apart in appearance, this makes it easier to read for users with dyslexia and some forms of visual impairment to read them. Serif based fonts include embellishments on the letters which can make them appear to join together when grouped and this makes them harder to read.
-
-<br>
-
-## Screen Readers
+## Screen readers
 Web-friendly fonts that are compatible with screen readers should always be adopted as there will be a number of users who require assistive technology to access online services and information.
 
-<br>
-
-## Minimum Font Sizing
+## Minimum font sizing
 We observe minimum sizes for fonts to ensure legibility.
 
 Minimum sizes for fonts are set out in the Web Content Accessibility Guidelines (known as WCAG 2.0), which are an internationally recognised set of recommendations for improving web accessibility.
 
-<br>
+## Optimum content sizing
+Although some elements of site layout may stretch across the full length of the screen, columns of text should not. Long lines are hard to read for all users and prohibitively difficult for users with conditions such as dyslexia. The optimum line length for websites is generally accepted as between 50-60 characters long, equating to typically between 10 and 15 words. Using columns with a capped width will enable greater readability for all users.
 
-## Optimum Content sizing
-Although some elements of site layout may stretch across the full length of the screen, columns of text should not. Long lines are hard to read for all users and prohibitively difficult for users with conditions such as dyslexia. The optimum line length for websites is generally accepted as between 50 - 60 characters long, equating to typically between 10 and 15 words. Using columns with a capped width will enable greater readability for all users.
-
-<br>
-
-## Character and Line Spacing
-The space between characters should be maintained at the font presets, no reduction in kerning (the space between letters) should be manually applied by designers or developers. Traditional typographic principles for line spacing also translate to screen and it is a general rule that line spacing should default to a minimum of 30% over the font size used. For example, if the font size is 16pxls the line spacing would be around 21pxls, for type sizing expressed in ems the value of 1.3em would be applied to line spacing.
-
-<br>
+## Character and line spacing
+The space between characters should be maintained at the font presets, no reduction in kerning (the space between letters) should be manually applied by designers or developers. Traditional typographic principles for line spacing also translate to screen and it is a general rule that line spacing should default to a minimum of 30% over the font size used. For example, if the font size is 16 pixels the line spacing would be around 21 pixels, for type sizing expressed in ems the value of 1.3em would be applied to line spacing.
 
 ## Contrast
 A good quality of contrast between the background and font colour is essential to ensuring readability of content. As a general rule dark text should be used on light backgrounds and light text on dark backgrounds. Avoiding the use of mid-tones guards against potential contrast issues on screen.
 
 Several contrast checkers are available online for comparing how accessible your background and text colour combinations are, one WCAG compliant version is available at: **[https://contrastchecker.com](https://contrastchecker.com)**.  
 
-<br>
-
-## Hyphenation of Text
+## Hyphenation of text
 Hyphenation should be avoided as splitting words over columns makes the content harder for some readers with conditions such as dyslexia to understand.
 
-<br>
-
-## Justification of Text
+## Justification of text
 Justification should be avoided as the act of creating uniform columns requires the spacing between words and letters to be adjusted to fit. This results in unpredictable spacing which can make words and sentences hard to read for users with a range of conditions including dyslexia.

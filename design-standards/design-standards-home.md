@@ -1,6 +1,6 @@
 ---
 layout: tiles-1
-title:  "Design Standards"
+title:  "Design standards"
 imperative: Standard
 parent: home
 thispage: design-standards
