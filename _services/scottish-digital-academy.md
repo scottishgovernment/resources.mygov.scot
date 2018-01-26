@@ -67,19 +67,7 @@ Further dates in 2018 will be confirmed in January 2018.
 You can register your interest by completing [this short form](/SDA-Interest-Form.docx) and emailing it to [DigitalAcademy@gov.scot](mailto:DigitalAcademy@gov.scot).
 
 ## Location
-<<<<<<< HEAD
-Venues will be confirmed once each Scottish Digital Academy courses dates are released. 
-=======
-All courses will be held at the:
-
-Scottish Government Training Suite<br>
-Saughton House<br>
-Broomhouse Drive<br>
-Edinburgh<br>
-EH11 3XD<br>
-
-[Location and accessibility details](https://beta.gov.scot/about/contact-information/buildings/#saughton-house).   The venue has a restaurant and Costa café on the first floor where you can buy refreshments and food.
->>>>>>> 34e4947a595d203250e053b43466b5350f43af3e
+Venues will be confirmed once each Scottish Digital Academy course dates are released. 
 
 ## How can I book a place?
 To request a place on the digital academy please fill in [this short form](/SDA-Interest-Form.docx) and email it to [DigitalAcademy@gov.scot](mailto:DigitalAcademy@gov.scot).
