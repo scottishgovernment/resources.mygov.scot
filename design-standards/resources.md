@@ -8,6 +8,6 @@ category: design-standards
 permalink: /design-standards/resources/
 ---
 
-Typography Styles Guide (coming soon)
+Typography styles guide (coming soon)
 
-Image Sizing Guide (coming soon)
+Image sizing guide (coming soon)

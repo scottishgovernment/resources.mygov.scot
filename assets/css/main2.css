@@ -2255,7 +2255,7 @@
 /**
  * Font-sizes in pixels.
  */
-/* line 106, ../../../../.rvm/gems/ruby-2.2.7/gems/compass-core-1.0.3/stylesheets/compass/typography/_vertical_rhythm.scss */
+/* line 106, ../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-core-1.0.3/stylesheets/compass/typography/_vertical_rhythm.scss */
 html {
   font-size: 100%;
   line-height: 0.4375em;
@@ -8292,4 +8292,9 @@ body.home {
 /* line 176, ../_scss/main2.scss */
 .main-content > h2 {
   margin-top: 0 !important;
+}
+
+/* line 180, ../_scss/main2.scss */
+.main-content p + h2 {
+  margin-top: 1.6em !important;
 }
