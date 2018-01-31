@@ -3,6 +3,8 @@ layout: default
 title:  "Scottish Digital Academy"
 category: service
 summary: The Scottish Digital Academy’s purpose is to transform the way government designs services for its users. <br><br>It provides learning and experience that helps graduates work on agile digital development projects, and build services to meet users' needs.
+frontpage: yes
+imperative: Service
 ---
 
 The Scottish Digital Academy was set up in collaboration with [GDS Academy](https://www.gov.uk/gdsacademy).
@@ -68,7 +70,7 @@ You can register your interest by completing [this short form](/SDA-Interest-For
 
 ## Location
 <<<<<<< HEAD
-Venues will be confirmed once each Scottish Digital Academy courses dates are released. 
+Venues will be confirmed once each Scottish Digital Academy courses dates are released.
 =======
 All courses will be held at the:
 
