@@ -3,7 +3,7 @@ layout: tiles-2
 title:  "Pattern library"
 parent: design-standards
 summary: "Includes tested and reusable design patterns for common UI/Web requirements."
-index: 1
+index: 2
 navitems: pattern-library
 thispage: pattern-library
 category: design-standards

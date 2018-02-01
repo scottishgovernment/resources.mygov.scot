@@ -3,7 +3,7 @@ layout: default
 title:  "Accessibility"
 parent: design-standards
 summary: "Guidance on ensuring online resources are accessible for users."
-index: 3
+index: 4
 category: design-standards
 permalink: /design-standards/accessibility/
 ---
