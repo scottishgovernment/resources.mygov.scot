@@ -176,3 +176,7 @@ $inuit-use-fractions: false;
 .main-content > h2 {
     margin-top: 0 !important;
 }
+
+.main-content p + h2 {
+    margin-top: 2em*28/35 !important;
+}
