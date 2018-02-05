@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Google account"
+title:  "Google Account & Recovery"
 parent: performance
 summary: ""
 index: 1
