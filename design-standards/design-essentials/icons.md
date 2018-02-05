@@ -20,18 +20,18 @@ The icons come in a range of flexible formats including:
 <br>
 
 ## SVG files
-The full back catalogue of icon formats including svg files in a range of pre-set sizes can be downloaded from the **[http://google.github.io/material-design-icons/](http://google.github.io/material-design-icons/)**.
+The full back catalogue of icon formats including svg files in a range of pre-set sizes can be downloaded from the **[Material Design website](http://google.github.io/material-design-icons/)**.
 
 
 <br>
 
 ## Github Repository
-The complete set of icons including all formats available can be accessed in the **[https://github.com/google/material-design-icons](https://github.com/google/material-design-icons)**.
+The complete set of icons including all formats available can be accessed in the **[Material Design website](https://github.com/google/material-design-icons)**.
 
 <br>
 
 ## Material Design Icon Web Font
-Icons are also available in glyph form via the custom webfont which is available to download through the **[http://google.github.io/material-design-icons/](http://google.github.io/material-design-icons/)**.
+Icons are also available in glyph form via the custom webfont which is available to download through the **[Material Design website](http://google.github.io/material-design-icons/)**.
 
 Examples of Material Design icons that we commonly use:
 <br>
@@ -59,7 +59,7 @@ Using the same icons throughout resources helps to build a consistent user exper
 ## How to Choose the Right Icon for What You Need
 Icons selected to illustrate text should always be relevant to the content. We actively avoid invention in the use of icons where a universally understood design convention is currently in place, for example using a pencil icon for edit buttons, the plus symbol for adding information and directional arrows for back and next.
 
-If you are unsure of the right icon to use there are various guides available on the internet, an example is included for you at: **[https://www.computerhope.com/issues/ch001801.htm](https://www.computerhope.com/issues/ch001801.htm)**.
+If you are unsure of the right icon to use there are various guides available on the internet, an example is included for you  **[here](https://www.computerhope.com/issues/ch001801.htm)**
 
 <br>
 

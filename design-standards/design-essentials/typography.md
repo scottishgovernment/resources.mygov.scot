@@ -12,7 +12,7 @@ The font we use is Roboto, which is an open source, cost-free typeface developed
 
 As a web-friendly font Roboto renders well on modern browsers and also performs on older versions to ensure maximum quality in the display of text for users.
 
-**Download the latest version of Roboto here: [https://material.io/guidelines/resources/roboto-noto-fonts.html](https://material.io/guidelines/resources/roboto-noto-fonts.html)**
+**Download the latest version of Roboto here: [Material Design - Roboto Font](https://material.io/guidelines/resources/roboto-noto-fonts.html)**
 
 <br>
 
