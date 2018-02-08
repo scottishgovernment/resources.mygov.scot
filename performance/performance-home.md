@@ -1,6 +1,6 @@
 ---
 layout: tiles-1
-title:  "Performance reporting"
+title:  "Performance"
 imperative: Guideline
 parent: home
 thispage: performance
