@@ -8,6 +8,15 @@ category: design-standards
 permalink: /design-standards/resources/
 ---
 
-Typography styles guide (coming soon)
+**Typography styles guide**  
 
-Image sizing guide (coming soon)
+Download our comprehensive guide to the Mygov.scot typography styles:
+[Typography guide](/assets/images/Design-standards-images/Typography Guide.pdf)
+
+
+**Component directory**  
+
+View our current directory of transactional components. This resource will be updated regularly and components detailed within will be added to the pattern library in due course.
+[Component directory](/assets/images/Design-standards-images/Component Directory.pdf)  
+
+**Image sizing guide** (coming soon)

@@ -8,4 +8,3 @@ navitems: navigation-patterns
 thispage: navigation-patterns
 permalink: /design-patterns/pattern-library/navigation-patterns/
 ---
-
