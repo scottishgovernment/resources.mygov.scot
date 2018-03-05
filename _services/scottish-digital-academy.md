@@ -37,7 +37,8 @@ Developing these skills contributes to building capability and creating the cult
 * increased efficiency
 * consistency in learning, ways of working and the implementation of Digital Transformation programmes across the public sector
 
-Listen to the Director-General Sarah Davidson's thought on the Scottish Digital Academy, following her visit to the Digital Foundations course: [https://youtu.be/-siy1zmbtFI](https://youtu.be/-siy1zmbtFI)
+Listen to the Director-General Sarah Davidson's thought on the Scottish Digital Academy, following her visit to the Digital and Agile Foundation course: [https://youtu.be/-siy1zmbtFI ](https://youtu.be/-siy1zmbtFI)
+
 <br>
 # Scottish Digital Academy courses - March 2018
 
