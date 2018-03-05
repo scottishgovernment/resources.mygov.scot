@@ -37,17 +37,19 @@ Developing these skills contributes to building capability and creating the cult
 * increased efficiency
 * consistency in learning, ways of working and the implementation of Digital Transformation programmes across the public sector
 
+Listen to the Director-General Sarah Davidson's thought on the Scottish Digital Academy, following her visit to the Digital Foundations course: [https://youtu.be/-siy1zmbtFI](https://youtu.be/-siy1zmbtFI)
 <br>
-# Scottish Digital Academy courses January 2018
+# Scottish Digital Academy courses - March 2018
 
 These may be subject to change depending on demand.
 
 | Course | Duration | Dates | No. of places (max) | Cost per head |
-| Digital Foundation course | 10 days | 8 - 19 January 2018 | 15 | £900 |
-| Hands On Agile for Leaders | 3 days | 22 -24 January 2018 | 10 | £300 |
-| Discover Digital and Agile Awareness | 1 day | 25 January 2018 | 15 | £100 |
-| Discover Digital and Agile Awareness | 1 day | 26 January 2018 | 15 | £100 |
-| Agile for Teams | 3 days | 29 -31 January 2018 | 15* | £300 |
+| Hands On Agile for Leaders | 3 days | 27 Feb - 1 March 2018 | 10 (fully booked) | £300 |
+| Agile for Teams | 3 days | 5 - 7 March 2018 | 12-15* (fully booked) | £300 |
+| Agile for Teams | 3 days | 20 - 22 March 2018 | 12-15* (fully booked) | £300 |
+| Digital and Agile Awareness | 1 day | 27 March 2018 | 15 (spaces available) | £100 |
+| Digital and Agile Awareness | 1 day | 28 March 2018 | 15 (spaces available) | £100 |
+
 
 *(must have 3 – 4 members of a team attend)
 
@@ -64,7 +66,7 @@ The Scottish Digital Academy also have access to additional courses, including:
 
 <br>
 ## Future Scottish Digital Academy courses dates
-Further dates in 2018 will be confirmed in January 2018.
+Further dates in 2018 will be confirmed in due course.
 
 You can register your interest by completing [this short form](/SDA-Interest-Form.docx) and emailing it to [DigitalAcademy@gov.scot](mailto:DigitalAcademy@gov.scot).
 
