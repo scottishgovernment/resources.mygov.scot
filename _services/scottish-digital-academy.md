@@ -18,7 +18,6 @@ We want to equip our people with digital skills, so they can fill key roles in o
 
 The Scottish Digital Academy delivers the courses in January, March, and September of each year. But this may change depending on demand.
 
-<br>
 ## Who can apply for the courses?
 Anyone working for a public sector organisation in Scotland.
 
@@ -37,7 +36,8 @@ Developing these skills contributes to building capability and creating the cult
 * increased efficiency
 * consistency in learning, ways of working and the implementation of Digital Transformation programmes across the public sector
 
-Listen to the Director-General Sarah Davidson's thought on the Scottish Digital Academy, following her visit to the Digital and Agile Foundation course: [https://youtu.be/-siy1zmbtFI ](https://youtu.be/-siy1zmbtFI)
+## Why should you enrol on a course?
+Listen to (Director-General) Sarah Davidson's thoughts on the Scottish Digital Academy: [https://youtu.be/-siy1zmbtFI ](https://youtu.be/-siy1zmbtFI)
 
 <br>
 # Scottish Digital Academy courses - March 2018
@@ -65,7 +65,6 @@ The Scottish Digital Academy also have access to additional courses, including:
 * Confirmed bookings will be invoiced 1 month prior to the start of the first course.
 * Course bookings will need to be paid in full prior to the start of your course, in order for you to attend.
 
-<br>
 ## Future Scottish Digital Academy courses dates
 Further dates in 2018 will be confirmed in due course.
 
