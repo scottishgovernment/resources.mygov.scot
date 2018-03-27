@@ -167,6 +167,7 @@ $inuit-use-fractions: false;
  * TRUMPS
  */
 @import "../../node_modules/@scottish-government/mygov-assets/scss/trumps/trump.header-search";
+@import "trumps/trump.hero-header";
 
 
 /**
@@ -177,6 +178,6 @@ $inuit-use-fractions: false;
     margin-top: 0 !important;
 }
 
-.main-content p + h2 {
+.main-content p + h2, .main-content ul + h2 {
     margin-top: 2em*28/35 !important;
 }
