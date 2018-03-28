@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Standard list"
+title:  "Standard List"
 summary: "Information on using a standard list for site navigation"
 parent: navigation-patterns
 category: navigation-patterns
