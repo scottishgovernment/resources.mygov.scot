@@ -22,6 +22,7 @@ dts_blog_url: https://blogs.gov.scot/digital/category/digital-public-services/di
 dts_blog_title: Digital Transformation Service
 dts_description: The Digital Transformation Service (DTS) can help Central Government organisations design programmes that deliver Digital Services that meet citizen needs.
 gtm_code: GTM-M2JDBWP
+playbook_notification_banner: This content is currently in draft form
 sass:
     sass_dir: assets/_scss
 
@@ -64,7 +65,7 @@ collections:
     parent: home
   examples:
     output: true
-  
+
 
 # Default values
 defaults:
