@@ -2255,7 +2255,7 @@
 /**
  * Font-sizes in pixels.
  */
-/* line 106, ../../../../.rvm/gems/ruby-2.3.4/gems/compass-core-1.0.3/stylesheets/compass/typography/_vertical_rhythm.scss */
+/* line 106, ../../../../.rvm/gems/ruby-2.4.2/gems/compass-core-1.0.3/stylesheets/compass/typography/_vertical_rhythm.scss */
 html {
   font-size: 100%;
   line-height: 0.4375em;
@@ -8066,10 +8066,15 @@ body.home {
 @media (min-width: 768px) {
   /* line 61, ../_scss/trumps/_trump.hero-header.scss */
   .hero-header__image {
-    height: 250px;
+    height: 110%;
   }
 
   /* line 65, ../_scss/trumps/_trump.hero-header.scss */
+  .hero-header__content {
+    min-height: 210px;
+  }
+
+  /* line 69, ../_scss/trumps/_trump.hero-header.scss */
   .hero-header__title {
     margin: 28px 0 35px;
     max-width: 470px;
@@ -8077,17 +8082,12 @@ body.home {
     z-index: 5000;
   }
 
-  /* line 75, ../_scss/trumps/_trump.hero-header.scss */
+  /* line 78, ../_scss/trumps/_trump.hero-header.scss */
   h1 span {
     margin-top: 14px;
   }
 }
 @media (min-width: 992px) {
-  /* line 82, ../_scss/trumps/_trump.hero-header.scss */
-  .hero-header__image {
-    height: 350px;
-  }
-
   /* line 86, ../_scss/trumps/_trump.hero-header.scss */
   .hero-header__title {
     margin: 56px 0 89px;
