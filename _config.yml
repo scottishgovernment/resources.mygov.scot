@@ -111,5 +111,5 @@ defaults:
       sitemap: false
 
 # Gems required for plugins
-gems:
+plugins:
   - jekyll-sitemap
