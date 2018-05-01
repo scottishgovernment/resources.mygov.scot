@@ -39,18 +39,16 @@ Developing these skills contributes to building capability and creating the cult
 ## Why should you enrol on a course?
 Listen to (Director-General) Sarah Davidson's thoughts on the Scottish Digital Academy: [https://youtu.be/-siy1zmbtFI ](https://youtu.be/-siy1zmbtFI)
 
-<br>
-# Scottish Digital Academy courses - March 2018
+## Scottish Digital Academy courses - June 2018
 
 These may be subject to change depending on demand.
 
 | Course | Duration | Dates | No. of places (max) | Cost per head |
-| Hands On Agile for Leaders | 3 days | 27 Feb - 1 March 2018 | 10 (fully booked) | £300 |
-| Agile for Teams | 3 days | 5 - 7 March 2018 | 12-15* (fully booked) | £300 |
-| Agile for Teams | 3 days | 20 - 22 March 2018 | 12-15* (fully booked) | £300 |
-| Digital and Agile Awareness | 1 day | 27 March 2018 | 15 (spaces available) | £100 |
-| Digital and Agile Awareness | 1 day | 28 March 2018 | 15 (spaces available) | £100 |
-
+| Discover Digital and Agile Awareness | 1 day | 5 June 2018 | 15 | £100 |
+| Discover Digital and Agile Awareness | 1 day | 7 June 2018 | 15 | £100 |
+| Hands On Agile for Leaders | 3 days | 5 - 7 June 2018 | 10 | £300 |
+| Digital Foundation Course | 10 days | 11 - 22 June 2018 | 15 | £900 |
+| Agile for Teams* | 3 days | 26 - 28 June 2018 | 12-15* | £300 |
 
 *(must have 3 – 4 members of a team attend)
 
