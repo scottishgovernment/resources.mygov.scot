@@ -14,7 +14,7 @@ These principles are the basis of the Scottish Approach to designing services. T
 
 * collaborative &mdash; design services together with users, the service team and other public service providers
 * inclusive &mdash; design for everyone regardless of perspective, experience or ability
-* empathic &mdash; design with an understanding of what others see, feel and experience</mark>
+* empathic &mdash; design with an understanding of what others see, feel and experience
 
 ## Why we should collaborate
 
