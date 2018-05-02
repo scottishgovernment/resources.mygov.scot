@@ -51,6 +51,14 @@
                 {% endif %}
 
                 {{ content }}
+                {% if page.feedbackemail %}
+                <div class="feedback">
+                  <h2>Help improve this page</h2>
+                  <p>
+                    Please share your ideas, suggestions, or comments via e-mail to <a href="mailto:{{ page.feedbackemail }}?subject='Feedback on {{ page.title }}'">{{ page.feedbackemail }}</a>
+                  </p>
+                </div>
+                {% endif %}
             </div>
         </div><!--
     --></div>
