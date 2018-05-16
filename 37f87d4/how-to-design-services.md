@@ -7,6 +7,6 @@ parent: designing-public-services-in-scotland
 category: designing-public-services-in-scotland
 navitems: how-to-design-services
 index: 3
-permalink: /37f87d5/designing-public-services-in-scotland/how-to-design-services/
+permalink: /37f87d4/designing-public-services-in-scotland/how-to-design-services/
 feedbackEmail: ursd@gov.scot
 ---
