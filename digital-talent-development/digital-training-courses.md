@@ -2,7 +2,7 @@
 layout: default
 title:  "Digital training courses"
 parent: digital-talent-development
-summary: "We offer a wide range of continuing professional development training"
+summary: "We offer a wide range of continuing professional development training."
 index: 3
 category: digital-talent-development
 permalink: /digital-talent-development/digital-training-courses/
