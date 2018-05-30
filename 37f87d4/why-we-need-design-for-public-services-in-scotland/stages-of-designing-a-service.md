@@ -14,6 +14,7 @@ Designing public services is a complex challenge and having a process helps navi
 
 ![Stage of design from knowing what the problem is, solving it, and then into delivery](/assets/images/service-design-guide-images/Double-Diamond-Delivery.jpg)
 
+
 ## Know the problem
 
 ### Starting a project
