@@ -57,7 +57,7 @@ When you create the form:
 * write in [plain English](http://www.plainenglish.co.uk/free-guides.html) and avoid jargon, legal or technical terms that might be hard to understand
 * aim for a reading age of 11 years old, or Grade 5/6 &mdash; you can check by pasting your text into the free [Hemingway Editor](http://www.hemingwayapp.com)
 
-This is a [Consent Form Template](/assets/images/service-design-guide-images/Consent-Form.doc) that can be used as a starting point.
+This is a [Consent Form Template](/assets/images/service-design-guide-images/Consent-Form.docx) that can be used as a starting point.
 
 ## Giving consent
 
