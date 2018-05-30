@@ -33,10 +33,6 @@ As a general rule, we use colour in the following ways:
 * green – for messages of success or validation
 * yellow – for warning or notifications.
 
-You can download and use a pre-set library of colours for use in Adobe applications including Photoshop and Illustrator below:
-
-[Colour library](/assets/images/Design-standards-images/SG Palette Named.ase.zip)
-
 ## Accessibility
 Colours should always be used to ensure maximum readability through adequate contrast between text and the background. The colours defined in our palette are either dark in tone and used in combination with white text or light in tone and used with dark grey text - by avoiding the use of mid-tone colours we ensure legibility throughout all areas of our sites and services.
 

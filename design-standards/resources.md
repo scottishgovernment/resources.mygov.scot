@@ -7,6 +7,13 @@ index: 3
 category: design-standards
 permalink: /design-standards/resources/
 ---
+**Developer Resources**
+
+Developers can access our Github repository at:
+
+**[Github Repository](https://github.com/scottishgovernment/mygov-assets)**.
+
+<br>
 
 **Typography styles guide**  
 
