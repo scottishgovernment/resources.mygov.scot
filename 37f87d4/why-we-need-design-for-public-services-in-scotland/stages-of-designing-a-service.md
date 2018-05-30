@@ -12,7 +12,8 @@ feedbackEmail: ursd@gov.scot
 
 Designing public services is a complex challenge and having a process helps navigate that. The following stages describe a design process - based on the [Design Council's Double Diamond model](https://www.designcouncil.org.uk/news-opinion/design-process-what-double-diamond) &mdash; that has been adapted for use for public services in Scotland.
 
-![Stage of design from knowing what the problem is, solving it, and then into delivery](/assets/images/playbook/double-diamond-delivery.jpg)
+![Stage of design from knowing what the problem is, solving it, and then into delivery](/assets/images/service-design-guide-images/Double-Diamond-Delivery.jpg)
+
 
 ## Know the problem
 
@@ -44,7 +45,7 @@ Before starting discovery, you should make sure you're prepared by:
 * defining and agreeing the scope of the project
 * confirming the timeline
 * producing an engagement plan
-* completing an [ethics plan](../../how-to-design-services/designing-ethically/creating-an-ethics-plan)
+* completing an [ethics plan](/assets/images/service-design-guide-images/Ethics-doc.pdf)
 * starting [research recruitment](../../how-to-design-services/identifying-and-finding-users)
 
 ### Understand the problem

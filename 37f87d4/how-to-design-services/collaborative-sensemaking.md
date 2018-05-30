@@ -103,7 +103,7 @@ You may want to record the workshop with photos and/or film. This can be helpful
 Create a workshop plan based on your research and aims. You may already have themes, assumptions or user needs to validate &mdash; think about how you'll present them to people who are not as close to the project as you.
 
 
-For guidance, timings and activities download the [collaborative sensemaking workshop template](/assets/downloads/playbook/collaborative-sensemaking.pdf).
+For guidance, timings and activities download the [Collaborative Sensemaking Template](/assets/images/service-design-guide-images/Collaborative-Sensemaking.pdf)
 
 ### What to bring to the workshop
 To run the workshop you should bring:
@@ -132,4 +132,4 @@ Before starting on the report or presentation, write up the workshop notes and d
 
 You should also present and discuss your findings with any workshop participants who are not on your project team. This only needs to be an informal presentation.
 
-Read more about [communicating findings](communicating-findings).
+Read more about [communicating findings](../../how-to-design-services/communicating-findings)

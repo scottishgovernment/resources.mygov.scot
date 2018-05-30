@@ -19,7 +19,7 @@ Try not to make assumptions about what people might need.
 
 You can use the inclusion form to ask people coming to your event about their individual needs.
 
-Download the [inclusion form](/assets/downloads/playbook/inclusion-form.pdf).
+Download the [Inclusion Form](/assets/images/service-design-guide-images/Inclusion-Form-ACC-EXP.pdf).
 
 Send this form out to attendees before your event, giving yourself enough time to make any arrangements. If you need more information on what they have told you, contact the person and check with them.
 
@@ -29,7 +29,7 @@ Delete any inclusion forms immediately after your event. This is required to mee
 
 Some people will require additional support in order to participate in research activities. Ensuring that they will be able to access the research venue is a basic requirement.
 
-Download the [venue accessibility checklist](/assets/downloads/playbook/venue-accessibility-checklist.pdf).
+Download the [Venue Accessibility Checklist](/assets/images/service-design-guide-images/Venue-Accessibility-Checklist.pdf).
 
 Use this form with venues to identify any potential issues. If possible, try to visit venues to double check.
 

@@ -13,7 +13,7 @@ feedbackEmail: ursd@gov.scot
 A design approach focuses on creating the right thing in the right way. The aim is to ensure that the problem is well understood before designing a solution that's fit for purpose and meets user needs.
 The [Design Council's Double Diamond](https://www.designcouncil.org.uk/news-opinion/design-process-what-double-diamond) model is a visual diagram showing design stages. This is not specific to a type of design – it's applicable if you're designing a service, a product, or even a building.
 
-![Knowing the problem involves initially divergent then convergent thinking, then solving the problem by divergent exploring of ideas before converging on a final solution](/assets/images/playbook/double-diamond.jpg)
+![Knowing the problem involves initially divergent then convergent thinking, then solving the problem by divergent exploring of ideas before converging on a final solution](/assets/images/service-design-guide-images/Double-Diamond.jpg)
 
 The Double Diamond shows the importance of taking time to understand the problem before designing solutions. Each diamond illustrates the process of exploring or creating many ideas before refining them. The first diamond confirms the problem, and the second designs the solution.
 
