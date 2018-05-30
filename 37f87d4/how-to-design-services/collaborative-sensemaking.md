@@ -131,8 +131,4 @@ Before starting on the report or presentation, write up the workshop notes and d
 
 You should also present and discuss your findings with any workshop participants who are not on your project team. This only needs to be an informal presentation.
 
-<<<<<<< HEAD
-Read more about [communicating findings](../../how-to-design-services/communicating-findings)
-=======
-Read more about [communicating findings](communicating-findings).
->>>>>>> Updates from KW and SW for designing public services
+Read more about [communicating findings](../communicating-findings/).
