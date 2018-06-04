@@ -2,8 +2,8 @@
 layout: default
 title:  "Digital Champions"
 parent: digital-talent-development
-summary: "The Digital Champions programme aims to build awareness among public sector leaders of the transformative power of digital technology and to give participants the knowledge and confidence to drive change at pace."
-index: 0
+summary: "The Digital Champions programme will build awareness among public sector leaders of the transformative power of digital technology and to give participants the knowledge and confidence to drive change at pace."
+index: 1
 category: digital-talent-development
 permalink: /digital-talent-development/digital-champions/
 ---

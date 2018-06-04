@@ -17,7 +17,7 @@ Its focus is making sure that Scottish public sector organisations have a cohere
 
 We want to equip our people with digital skills, so they can fill key roles in our projects and programmes.
 
-The Scottish Digital Academy delivers the courses in January, March, and September of each year. But this may change depending on demand.
+The Scottish Digital Academy currently delivers the courses on a monthly basis. But this may change depending on demand.
 
 ## Who can apply for the courses?
 Anyone working for a public sector organisation in Scotland.
@@ -40,16 +40,16 @@ Developing these skills contributes to building capability and creating the cult
 ## Why should you enrol on a course?
 Listen to (Director-General) Sarah Davidson's thoughts on the Scottish Digital Academy: [https://youtu.be/-siy1zmbtFI ](https://youtu.be/-siy1zmbtFI)
 
-## Scottish Digital Academy courses - June 2018
+## Scottish Digital Academy courses - July 2018
 
 These may be subject to change depending on demand.
 
-| Course | Duration | Dates | No. of places (max) | Cost per head |
-| Discover Digital and Agile Awareness | 1 day | 5 June 2018 | 15 | £100 |
-| Discover Digital and Agile Awareness | 1 day | 7 June 2018 | 15 | £100 |
-| Hands On Agile for Leaders | 3 days | 5 - 7 June 2018 | 10 | £300 |
-| Digital Foundation Course | 10 days | 11 - 22 June 2018 | 15 | £900 |
-| Agile for Teams* | 3 days | 26 - 28 June 2018 | 12-15* | £300 |
+| Course | Duration | Dates | No. of places (max) | Cost per head | Venue |
+| Discover Digital and Agile Awareness | 1 day | 2 July 2018 | 15 | £100 | Edinburgh |
+| Discover Digital and Agile Awareness | 1 day | 7 July 2018 | 15 | £100 | Glasgow |
+| Hands On Agile for Leaders | 3 days | 3 - 5 July 2018 | 10 | £390 | Edinburgh |
+| Digital Foundation Course | 10 days | 9 - 20 July 2018 | 15 | £1300 | Edinburgh |
+| Agile for Teams* | 3 days | 10 - 12 July 2018 | 12-15* | £300 | Edinburgh |
 
 *(must have 3 – 4 members of a team attend)
 
@@ -67,13 +67,11 @@ The Scottish Digital Academy also have access to additional courses, including:
 ## Future Scottish Digital Academy courses dates
 Further dates in 2018 will be confirmed in due course.
 
-You can register your interest by completing [this short form](/SDA-Interest-Form.docx) and emailing it to [DigitalAcademy@gov.scot](mailto:DigitalAcademy@gov.scot).
-
 ## Location
 Venues will be confirmed once each Scottish Digital Academy course dates are released.
 
 ## How can I book a place?
-To request a place on the digital academy please fill in [this short form](/SDA-Interest-Form.docx) and email it to [DigitalAcademy@gov.scot](mailto:DigitalAcademy@gov.scot).
+To request a place on the digital academy courses please email [DigitalAcademy@gov.scot](mailto: DigitalAcademy@gov.scot).
 
 **Cancellations:**
 If you withdraw from the course, and the Scottish Digital Academy are unable to fill the requested space, the course booking will be invoiced as a filled place.

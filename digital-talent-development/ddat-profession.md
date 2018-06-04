@@ -3,7 +3,7 @@ layout: default
 title:  "DDaT profession"
 parent: digital-talent-development
 summary: "The Digital, Data and Technology (DDaT) profession is a cross-government profession, working collaboratively with other functional areas to support the business of government."
-index: 2
+index: 0
 category: digital-talent-development
 permalink: /digital-talent-development/ddat-profession/
 ---
