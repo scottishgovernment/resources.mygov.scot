@@ -40,16 +40,16 @@ Developing these skills contributes to building capability and creating the cult
 ## Why should you enrol on a course?
 Listen to (Director-General) Sarah Davidson's thoughts on the Scottish Digital Academy: [https://youtu.be/-siy1zmbtFI ](https://youtu.be/-siy1zmbtFI)
 
-## Scottish Digital Academy courses - July 2018
+## Scottish Digital Academy courses -- July - November 2018
 
 These may be subject to change depending on demand.
 
-| Course | Duration | Dates | No. of places (max) | Cost per head | Venue |
-| Discover Digital and Agile Awareness | 1 day | 2 July 2018 | 15 | £100 | Edinburgh |
-| Discover Digital and Agile Awareness | 1 day | 7 July 2018 | 15 | £100 | Glasgow |
-| Hands On Agile for Leaders | 3 days | 3 - 5 July 2018 | 10 | £390 | Edinburgh |
-| Digital Foundation Course | 10 days | 9 - 20 July 2018 | 15 | £1300 | Edinburgh |
-| Agile for Teams* | 3 days | 10 - 12 July 2018 | 12-15* | £300 | Edinburgh |
+{:.no-wrap-table}
+| Course | Duration | Dates | Venue | No. of places (max) | Cost per head |
+| Discover Digital and Agile Awareness | 1 day | 2 July 2018<br>9 July 2018<br><br>3 September 2018<br>11 September 2018<br><br>1 October 2018<br>8 October 2018<br><br>5 November 2018<br>13 November 2018 | Edinburgh<br>Glasgow<br><br>Edinburgh<br>Glasgow<br><br>Edinburgh<br>Glasgow<br><br>Edinburgh<br>Edinburgh | 15 | £100 |
+| Hands On Agile for Leaders | 3 days | 3 - 5 July 2018<br>4 - 6 September 2018<br>2 - 4 October 2018<br>6 - 8 November 2018 | Edinburgh<br>Edinburgh<br>Edinburgh<br>Edinburgh | 10 | £390 |
+| Digital Foundation course | 10 days | 9 - 20 July 2018<br>3 - 14 September 2018<br>8 - 19 October 2018<br>12 - 23 November 2018 | Edinburgh<br>Edinburgh<br>Edinburgh<br>Edinburgh | 15 | £1300 |
+| Agile for Teams* | 3 days | 10 - 12 July 2018<br>11 - 13 September 2018<br>9 - 11 October 2018<br>13 - 15 November 2018 | Edinburgh<br>Edinburgh<br>Edinburgh<br>Edinburgh | 12-15* | £390 |
 
 *(must have 3 – 4 members of a team attend)
 
