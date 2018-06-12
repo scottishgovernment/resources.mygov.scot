@@ -6,6 +6,7 @@ summary: "The Digital Champions programme will build awareness among public sect
 index: 1
 category: digital-talent-development
 permalink: /digital-talent-development/digital-champions/
+redirect_from: /services/digital-champions/
 ---
 
 The Digital Champions programme aims to build awareness among public sector leaders of the transformative power of digital technology and to give participants the knowledge and confidence to drive change at pace.  Over 170 public sector leaders have completed the programme over the last few years and we have used their feedback to ensure that it remains current and uniquely suited to the challenges we face together.

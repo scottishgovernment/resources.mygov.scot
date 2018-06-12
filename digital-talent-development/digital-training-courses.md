@@ -6,6 +6,7 @@ summary: "We offer a wide range of continuing professional development training.
 index: 3
 category: digital-talent-development
 permalink: /digital-talent-development/digital-training-courses/
+redirect_from: /services/digital-training-courses/
 ---
 
 ## DDaT graduate fast stream programme

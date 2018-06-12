@@ -6,6 +6,7 @@ summary: "The Digital, Data and Technology (DDaT) profession is a cross-governme
 index: 0
 category: digital-talent-development
 permalink: /digital-talent-development/ddat-profession/
+redirect_from: /services/ddat-profession/
 ---
 
 The Digital, Data and Technology (DDaT) profession is a cross-government profession, working collaboratively with other functional areas to support the business of government. DDDaT professionals work across a number of roles, to 'transform the relationship between citizen and the state by ensuring government is efficient and meets user-needs.

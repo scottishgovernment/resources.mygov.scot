@@ -6,6 +6,7 @@ summary: "The Scottish Digital Academy’s purpose is to transform the way gover
 index: 4
 category: digital-talent-development
 permalink: /digital-talent-development/scottish-digital-academy/
+redirect_from: /services/scottish-digital-academy/
 ---
 
 The Scottish Digital Academy was set up in collaboration with [GDS Academy](https://www.gov.uk/gdsacademy).
