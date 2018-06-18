@@ -18,7 +18,7 @@ Its focus is making sure that Scottish public sector organisations have a cohere
 
 We want to equip our people with digital skills, so they can fill key roles in our projects and programmes.
 
-The Scottish Digital Academy currently delivers the courses on a monthly basis. But this may change depending on demand.
+The Scottish Digital Academy currently delivers the courses on a quarterly basis. But this may change depending on demand.
 
 ## Who can apply for the courses?
 Anyone working for a public sector organisation in Scotland.
@@ -36,7 +36,7 @@ Developing these skills contributes to building capability and creating the cult
 ## What are the benefits to our organisation?
 * increased capability to create industry leading services through service centred design
 * increased efficiency
-* consistency in learning, ways of working and the implementation of Digital Transformation programmes across the public sector
+* consistency in learning, ways of working and the implementation of digital transformation programmes across the public sector
 
 ## Why should you enrol on a course?
 Listen to (Director-General) Sarah Davidson's thoughts on the Scottish Digital Academy: [https://youtu.be/-siy1zmbtFI ](https://youtu.be/-siy1zmbtFI)
@@ -46,7 +46,7 @@ Listen to (Director-General) Sarah Davidson's thoughts on the Scottish Digital A
 These may be subject to change depending on demand.
 
 {:.no-wrap-table}
-| Course | Duration | Dates | Venue | No. of places (max) | Cost per head |
+| Course | Duration | Dates | Location | No. of places (max) | Cost per head |
 | Discover Digital and Agile Awareness | 1 day | 2 July 2018<br>9 July 2018<br><br>3 September 2018<br>11 September 2018<br><br>1 October 2018<br>8 October 2018<br><br>5 November 2018<br>13 November 2018 | Edinburgh<br>Glasgow<br><br>Edinburgh<br>Glasgow<br><br>Edinburgh<br>Glasgow<br><br>Edinburgh<br>Edinburgh | 15 | £100 |
 | Hands On Agile for Leaders | 3 days | 3 - 5 July 2018<br>4 - 6 September 2018<br>2 - 4 October 2018<br>6 - 8 November 2018 | Edinburgh<br>Edinburgh<br>Edinburgh<br>Edinburgh | 10 | £390 |
 | Digital Foundation course | 10 days | 9 - 20 July 2018<br>3 - 14 September 2018<br>8 - 19 October 2018<br>12 - 23 November 2018 | Edinburgh<br>Edinburgh<br>Edinburgh<br>Edinburgh | 15 | £1300 |
@@ -55,15 +55,17 @@ These may be subject to change depending on demand.
 *(must have 3 – 4 members of a team attend)
 
 The Scottish Digital Academy also have access to additional courses, including:
-* Digital and Agile Awareness for Policy
-* Service Managers
-* Working level for Business Analysts
-* Working level for Delivery Managers
-* Working level for Product Managers
+* Digital and agile awareness for policy
+* Service managers
+* Working level for business analysts
+* Working level for delivery managers
+* Working level for product managers
 
 **Please note:**
 * Confirmed bookings will be invoiced 1 month prior to the start of the first course.
 * Course bookings will need to be paid in full prior to the start of your course, in order for you to attend.
+* If you are booking one of your team on a course, please ensure they are aware of the booking and are able to attend for full duration of the course.
+* Each course needs a minimum number of people attending to ensure a course can be delivered and delegates receive maximum value.
 
 ## Future Scottish Digital Academy courses dates
 Further dates in 2018 will be confirmed in due course.
@@ -78,4 +80,4 @@ To request a place on the digital academy courses please email [DigitalAcademy@g
 If you withdraw from the course, and the Scottish Digital Academy are unable to fill the requested space, the course booking will be invoiced as a filled place.
 
 ## Contact
-Tai McLennan, Digital Talent Strategy Specialist or Lorraine Lee, Scottish Digital Academy Business Manager at [DigitalAcademy@gov.scot](mailto: DigitalAcademy@gov.scot).
+Tai McLennan, Digital Capability Strategy Specialist or Lorraine Lee, Scottish Digital Academy Business Manager at [DigitalAcademy@gov.scot](mailto: DigitalAcademy@gov.scot).

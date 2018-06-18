@@ -1,11 +1,11 @@
 ---
 layout: default
-title:  "Digital training courses"
+title:  "Early careers"
 parent: digital-talent-development
 summary: "We offer a wide range of continuing professional development training."
 index: 3
 category: digital-talent-development
-permalink: /digital-talent-development/digital-training-courses/
+permalink: /digital-talent-development/early-careers/
 redirect_from: /services/digital-training-courses/
 ---
 
@@ -54,4 +54,4 @@ We offer a wide range of continuing professional development training for Inform
 - Cyber Security
 - Business Continuity
 
-**Contact:** [Tai McLennan](mailto:tai.mclennan@gov.scot), Digital Talent Strategy Specialist,  or call 0131 244 0107
+**Contact:** [Tai McLennan](mailto:tai.mclennan@gov.scot), Digital Capability Strategy Specialist,  or call 0131 244 0107
