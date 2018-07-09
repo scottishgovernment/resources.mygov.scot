@@ -1,5 +1,5 @@
 ---
-layout: tiles-1
+layout: tiles-2
 title:  "Delivery"
 parent: content-standards
 summary: "As a content designer I need to understand the content lifecycle so I can create high quality information services which meet user needs."
