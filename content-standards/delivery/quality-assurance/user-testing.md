@@ -25,7 +25,7 @@ particularly useful in challenging legal or policy wording.
 
 Card sorts are a good way of checking how users understand information architecture. It helps you work out how to group, organise and label content in topic-based hierarchies. It can also tell you a lot about what users understand about wording of article titles or categories.
 
-## How you do it
+## How you do it
 
 ### Pens of power
 

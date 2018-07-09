@@ -1,5 +1,5 @@
 ---
-layout: tiles-1
+layout: tiles-2
 title:  "Content discovery"
 summary: "This section provides guidance on content elements in the content phase, such as user needs, format and accessibility."
 index: 1

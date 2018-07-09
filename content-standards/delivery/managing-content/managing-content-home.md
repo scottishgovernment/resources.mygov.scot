@@ -1,5 +1,5 @@
 ---
-layout: tiles-1
+layout: tiles-2
 title:  "Managing content"
 imperative: Standard
 parent: home

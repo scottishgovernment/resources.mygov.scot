@@ -1,5 +1,5 @@
 ---
-layout: tiles-1
+layout: tiles-2
 title:  "Quality Assurance"
 imperative: Standard
 parent: home

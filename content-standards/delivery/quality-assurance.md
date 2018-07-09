@@ -1,5 +1,5 @@
 ---
-layout: tiles-1
+layout: tiles-2
 title:  "Quality assurance"
 summary: "This sections offers guidance on maintaining a high standard of content creation through critique and testing."
 index: 4

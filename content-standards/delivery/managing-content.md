@@ -1,5 +1,5 @@
 ---
-layout: tiles-1
+layout: tiles-2
 title:  "Managing content"
 summary: "This sections offers guidance on maintaining, evaluating and archiving live content."
 index: 3

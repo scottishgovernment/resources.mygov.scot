@@ -55,7 +55,7 @@ Often when a content designer is working on a specific subject you become fairly
 
 A second pair of eyes is helpful for catching jargon to make sure it’s explained properly or removed.
 
-## Fact checking
+## Fact checking 
 Fact checking helps make sure your users are getting the right information. Out of date or wrong information can lead to problems for the user, like:
 
 * confusion
@@ -107,7 +107,7 @@ It is important to set a date for when each piece of published content should be
 * [SMOG Calculator](http://www.learningandwork.org.uk/SMOG-calculator/smogcalc.php?redirectedfrom=niace)
 * [Plain English Campaign](http://www.plainenglish.co.uk/)
 
-## Digital First Service Standard
+## Digital First Service Standard
 
 This article offers guidance relevant to the following criteria from the Digital First service standard:
 
@@ -135,6 +135,8 @@ The peer review should be done by a member of the team that you're not working w
 
 ## What to check when you're doing a peer review
 
+| Element | Description |
+| - | - |
 | Title |	Should be frontloaded and as short and succinct as possible |
 | URL	| Should be as short as possible (try not to go over 3 words) and keyword specific. |
 | Language |	Should be plain English (short sentences, use the active instead of the passive, no jargon etc.). If the content's not easy to understand run it through Hemingway or a similar tool. |
@@ -142,7 +144,7 @@ The peer review should be done by a member of the team that you're not working w
 | Contractions	| :todo (Rachel B finding out if we can do A/B testing on this) |
 | Em vs en dashes | Hyphens	em dashes (—) should be en dashes (–) change hyphens(-) to en dashes (–) |
 | Bullet points	| Should use full stops and be non-sentence case. All bullets should start with the same part of speech e.g. a verb
-SEO and Metadata	If you were searching for information on how to complete this task, would you click on this listing in Google? |
+SEO and Metadata | If you were searching for information on how to complete this task, would you click on this listing in Google? |
 | Numbers |	Use numerals, not words |
 | IA	| Check that the location's correct and any alternate parents have been added |
 | Related items |	Are they appropriate? |
@@ -150,8 +152,7 @@ SEO and Metadata	If you were searching for information on how to complete this t
 | Link text	| Should use a call to action that forms the basis of the hyperlink e.g. ‘check your eligibility’, ‘complete the application form’ |
 | Links |	Check that all the links are working. |
 | User needs | Does this page meet the user needs? Cross check against them when doing your review. |
-| Duplicate content |	Check that the content isn't duplicated or appearing elsewhere on the site from a different perspective.
-If you search for a content item and there's a duplicate, make sure we don’t publish both. |
+| Duplicate content |	Check that the content isn't duplicated or appearing elsewhere on the site from a different perspective. If you search for a content item and there's a duplicate, make sure we don’t publish both. |
 | Broken links	| If you cannot find an appropriate alternative link, leave it unapproved and leave a comment in the peer review comments column. |
 
 

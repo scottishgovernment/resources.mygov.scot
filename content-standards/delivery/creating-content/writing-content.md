@@ -46,10 +46,10 @@ When writing content you should:
 * use accessible language – write using [words users use] about your topic
 * remember less is more – tell people what they need to know (and no more) in the simplest way possible
 
-## Pair writing
+## Pair writing
 Pair writing is an alternative to the traditional approach of exchanging drafts between a content creator and stakeholders by working collaboratively to create user-centred content.
 
-## Make your content discoverable
+## Make your content discoverable
 As well as writing accessible content it’s also important to structure and tag your content so that it is easily discoverable in searches, using the right keywords and following appropriate content metadata and tagging processes.
 
 ## Reviewing
