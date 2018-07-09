@@ -5,10 +5,8 @@ parent: creating-content
 summary: "Guidance on identifying and using keywords to improve SEO and relevance to users."
 index: 4
 category: creating-content
-permalink: /content-standards/delivery/creating-content/keyword-research/
+permalink: /content-standards/content-delivery/creating-content/keyword-research/
 ---
-
-Identifying common search queries around a particular topic to make your content more user friendly and visible.
 
 ## What it is
 Keyword research helps you understand the types of words and phrases people are using to search for a specific type of content.

@@ -1,19 +1,17 @@
 ---
 layout: default
-title:  "User Needs"
+title:  "User needs"
 parent: content-discovery
 summary: "How to help everyone access and benefit from your content."
 index: 4
 category: content-discovery
-permalink: /content-standards/delivery/content-discovery/user-needs/
+permalink: /content-standards/content-delivery/content-discovery/user-needs/
 ---
-
-Understanding what users need to create more focused and useful content.
 
 ## What it is
 ‘User needs’ express people’s goals, values and aspirations. They are the things people need from a product or service to do something.
 
-For example, people visit mygov.scot because they have something they’re trying to do. This could be finding out how to pay a council tax bill, or finding out what business rates they have to pay.  
+For example, people visit [mygov.scot](https://mygov.scot/) because they have something they’re trying to do. This could be finding out how to pay a council tax bill, or finding out what business rates they have to pay.  
 
 ## Why it’s important
 User needs help us to express and understand who our users are, and the circumstances which lead them to use a product or service.

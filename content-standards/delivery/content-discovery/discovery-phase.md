@@ -1,13 +1,12 @@
 ---
 layout: default
-title:  "Discovery Phase"
+title:  "Discovery phase"
 parent: content-discovery
-summary: "Guidance on ensuring your content works for user and delivers your organisation's aims."
+summary: "Find out who your users are, what they’re trying to do and how your content can support them."
 index: 4
 category: content-discovery
-permalink: /content-standards/delivery/content-discovery/discovery-phase/
+permalink: /content-standards/content-delivery/content-discovery/discovery-phase/
 ---
-Gather as much evidence as you can to understand user needs.
 
 ## What it is
 

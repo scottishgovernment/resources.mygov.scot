@@ -2,14 +2,12 @@
 layout: default
 title:  "Content roles"
 parent: content-standards
-summary: "As an organisation we need to know who is responsible for the different elements of content design so we can put the right people in place."
+summary: "A list of specialist content roles within the Digital, Data and Technology (DDaT) profession framework."
 index: 4
 category: content-standards
 permalink: /content-standards/content-roles/
 frontpage: false
 ---
-
-Recruiting the right people to plan, deliver and manage your content.
 
 ## What it is
 

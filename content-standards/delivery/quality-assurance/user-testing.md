@@ -5,10 +5,8 @@ parent: quality-assurance
 summary: "Guidance and suggested activities for testing content with users."
 index: 4
 category: quality-assurance
-permalink: /content-standards/delivery/quality-assurance/user-testing/
+permalink: /content-standards/content-delivery/quality-assurance/user-testing/
 ---
-
-Ideas for testing your content with users and what it can tell you.
 
 ## What it is
 

@@ -1,14 +1,12 @@
 ---
 layout: default
-title:  "Choosing a content format"
+title:  "Content formats"
 parent: content-discovery
-summary: "Presenting your information in a way that suits its purpose."
+summary: "How to meet user needs using a consistent set of design patterns."
 index: 4
 category: content-discovery
-permalink: /content-standards/delivery/content-discovery/format/
+permalink: /content-standards/content-delivery/content-discovery/content-formats/
 ---
-
-Presenting your information in a way that suits its purpose.
 
 ## What it is
 

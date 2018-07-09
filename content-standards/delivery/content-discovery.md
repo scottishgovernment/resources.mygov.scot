@@ -1,11 +1,11 @@
 ---
 layout: tiles-2
 title:  "Content discovery"
-summary: "This section provides guidance on content elements in the content phase, such as user needs, format and accessibility."
+summary: "Guidance on content elements across the content discovery phase, such as user needs, format and accessibility."
 index: 1
-parent: delivery
-category: delivery
+parent: content-delivery
+category: content-delivery
 navitems: content-discovery
 thispage: content-discovery
-permalink: /content-standards/delivery/content-discovery
+permalink: /content-standards/content-delivery/content-discovery
 ---

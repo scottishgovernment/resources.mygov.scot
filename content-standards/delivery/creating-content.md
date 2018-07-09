@@ -7,5 +7,5 @@ parent: delivery
 category: delivery
 navitems: creating-content
 thispage: creating-content
-permalink: /content-standards/delivery/creating-content
+permalink: /content-standards/content-delivery/creating-content
 ---

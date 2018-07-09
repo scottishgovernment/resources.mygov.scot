@@ -1,10 +1,10 @@
 ---
 layout: tiles-2
-title:  "Creating Content"
+title:  "Creating content"
 imperative: Standard
 parent: home
-thispage: Creating Content
+thispage: Creating content
 summary: "This section provides guidance on the content creation process and lifecycle."
-permalink: /content-standards/delivery/creating-content/
+permalink: /content-standards/content-delivery/creating-content/
 navitems: creating-content
 ---

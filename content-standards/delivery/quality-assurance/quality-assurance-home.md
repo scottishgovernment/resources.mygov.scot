@@ -1,11 +1,11 @@
 ---
 layout: tiles-2
-title:  "Quality Assurance"
+title:  "Quality assurance"
 imperative: Standard
 parent: home
 thispage: Quality Assurance
-summary: "This section offers guidance on maintaining a high standard of content creation through critique and testing."
-permalink: /content-standards/delivery/quality-assurance
+summary: "How to maintain the quality of your content through peer review and user testing."
+permalink: /content-standards/content-delivery/quality-assurance
 navitems: quality-assurance
 frontpage: false
 ---

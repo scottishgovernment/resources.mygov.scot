@@ -2,14 +2,12 @@
 layout: default
 title:  "Content strategy"
 parent: content-standards
-summary: "As an organisation we need to develop a content strategy so that there is a consistent user experience across our services."
+summary: "Make sure your content works for users, meets your organisation’s aims and provides a consistent experience across channels."
 index: 1
 category: content-standards
 permalink: /content-standards/content-strategy/
 frontpage: false
 ---
-
-Making sure your content works for users and delivers your organisation’s aims.
 
 ## What it is
 Delivering a consistently high quality service to your users through the content they consume is all down to your content strategy.
@@ -69,7 +67,8 @@ You should agree on a governance structure which clearly states:
 
 It’s important that everyone understands the impact of your strategy on their work. Stakeholder mapping is a good way to work out who your strategy affects, what influence these people have and their level of involvement.
 Leading workshops will help explain what you’re asking people to do and the benefits of having a strategy.
+
 A content strategy doesn’t need to be a complicated and should be continually reviewed and updated. Regular demonstrations of how you are implementing your strategy will help show progress and highlight good work.
 
 ## Useful resources:
-[Content Strategy for the Web by Kristina Halvorson](https://www.contentstrategy.com/content-strategy-for-the-web)
+* [Content Strategy for the Web by Kristina Halvorson](https://www.contentstrategy.com/content-strategy-for-the-web)

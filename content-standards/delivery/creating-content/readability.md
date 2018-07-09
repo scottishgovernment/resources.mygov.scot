@@ -5,10 +5,8 @@ parent: creating-content
 summary: "How to lower the reading age of your content to the national average."
 index: 4
 category: creating-content
-permalink: /content-standards/delivery/creating-content/readability/
+permalink: /content-standards/content-delivery/creating-content/readability/
 ---
-
-Checking your language is as accessible as possible.
 
 ## What it is
 

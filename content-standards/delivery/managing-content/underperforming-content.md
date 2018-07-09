@@ -1,14 +1,12 @@
 ---
 layout: default
-title:  "Underperforming Content"
+title:  "Underperforming content"
 parent: managing-content
-summary: "How to identify content which is not performing well and solutions to common problems."
+summary: "How to identify content which is not working for users and solutions to common problems"
 index: 4
 category: managing-content
-permalink: /content-standards/delivery/managing-content/underperforming-content/
+permalink: /content-standards/content-delivery/managing-content/underperforming-content/
 ---
-
-How to identify and improve content items which are performing poorly.
 
 ## What it is
 A piece of content which isn’t having the effect or impact you thought it would have.
@@ -63,5 +61,5 @@ The more links a page has to it, especially those from other reputable websites,
 
 ## Digital First Service Standard
 This article offers guidance relevant to the following criteria from the Digital First service standard:
-* [Data driven](https://resources.mygov.scot/criterion/data-driven)
-*	[Continuous improvement](https://resources.mygov.scot/criterion/continuous-improvement)
+* [Data driven](/criterion/data-driven)
+*	[Continuous improvement](/criterion/continuous-improvement)

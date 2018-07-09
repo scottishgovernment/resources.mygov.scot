@@ -1,11 +1,11 @@
 ---
 layout: tiles-2
-title:  "Delivery"
+title:  "Content delivery"
 parent: content-standards
-summary: "As a content designer I need to understand the content lifecycle so I can create high quality information services which meet user needs."
+summary: "Guidance and best practice for researching, planning, writing and management of high quality content."
 index: 3
 navitems: delivery
 thispage: delivery
 category: content-standards
-permalink: /content-standards/delivery/
+permalink: /content-standards/content-delivery/
 ---

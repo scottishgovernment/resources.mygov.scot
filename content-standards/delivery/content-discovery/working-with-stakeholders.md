@@ -1,14 +1,12 @@
 ---
 layout: default
-title:  "Working With Stakeholders"
+title:  "Working with stakeholders"
 parent: content-discovery
-summary: "Aligning your content to the wider business."
+summary: "Make sure you’re speaking to the right subject matter experts throughout the publishing workflow."
 index: 4
 category: content-discovery
-permalink: /content-standards/delivery/content-discovery/working-with-stakeholders/
+permalink: /content-standards/content-delivery/content-discovery/working-with-stakeholders/
 ---
-
-Making sure your content is aligned to business objectives and you’re speaking to the right subject matter experts.
 
 ## What it is
 Stakeholders can include organisations, people and services, though ultimately you have to communicate with people.

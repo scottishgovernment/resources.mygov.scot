@@ -1,14 +1,12 @@
 ---
 layout: default
-title:  "Writing Content"
+title:  "Writing content"
 parent: creating-content
 summary: "Guidance on the features of effective content."
 index: 4
 category: creating-content
-permalink: /content-standards/delivery/creating-content/writing-content/
+permalink: /content-standards/content-delivery/creating-content/writing-content/
 ---
-
-Creating written information which meets the needs of users.
 
 ## What it is
 

@@ -7,5 +7,5 @@ parent: delivery
 category: delivery
 navitems: managing-content
 thispage: managing-content
-permalink: /content-standards/delivery/managing-content
+permalink: /content-standards/content-delivery/managing-content
 ---

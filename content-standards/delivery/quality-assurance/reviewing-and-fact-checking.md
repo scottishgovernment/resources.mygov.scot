@@ -1,14 +1,12 @@
 ---
 layout: default
-title:  "Reviewing and Fact Checking"
+title:  "Reviewing and fact checking"
 parent: quality-assurance
 summary: "Guidance on peer review and fact checking process as part of the content lifecycle."
 index: 4
 category: quality-assurance
-permalink: /content-standards/delivery/quality-assurance/reviewing-and-fact-checking/
+permalink: /content-standards/content-delivery/quality-assurance/reviewing-and-fact-checking/
 ---
-
-Making sure your content is well written and accurate.
 
 ## What it is
 
@@ -55,7 +53,7 @@ Often when a content designer is working on a specific subject you become fairly
 
 A second pair of eyes is helpful for catching jargon to make sure it’s explained properly or removed.
 
-## Fact checking 
+## Fact checking
 Fact checking helps make sure your users are getting the right information. Out of date or wrong information can lead to problems for the user, like:
 
 * confusion

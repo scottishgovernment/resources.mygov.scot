@@ -7,10 +7,8 @@ index: 4
 category: content-discovery
 navitems: accessibility
 thispage: accessibility
-permalink: /content-standards/delivery/content-discovery/accessibility/
+permalink: /content-standards/content-delivery/content-discovery/accessibility/
 ---
-
-Helping the greatest range of people access and benefit from your content.
 
 ## What it is
 
