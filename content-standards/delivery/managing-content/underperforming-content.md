@@ -12,7 +12,7 @@ permalink: /content-standards/content-delivery/managing-content/underperforming-
 A piece of content which isn’t having the effect or impact you thought it would have.
 The page may not be getting as much traffic as you would expect for its subject matter. It may also be that users are not spending much time on the page, are exiting without clicking on anything or are leaving feedback to say that they haven’t found what they are looking for.
 
-## Why it’s important
+## What it's important
 Underperforming content may appear in fewer search results, meaning that fewer people will find your site.
 Those who do view your page may not be satisfied with the content they see and may leave feeling frustrated or confused.
 Negative user experiences with your page are likely to impact on users’ decisions to view other content on your site if it appears as a result in future search queries.
