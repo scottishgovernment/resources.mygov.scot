@@ -10,6 +10,7 @@ mygov_site_url: https://www.mygov.scot/
 mygov_blog_url: https://inside.mygov.scot/
 mygov_blog_title: inside.mygov.scot
 mygov_description:
+content_updates_inbox: contentupdates@gov.scot
 github_username: scottishgovernment
 github_url: https://github.com/scottishgovernment/
 github_sg_site_url: https://scottishgovernment.github.io
