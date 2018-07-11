@@ -98,7 +98,9 @@ The reasons for this refer to literacy research and academic reasoning, but the 
 Remember, all literacy tools are only indicators. They require interpretation and context. However, they are the only real indicators when it comes to judging the readability or complexity of a text against actual adult literacy, so their use is recommended.
 
 ## Help you can get
-If you’re looking for advice on planning content you can email: contentupdates@gov.scot.
+If you’re looking for advice on planning content you can email:
+
+**{{ site.content_updates_inbox }}**.
 
 ### Digital First Service Standard
 This article offers guidance relevant to the following criteria from the Digital First service standard:
