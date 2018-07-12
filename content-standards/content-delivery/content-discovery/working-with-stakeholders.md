@@ -10,7 +10,9 @@ permalink: /content-standards/content-delivery/content-discovery/working-with-st
 
 ## What it is
 Stakeholders can include organisations, people and services, though ultimately you have to communicate with people.
+
 You need to make sure any content you design is endorsed by the organisation, service or department you are designing with. Creating an effective relationship with stakeholders smooths the content design process and ensures the 'fact check' or 'sign off' stage of your publication workflow runs smoothly.
+
 You should have a clear vision of who your stakeholders are at all times during the content lifecycle.
 
 ## Why it’s important
@@ -42,7 +44,7 @@ You'll need to:
 
 Try to always be honest and transparent in your approach.
 
-Roles and responsibilities of typical stakeholders:
+## Roles and responsibilities of typical stakeholders:
 
 ### Sponsor
 The final sign off and escalation point for content. It’s recommended that this is a member of a senior management team.
@@ -50,7 +52,7 @@ The final sign off and escalation point for content. It’s recommended that thi
 ### Content Designer
 The individuals responsible for the content creation process from discovery through to publishing. They’re responsible for incorporating changes from peers and subject matter experts.
 
-### Subject matter expert (SME)
+### Subject matter expert (SME)
 Subject matter experts are ideally frontline staff who provide direct support to service users, e.g. call handlers or advisors. They have first-hand knowledge of customer pain points, queries and success stories. This first-hand expertise is critical in helping design a good user experience. They are responsible for alerting content designers to any major policy or service changes that might affect content. Their expertise will be critical in helping design a seamless user experience.
 
 ### Fact checker
@@ -70,9 +72,8 @@ The content owner should provide relevant policy information and have ultimate r
 
 Once content is live the content owner has a duty to the user to make sure it’s accurate and up to date. This means regular checks, particularly when there are legislation or policy changes.
 
-Good examples:
-
-* [Finding your digital stakeholders and why you should bother to by Louise Kidney](https://scottishgovernment.gathercontent.com/item/Finding your digital stakeholders and why you should bother to)
+## Good examples:
+* [Finding your digital stakeholders (and why you should bother to) by Louise Kidney](https://gds.blog.gov.uk/2012/09/17/finding-your-digital-stakeholders-and-why-you-should-bother-to/)
 
 ## Useful resources:
-[Pair writing content with subject matter experts by Reece Cargan](https://blogs.gov.scot/digital/2016/11/25/pair-writing-content-with-subject-matter-experts/)
+* [Pair writing content with subject matter experts by Reece Cargan](https://blogs.gov.scot/digital/2016/11/25/pair-writing-content-with-subject-matter-experts/)

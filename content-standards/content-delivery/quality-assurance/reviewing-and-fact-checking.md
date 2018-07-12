@@ -2,7 +2,7 @@
 layout: default
 title:  "Reviewing and fact checking"
 parent: quality-assurance
-summary: "Guidance on peer review and fact checking process as part of the content lifecycle."
+summary: "Guidance on the peer review and fact checking process as part of the content lifecycle."
 index: 4
 category: quality-assurance
 permalink: /content-standards/content-delivery/quality-assurance/reviewing-and-fact-checking/
@@ -49,11 +49,11 @@ Peer reviews help make sure your content matches your organisation’s style gui
 * use of appropriate content types
 * CMS requirements, like links to other information and meta data
 
-Often when a content designer is working on a specific subject you become fairly knowledgeable about the topic. Sometimes that means jargon –specific terms about the subject that the average user may not understand – can slip through into the content.
+Often when a content designer is working on a specific subject you become fairly knowledgeable about the topic. Sometimes that means jargon – specific terms about the subject that the average user may not understand – can slip through into the content.
 
 A second pair of eyes is helpful for catching jargon to make sure it’s explained properly or removed.
 
-## Fact checking
+### Fact checking
 Fact checking helps make sure your users are getting the right information. Out of date or wrong information can lead to problems for the user, like:
 
 * confusion
@@ -97,9 +97,9 @@ It is important to set a date for when each piece of published content should be
 
 
 ## Useful links
-[Writing content](https://www.gov.uk/guidance/content-design/writing-for-gov-uk)
+* [Writing content](https://www.gov.uk/guidance/content-design/writing-for-gov-uk)
 
-### Language
+## Language
 * [Hemingway app](http://www.hemingwayapp.com/)
 * [Readability Test Tool](https://www.webpagefx.com/tools/read-able/)
 * [SMOG Calculator](http://www.learningandwork.org.uk/SMOG-calculator/smogcalc.php?redirectedfrom=niace)
@@ -109,7 +109,7 @@ It is important to set a date for when each piece of published content should be
 
 This article offers guidance relevant to the following criteria from the Digital First service standard:
 
-* [User centred](http://scottishgovernment.github.io/criterion/user-centred/)
+* [User centred](/criterion/user-centred/)
 
 ## Peer review checklist
 
@@ -120,15 +120,14 @@ Peer reviewing involves recommending changes to content items, so that they:
 * adhere to our style guide
 * are typo-free
 
-When peer reviewing items, you don't always need to know much about the subject matter. But you do need to know what the user needs are, and whether it's a standalone content item, or part of a content plan.
-If it's not immediately clear, ask the person who wrote it for more details.
-A citizen or business owner who is viewing the content may arrive at it because they don't know anything about the task that they need to complete. So bear this in mind when you're reading what's been drafted.
+When peer reviewing items, you don't always need to know much about the subject matter. But you do need to know what the user needs are, and whether it's a standalone content item, or part of a content plan. If it's not immediately clear, ask the person who wrote it for more details. A citizen or business owner who is viewing the content may arrive at it because they don't know anything about the task that they need to complete. So bear this in mind when you're reading what's been drafted.
 
 ## When you agree to do a review
 Reply all to the request so everyone knows whether or not it's been picked up.
 
 ## When you're requesting a peer review
 Include the user needs in your email, so the person doing the review can check whether your content item meets them.
+
 The peer review should be done by a member of the team that you're not working with. The person that you're working with should cast their eye over the content after the fact checker's has got back with any changes.
 
 ## What to check when you're doing a peer review
@@ -152,7 +151,6 @@ SEO and Metadata | If you were searching for information on how to complete this
 | User needs | Does this page meet the user needs? Cross check against them when doing your review. |
 | Duplicate content |	Check that the content isn't duplicated or appearing elsewhere on the site from a different perspective. If you search for a content item and there's a duplicate, make sure we don’t publish both. |
 | Broken links	| If you cannot find an appropriate alternative link, leave it unapproved and leave a comment in the peer review comments column. |
-
 
 
 ## Making changes

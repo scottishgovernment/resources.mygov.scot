@@ -34,28 +34,27 @@ Prototypes can help you explore, share and test new designs before you commit to
 The new content format should be something that can be used again for other content. You should test your prototype early and often.
 
 ## Share
-
 Share any learnings from prototyping and building new content formats with the government content community. For example:
 
-* [the Government Digital Service’s Design Community](https://www.gov.uk/service-manual/communities/design-community)
-* [the Scottish Government’s Cross-Government Content Community - CGCC](https://khub.net/web/guest/welcome?p_p_state=normal&p_p_mode=view&refererPlid=47748585&saveLastPath=false&_com_liferay_login_web_portlet_LoginPortlet_mvcRenderCommandName=%2Flogin%2Flogin&p_p_id=com_liferay_login_web_portlet_LoginPortlet&p_p_lifecycle=0&_com_liferay_login_web_portlet_LoginPortlet_redirect=%2Fweb%2Fcross-government-content-community)
+* [Government Digital Service’s Design Community](https://www.gov.uk/service-manual/communities/design-community)
+* [The Scottish Government’s Cross-Government Content Community (CGCC)](https://khub.net/web/guest/welcome?p_p_state=normal&p_p_mode=view&refererPlid=47748585&saveLastPath=false&_com_liferay_login_web_portlet_LoginPortlet_mvcRenderCommandName=%2Flogin%2Flogin&p_p_id=com_liferay_login_web_portlet_LoginPortlet&p_p_lifecycle=0&_com_liferay_login_web_portlet_LoginPortlet_redirect=%2Fweb%2Fcross-government-content-community)
 
 ## Useful resources
 
-* [mygov.scot design patterns – the Scottish Government](https://resources.mygov.scot/design-standards/)
-* [Design patterns – Government Digital Service](https://www.gov.uk/service-manual/design)
-* [Designing Content First for a Better UX – Gather Content]()
-* [Using, adapting and creating patterns – Government Digital Service](https://gathercontent.com/blog/designing-content-first-for-a-better-ux)
-* [Making prototypes – Government Digital Service](https://www.gov.uk/service-manual/design/using-adapting-and-creating-patterns)
-* [GOV.UK prototype kit – Government Digital Service](https://govuk-prototype-kit.herokuapp.com/docs)
-* [Prototyping tips – Government Digital Service](https://designnotes.blog.gov.uk/2015/03/19/prototyping-tips/)
+* [The Scottish Government MYGOV.SCOT- Design patterns](http://resources.mygov.scot/design-standards/)
+* [Government Digital Service - Design patterns](https://www.gov.uk/service-manual/design)
+* [Gather content - Designing content first for a better UX](https://gathercontent.com/blog/designing-content-first-for-a-better-ux)
+* [Government Digital Service - Using, adapting and creating patterns](https://www.gov.uk/service-manual/design/using-adapting-and-creating-patterns)
+* [Government Digital Service - Making prototypes](https://www.gov.uk/service-manual/design/making-prototypes)
+* [Government Digital Service - GOV.UK prototype kit](https://govuk-prototype-kit.herokuapp.com/docs)
+* [Government Digital Service - Prototyping tips](https://designnotes.blog.gov.uk/2015/03/19/prototyping-tips/)
 
 ## Digital First Service Standard
 
 This article offers guidance relevant to the following criteria from the Digital First service standard:
-* [User centred](http://scottishgovernment.github.io/criterion/user-centred/)
-* [Usable and accessible](http://scottishgovernment.github.io/criterion/usable-and-accessible/)
-* [Consistent user experience](http://scottishgovernment.github.io/criterion/consistent-user-experience/)
-* [Continuous feedback](http://scottishgovernment.github.io/criterion/continuous-feedback/)
-* [Continuous improvement](http://scottishgovernment.github.io/criterion/continuous-improvement/)
-* [Ecosystem](http://scottishgovernment.github.io/criterion/ecosystem/)
+* [User centred](/criterion/user-centred)
+* [Usable and accessible](/criterion/usable-and-accessible)
+* [Consistent user experience](/criterion/consistent-user-experience)
+* [Continuous feedback](/criterion/continuous-feedback)
+* [Continuous improvement](/criterion/continuous-improvement)
+* [Ecosystem](/criterion/ecosystem)

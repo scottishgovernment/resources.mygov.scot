@@ -36,7 +36,7 @@ Your content plan will set the context for your content and you should already h
 
 You should also be clear about the roles and responsibilities of those involved. This will have be documented in your content strategy.
 
-When writing content you should:
+## When writing content you should:
 
 * put the most important information up front - don’t make people work hard to find out what your content is about
 * use keywords

@@ -37,25 +37,26 @@ What your strategy looks like will depend on the scale or size of your project o
 
 Generally though, you should cover:
 
-## Purpose
+### Purpose
 Have a clear idea of what your organisation or service is trying to achieve and show how good content practices can help create the best possible user experiences.
 
-## Ways of working
+### Ways of working
 It’s just as important to describe how you’ll deliver the work so include delivery principles that will help teams work together.
 
-## Stakeholders
-Consider all the people and processes  that have an impact on your content through all stages of its life – from planning to archiving.
+### Stakeholders
+Consider all the people and processes that have an impact on your content through all stages of its life – from planning to archiving.
 
-## User needs
+### User needs
 Think about what your content needs to do and how your information architecture will support this. Mapping your content onto the different parts of your organisation may not necessarily be the best way. Users may not be familiar with how your organisation’s set up, or it may not reflect their thought processes about what they’re trying to do.
 
-## Process
+### Process
 Outline the workflow you expect those responsible for content to follow to make sure decisions are based on evidence. Be specific about:
+
 * who is responsible for certain tasks
 * the processes for planning, creating, reviewing and archiving content
 * which systems and tools should be used
 
-## Governance
+### Governance
 You should agree on a governance structure which clearly states:
 
 * how the main decisions about content are made
@@ -63,12 +64,13 @@ You should agree on a governance structure which clearly states:
 * how changes will be communicated
 * any standards you are working to and where they can find the guidance
 
-## Communication
+### Communication
 
 It’s important that everyone understands the impact of your strategy on their work. Stakeholder mapping is a good way to work out who your strategy affects, what influence these people have and their level of involvement.
+
 Leading workshops will help explain what you’re asking people to do and the benefits of having a strategy.
 
-A content strategy doesn’t need to be a complicated and should be continually reviewed and updated. Regular demonstrations of how you are implementing your strategy will help show progress and highlight good work.
+A content strategy doesn’t need to be complicated and should be continually reviewed and updated. Regular demonstrations of how you are implementing your strategy will help show progress and highlight good work.
 
 ## Useful resources:
 * [Content Strategy for the Web by Kristina Halvorson](https://www.contentstrategy.com/content-strategy-for-the-web)

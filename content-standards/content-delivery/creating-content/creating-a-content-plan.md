@@ -1,15 +1,12 @@
 ---
 layout: default
 title:  "Creating a content plan"
-parent: content-standards
+parent: creating-content
 summary: "Make sure your content works for users, meets your organisation’s aims and provides a consistent experience across channels."
 index: 1
-category: content-standards
-permalink: /content-standards/creating-a-content-plan/
-frontpage: false
+category: creating-content
+permalink: /content-standards/content-delivery/creating-content/creating-a-content-plan/
 ---
-
-A working document to evidence and track content tasks.
 
 ## What it is
 
@@ -48,14 +45,14 @@ When you’re planning your content, think about:
 * acceptance criteria – what is needed for a user need to be met
 * success criteria – how you can measure that the content meets user needs
 * user needs and user stories for each piece of content
-* who will write, peer review, fact check and own the content owner
+* who will write, peer review, fact check and own the content
 * when the content can be published
 * when the content needs to be archived
 
 ### Workshops
 Leading workshops is a good way to show people what you’re doing and why. It also gives you a chance to clarify what you’re asking people to do. Use your stakeholder map to help you get the right people in the room.
 
-Helpful resources:
+## Helpful resources:
 
 * [GOV.UK - Planning Content](https://www.gov.uk/guidance/content-design/planning-content)
 

@@ -9,13 +9,9 @@ permalink: /content-standards/digital-first-service-standard/
 frontpage: false
 ---
 
-# Digital First Service Standard  
-
-Making sure content meets government standards
-
 ## What it is
 
-The Digital First Service Standard is an digital assurance framework that makes sure products and services are being designed in the right way.
+The Digital First Service Standard is a digital assurance framework that makes sure products and services are being designed in the right way.
 
 Content is assessed as part of this process.
 
@@ -46,7 +42,6 @@ While you may not be solely responsible for these, it’s important to understan
 You should be able to show how the planning and delivery of content helps demonstrate the following criteria.
 
 ### User-centred
-
 Is your content plan based on user needs?
 
 ### Usable and accessible  	
@@ -59,7 +54,7 @@ What supporting content is needed to help users access your service?
 What style guide and patterns are you using?
 
 ### Continuous feedback
-What do you want to learn about content that will tested through usability?
+What do you want to learn about content that will be tested through usability?
 
 ### Data driven
 How are you using data to make decisions about content?
@@ -84,7 +79,7 @@ How are you publishing your content?
 
 ## How to do it
 
-Your team lead will work with the assessment panel to understand what’s in scope to be tested, and the timings and format of the assessment. These ‘terms of reference’ will be written down and agreed.  
+Your team lead will work with the assessment panel to understand what’s in scope to be tested, and the timings and format of the assessment. These ‘terms of reference’ will be written down and agreed.
 
 Once this is agreed, the delivery team and panel should have a meeting to talk about roles and responsibilities, agree the best way for you to share your work before the assessment and how your presentation should be structured.
 
@@ -116,7 +111,7 @@ At this stage you need a good understanding of who you need to work with to deve
 
 Your recommendations will also include the standards and principles you are aiming to meet and how you’ll do it. This should be shared and agreed with the delivery team before going into alpha.
 
-Generally you won’t be expected to show any content unless you think it’s necessary for the discovery phase. For example, if you are working with policy teams on the design of a service, you might want to test the accessibility of certain language (link to readability guidance).
+Generally you won’t be expected to show any content unless you think it’s necessary for the discovery phase. For example, if you are working with policy teams on the design of a service, you might want to test the accessibility of certain language (see [readability](/content-standards/content-delivery/creating-content/readability/) guidance).
 
 ### Alpha
 
@@ -171,4 +166,4 @@ A plan showing what content design resource is needed, based on the needs of the
 ## Useful resources
 Digital First Service Standard and assessment guidance
 
-Speaking with a content designer who has been through an assessment could help you prepare. Contact (OCIO email) if you would like to do this.
+Speaking with a content designer who has been through an assessment could help you prepare. Contact [OCIO assurance](mailto:OCIOAssurance@gov.scot) if you would like to do this.

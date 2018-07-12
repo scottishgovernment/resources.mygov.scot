@@ -2,7 +2,7 @@
 layout: default
 title:  "Accessibility"
 parent: content-discovery
-summary: "How to help everyone access and benefit from your content."
+summary: "Make sure your content can be accessed and understood by everyone who needs it."
 index: 4
 category: content-discovery
 navitems: accessibility
@@ -36,9 +36,9 @@ The benefits to making sure your content is accessible go beyond simply meeting 
 * helping prevent complaints or unnecessary queries
 * helping establish a base level of 'good design' (font choice and minimum size, responsive screens, colours and contrast, imagery, placement)
 
-# How you do it
+## How you do it
 
-## Making sure your site is accessible
+### Making sure your site is accessible
 Making content accessible begins with site design. Setting up accessible features on your site will usually be the responsibility of your tech or web design team, but it's important that content designers are also involved from the beginning of a site’s development.
 
 Content designers will be responsible for creating text for several accessibility features in the CMS, including error messaging and ‘alt text’ (alternative text) for images.
@@ -54,24 +54,24 @@ When a site is being developed content designers can help make sure the followin
 * colour – your site should not rely on colour to convey meaning (for example, an instruction saying “click the green button” may be impossible to follow for some users with visual impairments)
 * error messaging – error messages should give clear instructions and be written in plain English
 
-## Writing in an accessible way
-Content designers can make sure information is accessible by using plain English (readability link) to write in a way that is easy to understand.
+### Writing in an accessible way
+Content designers can make sure information is accessible by using plain English (see [readability](/content-standards/content-delivery/creating-content/readability/) guidance) to write in a way that is easy to understand.
 
 ## Useful links
 
 ### Accessibility
-[GOV.UK](https://www.gov.uk/guidance/make-things-accessible)
-[Accessible content](https://www.gov.uk/guidance/content-design/planning-content#accessibility)
-[Resources](https://resources.mygov.scot/design-standards/accessibility/)
+* [GOV.UK Make things accessible](https://www.gov.uk/guidance/make-things-accessible)
+* [Accessible content](https://www.gov.uk/guidance/content-design/planning-content#accessibility)
+* [MYGOV.SCOT Design standards accessibility](https://resources.mygov.scot/design-standards/accessibility/)
 
 ### Technology standards
-There are established standards for accessibility, like AAA Web Content Accessibility guidelines. These standards were created by the Web Accessibility Initiative (WAI), part of the World Wide Web Consortium (W3C).
+There are established standards for accessibility, like [AAA Web Content Accessibility guidelines](http://www.w3.org/TR/WCAG10/). These standards were created by the [Web Accessibility Initiative (WAI)](http://www.w3.org/WAI/), part of the [World Wide Web Consortium (W3C)](http://www.w3.org/).
 
 The guidelines explain how to make web content accessible to all users, including people with disabilities.
 
 The WAI provides guidance on designing, writing and developing accessible content, as well as guidance, information and support for businesses looking to promote accessible content.
 
-## Language
+### Language
 * [Hemingway app](http://www.hemingwayapp.com/)
 * [Readability Test Tool](https://www.webpagefx.com/tools/read-able/)
 * [SMOG Calculator](http://www.learningandwork.org.uk/SMOG-calculator/smogcalc.php?redirectedfrom=niace)
@@ -81,4 +81,4 @@ The WAI provides guidance on designing, writing and developing accessible conten
 
 This article offers guidance relevant to the following criteria from the Digital First service standard:
 
-* [Usable and accessible](https://scottishgovernment.github.io/criterion/usable-and-accessible/)
+* [Usable and accessible](/criterion/usable-and-accessible/)
