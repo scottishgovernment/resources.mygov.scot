@@ -99,7 +99,7 @@ It is important to set a date for when each piece of published content should be
 ## Useful links
 * [Writing content](https://www.gov.uk/guidance/content-design/writing-for-gov-uk)
 
-## Language
+## Plain english and readability tools
 * [Hemingway app](http://www.hemingwayapp.com/)
 * [Readability Test Tool](https://www.webpagefx.com/tools/read-able/)
 * [SMOG Calculator](http://www.learningandwork.org.uk/SMOG-calculator/smogcalc.php?redirectedfrom=niace)
@@ -134,23 +134,23 @@ The peer review should be done by a member of the team that you're not working w
 
 | Element | Description |
 | - | - |
-| Title |	Should be frontloaded and as short and succinct as possible |
-| URL	| Should be as short as possible (try not to go over 3 words) and keyword specific. |
-| Language |	Should be plain English (short sentences, use the active instead of the passive, no jargon etc.). If the content's not easy to understand run it through Hemingway or a similar tool. |
-| Words to use |	Short words instead of longer ones that mean the same thing, e.g. 'about' instead of ‘regarding’ |
-| Contractions	| :todo (Rachel B finding out if we can do A/B testing on this) |
-| Em vs en dashes | Hyphens	em dashes (—) should be en dashes (–) change hyphens(-) to en dashes (–) |
-| Bullet points	| Should use full stops and be non-sentence case. All bullets should start with the same part of speech e.g. a verb
-SEO and Metadata | If you were searching for information on how to complete this task, would you click on this listing in Google? |
-| Numbers |	Use numerals, not words |
-| IA	| Check that the location's correct and any alternate parents have been added |
-| Related items |	Are they appropriate? |
-| Tags	| Do you think someone would search for the content using these words? |
-| Link text	| Should use a call to action that forms the basis of the hyperlink e.g. ‘check your eligibility’, ‘complete the application form’ |
-| Links |	Check that all the links are working. |
-| User needs | Does this page meet the user needs? Cross check against them when doing your review. |
-| Duplicate content |	Check that the content isn't duplicated or appearing elsewhere on the site from a different perspective. If you search for a content item and there's a duplicate, make sure we don’t publish both. |
-| Broken links	| If you cannot find an appropriate alternative link, leave it unapproved and leave a comment in the peer review comments column. |
+| **Title** |	Should be frontloaded and as short and succinct as possible |
+| **URL**	| Should be as short as possible (try not to go over 3 words) and keyword specific. |
+| **Language** |	Should be plain English (short sentences, use the active instead of the passive, no jargon etc.). If the content's not easy to understand run it through Hemingway or a similar tool. |
+| **Words to use** |	Short words instead of longer ones that mean the same thing, e.g. 'about' instead of ‘regarding’ |
+| **Contractions**	| Simple contractions are fine (it's, don't).  Be aware that users with English as a second language struggle with complex contractions.  This guidance is being reviewed currently. |
+| **Em vs en dashes** | Hyphens	em dashes (—) should be en dashes (–) change hyphens(-) to en dashes (–) |
+| **Bullet points**	| Should use full stops and be non-sentence case. All bullets should start with the same part of speech e.g. a verb |
+| **SEO and Metadata** | If you were searching for information on how to complete this task, would you click on this listing in Google? |
+| **Numbers** |	Use numerals, not words |
+| **IA**	| Check that the location's correct and any alternate parents have been added |
+| **Related items** |	Are they appropriate? |
+| **Tags**	| Do you think someone would search for the content using these words? |
+| **Link text**	| Should use a call to action that forms the basis of the hyperlink e.g. ‘check your eligibility’, ‘complete the application form’ |
+| **Links** |	Check that all the links are working. |
+| **User needs** | Does this page meet the user needs? Cross check against them when doing your review. |
+| **Duplicate content** |	Check that the content isn't duplicated or appearing elsewhere on the site from a different perspective. If you search for a content item and there's a duplicate, make sure we don’t publish both. |
+| **Broken links**	| If you cannot find an appropriate alternative link, leave it unapproved and leave a comment in the peer review comments column. |
 
 
 ## Making changes

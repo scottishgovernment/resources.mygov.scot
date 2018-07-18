@@ -102,7 +102,7 @@ Remember, all literacy tools are only indicators. They require interpretation an
 ## Help you can get
 If you’re looking for advice on planning content you can email: [{{ site.content_updates_inbox }}](mailto:{{ site.content_updates_inbox }})
 
-## Language
+## Plain english and readability tools
 * [Hemingway app](http://www.hemingwayapp.com/)
 * [Readability Test Tool](https://www.webpagefx.com/tools/read-able/)
 * [SMOG Calculator](http://www.learningandwork.org.uk/SMOG-calculator/smogcalc.php?redirectedfrom=niace)

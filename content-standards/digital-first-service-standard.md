@@ -1,8 +1,8 @@
 ---
 layout: default
-title:  "Digital first service standard"
+title:  "Digital First Service Standard"
 parent: content-standards
-summary: "What to expect during a Digital First Service Standard assessment and how your content can help meet the criteria."
+summary: "What to expect during a Digital First Service Standard assessment and how your content can help you meet the criteria."
 index: 4
 category: content-standards
 permalink: /content-standards/digital-first-service-standard/
@@ -17,11 +17,11 @@ Content is assessed as part of this process.
 
 If you’re a content designer working with a delivery team responsible for a digital product or service, it’s important to know what’s expected during each phase of your project and how you’ll be assessed.
 
-This includes:
+This includes, how you'll:
 
-* how you’ll learn what problems your users face when using your content
-* how you’ll make your information accessible and based on user needs
-* how you’ll test your content and make improvements
+* learn what problems your users face when using your content
+* make your information accessible and based on user needs
+* test your content and make improvements
 
 If your team is going through a Digital First Service Standard assessment, you’ll be expected to show your content processes and outputs through the discovery, alpha and beta phases of your project.
 
@@ -29,11 +29,11 @@ If your team is going through a Digital First Service Standard assessment, you�
 
 Digital First Service Standard is designed to make sure government products and services provide the best possible user experiences and are secure to use.
 
-The assessment checks:
+The assessment checks that:
 
-* that decisions are being made that put users first
-* that technical choices are made in the right way
-* that you have the right people and processes in place to manage the service or product when it goes live
+* decisions are being made that put users first
+* technical choices are made in the right way
+* you have the right people and processes in place to manage the service or product when it goes live
 
 You’ll be tested on 22 criteria, a number of which are relevant to your content.
 
@@ -131,7 +131,7 @@ You will have a detailed content plan to be ready to move into the beta phase.
 
 This phase is where a service or product is built and can be tested with real users.
 
-From a content perspective, you should be confident that users will be able to get to and understand the information they need - and you’ll be able to describe how you’ll measure content performance (link).
+From a content perspective, you should be confident that users will be able to get to and understand the information they need - and you’ll be able to describe how you’ll measure content performance.
 
 You need to be able to show that you meet the content standards and style guidelines you set out in the discovery phase and that there is a team to manage and improve the content when you go live.
 
@@ -143,7 +143,7 @@ When you meet with the content assessor, you might be asked to show the followin
 This will show how you will plan, deliver and manage content in a consistent way, aligned to project objectives.
 
 ### Content plan
-A content plan covering all types of content you will be producing and the channels this will be available. You should be able to describe what is in scope for the next phase of delivery.
+A content plan covering all types of content you will be producing and the channels it will be available on. You should be able to describe what is in scope for the next phase of delivery.
 
 ### Editorial style guidance
 The guidelines you are following to make sure the experience is consistent for users. If you are using something different to existing guidelines, it will be helpful to describe what evidence helped make this decision.

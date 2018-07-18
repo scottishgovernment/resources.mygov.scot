@@ -23,7 +23,7 @@ Negative user experiences with your page are likely to impact on users’ decisi
 ## How to do it
 Gathering on page feedback from your users is a quick and easy way to tell if a page is performing well. Looking for trends in the type of issues users have with a page can help you make meaningful improvements.
 
-There are a range of analytic tools which can also help you track the quantity and experiences of users who visit your site. Many of these tools (such as Google Analytics) are free to use and come with online tutorials.
+There are a range of analytic tools which can also help you track the quantity and experiences of users who visit your site. Many of these tools (such as [Google Analytics](https://www.google.co.uk/analytics/#?modal_active=none)) are free to use and come with online tutorials.
 
 Analytics can help you identify a range of common problems:
 
@@ -32,7 +32,7 @@ The keywords in your article may not the same as those used by users, so your pa
 
 For example, you have an article about ‘national entitlement cards’ which gives information about free travel for the over 60s. Using analytics tools you find that most users are searching for the term “free bus pass” when they want to access this information. If ‘free bus pass’ is not mentioned somewhere in your article then your page may not appear in their search results, even though your content is relevant to their query.
 
-Suggested tools: Google Trends
+Suggested tools: [Google Trends](https://trends.google.com/trends/)
 
 ### The keywords in your article are too popular
 You may have correctly identified and used keywords which are relevant to your content but find your page is still appearing very low in search results.
@@ -43,7 +43,7 @@ It can be difficult to draw traffic away from much larger sites. In a marketing 
 
 The shop finds that it appears very low in the search results for this item and so is not receiving much traffic. To overcome this the shop decides to change its keywords to “men's green velvet shoes”. This more specific phrase is less in demand and so allows the shop to appear higher in search results when people search for this particular query.
 
-If your site is for marketing or has a commercial side you may pay for services like Google AdWords which allows you to appear in search results for a given phrase.
+If your site is for marketing or has a commercial side you may pay for services like [Google AdWords](https://adwords.google.com/intl/en_uk/home/) which allows you to appear in search results for a given phrase.
 
 ### Your meta description is too short
 Search engines use meta descriptions to match queries to results and provide users with a helpful summary of the content on your page.

@@ -13,9 +13,7 @@ frontpage: false
 Delivering a consistently high quality service to your users through the content they consume is all down to your content strategy.
 Content strategies are different from those found in marketing or communications.
 
-Communication strategies promote your organisation’s messages across many channels, while marketing strategies focus on behavioural insights to effectively sell products or services.
-
-Content strategies have a much broader scope by comparison - guiding how you plan, create and maintain all content created by your organisation.
+Communication strategies promote your organisation’s messages across many channels, while marketing strategies focus on using behavioural insights to effectively sell products or services. But content strategies have a much broader scope. They guide how you plan, create and maintain all content created by your organisation.
 
 ## Why it’s important
 A good content strategy will provide better outcomes for users by:
@@ -38,10 +36,10 @@ What your strategy looks like will depend on the scale or size of your project o
 Generally though, you should cover:
 
 ### Purpose
-Have a clear idea of what your organisation or service is trying to achieve and show how good content practices can help create the best possible user experiences.
+Have a clear idea of what your organisation or service is trying to achieve, and show how good content practices can help create the best possible user experiences.
 
 ### Ways of working
-It’s just as important to describe how you’ll deliver the work so include delivery principles that will help teams work together.
+It’s just as important to describe how you’ll deliver the work, so include delivery principles that will help teams work together.
 
 ### Stakeholders
 Consider all the people and processes that have an impact on your content through all stages of its life – from planning to archiving.
