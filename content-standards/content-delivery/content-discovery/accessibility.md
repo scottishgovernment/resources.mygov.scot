@@ -41,7 +41,7 @@ The benefits to making sure your content is accessible go beyond simply meeting 
 ### Making sure your site is accessible
 Making content accessible begins with site design. Setting up accessible features on your site will usually be the responsibility of your tech or web design team, but it's important that content designers are also involved from the beginning of a site’s development.
 
-Content designers will be responsible for creating text for several accessibility features in the, Content Management System, including error messaging and ‘alt text’(alternative text) for images.  Alt text describes an image.  It means that if your users are using screen readers the text will read out and make you image accessible.
+Content designers will be responsible for creating text for several accessibility features in the Content Management System, including error messaging and ‘alt text’(alternative text) for images.  Alt text describes an image.  It means that if your users are using screen readers the text will read out and make you image accessible.
 
 When a site is being developed, content designers can help make sure the following topics are considered:
 

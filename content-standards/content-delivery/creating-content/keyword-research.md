@@ -30,7 +30,7 @@ When preparing to write new content, it is also important to gather data from be
 
 Linkdex can also suggest alternative keywords which are related to your original search term. This can help you gain insight into what users are trying to achieve when they look at a certain page.
 
-Having a closer look at some of the highest ranking pages for the most popular of your keywords can help you identify the nuances of your own content. So creating content which is identical to a very high traffic website will not generally perform well in search engine results. Because the user need which this page addresses is clearly being met.
+Having a closer look at some of the highest ranking pages for the most popular of your keywords can help you identify the nuances of your own content. So creating content which is identical to a very high traffic website will not generally perform well in search engine results, because the user need which this page addresses is clearly being met.
 
 The user need which this page addresses is clearly already being met. You should consider how your content is different and how you can adapt your keywords to fit your context.
 For example, the search term "holidays in Spain" may be very popular and many pages will be appearing for this term. In order to make your page different you might choose to target the phrase "cheap holidays in Spain" or "budget holidays in Spain".

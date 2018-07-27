@@ -43,7 +43,7 @@ There are a number of benefits of doing thorough research at this stage:
 
 * you might identify cost savings that can be achieved from closing down out of date or legacy websites – or where an offline process is better served by a digital channel
 
-Sharing this work is a good way of helping your stakeholders or, delivery partners, understand why you are challenging existing processes or making recommendations.
+Sharing this work is a good way of helping your stakeholders, or delivery partners, understand why you are challenging existing processes or making recommendations.
 
 ## How you do it
 
