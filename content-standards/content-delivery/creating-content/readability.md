@@ -16,13 +16,13 @@ We know this by applying reading tests to what’s published, and comparing it t
 
 We also know this complexity causes the public confusion and represents a barrier to using public services or claiming benefits.
 
-These content standards give a quick guide to how we can improve.
+This standard is a quick guide to how to improve it.
 
 ## Why it’s important
 
 Rather than just meeting a reading age or government standards, there are demonstrable user needs for making government text simpler.
 
-In various testing sessions people have consistently struggled to read and understand phrases like these:
+In [user testing](https://resources.mygov.scot/content-standards/content-delivery/quality-assurance/user-testing/) sessions people have consistently struggled to read and understand phrases like these:
 
 * ‘income-based Jobseeker’s Allowance’
 * ‘contribution-based Jobseeker’s Allowance’
@@ -36,7 +36,9 @@ Close working across government is needed to further improve our content. We nee
 
 We can use the way we analyse text to improve things the next time we’re doing anything involving written content, be that naming a benefit or publishing anything in government that the Scottish public will see. As a starting point we can use basic techniques.
 
-If you’re planning a project that involves communicating with the public, it’s also a good idea to plan specialist content resource to support how these things are done. You should plan this resource not just as a delivery resource but as a support resource from the very start of the project. This resource can then work with and advise other specialists, such as those working in policy or governance, on making what we publish for the public accessible before final decisions are made.
+If you’re planning a project that involves communicating with the public, it’s also a good idea to plan specialist content resource to support how these things are done. You should plan this resource not just as a delivery resource but as a support resource from the very start of the project.
+
+This resource can then work with and advise other specialists, such as those working in policy or governance, on making what we publish for the public accessible before final decisions are made.
 
 ## How you do it
 
@@ -45,7 +47,7 @@ The most basic writing techniques when writing for the general public are:
 * use short sentences
 * try not to use words that are 3 syllables or more
 
-These are difficult techniques to apply to a lot of government text, but not impossible.
+This can be difficult to apply to a lot of government text, but not impossible.
 
 ## Good examples
 Here’s an example situation that shows how improving readability can make content easier to understand for a wider range of users.
@@ -64,7 +66,7 @@ The UK Government will continue to roll out Universal Credit for new claims unti
 
 #### About the reading age of this sample
 
-This sample has a high reading age. In terms of qualifications, it would sit at the level of a top grade Advanced Higher. Another way of putting this is that it’s ‘expected that around half of the Scottish public would struggle to fully understand the text’, based on adult literacy data.
+This sample has a high reading age. In terms of qualifications, it would sit at the level of a top grade Advanced Higher. Another way of putting this is that it’s ‘expected that around half of the Scottish public would struggle to fully understand the text’ based on adult literacy data.
 
 ### Sample B, suggested text for improved readability
 
@@ -89,11 +91,11 @@ It’s relatively simple to work out what’s necessary and what isn’t. ‘Leg
 To improve the text further the government would need to rename the benefit to something that, in terms of readability, meets content standards.
 
 ## Tools to help you work out the reading age of a text
-Not all reading tools are equal. We like the Learning and Work Institute’s SMOG tool, though it has some disadvantages. It requires a reasonable amount of interpretation and application of knowledge. For instance, the ‘score’ given as the tool’s result for a text doesn’t correspond to a reading age. You have to take the score and apply it to an adult literacy framework.
+Not all reading tools are equal. We like the [Learning and Work Institute’s SMOG tool](http://www.learningandwork.org.uk/SMOG-calculator/smogcalc.php), though it has some disadvantages. It requires a reasonable amount of interpretation and application of knowledge. For instance, the ‘score’ given as the tool’s result for a text doesn’t correspond to a reading age. You have to take the score and apply it to an adult literacy framework.
 
 From a practical point of view, you also need to make sure you add a full stop to every item on a bullet point list, as the tool will read everything between 2 full stops as 1 sentence and you’ll end up with an inflated score. Having said this, it’s still useful if used in the right way.
 
-We’re not as keen on Hemingway, although it can be used for a basic check. It looks pretty and is very user friendly but the formula the tool is built on isn’t as reliable as that of the Learning and Work Institute’s SMOG tool.
+We’re not as keen on [Hemingway](http://www.hemingwayapp.com/), although it can be used for a basic check. It looks pretty and is very user friendly but the formula the tool is built on isn’t as reliable as that of the Learning and Work Institute’s SMOG tool.
 
 The reasons for this refer to literacy research and academic reasoning, but the basic summary is that Hemingway predominantly uses the number of characters in a text’s words to calculate reading age, rather than the number of syllables. In various bouts of testing the character-based formula has underestimated the difficulty of a text according to the actual literacy ability of general users.
 
@@ -109,5 +111,5 @@ If you’re looking for advice on planning content you can email: [{{ site.conte
 * [Plain English Campaign](http://www.plainenglish.co.uk/)
 
 ## Digital First Service Standard
-This article offers guidance relevant to the following criteria from the Digital First service standard:
+This article offers guidance relevant to the following criterion from the Digital First service standard:
 * [Usable and accessible](/criterion/usable-and-accessible/)

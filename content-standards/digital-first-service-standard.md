@@ -131,7 +131,7 @@ You will have a detailed content plan to be ready to move into the beta phase.
 
 This phase is where a service or product is built and can be tested with real users.
 
-From a content perspective, you should be confident that users will be able to get to and understand the information they need - and you’ll be able to describe how you’ll measure content performance.
+From a content perspective, you should be confident that users will be able to get to and understand the information they need - and you’ll be able to describe how you’ll measure [content performance](https://resources.mygov.scot/content-standards/content-delivery/managing-content/).
 
 You need to be able to show that you meet the content standards and style guidelines you set out in the discovery phase and that there is a team to manage and improve the content when you go live.
 

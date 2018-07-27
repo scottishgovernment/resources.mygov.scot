@@ -2,7 +2,7 @@
 layout: default
 title:  "Testing content with users"
 parent: quality-assurance
-summary: "Guidance and suggested activities for testing content with users."
+summary: "Ways to test your content with users."
 index: 4
 category: quality-assurance
 permalink: /content-standards/content-delivery/quality-assurance/user-testing/
@@ -56,9 +56,9 @@ In a card sort, users are given cards with content headings, categories and navi
 
 Card sorts can be done offline using actual cards made from paper. They can also be online done using card sorting software such as:
 
-* Optimal Sort
-* UserZoom
-* UX Sort
+* [Optimal Sort](https://www.optimalworkshop.com/optimalsort)
+* [UserZoom](https://www.userzoom.com/)
+* [UX Sort](https://uxsort.com)
 
 There are 2 main methods for card sorts, known as ‘open’ or ‘closed’:
 
@@ -97,6 +97,6 @@ Usability testing is a way of generally finding out where products and services 
 ## Digital First Service Standard
 
 This article offers guidance relevant to the following criteria from the Digital First service standard:
-* [User centred](/standards/digital-first/#user-centred)
+* [User centred](/criterion/user-centred)
 * [Usable and accessible](/criterion/usable-and-accessible)
 * [Continuous feedback](/criterion/continuous-feedback)

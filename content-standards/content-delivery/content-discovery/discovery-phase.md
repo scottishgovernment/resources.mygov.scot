@@ -43,7 +43,7 @@ There are a number of benefits of doing thorough research at this stage:
 
 * you might identify cost savings that can be achieved from closing down out of date or legacy websites – or where an offline process is better served by a digital channel
 
-Sharing this work is a good way of helping your stakeholders or delivery partners understand why you are challenging existing processes or making recommendations.
+Sharing this work is a good way of helping your stakeholders or, delivery partners, understand why you are challenging existing processes or making recommendations.
 
 ## How you do it
 
@@ -55,7 +55,7 @@ Find out if any user research has been done and what the results of the work wer
 
 ### Stakeholder map
 
-Identify and list contacts who will have an expert view on your subject matter, such as call centre staff, advisers or support groups who work closely with your audience. [Engage with these stakeholders](/content-standards/content-delivery/content-discovery/stakeholders) as much as possible.
+Identify and list contacts who will have an expert view on your subject matter, such as call centre staff, advisers or support groups who work closely with your audience. [Engage with these stakeholders](/content-standards/content-delivery/content-discovery/working-with-stakeholders/) as much as possible.
 
 ### Data review
 

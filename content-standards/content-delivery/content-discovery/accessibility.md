@@ -41,22 +41,21 @@ The benefits to making sure your content is accessible go beyond simply meeting 
 ### Making sure your site is accessible
 Making content accessible begins with site design. Setting up accessible features on your site will usually be the responsibility of your tech or web design team, but it's important that content designers are also involved from the beginning of a site’s development.
 
-Content designers will be responsible for creating text for several accessibility features in the CMS, including error messaging and ‘alt text’ (alternative text) for images.
+Content designers will be responsible for creating text for several accessibility features in the, Content Management System, including error messaging and ‘alt text’(alternative text) for images.  Alt text describes an image.  It means that if your users are using screen readers the text will read out and make you image accessible.
 
-When a site is being developed content designers can help make sure the following topics are considered:
+When a site is being developed, content designers can help make sure the following topics are considered:
 
 * technology – your site’s features and layout (CSS style sheets, tagging, metadata, tab styles, etc.) must be designed in a way that can be interpreted by communication support technology like screen readers
 * video – because of recent legislation all information needs to be accessible to people who use BSL. This means your CMS will need to need to be able to host or integrate video
 * responsive formats – the site should be able to adapt to different formats (e.g. mobile screens, desktops, tablets) and have its text resized
-* translation – the site should be available to be translated into other languages, including providing information in BSL
+* translation – the site should be available to be translated into other languages, including in BSL
 * style – use fonts, images and colour that are easily readable for people with visual or learning disabilities
 * images – any images should be appropriately tagged and have relevant alt text and metadata
 * colour – your site should not rely on colour to convey meaning (for example, an instruction saying “click the green button” may be impossible to follow for some users with visual impairments)
 * error messaging – error messages should give clear instructions and be written in plain English
 
 ### Writing in an accessible way
-Content designers can make sure information is accessible by using plain English (see [readability](/content-standards/content-delivery/creating-content/readability/) guidance) to write in a way that is easy to understand.
-
+Content designers can make sure information is accessible by using [plain English](/content-standards/content-delivery/creating-content/readability/) to write in a way that is easy for users to understand.
 ## Useful links
 
 ### Accessibility

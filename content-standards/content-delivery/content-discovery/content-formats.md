@@ -29,7 +29,7 @@ Don’t choose a format until you understand what your users actually need from 
 Choose a format that already exists on your website, if it is the best option for your users. If you think you need a new format, check the [mygov.scot design style guide](https://resources.mygov.scot/design-standards/) or [GDS design patterns](https://www.gov.uk/service-manual/design#find-patterns). These are based on data and user research, and mean you don’t have to build something entirely new.
 
 ### Prototype and test
-Prototypes can help you explore, share and test new designs before you commit to building anything. Working in a multi-disciplinary team (for example, content designers, user researchers, interaction designers and developers) during the prototyping and building phase can help everyone have the same understanding of what users need.
+Prototypes can help you explore, share and test new designs before you commit to building anything. Working in a multi-disciplinary team (one that includes for example, content designers, user researchers, interaction designers and developers) during the prototyping and building phase can help everyone have the same understanding of what users need.
 
 The new content format should be something that can be used again for other content. You should test your prototype early and often.
 

@@ -2,7 +2,7 @@
 layout: default
 title:  "Underperforming content"
 parent: managing-content
-summary: "How to identify content which is not performing well and solutions to common problems."
+summary: "How to identify content which is not performing well, and solutions to common problems."
 index: 4
 category: managing-content
 permalink: /content-standards/content-delivery/managing-content/underperforming-content/
@@ -21,9 +21,9 @@ Those who do view your page may not be satisfied with the content they see and m
 Negative user experiences with your page are likely to impact on users’ decisions to view other content on your site if it appears as a result in future search queries.
 
 ## How to do it
-Gathering on page feedback from your users is a quick and easy way to tell if a page is performing well. Looking for trends in the type of issues users have with a page can help you make meaningful improvements.
+Gathering on-page feedback from your users is a quick and easy way to tell if a page is performing well. Looking for trends in the type of issues users have with a page can help you make meaningful improvements.
 
-There are a range of analytic tools which can also help you track the quantity and experiences of users who visit your site. Many of these tools (such as [Google Analytics](https://www.google.co.uk/analytics/#?modal_active=none)) are free to use and come with online tutorials.
+There are a range of analytical tools which can also help you track the quantity and experiences of users who visit your site. Many of these tools (such as [Google Analytics](https://www.google.co.uk/analytics/#?modal_active=none)) are free to use and come with online tutorials.
 
 Analytics can help you identify a range of common problems:
 
@@ -50,7 +50,7 @@ Search engines use meta descriptions to match queries to results and provide use
 
 If your meta description is not long enough Google will often grab other sections of text from your page to bulk out the summary section (displayed under the title of your page in a search result).
 
-These pieces of text may not be the key messages of your content, and so may mislead users as to the focus of your article.
+These pieces of text may not be the key messages of your content, and so may misrepresent the focus of your article.
 
 ### Links and actions are too far down the page
 If the purpose of your page is for users to do something (apply, register, etc.), you should clearly display how they should do this within the first section of your page.

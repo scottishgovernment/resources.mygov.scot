@@ -2,7 +2,7 @@
 layout: default
 title:  "User needs"
 parent: content-discovery
-summary: "Using user needs to make focused and useful content."
+summary: "Using user needs to create focused and useful content."
 index: 4
 category: content-discovery
 permalink: /content-standards/content-delivery/content-discovery/user-needs/
@@ -73,11 +73,11 @@ You can do this using different types of [user research].
 
 ## Useful resources
 
-* [Government Digital Services - Service manual - Start by learning user stories](https://www.gov.uk/service-manual/user-research/start-by-learning-user-needs)
+* [Government Digital Services - Service manual - Learning about users and their needs](https://www.gov.uk/service-manual/user-research/start-by-learning-user-needs)
 * [Government Digital Services - Service manual - Writing user stories](https://www.gov.uk/service-manual/agile-delivery/writing-user-stories)
 
 ## Digital First Service Standard
 
-This article offers guidance relevant to the following criteria from the Digital First service standard:
+This article offers guidance relevant to the following criterion from the Digital First service standard:
 
 * [User centred](/criterion/user-centred)
