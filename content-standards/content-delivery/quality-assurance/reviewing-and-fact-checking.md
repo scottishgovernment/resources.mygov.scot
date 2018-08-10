@@ -36,8 +36,7 @@ Peer reviews are where another content professional checks things like:
 
 Fact checks are where professionals in that subject area confirm the accuracy of the information. Usually they are referred to as Subject Matter Experts (SMEs). SMEs are usually involved early on to help explain complex information before you start writing.
 
-Peer reviews and fact checks can be done by the checker alone, or they can be done in person where you work with the checker to ’pair-review’ or ’pair-edit’ your content.
-
+Peer reviews and fact checks can be done by the checker alone, or they can be done in person where you work with the checker to ’pair review’ or ’pair edit’ your content.
 
 ## Why it’s important
 
@@ -47,14 +46,14 @@ Peer reviews help make sure your content matches your organisation’s style gui
 * the use of thorough discovery for development
 * checking of user journeys
 * use of appropriate content types
-* CMS requirements, like links to other information and meta data
+* Content Management System requirements, like links to other information and metadata
 
-Often when a content designer is working on a specific subject they become fairly knowledgeable about the topic. Sometimes that means jargon – specific terms about the subject that the average user may not understand – can slip through into the content.
+Often when a content designer’s working on a specific subject, they become fairly knowledgeable about the topic. Sometimes that means jargon – specific terms about the subject that the average user may not understand – can slip through into the content.
 
 A second pair of eyes is helpful for catching jargon to make sure it’s explained properly or removed.
 
 ### Fact checking
-Fact checking helps make sure your users are getting the right information. Out of date or wrong information can lead to problems for the user, like:
+Fact checking helps make sure your users are getting the right information. Out-of-date or wrong information can lead to problems for the user, like:
 
 * confusion
 * wasted time
@@ -69,36 +68,42 @@ A peer review should happen before fact checking. This makes sure the fact check
 
 It’s also important to do a peer review first because the reviewer may raise more questions that could require more information from a subject matter expert.
 
-It’s helpful if you have a peer review checklist. This means colleagues can make sure they check every aspect of your style guide and CMS requirements as well as the more subjective aspects of style and tone.
+It’s helpful if you have a peer review checklist. This means colleagues can make sure they check every aspect of your style guide and Content Management System (CMS) requirements as well as the more subjective aspects of style and tone.
 
-Before your colleague starts the peer review you should give them some background to the project – what discovery work you’ve done, organisational context, etc.
+Before your colleague starts the peer review, you should give them some background to the project – what discovery work you’ve done, organisational context, etc.
 
-Your colleague will then review your content and can either make changes directly to the content in your CMS, or track changes in a word document.
+Your colleague will then review your content and can either make changes directly to the content in your CMS, or track changes in a Word document.
 
 ## Content critiques
+
 Content critiques or ‘crits’ can be a really useful way to get friendly constructive feedback on your content from like-minded content professionals.
 
-If you’ve written some draft content, try gathering your team or work colleagues together for a short session to look collectively at what you’ve created and see if there are tweaks or improvements to be made.
+If you’ve drafted some content, try gathering your team or work colleagues together for a short session to look collectively at what you’ve created and see if there are tweaks or improvements to be made.
 
 ## Fact checking
-After content has been peer reviewed it is sent to a fact checker to make sure content is factually accurate and up to date. A fact checker isn’t supposed to change style or tone. You should establish this with them early on to avoid confusion when they review the content.
 
-Often fact checkers and subject matter experts will want to change text to match a style that they’re used to, (like academic or policy writing), and sometimes they will reintroduce jargon. It’s the content designer’s job to explain to them why the jargon has either been removed or explained in simpler language.
+After content has been peer reviewed, it’s sent to a fact checker to make sure it’s factually accurate and up to date. A fact checker isn’t supposed to change style or tone. You should establish this with them early on to avoid confusion when they review the content.
+
+Often fact checkers and subject matter experts will want to change text to match a style that they’re used to (like academic or policy writing), and sometimes they’ll reintroduce jargon. It’s the content designer’s job to explain to them why the jargon has either been removed or explained in simpler language.
 
 For situations like this, it’s helpful to work with the fact checker in person and review edits through pair editing.
 
-## Pair review / pair editing
+## Pair review/pair editing
+
 Pair reviewing involves going through any suggested changes with the peer reviewer or fact checker in person.
 
 This is helpful because you can answer any questions they have right away. It also means if they’ve suggested changes to style choices you’ve deliberately made, you can talk through them. It also helps make sure their feedback has been understood correctly.
 
 ## Publishing
-It is important to set a date for when each piece of published content should be reviewed and updated.  Doing this when you first release the piece will stop you forgetting about it.  Regularly reviewing content will let you see if it is meeting user needs or underperforming.
+
+It is important to set a date for when each piece of published content should be reviewed and updated. Doing this when you first release the piece will stop you forgetting about it. Regularly reviewing content will let you see if it’s meeting user needs or underperforming.
 
 ## Useful links
+
 * [Writing content](https://resources.mygov.scot/content-standards/content-delivery/creating-content/writing-content/)
 
-## Plain english and readability tools
+## Plain English and readability tools
+
 * [Hemingway app](http://www.hemingwayapp.com/)
 * [Readability Test Tool](https://www.webpagefx.com/tools/read-able/)
 * [SMOG Calculator](http://www.learningandwork.org.uk/SMOG-calculator/smogcalc.php?redirectedfrom=niace)
@@ -107,13 +112,11 @@ It is important to set a date for when each piece of published content should be
 ## Digital First Service Standard
 
 This article offers guidance relevant to the following criteria from the Digital First service standard:
-
 * [User centred](/criterion/user-centred/)
 
 ## Peer review checklist
 
-Peer reviewing involves recommending changes to content items, so that they:
-
+Peer reviewing involves recommending changes to content items so that they:
 * are written in plain English
 * are easy to understand
 * adhere to our style guide
@@ -121,38 +124,39 @@ Peer reviewing involves recommending changes to content items, so that they:
 
 When peer reviewing items, you don't always need to know much about the subject matter. But you do need to know what the [user needs](https://resources.mygov.scot/content-standards/content-delivery/content-discovery/user-needs/) are, and whether it's a standalone content item, or part of a content plan. If it's not immediately clear, ask the person who wrote it for more details.
 
-A citizen or business owner who is viewing the content may arrive at it because they don't know anything about the task that they need to complete. So bear this in mind when you're reading what's been drafted.
+A citizen or business owner who’s viewing the content may arrive at it because they don't know anything about the task that they need to complete. So bear this in mind when you're reading what's been drafted.
 
 ## When you agree to do a review
+
 Reply all to the request so everyone knows whether or not it's been picked up.
 
 ## When you're requesting a peer review
+
 Include the user needs in your email, so the person doing the review can check whether your content item meets them.
 
-The peer review should be done by someone who's not part of the team you're working with. The person that you're working with should cast their eye over the content after the fact checker's has got back with any changes.
+The peer review should be done by someone who's not part of the team you're working with. The person that you're working with should cast their eye over the content after the fact checker's got back with any changes.
 
 ## What to check when you're doing a peer review
 
 | Element | Description |
 | - | - |
-| **Title** |	Should be frontloaded and as short and succinct as possible.|
-| **URL**	| Should be as short as possible (try not to go over 3 words) and keyword specific. |
-| **Language** |	Should be plain English (short sentences, use the active instead of the passive, no jargon etc.). If the content's not easy to understand run it through Hemingway or a similar tool. |
-| **Words to use** |	Short words instead of longer ones that mean the same thing, e.g. 'about' instead of ‘regarding’. |
-| **Contractions**	| Simple contractions are fine (it's, don't).  Be aware that users with English as a second language struggle with complex contractions.  This guidance is being reviewed currently. |
-| **Em vs en dashes** | Hyphens	em dashes (—) should be en dashes (–) change hyphens(-) to en dashes (–). |
-| **Bullet points**	| Should use full stops and be non-sentence case. All bullets should start with the same part of speech e.g. a verb. |
+| **Title** | Should be frontloaded and as short and succinct as possible.|
+| **URL** | Should be as short as possible (try not to go over 3 words) and keyword specific. |
+| **Language** | Should be plain English (short sentences, use the active instead of the passive, no jargon etc.). If the content's not easy to understand, run it through Hemingway or a similar tool. |
+| **Words to use** | Short words instead of longer ones that mean the same thing, e.g. 'about' instead of ‘regarding’. |
+| **Contractions** | Simple contractions are fine (it's, don't). Be aware that users with English as a second language struggle with complex contractions. This guidance is being reviewed currently. |
+| **Em vs en dashes** | Hyphens em dashes (—) should be en dashes (–) change hyphens(-) to en dashes (–). |
+| **Bullet points** | Should use full stops and be non-sentence case. All bullets should start with the same part of speech e.g. a verb. |
 | **SEO and Metadata** | If you were searching for information on how to complete this task, would you click on this listing in Google? |
-| **Numbers** |	Use numerals, not words. |
-| **IA**	| Check that the location's correct.|
-| **Related items** |	Are they appropriate? |
-| **Tags**	| Do you think someone would search for the content using these words? |
-| **Link text**	| Should use a call to action that forms the basis of the hyperlink e.g. ‘check your eligibility’, ‘complete the application form’. |
-| **Links** |	Check that all the links are working. |
+| **Numbers** | Use numerals, not words. |
+| **IA** | Check that the location's correct.|
+| **Related items** | Are they appropriate? |
+| **Tags** | Do you think someone would search for the content using these words? |
+| **Link text** | Should use a call to action that forms the basis of the hyperlink e.g. ‘check your eligibility’, ‘complete the application form’. |
+| **Links** | Check that all the links are working. |
 | **User needs** | Does this page meet the user needs? Cross check against them when doing your review. |
-| **Duplicate content** |	Check that the content isn't duplicated or appears elsewhere on the site from a different perspective. If you search for a content item and there's a duplicate, make sure you're not publishing both. |
-| **Broken links**	| If you cannot find an appropriate alternative link, leave it unapproved and leave a comment in the peer review comments column. |
-
+| **Duplicate content** | Check that the content isn't duplicated or appears elsewhere on the site from a different perspective. If you search for a content item and there's a duplicate, make sure you're not publishing both. |
+| **Broken links** | If you can’t find an appropriate alternative link, leave it unapproved and leave a comment in the peer review comments column. |
 
 ## Making changes
-If there are minor changes, like typos, just make the amends in the system. Flag up bigger changes in a Word document, or email.
+If there are minor changes, like typos, just make the amends in the system. Flag up bigger changes in a Word document or email.

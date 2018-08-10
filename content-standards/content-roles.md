@@ -19,7 +19,7 @@ Content roles are part of DDaT, which is currently being introduced to the Scott
 
 These include:
 
-* Content design roles
-* Content strategist
+* content design roles
+* content strategist
 
-You can use these [job descriptions](https://www.gov.uk/government/collections/digital-data-and-technology-profession-capability-framework) to understand the skills you need to recruit these roles.
+You can use these [job descriptions](https://www.gov.uk/government/collections/digital-data-and-technology-profession-capability-framework) to understand the skills you need to recruit for these roles.

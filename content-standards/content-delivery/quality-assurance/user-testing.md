@@ -10,7 +10,7 @@ permalink: /content-standards/content-delivery/quality-assurance/user-testing/
 
 ## What it is
 
-By testing content, you can check users understand it and can use it. Two common methods of testing content with users are ‘pens of power’ and ‘card sorts’.
+Testing your content involves checking that users understand it and can use it. Two common methods of testing content with users are ‘pens of power’ and ‘card sorts’.
 
 ## Why it’s important
 
@@ -19,6 +19,7 @@ When you write content, it’s important you test it with actual users to make s
 Both pens of power and card sorts can be useful techniques to use in certain situations.
 
 Pens of power can show you where users struggle to understand content. It can be
+
 particularly useful in challenging legal or policy wording.
 
 Card sorts are a good way of checking how users understand information architecture. It helps you work out how to group, organise and label content in topic-based hierarchies. It can also tell you a lot about what users understand about wording of article titles or categories.
@@ -41,7 +42,7 @@ Other values could be:
 * helpful vs unhelpful
 
 1. Ask users to read the text and use the pens to highlight the content.
-2. Ask them about what they highlight, for example – 'You’ve marked this as  ‘helpful’, why?'
+2. Ask them about what they highlight, for example – 'You’ve marked this as ‘helpful’, why?'
 3. For anything they mark negatively, ask what words they would use to explain it instead.
 
 ### Showing your results
@@ -63,36 +64,32 @@ Card sorts can be done offline using actual cards made from paper. They can also
 There are 2 main methods for card sorts, known as ‘open’ or ‘closed’:
 
 ### Open card sorts
-
 In open card sorts, you ask users to organise content headings, categories and navigation elements into groups. You then ask them to give each group a title.
 
 To do an offline, open card sort you should:
 
-1.	Print out your content headings, categories and navigation elements and arrange them on a wall or table in no particular order.
-2.	Ask users to group the headings, categories and navigation elements in a way that makes sense to them.
-3.	Ask users to give each of their groups a title.
-4.	Ask why they did what they did.
+1. Print out your content headings, categories and navigation elements and arrange them on a wall or table in no particular order.
+2. Ask users to group the headings, categories and navigation elements in a way that makes sense to them.
+3. Ask users to give each of their groups a title.
+4. Ask why they did what they did.
 
 ### Closed card sorts
-
 In closed card sorts you ask users to organise content headings, categories and navigation elements under predefined group titles.
 
 To do an offline, closed card sort you should:
 
-1.	Print out your content headings, categories and navigation elements, and  predefined group titles.
-2.	Arrange your content headings, categories and navigation elements in no particular order on a wall or table. Place your predefined group titles above them.
-3.	Ask users to group the content headings, categories and navigation elements under the group titles.
-4.	Ask why they did what they did.
-
+1. Print out your content headings, categories and navigation elements, and predefined group titles.
+2. Arrange your content headings, categories and navigation elements in no particular order on a wall or table. Place your predefined group titles above them.
+3. Ask users to group the content headings, categories and navigation elements under the group titles.
+4. Ask why they did what they did.
 
 ### Usability testing
 Usability testing is a way of generally finding out where products and services need to be improved – this often includes content changes. A user researcher will be able to conduct [usability testing] on your behalf.
 
-
 ## Good examples
-* [Pete Gale, GDS blog](https://userresearch.blog.gov.uk/2014/09/02/a-simple-technique-for-evaluating-content/)  
-* [Katie Taylor and Emma Maxim, GDS blog](https://userresearch.blog.gov.uk/2018/03/23/how-we-refined-our-approach-to-card-sorting/)
 
+* [Pete Gale, GDS blog](https://userresearch.blog.gov.uk/2014/09/02/a-simple-technique-for-evaluating-content/)
+* [Katie Taylor and Emma Maxim, GDS blog](https://userresearch.blog.gov.uk/2018/03/23/how-we-refined-our-approach-to-card-sorting/)
 
 ## Digital First Service Standard
 

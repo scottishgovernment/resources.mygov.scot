@@ -1,8 +1,8 @@
 ---
 layout: tiles-2
 title:  "Creating content"
-summary: "This section provides guidance on the content creation process and lifecycle."
-index: 1
+summary: "Guidance on the content creation process."
+index: 2
 parent: content-delivery
 category: content-delivery
 navitems: creating-content

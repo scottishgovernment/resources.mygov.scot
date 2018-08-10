@@ -12,7 +12,7 @@ permalink: /content-standards/content-delivery/creating-content/creating-a-conte
 
 A content plan outlines the content you’re going to create, the user needs it answers, who’ll need to be involved and key dates.
 
-Your content plan is created in line with your organisation’s content strategy and is based on findings from the discovery stage.
+Your content plan is created in line with your organisation’s content strategy and is based on findings from your discovery.
 
 ## Why it’s important
 
@@ -28,17 +28,21 @@ It helps:
 ## How do you do it?
 
 ### Inventory
-It is useful to begin by carrying out a content inventory. Documenting the content which is already available helps you understand the landscape and identify where changes might be made. Speaking to subject matter experts will also help you understand more about the context you are working in.
+
+It’s useful to begin by carrying out a content inventory. Documenting the content which is already available helps you understand the landscape and identify where changes might be made. Speaking to subject matter experts will also help you understand more about the context you are working in.
 
 ### User needs
-Find out what high level user needs have been identified in discovery and document these in your content plan, along with things like user journey maps.
+
+Find out what high-level user needs have been identified in discovery and document these in your content plan, along with things like user journey maps.
 
 ### Format and purpose
+
 Think about what your content needs to do and how to structure it. Mapping your content to the different parts of your organisation may not necessarily be the best way.
 
-Users may not be familiar with how your organisation’s set up, or it may not reflect their thought processes about what they’re trying to do/watch/find. You should design your plan around tasks or problems your users are trying to solve and make your content accessible to everyone.
+Users may not be familiar with how your organisation’s set up, or your organisation’s structure may not reflect their thought processes about what they’re trying to do/watch/find. You should design your plan around tasks or problems your users are trying to solve and make your content accessible to everyone.
 
 ### Content items
+
 When you’re planning your content, think about:
 
 * format – what content format best answers user needs
@@ -50,15 +54,15 @@ When you’re planning your content, think about:
 * when the content needs to be archived
 
 ### Workshops
+
 Leading workshops is a good way to show people what you’re doing and why. It also gives you a chance to clarify what you’re asking people to do. Use your stakeholder map to help you get the right people in the room.
 
-## Helpful resources:
+## Helpful resources
 
-* [GOV.UK - Planning Content](https://www.gov.uk/guidance/content-design/planning-content)
+* [GOV.UK - Planning content](https://www.gov.uk/guidance/content-design/planning-content)
 
 ## Digital First Service Standard
 
 This article offers guidance relevant to the following criteria from the Digital First service standard:
-
 * [User centred](/criterion/user-centred/)
 * [Usable and accessible](/criterion/usable-and-accessible/)

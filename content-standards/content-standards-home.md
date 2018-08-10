@@ -1,6 +1,6 @@
 ---
 layout: tiles-1
-title:  "Content standards"
+title: "Content standards"
 imperative: Standard
 parent: home
 thispage: content-standards

@@ -2,10 +2,10 @@
 layout: tiles-2
 title:  "Content discovery"
 imperative: Standard
-index: 2
+index: 1
 parent: content-delivery
 thispage: content-discovery
-summary: "Find out who your users are, what they're trying to do and how your content can support them."
+summary: "Guidance on content elements across the content discovery phase, such as user needs, format and accessibility."
 permalink: /content-standards/content-delivery/content-discovery/
 navitems: content-discovery
 category: content-delivery

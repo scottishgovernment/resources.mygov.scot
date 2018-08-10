@@ -17,7 +17,7 @@ Content is assessed as part of this process.
 
 If you’re a content designer working with a delivery team responsible for a digital product or service, it’s important to know what’s expected during each phase of your project and how you’ll be assessed.
 
-This includes, how you'll:
+This includes how you'll:
 
 * learn what problems your users face when using your content
 * make your information accessible and based on user needs
@@ -44,7 +44,7 @@ You should be able to show how the planning and delivery of content helps demons
 ### User-centred
 Is your content plan based on user needs?
 
-### Usable and accessible  	
+### Usable and accessible
 Are you making the experience as simple as possible for users?
 
 ### Channel shift
@@ -59,7 +59,7 @@ What do you want to learn about content that will be tested through usability?
 ### Data driven
 How are you using data to make decisions about content?
 
-### Cross functional team
+### Cross-functional team
 Is there a content designer working on the team?
 
 ### Sustainability
@@ -83,7 +83,7 @@ Your team lead will work with the assessment panel to understand what’s in sco
 
 Once this is agreed, the delivery team and panel should have a meeting to talk about roles and responsibilities, agree the best way for you to share your work before the assessment and how your presentation should be structured.
 
-It’s important a content designer is involved in this process if information supports your service or product. For example a service where content will help someone understand if they can get money from government, or content to help someone use a corporate system.
+It’s important a content designer is involved in this process if information supports your service or product. For example, this would include a service where content will help someone understand if they can get money from government, or content to help someone use a corporate system.
 
 You should find out who is responsible for assessing content so you can work with them directly to understand their expectations and show them how you work.
 
@@ -103,19 +103,19 @@ This includes:
 * analysing data and feedback
 * reviewing language and readability
 
-By the end of the discovery phase you should have delivered content recommendations and a high-level plan, which show an understanding of what the content will cover and the problems it should address.
+By the end of the discovery phase, you should have delivered content recommendations and a high-level plan. They will show an understanding of what the content will cover and the problems it should address.
 
-An example might be that you have evidence to suggest users struggle with complex eligibility requirements. This means providing the information in other formats is going to be important, so your content plan might recommend a focus on creating good guidance for call handlers or staff providing face to face advice.
+An example might be that you have evidence to suggest users struggle with complex eligibility requirements. This means providing the information in other formats is going to be important, so your content plan might recommend a focus on creating good guidance for call handlers or staff giving face-to-face advice.
 
 At this stage you need a good understanding of who you need to work with to develop content, so developing a stakeholder map is very important.
 
 Your recommendations will also include the standards and principles you are aiming to meet and how you’ll do it. This should be shared and agreed with the delivery team before going into alpha.
 
-Generally you won’t be expected to show any content unless you think it’s necessary for the discovery phase. For example, if you are working with policy teams on the design of a service, you might want to test the accessibility of certain language (see [readability](/content-standards/content-delivery/creating-content/readability/) guidance).
+Generally you won’t be expected to show any content unless you think it’s necessary for the discovery phase. For example, if you’re working with policy teams on the design of a service, you might want to test the accessibility of certain language (see [readability](/content-standards/content-delivery/creating-content/readability/) guidance).
 
 ### Alpha
 
-This is where you can design and test solutions, using the insights you gained in discovery. A content designer should be fully involved in defining the sprint goals for alpha and delivering alongside the wider team.
+This is where you can design and test solutions, using the insights you gained in the discovery phase. A content designer should be fully involved in defining the sprint goals for alpha and delivering alongside the wider team.
 
 This includes:
 
@@ -123,15 +123,16 @@ This includes:
 * developing detailed content plans with stakeholders
 * defining usability tests and learning if users understand your content
 
-At the end of the alpha phase, you should be able to explain why you have designed your content in a certain way and describe any limitations to the user experience. For example, if the service you’re delivering includes complex legal terms, you should show how you’re helping users to understand this content.
+At the end of the alpha phase, you should be able to explain why you have designed your content in a certain way, and describe any limitations to the user experience.
 
-You will have a detailed content plan to be ready to move into the beta phase.
+For example, if the service you’re delivering includes complex legal terms, you should show how you’re helping users to understand this content.
+
+You’ll have a detailed content plan to be ready to move into the beta phase.
 
 ### Beta
-
 This phase is where a service or product is built and can be tested with real users.
 
-From a content perspective, you should be confident that users will be able to get to and understand the information they need - and you’ll be able to describe how you’ll measure [content performance](https://resources.mygov.scot/content-standards/content-delivery/managing-content/).
+From a content perspective, you should be confident that users will be able to get to and understand the information they need ─ and you’ll be able to describe how you’ll measure [content performance](/content-standards/content-delivery/managing-content/).
 
 You need to be able to show that you meet the content standards and style guidelines you set out in the discovery phase and that there is a team to manage and improve the content when you go live.
 
@@ -164,6 +165,7 @@ How and what you will test to see if users can understand your content.
 A plan showing what content design resource is needed, based on the needs of the project or live service, to make sure the next phases have adequate support and the live service is sustainable.
 
 ## Useful resources
-Digital First Service Standard and assessment guidance
+
+* [Digital First Service Standard](/standards/digital-first/) and [assessment guidance](/standards/where-to-start/)
 
 Speaking with a content designer who has been through an assessment could help you prepare. Contact [OCIO assurance](mailto:OCIOAssurance@gov.scot) if you would like to do this.

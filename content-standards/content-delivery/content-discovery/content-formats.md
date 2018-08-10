@@ -26,28 +26,30 @@ Developing content formats with [recognised patterns](https://www.gov.uk/service
 Don’t choose a format until you understand what your users actually need from the content. Decisions about content formats should be based on evidence, like [analytics](https://www.gov.uk/service-manual/measuring-success/choosing-digital-analytics-tools) or [user research](https://www.gov.uk/service-manual/user-research). Good content design is about letting your content determine the format, not the other way round.
 
 ### Find formats and patterns that already work
-Choose a format that already exists on your website, if it is the best option for your users. If you think you need a new format, check the [mygov.scot design style guide](https://resources.mygov.scot/design-standards/) or [GDS design patterns](https://www.gov.uk/service-manual/design#find-patterns). These are based on data and user research, and mean you don’t have to build something entirely new.
+Choose a format that already exists on your website, if it’s the best option for your users. If you think you need a new format, check the [mygov.scot design style guide](/design-standards/) or [GDS design patterns](https://www.gov.uk/service-manual/design#find-patterns). These are based on data and user research, and mean you don’t have to build something entirely new.
 
 ### Prototype and test
+
 Prototypes can help you explore, share and test new designs before you commit to building anything. Working in a multi-disciplinary team (one that includes for example, content designers, user researchers, interaction designers and developers) during the prototyping and building phase can help everyone have the same understanding of what users need.
 
 The new content format should be something that can be used again for other content. You should test your prototype early and often.
 
 ## Share
-Share any learnings from prototyping and building new content formats with the government content community. For example:
+
+Share any learnings from prototyping and building new content formats with government content communities:
 
 * [Government Digital Service’s Design Community](https://www.gov.uk/service-manual/communities/design-community)
-* [The Scottish Government’s Cross-Government Content Community (CGCC)](https://khub.net/web/guest/welcome?p_p_state=normal&p_p_mode=view&refererPlid=47748585&saveLastPath=false&_com_liferay_login_web_portlet_LoginPortlet_mvcRenderCommandName=%2Flogin%2Flogin&p_p_id=com_liferay_login_web_portlet_LoginPortlet&p_p_lifecycle=0&_com_liferay_login_web_portlet_LoginPortlet_redirect=%2Fweb%2Fcross-government-content-community)
+* [Scottish Government’s Cross-Government Content Community (CGCC)](https://khub.net/web/guest/welcome?p_p_state=normal&p_p_mode=view&refererPlid=47748585&saveLastPath=false&_com_liferay_login_web_portlet_LoginPortlet_mvcRenderCommandName=%2Flogin%2Flogin&p_p_id=com_liferay_login_web_portlet_LoginPortlet&p_p_lifecycle=0&_com_liferay_login_web_portlet_LoginPortlet_redirect=%2Fweb%2Fcross-government-content-community)
 
 ## Useful resources
 
-* [The Scottish Government MYGOV.SCOT- Design patterns](http://resources.mygov.scot/design-standards/)
-* [Government Digital Service - Design patterns](https://www.gov.uk/service-manual/design)
-* [Gather content - Designing content first for a better UX](https://gathercontent.com/blog/designing-content-first-for-a-better-ux)
-* [Government Digital Service - Using, adapting and creating patterns](https://www.gov.uk/service-manual/design/using-adapting-and-creating-patterns)
-* [Government Digital Service - Making prototypes](https://www.gov.uk/service-manual/design/making-prototypes)
-* [Government Digital Service - GOV.UK prototype kit](https://govuk-prototype-kit.herokuapp.com/docs)
-* [Government Digital Service - Prototyping tips](https://designnotes.blog.gov.uk/2015/03/19/prototyping-tips/)
+* [Scottish Government mygov.scot ─ Design patterns](http://resources.mygov.scot/design-standards/)
+* [Government Digital Service ─ Design patterns](https://www.gov.uk/service-manual/design)
+* [Gather content ─ Designing content first for a better UX](https://gathercontent.com/blog/designing-content-first-for-a-better-ux)
+* [Government Digital Service ─ Using, adapting and creating patterns](https://www.gov.uk/service-manual/design/using-adapting-and-creating-patterns)
+* [Government Digital Service ─ Making prototypes](https://www.gov.uk/service-manual/design/making-prototypes)
+* [Government Digital Service ─ GOV.UK prototype kit](https://govuk-prototype-kit.herokuapp.com/docs)
+* [Government Digital Service ─ Prototyping tips](https://designnotes.blog.gov.uk/2015/03/19/prototyping-tips/)
 
 ## Digital First Service Standard
 
