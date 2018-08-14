@@ -1,39 +1,38 @@
 ---
 layout: default
-title:  "Digital Champions"
+title:  "Digital Champions programme"
 parent: digital-talent-development
-summary: "The Digital Champions programme will build awareness among public sector leaders of the transformative power of digital technology and to give participants the knowledge and confidence to drive change at pace."
+summary: "Building awareness among public sector leaders of the transformative effect of digital technology."
 index: 1
 category: digital-talent-development
 permalink: /digital-talent-development/digital-champions/
 redirect_from: /services/digital-champions/
 ---
 
-The Digital Champions programme aims to build awareness among public sector leaders of the transformative power of digital technology and to give participants the knowledge and confidence to drive change at pace.  Over 170 public sector leaders have completed the programme over the last few years and we have used their feedback to ensure that it remains current and uniquely suited to the challenges we face together.
+The Digital Champions programme began in 2013 and is a key action of the Digital Strategy. More than 170 public sector leaders have completed the Digital Champions programme, which has a key role to play in driving the pace of change across the public sector.
 
-## Who can apply?
+The Digital Champions programme aims to build awareness among public sector leaders of the transformative effect of digital technology. It also aims to give them increased knowledge and confidence to promote the digital agenda in their organisations.
 
-Chief Executives, Directors or Digital leads across public sector organisations
+The programme is open to Chief Executives, Directors and Digital leads across public sector organisations. It runs for 5 and a half days, over the course of 6 months. Two separate groups will run at the same time.
 
-## How long does it take?
+## Outcomes of the programme
 
-The programme will run for 5½ days over 6 months. Two cohorts will run simultaneously.
+By taking part in the Digital Champions programme, public sector leaders will:
+- better understand what it takes to succeed in an increasingly digital connected world
+- consider what transformational areas they need to prioritise for their organisation and how they can encourage different thinking.
+- experience new technologies, and how they might support delivering services differently
 
-## What are the outcomes of the programme?
+## Benefits to your organisation
 
--	You will understand what it takes to succeed in an increasingly digital connected world;
--	You will understand what needs to change for us to transform in the face of digital possibility and how to make that sustainable
--	You will consider what transformational areas you need to prioritise for your organisation and how you encourage different thinking.
--	You will experience new technologies and how this might support delivering services differently and the personal leadership behaviours that go with them
--	You will have identified how the better use of data can support public services delivery
--	You will hear about how innovation can solve problems and deliver solutions for public services
+While the Digital Champions programme directly helps the public sector leaders taking part, this also results in benefits for their organisation.
+
+These include:
+- a better understanding of how to direct transformation and reform
+- The chance to share and learn from colleagues across a diverse range of organisations and sectors
+- a better understanding of the national digital agenda and how this is driving change across the Scottish public sector
+- a better understanding of the need to make sure digital public services are designed using standards that focus on user needs and tackle digital exclusion.
 
 
-## What are the benefits to my organisation?
--	Understand how you can direct transformation and reform
--	Share and learn from colleagues across a diverse range of organisations and sectors
--	Have a better understanding of the national digital agenda and how this is driving change across the Scottish public sector
--	Identified priority transformational areas for your organisation and what you can do to encourage different thinking
--	You will have a better understanding of the need to ensure that digital public services are designed using standards that focus on user needs and tackle digital exclusion.
+## Contact
 
-**Contact:** [Laurena Charles](mailto:Laurena.Charles@gov.scot), Digital Learning and Development Specialist
+[Laurena Charles](mailto:Laurena.Charles@gov.scot), Digital Engagement Lead
