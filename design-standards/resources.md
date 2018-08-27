@@ -15,6 +15,16 @@ Developers can access our Github repository at:
 
 <br>
 
+**Developers Design Guide**
+
+We have created a guide that includes direct links into Github resources for
+various elements including buttons, typography and form fields.
+
+Download the Developer Design Guide:
+[Developer design guide](/assets/images/Design-standards-images/DeveloperDesignGuide.pdf)
+
+<br>
+
 **Typography styles guide**  
 
 Download our comprehensive guide to the Mygov.scot typography styles:
