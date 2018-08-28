@@ -22,8 +22,6 @@ The DDaT profession is made up of seven job families:
 - quality assurance and testing
 - security
 
-(Link to the DDaT common Taxonomy diagram)
-
 ## Benefits of DDaT
 
 DDaT can bring many benefits to both individual organisations and the government as a whole.
