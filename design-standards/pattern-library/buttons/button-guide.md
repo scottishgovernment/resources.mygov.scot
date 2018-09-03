@@ -35,7 +35,7 @@ Each button has 3 states:
 * **Selected** - This state appears after the hover state when the button has been triggered by the user, it is important to include this state to indicate to the user their action has been carried out whilst the next page loads or the action is performed.
 
 
-![Button types and states.](/assets/images/Design-standards-images/button border.jpg)
+![Button types and states.](/assets/images/Design-standards-images/Buttonborder.jpg)
 
 Sizing of buttons will vary depending on viewport and the type of buttons used.
 
@@ -44,5 +44,7 @@ Sizing of buttons will vary depending on viewport and the type of buttons used.
 **Accessibility**
 
 All buttons and associated states should be actionable by either a mouse or a keyboard and any text included in buttons should be included in the code so that it can be read by screen readers.
+
+Using different tints of a single colour in button states is preferable to changing colour as certain combinations are indistinguishable for users who are colourblind.
 
 Any buttons which are intended for use on mobile devices or touch screens need to be designed to ensure that users can easily select them without incorrect selections occurring regularly. This is achieved by observing minimum sizing for buttons and ensuring there is enough tap space between objects.

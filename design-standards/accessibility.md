@@ -12,7 +12,7 @@ permalink: /design-standards/accessibility/
 
 * Using sans-serif fonts (Roboto is one)
 * Using fonts that are compatible with screen readers
-* Adhering to minimum sizing (WC3 standards)
+* Ensuring a good default text size
 * Using optimum line length and character count
 * Ensuring adequate character and line spacing
 * Ensuring adequate contrast
@@ -28,9 +28,7 @@ Sans-serif fonts are made up of simple characters which are grouped into words b
 Web-friendly fonts that are compatible with screen readers should always be adopted as there will be a number of users who require assistive technology to access online services and information.
 
 ## Minimum font sizing
-We observe minimum sizes for fonts to ensure legibility.
-
-Minimum sizes for fonts are set out in the Web Content Accessibility Guidelines (known as WCAG 2.0), which are an internationally recognised set of recommendations for improving web accessibility.
+We observe minimum sizes for fonts to ensure legibility. Mobile devices might use a slightly different sized font. The aim is to make better use of the smaller screen space whilst also ensuring that the text is easily readable and not too small.
 
 ## Optimum content sizing
 Although some elements of site layout may stretch across the full length of the screen, columns of text should not. Long lines are hard to read for all users and prohibitively difficult for users with conditions such as dyslexia. The optimum line length for websites is generally accepted as between 50-60 characters long, equating to typically between 10 and 15 words. Using columns with a capped width will enable greater readability for all users.
