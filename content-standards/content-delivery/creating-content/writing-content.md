@@ -36,7 +36,7 @@ Your [content plan](https://resources.mygov.scot/content-standards/content-deliv
 
 You should also be clear about the roles and responsibilities of those involved. These will have be documented in your [content strategy](https://resources.mygov.scot/content-standards/content-strategy/).
 
-## When writing content, you should:
+### When writing content, you should:
 
 * put the most important information up front – don’t make people work hard to find out what your content is about
 * use keywords
@@ -44,17 +44,17 @@ You should also be clear about the roles and responsibilities of those involved.
 * use accessible language – write using [words users use](https://resources.mygov.scot/content-standards/content-delivery/creating-content/keyword-research/) about your topic
 * remember less is more – tell people what they need to know (and no more) in the simplest way possible
 
-## Pair writing
+### Pair writing
 
 Pair writing is an alternative to the traditional approach of exchanging drafts between a content creator and stakeholders by working together to create user-centred content.
 
-## Make your content discoverable
+### Make your content discoverable
 
 As well as writing accessible content, it’s also important to structure and tag your content so that it is easily discoverable in searches, using the right keywords, and following appropriate content metadata and tagging processes.
 
-## Reviewing
+### Reviewing
 
-Once you have a draft piece of content, you should submit it for [peer review and fact checking](https://resources.mygov.scot/content-standards/content-strategy/).
+Once you have a draft piece of content, you should submit it for [peer review and fact checking](/content-standards/content-delivery/quality-assurance/reviewing-and-fact-checking/).
 
 ## Resources
 
@@ -65,3 +65,4 @@ Once you have a draft piece of content, you should submit it for [peer review an
 
 * [Pair writing](https://blogs.gov.scot/digital/2016/11/25/pair-writing-content-with-subject-matter-experts/)
 * [Content crits](https://insidegovuk.blog.gov.uk/2016/03/03/content-crits-conquering-through-collaboration/)
+* [The 6 stages of the content lifecycle](https://blogs.gov.scot/digital/2018/08/02/the-6-stages-of-the-content-lifecycle/)

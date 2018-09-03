@@ -16,11 +16,7 @@ Testing your content involves checking that users understand it and can use it. 
 
 When you write content, it’s important you test it with actual users to make sure they understand it and can use it to do the things they need to do. Working with users will help you improve your content.
 
-Both pens of power and card sorts can be useful techniques to use in certain situations.
-
-Pens of power can show you where users struggle to understand content. It can be
-
-particularly useful in challenging legal or policy wording.
+Both pens of power and card sorts can be useful techniques to use in certain situations. Pens of power can show you where users struggle to understand content. It can be particularly useful in challenging legal or policy wording.
 
 Card sorts are a good way of checking how users understand information architecture. It helps you work out how to group, organise and label content in topic-based hierarchies. It can also tell you a lot about what users understand about wording of article titles or categories.
 
