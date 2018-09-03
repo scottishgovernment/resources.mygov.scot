@@ -35,7 +35,7 @@ Each button has 3 states:
 * **Selected** - This state appears after the hover state when the button has been triggered by the user, it is important to include this state to indicate to the user their action has been carried out whilst the next page loads or the action is performed.
 
 
-![Button types and states.](/assets/images/Design-standards-images/buttonborder.jpg)
+![Button types and states.](/assets/images/Design-standards-images/Buttonborder.jpg)
 
 Sizing of buttons will vary depending on viewport and the type of buttons used.
 
