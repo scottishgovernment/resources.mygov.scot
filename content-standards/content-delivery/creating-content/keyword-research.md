@@ -44,3 +44,4 @@ Those terms may be more appropriate to the content you are creating and could re
 
 This article offers guidance relevant to the following criteria from the Digital First Service Standard:
 * [User centred](/criterion/user-centred/)
+* [Data driven](/criterion/data-driven)

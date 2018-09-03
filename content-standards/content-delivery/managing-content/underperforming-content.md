@@ -3,7 +3,7 @@ layout: default
 title:  "Underperforming content"
 parent: managing-content
 summary: "How to identify content which is not performing well, and solutions to common problems."
-index: 4
+index: 1
 category: managing-content
 permalink: /content-standards/content-delivery/managing-content/underperforming-content/
 ---
@@ -73,5 +73,6 @@ The more links a page has to it, especially those from other reputable websites,
 ## Digital First Service Standard
 
 This article offers guidance relevant to the following criteria from the Digital First service standard:
-* [Data driven](/criterion/data-driven)
+
 * [Continuous improvement](/criterion/continuous-improvement)
+* [Data driven](/criterion/data-driven)
