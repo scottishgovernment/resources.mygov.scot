@@ -4,7 +4,7 @@ title:  "Standard List"
 summary: "Information on using a standard list for site navigation"
 parent: navigation-patterns
 category: navigation-patterns
-permalink: /design-standards/navigation-patterns/standard-list/
+permalink: /design-standards/pattern-library/navigation-patterns/standard-list/
 ---
 
 The standard list is the third level of navigation on the Mygov.scot site. Each item in the list represents an article or guide and clicking on it will take the user to the related content page.

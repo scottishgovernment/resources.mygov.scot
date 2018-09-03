@@ -4,7 +4,7 @@ title:  "Tiled menu"
 summary: "Information on using a tiled menu as a primary method of site navigation"
 parent: navigation-patterns
 category: navigation-patterns
-permalink: /design-standards/navigation-patterns/tiled-menu/
+permalink: /design-standards/pattern-library/navigation-patterns/tiled-menu/
 ---
 
 We use a tiled menu as the primary navigation on the homepage of the Mygov.scot site.

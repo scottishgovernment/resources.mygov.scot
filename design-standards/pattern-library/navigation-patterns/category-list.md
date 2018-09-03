@@ -4,7 +4,7 @@ title:  "Category list"
 summary: "Information on using a category list for site navigation"
 parent: navigation-patterns
 category: navigation-patterns
-permalink: /design-standards/navigation-patterns/category-list/
+permalink: /design-standards/pattern-library/navigation-patterns/category-list/
 ---
 
 We use a category list as the secondary level of navigation on the Mygov.scot site. Each item in the list represents a content category related to the overall topic, allowing users to narrow down their search for relevant information.

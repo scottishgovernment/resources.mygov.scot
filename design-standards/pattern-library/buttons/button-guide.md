@@ -4,7 +4,7 @@ title:  "Button guide"
 summary: "An introduction to using buttons."
 parent: buttons
 category: buttons
-permalink: /design-standards/buttons/button-guide
+permalink: /design-standards/pattern-library/buttons/button-guide
 ---
 
 Buttons should be designed to help the user navigate sites and encourage positive actions. This is achieved by using a mix of button states and styles which clearly communicate to users when individual buttons are selected and which are most important on the page.

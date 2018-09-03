@@ -6,5 +6,5 @@ parent: pattern-library
 category: pattern-library
 navitems: buttons
 thispage: buttons
-permalink: /design-patterns/pattern-library/buttons/
+permalink: /design-standards/pattern-library/buttons/
 ---
