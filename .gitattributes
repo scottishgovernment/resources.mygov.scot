@@ -1,2 +1,2 @@
-*.docx    binary
-*.doc     binary
+*.docx filter=lfs diff=lfs merge=lfs -text
+*.doc filter=lfs diff=lfs merge=lfs -text
