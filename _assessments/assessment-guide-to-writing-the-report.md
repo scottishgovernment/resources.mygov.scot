@@ -14,7 +14,7 @@ index: 0
 
 After the assessment, the panel will produce a report and submit it to the Office of the Chief Information Officer. The report will be checked and sent to the service team, giving  feedback including whether they have met the standard or not met it.
 
-There is a [template](/D1_Assessment_report_template.docx) you should use for the report.
+There is a [template](/https://github.com/scottishgovernment/scottishgovernment.github.io/raw/master/_assessments/Technology_Assurance_Framework_Template_Digital_First_Report.docx) you should use for the report.
 
 ## Responsibilities
 
