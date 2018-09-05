@@ -45,4 +45,4 @@ Find out what [support is available for organisations and assessors](/assessment
 
 ## The assessment report
 
-After an assessment the panel will need to write a report for the service team. Find [guidance for writing the report](/assessments/assessment-guide-to-writing-the-report) including the style guide, [template report](/D1_Assessment_report_template.docx).
+After an assessment the panel will need to write a report for the service team. Find [guidance for writing the report](/assessments/assessment-guide-to-writing-the-report) including the style guide, [template report](/Technology_Assurance_Framework_Template_Digital_First_Report.docx).
