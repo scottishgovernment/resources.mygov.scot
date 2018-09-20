@@ -40,7 +40,8 @@ This learning will take place across 3 days, and includes:
 - a selection of case studies and practical examples that illustrate the value of service design and how the methods and tools work in practice
 - a service design challenge where attendees will work through the design phases to explore the problem and design a solution, in collaboration with service users and service providers
 - an exploration of how to involve citizens in the design of public services
-- an introduction to the Scottish Approach to Designing Public Services – the key principles of collaboration and inclusivity that underpin this, and how these are applied in practice
+- an introduction to the Scottish Approach to Designing Public Services – the key principles of collaboration and inclusivity that underpin this, and how these are applied in practice   
+
 Service Design Champions brings together people involved in the design and delivery of public services and policy to learn strategic design approaches, and become champions of service design within their organisation.  
 
 ## Course length
@@ -58,9 +59,11 @@ For example:
 - you think you would like to become a service designer but you’d like to know more first  
 
 ## Cost  
-The course costs £390 (not including VAT) for each person. The Office of the Chief Designer will invoice your organisation for the cost of each place taken on the course.
+The course costs £390 (not including VAT) for each person. The Office of the Chief Designer will invoice your organisation for the cost of each place taken on the course.  
+
 Please note:
-Confirmed bookings will be invoiced 1 month prior to the start of the first course.
+Confirmed bookings will be invoiced 1 month prior to the start of the first course.  
+
 Course bookings will need to be paid in full prior to the start of your course, in order for you to attend.  
 
 ## Cancellations
@@ -68,12 +71,15 @@ If you withdraw from the course, and the Scottish Digital Academy are unable to 
 
 ## Booking  
 To book a place on this course:
-- you must have permission from the person or department that approves your organisation’s training budget
-To request a place on this course, email design@gov.scot with:
+- you must have permission from the person or department that approves your organisation’s training budget  
+
+
+To request a place on this course, email [design@gov.scot](mailto: design@gov.scot) with:
 - your name
 - your directorate/organisation
 - the course name
-- the date and location you would like to attend
+- the date and location you would like to attend  
+
 We will email you further details and confirm your booking, once we process your request.
 
 
