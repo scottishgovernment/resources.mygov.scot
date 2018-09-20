@@ -50,7 +50,7 @@ These may be subject to change depending on demand.
 
 {:.no-wrap-table}
 | Course | Duration | Dates | Location | No. of places (max) | Cost per head |
-| Discover Digital and Agile Awareness | 1 day | 3 September 2018<br>11 September 2018<br><br>1 October 2018<br>8 October 2018<br><br>5 November 2018<br>13 November 2018 | Edinburgh<br>Glasgow<br><br>Edinburgh<br>Glasgow<br><br>Edinburgh<br>Glasgow<br><br>Edinburgh<br>Edinburgh | 15 | £100 |
+| Discover Digital and Agile Awareness | 1 day | 8 October 2018<br>5 November 2018<br>13 November 2018 | Glasgow<br>Edinburgh<br>Edinburgh | 15 | £100 |
 | Hands On Agile for Leaders | 3 days | 4 - 6 September 2018<br>2 - 4 October 2018<br>6 - 8 November 2018 | Edinburgh<br>Edinburgh<br>Edinburgh<br>Edinburgh | 10 | £390 |
 | Digital Foundation course | 10 days | 8 - 19 October 2018<br>12 - 23 November 2018 | Edinburgh<br>Edinburgh<br>Edinburgh<br>Edinburgh | 15 | £1300 |
 | Agile for Teams** | 3 days | 11 - 13 September 2018<br>9 - 11 October 2018<br>13 - 15 November 2018 | Edinburgh<br>Edinburgh<br>Edinburgh<br>Edinburgh | 12-15** | £390 |
