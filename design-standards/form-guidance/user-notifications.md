@@ -8,4 +8,4 @@ category: form-guidance
 permalink: /design-standards/form-guidance/user-notifications/
 ---
 
-This section is coming soon.
+This section is coming soon. You can view our current form guidance at [Mygov Forms](/guidelines/form-guide/).
