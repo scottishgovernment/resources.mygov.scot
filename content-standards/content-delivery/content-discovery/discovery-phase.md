@@ -3,7 +3,7 @@ layout: default
 title:  "Discovery phase"
 parent: content-discovery
 summary: "Find out who your users are, what they’re trying to do and how your content can support them."
-index: 4
+index: 3
 category: content-discovery
 permalink: /content-standards/content-delivery/content-discovery/discovery-phase/
 ---

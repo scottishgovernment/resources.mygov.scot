@@ -3,7 +3,7 @@ layout: default
 title:  "Keyword research"
 parent: creating-content
 summary: "Identifying and using keywords to improve SEO and relevance to users."
-index: 4
+index: 3
 category: creating-content
 permalink: /content-standards/content-delivery/creating-content/keyword-research/
 ---

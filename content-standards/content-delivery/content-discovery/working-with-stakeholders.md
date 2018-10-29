@@ -3,7 +3,7 @@ layout: default
 title:  "Working with stakeholders"
 parent: content-discovery
 summary: "Make sure you’re speaking to the right subject matter experts throughout the publishing workflow."
-index: 4
+index: 5
 category: content-discovery
 permalink: /content-standards/content-delivery/content-discovery/working-with-stakeholders/
 ---
