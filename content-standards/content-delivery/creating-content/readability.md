@@ -3,7 +3,7 @@ layout: default
 title:  "Readability"
 parent: creating-content
 summary: "How to lower the reading age of your content to the national average."
-index: 4
+index: 2
 category: creating-content
 permalink: /content-standards/content-delivery/creating-content/readability/
 ---

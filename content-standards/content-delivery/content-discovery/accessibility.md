@@ -3,10 +3,8 @@ layout: default
 title:  "Accessibility"
 parent: content-discovery
 summary: "Make sure your content can be accessed and understood by everyone who needs it."
-index: 4
+index: 1
 category: content-discovery
-navitems: accessibility
-thispage: accessibility
 permalink: /content-standards/content-delivery/content-discovery/accessibility/
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title:  "Reviewing and fact checking"
 parent: quality-assurance
 summary: "Make sure your content's accurate and error free."
-index: 4
+index: 1
 category: quality-assurance
 permalink: /content-standards/content-delivery/quality-assurance/reviewing-and-fact-checking/
 ---

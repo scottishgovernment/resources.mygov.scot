@@ -3,7 +3,7 @@ layout: default
 title:  "Content formats"
 parent: content-discovery
 summary: "How to meet user needs using a consistent set of design patterns."
-index: 4
+index: 2
 category: content-discovery
 permalink: /content-standards/content-delivery/content-discovery/content-formats/
 ---

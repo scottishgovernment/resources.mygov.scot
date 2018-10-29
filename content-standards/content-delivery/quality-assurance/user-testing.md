@@ -3,7 +3,7 @@ layout: default
 title:  "Testing content with users"
 parent: quality-assurance
 summary: "Ways to test your content with users."
-index: 4
+index: 2
 category: quality-assurance
 permalink: /content-standards/content-delivery/quality-assurance/user-testing/
 ---
