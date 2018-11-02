@@ -53,14 +53,13 @@ These may be subject to change depending on demand.
 | Discover Digital and Agile Awareness | 1 day | 8 January 2019<br>15 January 2019<br>4 February 2019<br>12 February 2019<br>4 March 2019 | Glasgow<br>Edinburgh<br>Glasgow<br>Edinburgh<br>Glasgow | 15 | £100 |
 | Hands On Agile for Leaders | 3 days | 6 - 8 November 2018<br>8 - 10 January 2019<br>5 - 7 February 2019<br>5 - 7 March 2019| Edinburgh<br>Edinburgh<br>Edinburgh<br>Edinburgh | 10 | £390 |
 | Digital Foundation course | 10 days | 12 - 23 November 2018<br>14 - 25 January 2019<br>11 - 22 February 2019<br>11 - 22 March 2019 | Edinburgh<br>Edinburgh<br>Edinburgh<br>Edinburgh | 15 | £1300 |
-| Agile for Teams** | 3 days | 15-17 January 2019<br>12 - 14 February 2019<br>12 - 14 March 2019 | Edinburgh<br>Edinburgh<br>Edinburgh | 12-15** | £390 |
+| Agile for Teams** | 3 days | 15-17 January 2019<br>12 - 14 February 2019<br>12 - 14 March 2019 | Glasgow<br>Edinburgh<br>Edinburgh | 12-15** | £390 |
 
 ** (must have 3 – 4 members of a team attend)
 
 The Scottish Digital Academy also has access to additional courses, including:
 
-- Digital and Agile Awareness for Policy
-- Service Managers
+- Working level for Service Managers
 - Working level for Business Analysts
 - Working level for Delivery Managers
 - Working level for Product Owners
