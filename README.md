@@ -79,3 +79,6 @@ Each example in the style guide is a separate HTML page that is typically includ
 See the `generate-example-screenshots.js` script for configuration.
 
 
+## Generating CSS from SCSS
+
+As of November 2018, Compass is no longer a dependency. Use the following command to compile the CSS: `sass assets/_scss/main2.scss assets/css/main2.css`
