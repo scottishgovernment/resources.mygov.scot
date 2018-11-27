@@ -49,15 +49,15 @@ The courses also have benefits to participants’ organisations, including:
 These may be subject to change depending on demand.
 
 {:.no-wrap-table}
-| Course | Duration | Dates | Location | No. of places (max) | Cost per head |
+| Course | Duration | Dates | Location | No. of places (max) | Cost per delegate |
 | Discover Digital and Agile Awareness | 1 day | 8 January 2019<br>15 January 2019<br>4 February 2019<br>12 February 2019<br>4 March 2019 | Glasgow<br>Edinburgh<br>Glasgow<br>Edinburgh<br>Glasgow | 15 | £100 |
-| Hands On Agile for Leaders | 3 days | 6 - 8 November 2018<br>8 - 10 January 2019<br>5 - 7 February 2019<br>5 - 7 March 2019| Edinburgh<br>Edinburgh<br>Edinburgh<br>Edinburgh | 10 | £390 |
-| Digital Foundation course | 10 days | 12 - 23 November 2018<br>14 - 25 January 2019<br>11 - 22 February 2019<br>11 - 22 March 2019 | Edinburgh<br>Edinburgh<br>Edinburgh<br>Edinburgh | 15 | £1300 |
-| Agile for Teams** | 3 days | 15-17 January 2019<br>12 - 14 February 2019<br>12 - 14 March 2019 | Glasgow<br>Edinburgh<br>Edinburgh | 12-15** | £390 |
+| Hands On Agile for Leaders | 3 days | 8 - 10 January 2019<br>5 - 7 March 2019<br>7 - 9 May<br>| Edinburgh<br>Edinburgh<br>Edinburgh<br> | 10 | £390 |
+| Digital Foundation course | 10 days | 14 - 25 January 2019<br>11 - 22 February 2019<br>8 - 19 April 2019 | Edinburgh<br>Edinburgh<br>Edinburgh<br> | 15 | £1300 |
+| Agile for Teams** | 3 days | 15 - 17 January 2019<br>12 - 14 February 2019<br>2 - 4 April 2019<br>9 - 11 April 2019 | Glasgow<br>Edinburgh<br>Glasgow<br>Edinburgh | 12-15** | £390 |
 
 ** (must have 3 – 4 members of a team attend)
 
-The Scottish Digital Academy also has access to additional courses, including:
+The Scottish Digital Academy will shortly be releasing 2019 dates for the following working levely courses:
 
 - Working level for Service Managers
 - Working level for Business Analysts
@@ -66,6 +66,9 @@ The Scottish Digital Academy also has access to additional courses, including:
 
 Please email the [DigitalAcademy@gov.scot](mailto: DigitalAcademy@gov.scot) if you are interested in the working level courses.
 
+## Specialist courses
+
+Find out more about the Digital Academy course which provides an [introduction to public sector service design](https://resources.mygov.scot/digital-talent-development/scottish-digital-academy/introduction-to-designing-public-services/).
 
 ## Future Scottish Digital Academy courses dates
 
@@ -86,4 +89,4 @@ To request a place on the Digital Academy courses please email [DigitalAcademy@g
 - Cancellations: If you withdraw from the course, and the Scottish Digital Academy are unable to fill the requested space, the course booking will be invoiced as a filled place.
 
 ## Contact
-Tai McLennan, Digital Capability Strategy Specialist or Lorraine Lee, Scottish Digital Academy Business Manager at [DigitalAcademy@gov.scot](mailto: DigitalAcademy@gov.scot).
+Tai McLennan, Head of Scottish Digital Academy or Lorraine Lee, Scottish Digital Academy Business Manager at [DigitalAcademy@gov.scot](mailto: DigitalAcademy@gov.scot).

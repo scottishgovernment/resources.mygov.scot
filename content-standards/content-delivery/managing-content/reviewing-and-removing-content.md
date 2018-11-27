@@ -16,7 +16,7 @@ Removing content which is no longer helpful to users is just as important as cre
 
 Users should always be able to access previous versions of your content through an archive, and there are different ways to treat content that’s no longer current.
 
-Having an archiving policy means you can clearly provide the most recent version of information, while directing users to previous versions.
+Having an [archiving policy](/content-standards/content-delivery/managing-content/web-archiving/) means you can clearly provide the most recent version of information, while directing users to previous versions.
 
 ## Why it’s important
 
@@ -32,7 +32,7 @@ To make sure your information continues to be useful, you should have:
 
 * a review process that’s agreed with content owners
 
-* an archiving policy
+* an [archiving policy](/content-standards/content-delivery/managing-content/web-archiving/)
 
 * a process to review your information architecture (making sure the big picture works by checking your content is organised, structured and labelled in a way that makes sense to your users)
 
