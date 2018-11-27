@@ -66,11 +66,9 @@ The Scottish Digital Academy will shortly be releasing 2019 dates for the follow
 
 Please email the [DigitalAcademy@gov.scot](mailto: DigitalAcademy@gov.scot) if you are interested in the working level courses.
 
-SPECIALIST COURSES
+## Specialist courses
 
-- Find out more about the Digital Academy course which provides an [introduction to public sector service design](https://resources.mygov.scot/digital-talent-development/scottish-digital-academy/introduction-to-designing-public-services/).
-
-- Instruction to Webteam – Under Contact - change “Tai McLennan’s title” to Head of Scottish Digital Academy
+Find out more about the Digital Academy course which provides an [introduction to public sector service design](https://resources.mygov.scot/digital-talent-development/scottish-digital-academy/introduction-to-designing-public-services/).
 
 ## Future Scottish Digital Academy courses dates
 
