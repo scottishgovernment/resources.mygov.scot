@@ -84,7 +84,7 @@ To book a place on this course:
 
 * you must have permission from the person or department that approves your organisation’s training budget
 
-To request a place on this course, email [design](design@gov.scot) with:
+To request a place on this course, email [design](mailto:design@gov.scot) with:
 
 * your name
 * your directorate/organisation
@@ -106,4 +106,4 @@ Please note dates are subject to change, based on venue availability.
 
 
 ## Contact
-Katie Lyne, Communication and Events Manger for the Office of the Chief Designer at [design](design@gov.scot).
+Katie Lyne, Communication and Events Manger for the Office of the Chief Designer at [design](mailto:design@gov.scot).
