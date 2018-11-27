@@ -1,6 +1,6 @@
 ---
 layout: article
-title:  "Forms guidance (beta)"
+title:  "Forms guidance"
 categories: documentation
 summary: Recommended design and build standards for creating forms.
 imperative: Guideline
