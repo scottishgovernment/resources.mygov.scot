@@ -51,7 +51,7 @@ When you’re planning your content, think about:
 * user needs and user stories for each piece of content
 * who will write, peer review, fact check and own the content
 * when the content can be published
-* when the content needs to be archived
+* when the content needs to be [archived](/content-standards/content-delivery/managing-content/web-archiving/)
 
 ### Workshops
 
