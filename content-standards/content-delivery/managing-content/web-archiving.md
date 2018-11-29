@@ -39,7 +39,7 @@ However, content on these websites change regularly to help meet:
 
 If web content is not captured and archived when it is live, and before changes are made, it could be lost forever.
 
-Missing content and untracked changes to a website may damage the corporate memory of the organisation. If information is not available, this reduces public transparency, and may impair citizens’ trust in that organisation.
+Missing content and untracked changes to a website may damage the corporate memory of the organisation. If information is not available, this reduces public transparency, and may reduce trust in that organisation.
 
 It’s important to understand that images or data published on your website are still publicly available to users as an archive version - even after you remove it.
 
@@ -128,7 +128,7 @@ Here are 11 things you can do to improve the visibility of content for archiving
 ## Helpful resources
 
 - [Public Records Scotland Act 2011](https://www.nrscotland.gov.uk/record-keeping/public-records-scotland-act-2011/resources)
-- [National Records of Scotland Web Archive](https://www.nrscotland.gov.uk/research/researching-online/web-continuity-service)
+- [National Records of Scotland Web Archive](https://webarchive.nrscotland.gov.uk/)
 - [Save a UK website](https://www.webarchive.org.uk/en/ukwa/info/nominate) – nominations for Scottish websites go to the National Library of Scotland
 - [UK Web Archive](https://www.webarchive.org.uk/)
 - Example policy on [mygov.scot](https://www.mygov.scot/about-mygovscot/)

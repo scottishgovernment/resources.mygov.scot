@@ -82,4 +82,4 @@ A content strategy doesn’t need to be complicated and should be continually re
 
 ## Useful resources:
 
-* [Content Strategy for the Web by Kristina Halvorson](https://www.contentstrategy.com/content-strategy-for-the-web)
+* The content strategist's [reading list](https://www.braintraffic.com/blog/the-content-strategists-reading-list)
