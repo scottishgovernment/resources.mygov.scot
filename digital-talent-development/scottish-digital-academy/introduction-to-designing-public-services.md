@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Course: Introduction to Designing Public Services"
+title:  "Course: Service Design Champions"
 parent: scottish-digital-academy
 summary: Find out more about the Digital Academy course which provides an introduction to public sector service design.
 index:  2
@@ -90,12 +90,12 @@ Please note dates are subject to change, based on venue availability.
 
 
 {:.no-wrap-table}
-| Location | Date | Booking |
-| Edinburgh | 24th, 26th, 27th September 2018 | 18 places available |
-| Glasgow | 30th October - 1st November 2018 | 18 places available |
-| Inverness | 26th - 28th November 2018 | 18 places available |
+| Location | Date | Places available |
+| Glasgow | 21st - 23rd January 2019 | 18 places available |
+| Edinburgh (TBC) | 18th - 20th February 2019 | 18 places available |
 | Dundee | 25th - 27th February 2019 | 18 places available |
-| South Scotland | 25th - 27th March 2019 | 18 places available |
+| Glasgow | 18th - 20th March 2019 | 18 places available |
+| Tweedbank | 25th - 27th March 2019 | 18 places available |
 
 ## Contact
 Katie Lyne, Communication and Events Manger for the Office of the Chief Designer at [design@gov.scot](mailto: design@gov.scot).
