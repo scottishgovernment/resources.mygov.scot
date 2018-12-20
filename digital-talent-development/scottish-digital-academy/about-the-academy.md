@@ -44,25 +44,22 @@ The courses also have benefits to participants’ organisations, including:
 
 [Listen to (Director-General) Sarah Davidson’s thoughts](https://youtu.be/-siy1zmbtFI) on the Scottish Digital Academy and how it can help you and your organisation.
 
-## Scottish Digital Academy courses -- November 2018 - March 2019
+## Scottish Digital Academy courses -- January 2019 - June 2019
 
 These may be subject to change depending on demand.
 
 {:.no-wrap-table}
 | Course | Duration | Dates | Location | No. of places (max) | Cost per delegate |
-| Discover Digital and Agile Awareness | 1 day | 8 January 2019<br>15 January 2019<br>4 February 2019<br>12 February 2019<br>4 March 2019 | Glasgow<br>Edinburgh<br>Glasgow<br>Edinburgh<br>Glasgow | 15 | £100 |
-| Hands On Agile for Leaders | 3 days | 8 - 10 January 2019<br>5 - 7 March 2019<br>7 - 9 May<br>| Edinburgh<br>Edinburgh<br>Edinburgh<br> | 10 | £390 |
-| Digital Foundation course | 10 days | 14 - 25 January 2019<br>11 - 22 February 2019<br>8 - 19 April 2019 | Edinburgh<br>Edinburgh<br>Edinburgh<br> | 15 | £1300 |
-| Agile for Teams** | 3 days | 15 - 17 January 2019<br>12 - 14 February 2019<br>2 - 4 April 2019<br>9 - 11 April 2019 | Glasgow<br>Edinburgh<br>Glasgow<br>Edinburgh | 12-15** | £390 |
+| Discover Digital and Agile Awareness | 1 day | 15 January 2019<br>4 February 2019<br>12 February 2019<br>4 March 2019 | Edinburgh<br>Glasgow<br>Edinburgh<br>Glasgow | 15 | £100 |
+| Hands On Agile for Leaders | 3 days | 5 - 7 March 2019<br>7 - 9 May| Edinburgh<br>Edinburgh | 10 | £390 |
+| Digital Foundation course | 10 days | 11 - 22 February 2019<br>8 - 19 April 2019 | Edinburgh<br>Edinburgh | 15 | £1300 |
+| Agile for Teams** | 3 days | 2 - 4 April 2019<br>9 - 11 April 2019<br>14 - 16 May 2019 | Glasgow<br>Edinburgh<br>Edinburgh | 12-15** | £390 |
+| Working level course for Product Managers | 3 days | 2 - 4 April 2019<br>30 April - 2 May 2019 | Edinburgh<br>Edinburgh | 12 | £390 |
+| Working level course for Business Analysts | 3 days | 28 - 30 May 2019 | Edinburgh | 12 | £390 |
+| Working level course for Delivery Managers | 3 days | 25 - 27 June 2019 | Glasgow | 12 | £390 |
+
 
 ** (must have 3 – 4 members of a team attend)
-
-The Scottish Digital Academy will shortly be releasing 2019 dates for the following working levely courses:
-
-- Working level for Service Managers
-- Working level for Business Analysts
-- Working level for Delivery Managers
-- Working level for Product Owners
 
 Please email the [DigitalAcademy@gov.scot](mailto: DigitalAcademy@gov.scot) if you are interested in the working level courses.
 
